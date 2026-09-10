@@ -71,8 +71,8 @@ search traffic.
 Work through these in order. Do not apply early — a rejection puts you in a
 queue and wastes weeks.
 
-1. **Register `thecrochetguide.com`** and point it at Cloudflare Pages. A free
-   `.pages.dev` subdomain is not eligible for AdSense.
+1. **Register `thecrochetguide.com`** and attach it to the Vercel project. A
+   free `.vercel.app` subdomain is not eligible for AdSense.
 2. **Publish at least 15 articles.** Substantial ones, not filler.
 3. **Replace the author details** in `src/config.ts` with a real name and bio,
    and add a photo to the About page.
@@ -92,10 +92,14 @@ queue and wastes weeks.
 
 ## Deploying
 
-Cloudflare Pages, connected to the git repo:
+Vercel, connected to the git repo. It auto-detects Astro, so there is nothing
+to configure — a static Astro site needs no adapter.
 
 - Build command: `npm run build`
 - Output directory: `dist`
-- Node version: 22
 
-Nothing else to configure. Every push deploys.
+Every push to `main` deploys. Note that `site` in `astro.config.mjs` is set to
+`https://thecrochetguide.com`, so canonical URLs and the sitemap point at the
+real domain even while previewing on a `*.vercel.app` URL. That is correct, but
+it means the custom domain must be attached before submitting to Search Console
+or applying to AdSense.
