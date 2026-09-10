@@ -46,11 +46,19 @@ export const ADSENSE_SLOTS = {
  */
 export const PINTEREST_DOMAIN_VERIFY = "";
 
+/**
+ * Only accounts that actually exist belong here. Every entry is rendered as a
+ * live link in the footer and is published as a `sameAs` claim in the site's
+ * structured data, so a handle that does not resolve is a broken link and a
+ * false claim to Google at the same time. Add TikTok and Instagram once those
+ * accounts are real.
+ */
 export const SOCIALS = [
-  { name: "Pinterest", url: "https://pinterest.com/thecrochetguide" },
-  { name: "Facebook", url: "https://facebook.com/thecrochetguide" },
-  { name: "TikTok", url: "https://tiktok.com/@thecrochetguide" },
-  { name: "Instagram", url: "https://instagram.com/thecrochetguide" },
+  { name: "Pinterest", url: "https://www.pinterest.com/thecrochetguide/" },
+  {
+    name: "Facebook",
+    url: "https://www.facebook.com/profile.php?id=61593994663320",
+  },
 ] as const;
 
 export type CategoryId = "charts" | "skills" | "patterns" | "gear";

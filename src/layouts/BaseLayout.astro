@@ -1,6 +1,6 @@
 ---
 import "../styles/global.css";
-import { SITE, ADSENSE_CLIENT, PINTEREST_DOMAIN_VERIFY } from "../config";
+import { SITE, SOCIALS, ADSENSE_CLIENT, PINTEREST_DOMAIN_VERIFY } from "../config";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 
@@ -42,6 +42,12 @@ const organisation = {
   name: SITE.name,
   url: SITE.url,
   description: SITE.description,
+  /**
+   * Tells Google the social accounts and this site are one entity, which is
+   * what lets traffic arriving from Pinterest reinforce the site's own
+   * search presence rather than counting as unrelated.
+   */
+  sameAs: SOCIALS.map((social) => social.url),
   publisher: {
     "@type": "Person",
     name: SITE.author.name,
