@@ -1,28 +1,43 @@
 ---
 import { Image } from "astro:assets";
 import mark from "../assets/mark.png";
-import { SITE, NAV } from "../config";
+import { SITE, NAV, SOCIALS } from "../config";
 
 const path = Astro.url.pathname;
-const isActive = (href: string) =>
-  path === href || path.startsWith(`${href}/`);
+const isActive = (href: string) => path === href || path.startsWith(`${href}/`);
+
+/**
+ * "Start Here" is the funnel entrance, so it is pulled out of the link row and
+ * shown as the one button in the header. The rest stay plain text, which keeps
+ * the bar quiet enough to read as a masthead rather than a toolbar.
+ *
+ * Both come from NAV, so config stays the single source of truth.
+ */
+const cta = NAV.find((item) => item.href === "/start-here");
+const links = NAV.filter((item) => item.href !== "/start-here");
 ---
 
 <header class="no-print border-b border-rule bg-paper">
-  <div class="mx-auto flex max-w-5xl flex-col gap-3 px-6 py-4 sm:flex-row sm:items-center sm:justify-between sm:px-8">
+  <div
+    class="mx-auto flex max-w-5xl items-center justify-between gap-4 px-6 py-3.5 sm:px-8"
+  >
     <a href="/" class="group flex items-center gap-2.5 no-underline">
       {/* Empty alt on purpose: the site name sits right beside it, and a
           screen reader announcing the brand twice is noise. */}
       <Image src={mark} alt="" height={32} loading="eager" class="h-8 w-auto" />
-      <span class="font-serif text-xl tracking-tight text-ink group-hover:text-terracotta-deep">
+      <span
+        class="font-serif text-lg tracking-tight text-ink group-hover:text-terracotta-deep sm:text-xl"
+      >
         {SITE.name}
       </span>
     </a>
 
-    <nav aria-label="Main">
-      <ul class="flex flex-wrap items-center gap-x-5 gap-y-1 text-sm">
+    {/* Six links plus the wordmark need roughly 780px. Below that the inline
+        row would wrap into a second line, so the drawer takes over instead. */}
+    <nav aria-label="Main" class="hidden lg:block">
+      <ul class="flex items-center gap-x-6 text-sm">
         {
-          NAV.map((item) => (
+          links.map((item) => (
             <li>
               <a
                 href={item.href}
@@ -39,7 +54,223 @@ const isActive = (href: string) =>
             </li>
           ))
         }
+        {
+          cta && (
+            <li class="flex items-center gap-x-6">
+              <span class="h-4 w-px bg-rule" aria-hidden="true" />
+              <a
+                href={cta.href}
+                aria-current={isActive(cta.href) ? "page" : undefined}
+                class="rounded-full bg-terracotta px-4 py-1.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
+              >
+                {cta.label}
+              </a>
+            </li>
+          )
+        }
       </ul>
     </nav>
+
+    <button
+      type="button"
+      class="-mr-1.5 flex items-center gap-2 rounded p-1.5 text-sm text-ink-soft transition-colors hover:text-terracotta-deep lg:hidden"
+      data-menu-open
+      aria-expanded="false"
+      aria-controls="site-menu"
+    >
+      <svg
+        width="22"
+        height="22"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.6"
+        stroke-linecap="round"
+        aria-hidden="true"
+      >
+        <path d="M4 7h16M4 12h16M4 17h16"></path>
+      </svg>
+      Menu
+    </button>
   </div>
 </header>
+
+{/* Closed state is `invisible`, not `hidden`, so the panel can slide rather
+    than blink — and unlike opacity alone, visibility also takes the links out
+    of the tab order while the drawer is shut. */}
+<div
+  class="group/menu invisible fixed inset-0 z-50 no-print data-[open]:visible lg:hidden"
+  id="site-menu"
+  data-menu
+>
+  <div
+    class="absolute inset-0 bg-ink/40 opacity-0 transition-opacity duration-200 group-data-[open]/menu:opacity-100 motion-reduce:transition-none"
+    data-menu-overlay
+  >
+  </div>
+
+  <div
+    class="absolute inset-y-0 right-0 flex w-[min(19rem,84vw)] translate-x-full flex-col border-l border-rule bg-paper transition-transform duration-200 group-data-[open]/menu:translate-x-0 motion-reduce:transition-none"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Site menu"
+    data-menu-panel
+  >
+    <div class="flex items-center justify-between border-b border-rule px-5 py-3.5">
+      <span
+        class="text-xs font-semibold tracking-wider text-ink-faint uppercase"
+      >
+        Menu
+      </span>
+      <button
+        type="button"
+        class="-mr-1.5 rounded p-1.5 text-ink-soft transition-colors hover:text-terracotta-deep"
+        data-menu-close
+        aria-label="Close menu"
+      >
+        <svg
+          width="22"
+          height="22"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.6"
+          stroke-linecap="round"
+          aria-hidden="true"
+        >
+          <path d="M6 6l12 12M18 6L6 18"></path>
+        </svg>
+      </button>
+    </div>
+
+    <nav
+      aria-label="Site"
+      class="flex-1 overflow-y-auto overscroll-contain px-3 py-4"
+    >
+      {
+        cta && (
+          <a
+            href={cta.href}
+            aria-current={isActive(cta.href) ? "page" : undefined}
+            class="mx-2 block rounded-lg bg-terracotta px-4 py-2.5 text-center font-medium text-paper no-underline"
+          >
+            {cta.label}
+          </a>
+        )
+      }
+
+      <ul class="mt-4 border-t border-rule pt-2">
+        {
+          links.map((item) => (
+            <li>
+              <a
+                href={item.href}
+                aria-current={isActive(item.href) ? "page" : undefined}
+                class:list={[
+                  "block rounded-lg px-4 py-3 no-underline transition-colors hover:bg-paper-deep",
+                  isActive(item.href)
+                    ? "bg-paper-deep font-medium text-terracotta-deep"
+                    : "text-ink",
+                ]}
+              >
+                {item.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+
+      <ul class="mt-2 border-t border-rule pt-2">
+        <li>
+          <a
+            href="/contact"
+            aria-current={isActive("/contact") ? "page" : undefined}
+            class="block rounded-lg px-4 py-3 text-sm text-ink-soft no-underline transition-colors hover:bg-paper-deep"
+          >
+            Contact
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="border-t border-rule px-5 py-4">
+      <ul class="flex flex-wrap gap-x-4 gap-y-1 text-sm">
+        {
+          SOCIALS.map((social) => (
+            <li>
+              <a
+                href={social.url}
+                rel="me noopener"
+                class="text-ink-soft no-underline hover:text-terracotta-deep"
+              >
+                {social.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </div>
+</div>
+
+<script>
+  const menu = document.querySelector<HTMLElement>("[data-menu]");
+  const open = document.querySelector<HTMLButtonElement>("[data-menu-open]");
+
+  if (menu && open) {
+    const panel = menu.querySelector<HTMLElement>("[data-menu-panel]")!;
+    const close = menu.querySelector<HTMLButtonElement>("[data-menu-close]")!;
+    const overlay = menu.querySelector<HTMLElement>("[data-menu-overlay]")!;
+
+    const setOpen = (next: boolean) => {
+      menu.toggleAttribute("data-open", next);
+      open.setAttribute("aria-expanded", String(next));
+      // Stop the page behind the drawer from scrolling under the reader's
+      // thumb, which on a phone otherwise feels like the menu is broken.
+      document.body.style.overflow = next ? "hidden" : "";
+      (next ? close : open).focus();
+    };
+
+    open.addEventListener("click", () => setOpen(true));
+    close.addEventListener("click", () => setOpen(false));
+    overlay.addEventListener("click", () => setOpen(false));
+
+    // Any navigation closes it, so returning via the back button never lands
+    // on a page with the drawer still hanging open.
+    panel.addEventListener("click", (event) => {
+      if ((event.target as HTMLElement).closest("a")) setOpen(false);
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (!menu.hasAttribute("data-open")) return;
+
+      if (event.key === "Escape") {
+        setOpen(false);
+        return;
+      }
+
+      // aria-modal promises focus stays inside, so Tab has to wrap by hand.
+      if (event.key !== "Tab") return;
+
+      const stops = panel.querySelectorAll<HTMLElement>("a[href], button");
+      if (stops.length === 0) return;
+
+      const first = stops[0];
+      const last = stops[stops.length - 1];
+
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
+    });
+
+    // A phone rotated to landscape can cross into the desktop layout, where
+    // the drawer is display:none and its scroll lock would be stuck on.
+    window.matchMedia("(min-width: 64rem)").addEventListener("change", (event) => {
+      if (event.matches && menu.hasAttribute("data-open")) setOpen(false);
+    });
+  }
+</script>
