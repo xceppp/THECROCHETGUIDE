@@ -17,15 +17,11 @@ export const SITE = {
     bio: "I started The Crochet Guide after spending an entire evening stuck on a pattern that assumed I already knew what it meant. Everything here is written the way I wish it had been explained to me.",
   },
   /**
-   * Contact address. Left empty on purpose — no inbox exists yet, and a dead
-   * address is worse than none. While this is empty, every page hides its
-   * email link automatically and the contact page routes people to social
-   * instead.
-   *
-   * AdSense requires a working way to reach you. Fill this in with a real,
-   * monitored address before you apply.
+   * Contact address. Note the double "i" in "guiide" — that is the real
+   * address, not a typo. Setting this to an empty string makes every page hide
+   * its email link and routes the contact page to social instead.
    */
-  email: "",
+  email: "thecrochetguiide@gmail.com",
 } as const;
 
 /**
