@@ -1,0 +1,7 @@
+# Google AdSense authorized seller declaration.
+#
+# Replace pub-0000000000000000 with your own publisher ID once AdSense
+# approves the site (Account > Settings > Account information), then redeploy.
+# Until the real ID is in place this file does nothing, which is fine.
+#
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

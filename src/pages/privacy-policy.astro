@@ -1,0 +1,177 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE } from "../config";
+
+const effective = "September 10, 2026";
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description={`How ${SITE.name} handles your data, which cookies it sets, and how to opt out of personalized advertising.`}
+>
+  <div class="mx-auto max-w-2xl px-5 py-10 sm:py-14">
+    <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">
+      Privacy Policy
+    </h1>
+    <p class="mt-3 text-sm text-ink-faint">Last updated {effective}</p>
+
+    <div class="prose mt-8">
+      <p>
+        This policy explains what information {SITE.name} ({SITE.url}) collects,
+        why, and what you can do about it. It applies to this website only.
+      </p>
+
+      <h2>The short version</h2>
+      <ul>
+        <li>You can read every page here without giving me anything.</li>
+        <li>
+          I do not sell personal information, and I never will.
+        </li>
+        <li>
+          Advertising and analytics on this site are provided by third parties
+          that set their own cookies. Those are described below, along with how
+          to turn them off.
+        </li>
+      </ul>
+
+      <h2>Information collected automatically</h2>
+      <p>
+        Like almost every website, this one and the services it uses record
+        technical details when you visit: your IP address, browser and device
+        type, operating system, the pages you viewed, how long you stayed, and
+        the page that referred you. This is used to understand which articles
+        are useful and to keep the site working. It is not used to identify you
+        personally.
+      </p>
+
+      <h2>Information you give me</h2>
+      <p>
+        If you email the address on the <a href="/contact">contact page</a>, I
+        receive your address and whatever you write. I keep it only as long as
+        needed to reply and to keep a record of corrections, and I do not add it
+        to any mailing list without you asking.
+      </p>
+
+      <h2>Cookies</h2>
+      <p>
+        A cookie is a small file a website stores in your browser. This site uses
+        them for three purposes: keeping the site functioning, understanding
+        aggregate traffic, and serving advertising. You can delete or block
+        cookies at any time in your browser settings. Blocking them will not stop
+        you reading anything here.
+      </p>
+
+      <h2>Advertising</h2>
+      <p>
+        This site displays advertising served by Google, which uses cookies to
+        show ads based on your prior visits to this and other websites.
+      </p>
+      <ul>
+        <li>
+          Google's use of advertising cookies enables it and its partners to
+          serve ads to you based on your visit to this site and other sites on
+          the internet.
+        </li>
+        <li>
+          You may opt out of personalized advertising by visiting
+          <a
+            href="https://www.google.com/settings/ads"
+            rel="nofollow noopener">Google Ads Settings</a
+          >.
+        </li>
+        <li>
+          You can opt out of personalized advertising from many other vendors at
+          <a href="https://www.aboutads.info/" rel="nofollow noopener"
+            >aboutads.info</a
+          > and
+          <a href="https://optout.networkadvertising.org/" rel="nofollow noopener"
+            >optout.networkadvertising.org</a
+          >.
+        </li>
+        <li>
+          Third-party vendors and ad networks other than Google may also serve
+          ads here and may use their own cookies to measure the effectiveness of
+          those ads.
+        </li>
+      </ul>
+      <p>
+        How Google handles data from sites that use its services is described in
+        <a
+          href="https://policies.google.com/technologies/partner-sites"
+          rel="nofollow noopener">Google's partner sites policy</a
+        >.
+      </p>
+
+      <h2>Analytics</h2>
+      <p>
+        This site uses Google Analytics to measure traffic in aggregate — which
+        pages get read, on what kind of device, from which country. IP addresses
+        are anonymized. You can prevent Google Analytics from collecting data
+        with the
+        <a
+          href="https://tools.google.com/dlpage/gaoptout"
+          rel="nofollow noopener">official browser opt-out add-on</a
+        >.
+      </p>
+
+      <h2>If you are in the EEA, the UK, or Switzerland</h2>
+      <p>
+        Where the GDPR applies, the lawful basis for analytics and personalized
+        advertising is your consent, collected through the consent banner shown
+        on your first visit, and you may withdraw it at any time using that same
+        banner. Strictly necessary processing relies on legitimate interest. You
+        have the right to request access to your personal data, correction,
+        erasure, restriction, portability, and to object to processing. Write to
+        the address on the <a href="/contact">contact page</a> to exercise any of
+        these.
+      </p>
+
+      <h2>If you are in California</h2>
+      <p>
+        Under the CCPA and CPRA you have the right to know what personal
+        information is collected, to request its deletion, to correct it, and to
+        opt out of its sale or sharing. {SITE.name} does not sell personal
+        information. To opt out of personalized advertising, use the Google Ads
+        Settings link above or the consent banner. Requests go to the contact
+        address and will not result in any different level of service.
+      </p>
+
+      <h2>Children</h2>
+      <p>
+        This site is written for adults and is not directed at children under 13.
+        I do not knowingly collect personal information from children. If you
+        believe a child has provided information here, email me and it will be
+        deleted.
+      </p>
+
+      <h2>External links</h2>
+      <p>
+        Articles here link out to pattern designers, retailers, and reference
+        sources. Once you follow a link you are on someone else's site under
+        their privacy policy, not this one.
+      </p>
+
+      <h2>Changes</h2>
+      <p>
+        If this policy changes, the date at the top changes with it. Material
+        changes will be noted on the home page.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions about this policy go to
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+      </p>
+
+      <div class="warning">
+        <p>
+          <strong>Note for the site owner:</strong> this is a solid, standards-based
+          starting policy that covers what Google AdSense requires you to
+          disclose. It is not legal advice. Before you launch, confirm the
+          analytics and ad vendors listed here match what you actually run, and
+          fill in a business address if you register one.
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

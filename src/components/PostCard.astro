@@ -1,0 +1,60 @@
+---
+import { CATEGORIES } from "../config";
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  post: CollectionEntry<"posts">;
+  /** Larger treatment for the lead item on the home page. */
+  lead?: boolean;
+}
+
+const { post, lead = false } = Astro.props;
+const category = CATEGORIES[post.data.category];
+const date = post.data.pubDate.toLocaleDateString("en-US", {
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+});
+---
+
+<article class:list={["group", lead && "border-b border-rule pb-8"]}>
+  <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-ink-faint">
+    <a
+      href={`/${category.slug}`}
+      class="font-semibold tracking-wider text-terracotta-deep uppercase no-underline hover:underline"
+    >
+      {category.label}
+    </a>
+    {
+      post.data.level && (
+        <span class="rounded-full border border-rule px-2 py-0.5 capitalize">
+          {post.data.level}
+        </span>
+      )
+    }
+    <time datetime={post.data.pubDate.toISOString()}>{date}</time>
+  </div>
+
+  <h2
+    class:list={[
+      "mt-2 font-serif leading-snug tracking-tight",
+      lead ? "text-2xl sm:text-3xl" : "text-xl",
+    ]}
+  >
+    <a
+      href={`/${post.id}`}
+      class="text-ink no-underline group-hover:text-terracotta-deep"
+    >
+      {post.data.title}
+    </a>
+  </h2>
+
+  <p
+    class:list={[
+      "mt-2 leading-relaxed text-ink-soft",
+      lead ? "text-base" : "text-sm",
+    ]}
+  >
+    {post.data.description}
+  </p>
+</article>

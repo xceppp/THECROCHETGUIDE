@@ -1,0 +1,78 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE } from "../config";
+---
+
+<BaseLayout
+  title="Disclosures"
+  description={`How ${SITE.name} makes money, how affiliate links work, and where computer-generated illustrations are used.`}
+>
+  <div class="mx-auto max-w-2xl px-5 py-10 sm:py-14">
+    <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">Disclosures</h1>
+
+    <div class="prose mt-8">
+      <p>
+        Plain answers about how this site works and how it earns, in one place,
+        because you should not have to hunt for it.
+      </p>
+
+      <h2>Advertising</h2>
+      <p>
+        This site displays advertising. Ads are labelled and are served by
+        third-party networks, which means I do not choose or approve the
+        individual ads you see and their appearance here is not an endorsement.
+        What ads pay for is the hosting bill and the time it takes to research
+        the charts. The
+        <a href="/privacy-policy">privacy policy</a> explains the cookies
+        involved and how to opt out of personalized ads.
+      </p>
+
+      <h2>Affiliate links</h2>
+      <p>
+        Some links to hooks, yarn, and other supplies are affiliate links. If you
+        buy something after following one, I may earn a small commission at no
+        extra cost to you — the price you pay is identical either way.
+      </p>
+      <p>Two rules I hold myself to on this:</p>
+      <ul>
+        <li>
+          A commission never decides a recommendation. Where a cheaper option is
+          the better option, the article says so.
+        </li>
+        <li>
+          Affiliate links are disclosed at the top of any article that contains
+          them, not buried at the bottom.
+        </li>
+      </ul>
+
+      <h2>Illustrations and computer-generated imagery</h2>
+      <p>
+        Some diagrams and illustrations on this site are computer-generated,
+        including with AI tools, and any page that uses them says so in the
+        caption. They are used to show the shape of a stitch or the structure of
+        a technique, which a diagram often does better than a photograph.
+      </p>
+      <p>
+        A computer-generated image is never presented as a photograph of a real
+        finished object, and no pattern on this site describes an item that
+        exists only as an image.
+      </p>
+
+      <h2>Editorial independence</h2>
+      <p>
+        Nobody pays for coverage here. This site does not accept sponsored posts,
+        paid guest articles, or paid link insertions, and requests for them are
+        not answered. If a company ever sends a product to test, the article will
+        say so clearly.
+      </p>
+
+      <h2>Corrections</h2>
+      <p>
+        When a factual error is fixed after publication, the article's updated
+        date changes and, where the correction is significant, a note is added
+        explaining what changed. Reader corrections are welcome at
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

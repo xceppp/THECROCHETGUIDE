@@ -1,0 +1,26 @@
+---
+interface Props {
+  url: string;
+  title: string;
+}
+
+const { url, title } = Astro.props;
+---
+
+<figure class="no-print my-8">
+  <div
+    class="relative mx-auto w-full max-w-sm overflow-hidden rounded-lg border border-rule bg-paper-deep"
+    style="aspect-ratio: 9 / 16;"
+  >
+    <iframe
+      src={url}
+      title={`Video: ${title}`}
+      loading="lazy"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      class="absolute inset-0 h-full w-full border-0"></iframe>
+  </div>
+  <figcaption class="mt-2 text-center text-sm text-ink-soft">
+    Watch the short version, then follow the written steps below.
+  </figcaption>
+</figure>

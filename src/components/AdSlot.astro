@@ -1,0 +1,42 @@
+---
+import { ADSENSE_CLIENT, ADSENSE_SLOTS } from "../config";
+
+interface Props {
+  placement: keyof typeof ADSENSE_SLOTS;
+  /** Optional label shown above the unit. Required by some ad networks, good practice anyway. */
+  label?: boolean;
+}
+
+const { placement, label = true } = Astro.props;
+const slot = ADSENSE_SLOTS[placement];
+
+/**
+ * Renders nothing at all until both a publisher ID and a slot ID exist.
+ * Shipping empty ad containers is a common reason AdSense rejects a site,
+ * so during the review period this component is deliberately invisible.
+ */
+const enabled = Boolean(ADSENSE_CLIENT) && Boolean(slot);
+---
+
+{
+  enabled && (
+    <aside class="no-print my-10" aria-label="Advertisement">
+      {label && (
+        <p class="mb-1 text-[11px] tracking-wider text-ink-faint uppercase">
+          Advertisement
+        </p>
+      )}
+      <ins
+        class="adsbygoogle block"
+        style="display:block"
+        data-ad-client={ADSENSE_CLIENT}
+        data-ad-slot={slot}
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      />
+      <script is:inline>
+        (window.adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </aside>
+  )
+}

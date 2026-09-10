@@ -1,0 +1,102 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE } from "../config";
+
+const effective = "September 10, 2026";
+---
+
+<BaseLayout
+  title="Terms of Use"
+  description={`The terms that govern your use of ${SITE.name}, including content ownership and pattern copyright.`}
+>
+  <div class="mx-auto max-w-2xl px-5 py-10 sm:py-14">
+    <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">Terms of Use</h1>
+    <p class="mt-3 text-sm text-ink-faint">Last updated {effective}</p>
+
+    <div class="prose mt-8">
+      <p>
+        By using {SITE.name} you agree to these terms. If you do not agree with
+        them, please do not use the site.
+      </p>
+
+      <h2>Using the content</h2>
+      <p>
+        Everything written here is free to read, and you are welcome to make
+        anything you learn from it, including items you sell. You do not owe me a
+        credit or a fee for a finished object.
+      </p>
+      <p>What you may not do is republish the material itself:</p>
+      <ul>
+        <li>
+          Do not copy an article, a chart, or a tutorial onto another website,
+          in whole or in substantial part, in any language.
+        </li>
+        <li>
+          Do not distribute the charts as your own PDF, printable, or paid
+          product.
+        </li>
+        <li>
+          You may quote a short passage or one row of a chart with a visible
+          credit and a working link back to the page it came from.
+        </li>
+        <li>
+          You may link to any page here freely, including in your own patterns
+          and video descriptions. That is encouraged.
+        </li>
+      </ul>
+
+      <h2>Pattern copyright</h2>
+      <p>
+        The free pattern round-ups on this site link to patterns owned by the
+        designers who wrote them. Those patterns are not mine and are not covered
+        by anything above. Their terms are set by their authors on their own
+        pages, and you should read them, particularly if you intend to sell what
+        you make.
+      </p>
+      <p>
+        If you are a designer and you would like your work removed from a
+        round-up, or the credit or photo changed, email me and it will be handled
+        promptly. No explanation required.
+      </p>
+
+      <h2>Accuracy, and the limits of it</h2>
+      <p>
+        The charts and tutorials here are researched carefully and corrected when
+        readers find problems, but they are provided as-is with no warranty. Yarn
+        behaves differently between brands and dye lots, hands work at different
+        tensions, and manufacturers change their sizing. Always check your own
+        gauge before committing to a large project.
+      </p>
+      <p>
+        Nothing here is professional advice of any kind. To the extent permitted
+        by law, {SITE.name} is not liable for any loss arising from your use of
+        the site, including wasted yarn, a garment that came out the wrong size,
+        or a project that did not work.
+      </p>
+
+      <h2>Advertising and affiliate links</h2>
+      <p>
+        This site carries advertising and affiliate links, described on the
+        <a href="/disclosures">disclosures page</a>. Advertisements are served by
+        third parties and their presence is not an endorsement by me.
+      </p>
+
+      <h2>Availability</h2>
+      <p>
+        The site is provided without any guarantee of uptime. Pages may be
+        changed, corrected, or removed at any time.
+      </p>
+
+      <h2>Changes to these terms</h2>
+      <p>
+        These terms may be updated. The date at the top will change when they
+        are, and continuing to use the site means you accept the revised version.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        Questions go to <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

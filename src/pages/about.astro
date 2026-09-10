@@ -1,0 +1,88 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE } from "../config";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  mainEntity: {
+    "@type": "Person",
+    name: SITE.author.name,
+    jobTitle: SITE.author.role,
+    description: SITE.author.bio,
+    worksFor: { "@type": "Organization", name: SITE.name },
+  },
+};
+---
+
+<BaseLayout
+  title="About"
+  description={`Who writes ${SITE.name}, how the tutorials are researched, and how the site pays for itself.`}
+  schema={schema}
+>
+  <div class="mx-auto max-w-2xl px-5 py-10 sm:py-14">
+    <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">
+      About {SITE.name}
+    </h1>
+
+    <div class="prose mt-8">
+      <p>
+        {SITE.name} is a reference site for people who crochet. It exists because
+        crochet instructions have a habit of explaining everything except the
+        part you are stuck on.
+      </p>
+
+      <h2>Who writes this</h2>
+      <p>
+        I am {SITE.author.name}, and I write and maintain every page here.
+        {SITE.author.bio}
+      </p>
+      <p>
+        There is no content team and no rotating cast of freelancers. If a page
+        is wrong, it is my fault, and I would genuinely like to know so I can fix
+        it. My address is on the <a href="/contact">contact page</a>.
+      </p>
+
+      <h2>How the tutorials are put together</h2>
+      <p>
+        Every technique page is written against the standard US crochet
+        terminology used by the Craft Yarn Council, because that is what the
+        overwhelming majority of patterns American crocheters encounter are
+        written in. Where UK terms differ — and for a few stitches they differ in
+        genuinely confusing ways — the page says so explicitly instead of leaving
+        you to find out the hard way.
+      </p>
+      <p>
+        Conversion charts are checked against manufacturer sizing rather than
+        copied from other blogs, which is how small errors end up repeated across
+        the entire internet.
+      </p>
+
+      <h2>What this site will not do</h2>
+      <ul>
+        <li>
+          Republish another designer's pattern. Patterns are their authors'
+          work. When a pattern is featured here, the link goes to the designer's
+          own page so they get the visit.
+        </li>
+        <li>
+          Pretend a photograph is something it is not. Where an illustration or
+          diagram is computer-generated, it is labelled as such on the page.
+        </li>
+        <li>
+          Recommend a product nobody has any reason to recommend. The
+          <a href="/disclosures">disclosures page</a> explains exactly how the
+          gear guides work.
+        </li>
+      </ul>
+
+      <h2>How the site pays for itself</h2>
+      <p>
+        Two ways: display advertising, and affiliate links in the hooks and yarn
+        guides. Both are disclosed on the <a href="/disclosures">disclosures page</a
+        >, and neither one costs you anything. Every tutorial and chart on this
+        site is free and always will be.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

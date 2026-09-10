@@ -1,0 +1,76 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE, SOCIALS } from "../config";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  name: `Contact ${SITE.name}`,
+  mainEntity: {
+    "@type": "Organization",
+    name: SITE.name,
+    email: SITE.email,
+  },
+};
+---
+
+<BaseLayout
+  title="Contact"
+  description={`Get in touch with ${SITE.name} about corrections, pattern features, or partnerships.`}
+  schema={schema}
+>
+  <div class="mx-auto max-w-2xl px-5 py-10 sm:py-14">
+    <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">Contact</h1>
+
+    <div class="prose mt-8">
+      <p>
+        The fastest way to reach me is email, and it comes to me directly rather
+        than to a support queue.
+      </p>
+      <p>
+        <a href={`mailto:${SITE.email}`} class="text-lg font-semibold"
+          >{SITE.email}</a
+        >
+      </p>
+
+      <h2>What gets a fast reply</h2>
+      <ul>
+        <li>
+          <strong>A correction.</strong> If a chart or a tutorial step is wrong,
+          tell me which page and what you found. These go to the front of the
+          queue.
+        </li>
+        <li>
+          <strong>A designer asking about a feature.</strong> If your pattern
+          appears in one of the round-ups and you would like the photo changed,
+          the credit adjusted, or the link removed entirely, say so and it will be
+          done. No argument, no delay.
+        </li>
+        <li>
+          <strong>A question you could not find the answer to.</strong> These
+          often turn into new articles.
+        </li>
+      </ul>
+
+      <h2>What will not get a reply</h2>
+      <ul>
+        <li>Guest post pitches and paid link requests.</li>
+        <li>Offers to insert links into existing articles.</li>
+        <li>Anything sent to a hundred blogs at once.</li>
+      </ul>
+
+      <h2>Elsewhere</h2>
+      <ul>
+        {
+          SOCIALS.map((social) => (
+            <li>
+              <a href={social.url} rel="noopener">
+                {social.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </div>
+</BaseLayout>

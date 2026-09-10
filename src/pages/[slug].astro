@@ -1,0 +1,238 @@
+---
+import { getCollection, render, type CollectionEntry } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import AdSlot from "../components/AdSlot.astro";
+import VideoEmbed from "../components/VideoEmbed.astro";
+import { SITE, CATEGORIES } from "../config";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts", ({ data }) => !data.draft);
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+interface Props {
+  post: CollectionEntry<"posts">;
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
+
+const category = CATEGORIES[post.data.category];
+const words = post.body?.split(/\s+/).length ?? 0;
+const minutes = post.data.readingTime ?? Math.max(1, Math.round(words / 220));
+
+const published = post.data.pubDate.toLocaleDateString("en-US", {
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+});
+const updated = post.data.updatedDate?.toLocaleDateString("en-US", {
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+});
+
+/** Only h2s — a table of contents that lists every h3 is noise. */
+const toc = headings.filter((heading) => heading.depth === 2);
+
+const allPosts = await getCollection("posts", ({ data }) => !data.draft);
+const related = allPosts
+  .filter((entry) => entry.id !== post.id)
+  .sort((a, b) => {
+    const sameCategory = (entry: CollectionEntry<"posts">) =>
+      entry.data.category === post.data.category ? 0 : 1;
+    return (
+      sameCategory(a) - sameCategory(b) ||
+      b.data.pubDate.getTime() - a.data.pubDate.getTime()
+    );
+  })
+  .slice(0, 3);
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": post.data.howTo ? "HowTo" : "Article",
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.pubDate.toISOString(),
+  ...(post.data.updatedDate && {
+    dateModified: post.data.updatedDate.toISOString(),
+  }),
+  author: {
+    "@type": "Person",
+    name: SITE.author.name,
+  },
+  publisher: {
+    "@type": "Organization",
+    name: SITE.name,
+    url: SITE.url,
+  },
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": new URL(post.id, SITE.url).href,
+  },
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Home", item: SITE.url },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: category.label,
+      item: new URL(category.slug, SITE.url).href,
+    },
+    { "@type": "ListItem", position: 3, name: post.data.title },
+  ],
+};
+---
+
+<BaseLayout
+  title={post.data.title}
+  description={post.data.description}
+  type="article"
+  publishedTime={post.data.pubDate}
+  modifiedTime={post.data.updatedDate}
+  schema={[articleSchema, breadcrumbSchema]}
+>
+  <article class="mx-auto max-w-2xl px-5 py-10 sm:py-14">
+    <nav aria-label="Breadcrumb" class="no-print text-xs text-ink-faint">
+      <a href="/" class="no-underline hover:text-terracotta-deep">Home</a>
+      <span aria-hidden="true" class="mx-1.5">/</span>
+      <a
+        href={`/${category.slug}`}
+        class="no-underline hover:text-terracotta-deep">{category.label}</a
+      >
+    </nav>
+
+    <header class="mt-4">
+      <h1 class="font-serif text-3xl leading-tight tracking-tight sm:text-4xl">
+        {post.data.title}
+      </h1>
+      <p class="mt-4 text-lg leading-relaxed text-ink-soft">
+        {post.data.description}
+      </p>
+
+      <div
+        class="mt-6 flex flex-wrap items-center gap-x-3 gap-y-2 border-y border-rule py-3 text-xs text-ink-faint"
+      >
+        <span>By {SITE.author.name}</span>
+        <span aria-hidden="true">&middot;</span>
+        <time datetime={post.data.pubDate.toISOString()}>{published}</time>
+        {
+          updated && (
+            <>
+              <span aria-hidden="true">&middot;</span>
+              <span>Updated {updated}</span>
+            </>
+          )
+        }
+        <span aria-hidden="true">&middot;</span>
+        <span>{minutes} min read</span>
+        {
+          post.data.level && (
+            <>
+              <span aria-hidden="true">&middot;</span>
+              <span class="capitalize">{post.data.level}</span>
+            </>
+          )
+        }
+        {
+          post.data.printable && (
+            <button
+              type="button"
+              data-print
+              class="no-print ml-auto rounded border border-rule px-2.5 py-1 text-xs text-ink-soft transition-colors hover:border-terracotta hover:text-terracotta-deep"
+            >
+              Print this page
+            </button>
+          )
+        }
+      </div>
+    </header>
+
+    {
+      post.data.videoUrl && (
+        <VideoEmbed url={post.data.videoUrl} title={post.data.title} />
+      )
+    }
+
+    {
+      toc.length > 2 && (
+        <nav
+          aria-label="On this page"
+          class="no-print mt-8 rounded-lg border border-rule bg-paper-deep px-5 py-4"
+        >
+          <h2 class="text-xs font-semibold tracking-wider text-ink-faint uppercase">
+            On this page
+          </h2>
+          <ol class="mt-2 space-y-1 text-sm">
+            {toc.map((heading) => (
+              <li>
+                <a
+                  href={`#${heading.slug}`}
+                  class="text-ink-soft no-underline hover:text-terracotta-deep hover:underline"
+                >
+                  {heading.text}
+                </a>
+              </li>
+            ))}
+          </ol>
+        </nav>
+      )
+    }
+
+    <div class="prose mt-10">
+      <Content />
+    </div>
+
+    <AdSlot placement="inArticle" />
+
+    {
+      post.data.tags.length > 0 && (
+        <ul class="no-print mt-10 flex flex-wrap gap-2 border-t border-rule pt-6">
+          {post.data.tags.map((tag) => (
+            <li class="rounded-full border border-rule px-2.5 py-0.5 text-xs text-ink-soft">
+              {tag}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+
+    {
+      related.length > 0 && (
+        <section class="no-print mt-14 border-t border-rule pt-8">
+          <h2 class="font-serif text-xl tracking-tight">Read this next</h2>
+          <ul class="mt-4 divide-y divide-rule">
+            {related.map((entry) => (
+              <li class="py-3">
+                <a
+                  href={`/${entry.id}`}
+                  class="group block no-underline"
+                >
+                  <span class="font-medium text-ink group-hover:text-terracotta-deep">
+                    {entry.data.title}
+                  </span>
+                  <span class="mt-0.5 block text-sm text-ink-soft">
+                    {entry.data.description}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </article>
+</BaseLayout>
+
+<script>
+  document
+    .querySelector<HTMLButtonElement>("[data-print]")
+    ?.addEventListener("click", () => window.print());
+</script>

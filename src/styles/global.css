@@ -1,0 +1,236 @@
+@import "tailwindcss";
+
+/* --------------------------------------------------------------------------
+   Palette: warm paper, ink brown, terracotta accent, soft sage.
+   Chosen to read like a well-made craft book rather than a tech blog.
+   -------------------------------------------------------------------------- */
+@theme {
+  --color-paper: #fdfaf6;
+  --color-paper-deep: #f6efe6;
+  --color-ink: #2f2a26;
+  --color-ink-soft: #6d635a;
+  --color-ink-faint: #9a9088;
+  --color-terracotta: #b0604a;
+  --color-terracotta-deep: #8f4a37;
+  --color-sage: #7d8b72;
+  --color-rule: #e6ddd1;
+
+  --font-serif: Georgia, "Iowan Old Style", "Palatino Linotype", Palatino,
+    "Times New Roman", serif;
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-terracotta);
+  outline-offset: 2px;
+}
+
+/* --------------------------------------------------------------------------
+   Article body. Hand-rolled instead of a typography plugin so the rhythm
+   matches the rest of the site exactly.
+   -------------------------------------------------------------------------- */
+.prose {
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  color: var(--color-ink);
+}
+
+.prose > * + * {
+  margin-top: 1.15em;
+}
+
+.prose h2 {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  line-height: 1.25;
+  margin-top: 2.4em;
+  margin-bottom: 0.6em;
+  letter-spacing: -0.01em;
+}
+
+.prose h3 {
+  font-family: var(--font-serif);
+  font-size: 1.22rem;
+  line-height: 1.3;
+  margin-top: 1.9em;
+  margin-bottom: 0.5em;
+}
+
+.prose h2 + h3 {
+  margin-top: 1.1em;
+}
+
+.prose a {
+  color: var(--color-terracotta-deep);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.prose a:hover {
+  color: var(--color-terracotta);
+}
+
+.prose strong {
+  font-weight: 600;
+}
+
+.prose ul,
+.prose ol {
+  padding-left: 1.35em;
+}
+
+.prose ul {
+  list-style: disc;
+}
+
+.prose ol {
+  list-style: decimal;
+}
+
+.prose li + li {
+  margin-top: 0.4em;
+}
+
+.prose li::marker {
+  color: var(--color-ink-faint);
+}
+
+.prose blockquote {
+  border-left: 3px solid var(--color-terracotta);
+  padding: 0.1em 0 0.1em 1.1em;
+  color: var(--color-ink-soft);
+  font-style: italic;
+}
+
+.prose code {
+  font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  background-color: var(--color-paper-deep);
+  border: 1px solid var(--color-rule);
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+}
+
+.prose hr {
+  border: 0;
+  border-top: 1px solid var(--color-rule);
+  margin: 2.5em 0;
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  display: block;
+  overflow-x: auto;
+}
+
+.prose thead {
+  background-color: var(--color-paper-deep);
+}
+
+.prose th,
+.prose td {
+  border: 1px solid var(--color-rule);
+  padding: 0.55em 0.7em;
+  text-align: left;
+  vertical-align: top;
+}
+
+.prose th {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.prose tbody tr:nth-child(even) {
+  background-color: color-mix(in srgb, var(--color-paper-deep) 45%, white);
+}
+
+.prose img {
+  border-radius: 6px;
+  border: 1px solid var(--color-rule);
+}
+
+.prose figcaption {
+  font-size: 0.875rem;
+  color: var(--color-ink-soft);
+  margin-top: 0.5em;
+}
+
+/* Callout boxes usable straight from Markdown. */
+.prose .tip,
+.prose .warning {
+  border: 1px solid var(--color-rule);
+  border-left-width: 3px;
+  border-radius: 4px;
+  padding: 0.9em 1.1em;
+  font-size: 0.97rem;
+}
+
+.prose .tip {
+  border-left-color: var(--color-sage);
+  background-color: color-mix(in srgb, var(--color-sage) 7%, var(--color-paper));
+}
+
+.prose .warning {
+  border-left-color: var(--color-terracotta);
+  background-color: color-mix(
+    in srgb,
+    var(--color-terracotta) 7%,
+    var(--color-paper)
+  );
+}
+
+.prose .tip > :first-child,
+.prose .warning > :first-child {
+  margin-top: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Print: readers print patterns and charts constantly. Strip the chrome.
+   -------------------------------------------------------------------------- */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: white;
+    font-size: 11pt;
+  }
+
+  .prose a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .prose a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 9pt;
+    color: #555;
+  }
+
+  .prose h2,
+  .prose h3 {
+    break-after: avoid;
+  }
+
+  .prose table,
+  .prose figure {
+    break-inside: avoid;
+  }
+}
