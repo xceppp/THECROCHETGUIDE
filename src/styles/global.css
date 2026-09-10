@@ -21,8 +21,13 @@
     "Helvetica Neue", Arial, sans-serif;
 }
 
-html {
-  scroll-behavior: smooth;
+/* Smooth scrolling is pleasant but it is also a motion effect, and for readers
+   with vestibular sensitivity a long animated jump is the kind of thing that
+   causes symptoms. Opt them out. */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
 }
 
 body {
@@ -54,6 +59,12 @@ body {
 
 .prose > * + * {
   margin-top: 1.25em;
+}
+
+/* Jumping to a section must not park it underneath the fixed reading bar, so
+   every heading keeps a bar's worth of clearance above it as a scroll target. */
+.prose :is(h2, h3) {
+  scroll-margin-top: 4.5rem;
 }
 
 .prose h2 {

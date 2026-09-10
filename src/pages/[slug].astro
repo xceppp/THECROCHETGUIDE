@@ -4,6 +4,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import AdSlot from "../components/AdSlot.astro";
 import VideoEmbed from "../components/VideoEmbed.astro";
 import StepNav from "../components/StepNav.astro";
+import ArticleProgress from "../components/ArticleProgress.astro";
 import { getStepPosition } from "../lib/learningPath";
 import { SITE, CATEGORIES } from "../config";
 
@@ -104,6 +105,9 @@ const breadcrumbSchema = {
   modifiedTime={post.data.updatedDate}
   schema={[articleSchema, breadcrumbSchema]}
 >
+  {/* Only worth a reading bar when there is enough article to get lost in. */}
+  {toc.length > 2 && <ArticleProgress headings={toc} minutes={minutes} />}
+
   {/* Only course steps carry the slug, so opening a standalone article never
       counts toward progress. */}
   <article

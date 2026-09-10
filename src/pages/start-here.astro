@@ -68,12 +68,20 @@ const schema = {
   <ResumeCard />
 
   <div class="mx-auto max-w-4xl px-6 sm:px-8 py-12">
-    <p
+    <div
       data-progress-summary
-      class="no-print mb-8 rounded-lg border border-rule bg-paper-deep px-4 py-3 text-sm text-ink-soft"
+      class="no-print mb-8 rounded-lg border border-rule bg-paper-deep px-4 py-3"
       hidden
     >
-    </p>
+      <p class="text-sm text-ink-soft" data-progress-text></p>
+      <div
+        class="mt-2.5 h-1.5 w-full overflow-hidden rounded-full bg-rule"
+        aria-hidden="true"
+      >
+        <div class="h-full w-0 rounded-full bg-terracotta" data-progress-fill>
+        </div>
+      </div>
+    </div>
 
     <ol class="space-y-12">
       {
@@ -157,11 +165,16 @@ const schema = {
   }
 
   const summary = document.querySelector<HTMLElement>("[data-progress-summary]");
-  if (summary && read > 0) {
-    summary.textContent =
-      read === links.length
+  const text = summary?.querySelector<HTMLElement>("[data-progress-text]");
+  const fill = summary?.querySelector<HTMLElement>("[data-progress-fill]");
+
+  if (summary && text && fill && read > 0) {
+    const remaining = links.length - read;
+    text.textContent =
+      remaining === 0
         ? `You have read all ${links.length} steps.`
-        : `You have read ${read} of ${links.length} steps. They are marked below.`;
+        : `${read} of ${links.length} steps read — ${remaining} to go. They are marked below.`;
+    fill.style.width = `${((read / links.length) * 100).toFixed(1)}%`;
     summary.hidden = false;
   }
 </script>
