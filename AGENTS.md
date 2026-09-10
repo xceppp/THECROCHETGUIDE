@@ -36,7 +36,7 @@ npm run check    # astro check, must stay at 0 errors
 | Path | What it is |
 | --- | --- |
 | `src/config.ts` | **All branding and the course order.** Site name, domain, author, socials, AdSense IDs, categories, nav, `LEARNING_PATH`. |
-| `src/content/posts/*.md` | The 16 articles. One file per article; the filename becomes the URL. |
+| `src/content/posts/*.md` | The 14 articles. One file per article; the filename becomes the URL. |
 | `src/content.config.ts` | Frontmatter schema. Build fails on invalid frontmatter, which is intentional. |
 | `src/lib/learningPath.ts` | Resolves `LEARNING_PATH` into step numbers and prev/next links. |
 | `src/pages/[slug].astro` | Renders every article. |
@@ -135,14 +135,25 @@ is most of the difference in ad revenue at the same traffic.
 
 ## The guided course
 
-All 16 articles are ordered into 6 stages by `LEARNING_PATH` in
+12 of the 14 articles are ordered into 6 stages of two by `LEARNING_PATH` in
 `src/config.ts`. That single array powers the `/start-here` page, the
-"Step N of 16" badge on each article, and the next-step card at the bottom.
+"Step N of 12" badge on each article, and the next-step card at the bottom.
 
 To reorder, move a slug. To add an article to the course, drop its slug into a
 stage. Articles not listed still publish normally and fall back to a
 related-articles list instead of step navigation. A slug pointing at a missing
 post is skipped rather than throwing, and step numbers stay contiguous.
+
+The hook-size and yarn-weight charts sit outside the course deliberately.
+Lookup tables are opened when a reader needs a number, not read in sequence,
+and having three of them in the path put a wall of reference material between
+a beginner and their first stitch.
+
+Reading a step is recorded in the visitor's own browser by
+`src/scripts/progress.ts`, which is what drives the "Welcome back" card on the
+home and `/start-here` pages and the read marks on the course list. There is
+no server and no account, so it is per-device by design, and a browser that
+blocks local storage just never sees the card.
 
 ## Voice
 
@@ -187,7 +198,10 @@ not print gets `class="no-print"`.
 
 ## Current status
 
-- 16 articles, 28 pages, `npm run check` at 0 errors.
+- 14 articles, 26 pages, `npm run check` at 0 errors.
+- `gear` is down to one article after the two buying guides merged. A nav
+ category with a single entry looks unfinished to an AdSense reviewer, so it
+ wants a second one before applying.
 - Repo: `github.com/xceppp/THECROCHETGUIDE`.
 - Domain not yet live. AdSense not yet applied for — needs the custom domain,
   a real inbox, and a real author identity first.
