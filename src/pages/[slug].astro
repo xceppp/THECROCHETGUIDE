@@ -258,4 +258,31 @@ const breadcrumbSchema = {
   document
     .querySelector<HTMLButtonElement>("[data-print]")
     ?.addEventListener("click", () => window.print());
+
+  /**
+   * Charts wider than the screen scroll sideways. Flag the ones that actually
+   * overflow so the CSS can fade their right edge, and clear the flag once the
+   * reader reaches the last column. Also give overflowing charts a tab stop —
+   * a scrollable region is unreachable by keyboard without one.
+   */
+  for (const wrapper of document.querySelectorAll<HTMLElement>(".table-scroll")) {
+    const table = wrapper.querySelector("table");
+    if (!table) continue;
+
+    const sync = () => {
+      const overflows = table.scrollWidth - table.clientWidth > 1;
+      const atEnd =
+        table.scrollLeft + table.clientWidth >= table.scrollWidth - 1;
+
+      wrapper.toggleAttribute("data-scrollable", overflows);
+      wrapper.toggleAttribute("data-scroll-end", overflows && atEnd);
+
+      if (overflows) table.setAttribute("tabindex", "0");
+      else table.removeAttribute("tabindex");
+    };
+
+    sync();
+    table.addEventListener("scroll", sync, { passive: true });
+    new ResizeObserver(sync).observe(table);
+  }
 </script>

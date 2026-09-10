@@ -139,6 +139,44 @@ body {
   overflow-x: auto;
 }
 
+/* --------------------------------------------------------------------------
+   Wide charts (yarn weights, hook conversions) scroll sideways on phones.
+   That scroll is invisible on its own, so a chart looks like it simply ends
+   at the screen edge. This fades the right edge to signal there is more.
+   The wrapper comes from rehypeWrapTables; the attributes come from the
+   script in [slug].astro, which only sets them when the chart really
+   overflows — otherwise a narrow table would wear a permanent fade.
+   -------------------------------------------------------------------------- */
+.prose .table-scroll {
+  position: relative;
+}
+
+.prose .table-scroll::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 2.75rem;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease-out;
+  background: linear-gradient(
+    to right,
+    transparent,
+    color-mix(in srgb, var(--color-paper) 88%, transparent)
+  );
+}
+
+.prose .table-scroll[data-scrollable]::after {
+  opacity: 1;
+}
+
+/* Nothing left to scroll to — drop the hint. */
+.prose .table-scroll[data-scroll-end]::after {
+  opacity: 0;
+}
+
 .prose thead {
   background-color: var(--color-paper-deep);
 }
@@ -232,5 +270,10 @@ body {
   .prose table,
   .prose figure {
     break-inside: avoid;
+  }
+
+  /* Paper has no scroll edge to hint at. */
+  .prose .table-scroll::after {
+    display: none;
   }
 }
