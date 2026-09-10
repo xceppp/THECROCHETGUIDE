@@ -3,6 +3,8 @@ import { getCollection, render, type CollectionEntry } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import AdSlot from "../components/AdSlot.astro";
 import VideoEmbed from "../components/VideoEmbed.astro";
+import StepNav from "../components/StepNav.astro";
+import { getStepPosition } from "../lib/learningPath";
 import { SITE, CATEGORIES } from "../config";
 
 export async function getStaticPaths() {
@@ -37,6 +39,9 @@ const updated = post.data.updatedDate?.toLocaleDateString("en-US", {
 
 /** Only h2s — a table of contents that lists every h3 is noise. */
 const toc = headings.filter((heading) => heading.depth === 2);
+
+/** Null when the article sits outside the guided course. */
+const step = await getStepPosition(post.id);
 
 const allPosts = await getCollection("posts", ({ data }) => !data.draft);
 const related = allPosts
@@ -108,6 +113,20 @@ const breadcrumbSchema = {
         class="no-underline hover:text-terracotta-deep">{category.label}</a
       >
     </nav>
+
+    {
+      step && (
+        <a
+          href="/start-here"
+          class="no-print mt-4 inline-flex items-center gap-2 rounded-full border border-rule bg-paper-deep px-3 py-1 text-xs no-underline transition-colors hover:border-terracotta"
+        >
+          <span class="font-semibold text-terracotta-deep">
+            Step {step.number} of {step.total}
+          </span>
+          <span class="text-ink-faint">{step.stage}</span>
+        </a>
+      )
+    }
 
     <header class="mt-4">
       <h1 class="font-serif text-3xl leading-tight tracking-tight sm:text-4xl">
@@ -204,8 +223,12 @@ const breadcrumbSchema = {
       )
     }
 
+    {/* Inside the course, the next step is the single clear action. Outside it,
+        fall back to a related-articles list. */}
+    {step && <StepNav position={step} />}
+
     {
-      related.length > 0 && (
+      !step && related.length > 0 && (
         <section class="no-print mt-14 border-t border-rule pt-8">
           <h2 class="font-serif text-xl tracking-tight">Read this next</h2>
           <ul class="mt-4 divide-y divide-rule">

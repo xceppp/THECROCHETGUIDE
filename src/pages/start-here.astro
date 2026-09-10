@@ -1,0 +1,129 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import AdSlot from "../components/AdSlot.astro";
+import { getPathStages } from "../lib/learningPath";
+import { SITE } from "../config";
+
+const stages = await getPathStages();
+const total = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
+const first = stages[0]?.steps[0]?.post;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Course",
+  name: "Learn to Crochet: the complete beginner course",
+  description: `A free ${total}-step crochet course, in teaching order, from choosing yarn to finishing your first project.`,
+  provider: {
+    "@type": "Organization",
+    name: SITE.name,
+    url: SITE.url,
+  },
+  isAccessibleForFree: true,
+  inLanguage: "en-US",
+  hasCourseInstance: {
+    "@type": "CourseInstance",
+    courseMode: "online",
+    courseWorkload: `PT${total * 12}M`,
+  },
+};
+---
+
+<BaseLayout
+  title="Start Here: Learn to Crochet in Order"
+  description={`A free ${total}-step crochet course in teaching order. Start with choosing yarn and finish knowing how to read any pattern.`}
+  schema={schema}
+>
+  <section class="border-b border-rule bg-paper-deep">
+    <div class="mx-auto max-w-2xl px-5 py-14 sm:py-16">
+      <p class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">
+        The course &middot; {total} steps &middot; free
+      </p>
+      <h1 class="mt-3 font-serif text-3xl leading-tight tracking-tight sm:text-4xl">
+        Learn to crochet, in the right order
+      </h1>
+      <p class="mt-4 text-lg leading-relaxed text-ink-soft">
+        Most crochet guides drop you into a list of stitches and leave you to
+        work out what comes next. This is the same material arranged as a route:
+        start at step one, follow the link at the bottom of each page, and you
+        will never have to guess what to read next.
+      </p>
+      <p class="mt-3 leading-relaxed text-ink-soft">
+        Nothing here is locked, nothing needs an email address, and you can jump
+        in anywhere. Each step takes about ten minutes to read.
+      </p>
+      {
+        first && (
+          <a
+            href={`/${first.id}`}
+            class="mt-7 inline-block rounded-full bg-terracotta px-6 py-2.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
+          >
+            Start with step 1
+          </a>
+        )
+      }
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-2xl px-5 py-12">
+    <ol class="space-y-12">
+      {
+        stages.map((stage, stageIndex) => (
+          <li>
+            <div class="flex items-baseline gap-3">
+              <span class="font-serif text-sm text-ink-faint">
+                {String(stageIndex + 1).padStart(2, "0")}
+              </span>
+              <h2 class="font-serif text-2xl tracking-tight">{stage.stage}</h2>
+            </div>
+            <p class="mt-2 leading-relaxed text-ink-soft">{stage.blurb}</p>
+
+            <ol class="mt-5 divide-y divide-rule border-t border-rule">
+              {stage.steps.map((step) => (
+                <li>
+                  <a
+                    href={`/${step.post.id}`}
+                    class="group flex gap-4 py-4 no-underline"
+                  >
+                    <span
+                      class="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-rule text-xs text-ink-faint transition-colors group-hover:border-terracotta group-hover:text-terracotta-deep"
+                      aria-hidden="true"
+                    >
+                      {step.number}
+                    </span>
+                    <span class="min-w-0">
+                      <span class="block font-medium leading-snug text-ink group-hover:text-terracotta-deep">
+                        {step.post.data.title}
+                      </span>
+                      <span class="mt-1 block text-sm leading-relaxed text-ink-soft">
+                        {step.post.data.description}
+                      </span>
+                      {step.post.data.printable && (
+                        <span class="mt-1.5 inline-block text-xs text-ink-faint">
+                          Printable
+                        </span>
+                      )}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </li>
+        ))
+      }
+    </ol>
+
+    <AdSlot placement="footer" />
+
+    <div class="mt-14 rounded-lg border border-rule bg-paper-deep px-5 py-6">
+      <h2 class="font-serif text-xl tracking-tight">
+        Already know the basics?
+      </h2>
+      <p class="mt-2 leading-relaxed text-ink-soft">
+        Skip the course. The <a href="/charts" class="text-terracotta-deep underline">charts and tools</a>
+        section has the printable reference tables, and
+        <a href="/free-patterns" class="text-terracotta-deep underline">free patterns</a>
+        covers where to find patterns worth your time.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

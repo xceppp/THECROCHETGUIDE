@@ -3,6 +3,8 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
 import AdSlot from "../components/AdSlot.astro";
+import WelcomeBanner from "../components/WelcomeBanner.astro";
+import { getPathStages } from "../lib/learningPath";
 import { SITE, CATEGORIES } from "../config";
 
 const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
@@ -11,35 +13,79 @@ const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
 
 const [lead, ...rest] = posts;
 const recent = rest.slice(0, 6);
+
+const stages = await getPathStages();
+const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
+const firstStep = stages[0]?.steps[0]?.post;
 ---
 
 <BaseLayout title={SITE.name} description={SITE.description}>
-  <section class="border-b border-rule bg-paper-deep">
-    <div class="mx-auto max-w-2xl px-5 py-14 sm:py-20">
-      <h1 class="font-serif text-3xl leading-tight tracking-tight sm:text-4xl">
-        Crochet answers without the guesswork
-      </h1>
-      <p class="mt-4 text-lg leading-relaxed text-ink-soft">
-        Most crochet instructions assume you already know the thing you are
-        trying to look up. This site does the opposite. Plain-English tutorials,
-        printable charts, and honest answers about hooks and yarn.
-      </p>
-      <div class="mt-7 flex flex-wrap gap-x-5 gap-y-2 text-sm">
-        {
-          Object.values(CATEGORIES).map((category) => (
+  <WelcomeBanner firstStepSlug={firstStep?.id} totalSteps={totalSteps} />
+
+  {
+    stages.length > 0 && (
+      <section class="border-b border-rule">
+        <div class="mx-auto max-w-2xl px-5 py-12">
+          <div class="flex flex-wrap items-baseline justify-between gap-2">
+            <h2 class="font-serif text-2xl tracking-tight">
+              The course, start to finish
+            </h2>
             <a
-              href={`/${category.slug}`}
-              class="rounded-full border border-rule bg-paper px-4 py-1.5 text-ink-soft no-underline transition-colors hover:border-terracotta hover:text-terracotta-deep"
+              href="/start-here"
+              class="text-sm text-terracotta-deep no-underline hover:underline"
             >
-              {category.label}
+              See all {totalSteps} steps
             </a>
-          ))
-        }
-      </div>
-    </div>
-  </section>
+          </div>
+          <p class="mt-2 leading-relaxed text-ink-soft">
+            Six stages, in teaching order. Each page ends with a link to the next
+            one, so you never have to work out what to read after this.
+          </p>
+
+          <ol class="mt-6 divide-y divide-rule border-y border-rule">
+            {stages.map((stage, index) => (
+              <li>
+                <a
+                  href={`/${stage.steps[0].post.id}`}
+                  class="group flex items-baseline gap-4 py-3.5 no-underline"
+                >
+                  <span
+                    class="font-serif text-sm text-ink-faint"
+                    aria-hidden="true"
+                  >
+                    {String(index + 1).padStart(2, "0")}
+                  </span>
+                  <span class="min-w-0 flex-1">
+                    <span class="font-medium text-ink group-hover:text-terracotta-deep">
+                      {stage.stage}
+                    </span>
+                  </span>
+                  <span class="shrink-0 text-xs text-ink-faint">
+                    {`${stage.steps.length} ${stage.steps.length === 1 ? "step" : "steps"}`}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </section>
+    )
+  }
 
   <div class="mx-auto max-w-2xl px-5 py-12">
+    <div class="mb-12 flex flex-wrap gap-x-3 gap-y-2 text-sm">
+      {
+        Object.values(CATEGORIES).map((category) => (
+          <a
+            href={`/${category.slug}`}
+            class="rounded-full border border-rule bg-paper px-4 py-1.5 text-ink-soft no-underline transition-colors hover:border-terracotta hover:text-terracotta-deep"
+          >
+            {category.label}
+          </a>
+        ))
+      }
+    </div>
+
     {
       posts.length === 0 ? (
         <p class="rounded-lg border border-rule bg-paper-deep px-5 py-6 text-ink-soft">

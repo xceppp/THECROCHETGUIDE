@@ -16,7 +16,16 @@ export const SITE = {
     role: "Founder and writer",
     bio: "I started The Crochet Guide after spending an entire evening stuck on a pattern that assumed I already knew what it meant. Everything here is written the way I wish it had been explained to me.",
   },
-  email: "hello@thecrochetguide.com",
+  /**
+   * Contact address. Left empty on purpose — no inbox exists yet, and a dead
+   * address is worse than none. While this is empty, every page hides its
+   * email link automatically and the contact page routes people to social
+   * instead.
+   *
+   * AdSense requires a working way to reach you. Fill this in with a real,
+   * monitored address before you apply.
+   */
+  email: "",
 } as const;
 
 /**
@@ -81,9 +90,79 @@ export const CATEGORIES: Record<
 };
 
 export const NAV = [
+  { label: "Start Here", href: "/start-here" },
   { label: "Tutorials", href: "/tutorials" },
   { label: "Charts & Tools", href: "/charts" },
   { label: "Free Patterns", href: "/free-patterns" },
   { label: "Hooks & Yarn", href: "/gear" },
   { label: "About", href: "/about" },
+];
+
+/**
+ * The guided route through the site, in teaching order.
+ *
+ * This is the spine of the reader experience: it powers the Start Here page,
+ * the "Step N of M" marker on each article, and the previous/next links at the
+ * bottom of every article in the path.
+ *
+ * To reorder the course, move a slug. To add a new article to it, drop its
+ * slug into a stage. Anything not listed here still publishes normally and
+ * simply has no step navigation.
+ *
+ * Slugs must match the Markdown filenames in src/content/posts exactly.
+ */
+export const LEARNING_PATH: Array<{
+  stage: string;
+  blurb: string;
+  slugs: string[];
+}> = [
+  {
+    stage: "Before you pick up a hook",
+    blurb:
+      "Buy the right yarn and hook first. The wrong yarn makes learning genuinely harder, and most beginners buy it because it looks the nicest on the shelf.",
+    slugs: [
+      "best-yarn-for-beginners",
+      "best-crochet-hook-for-beginners",
+      "left-handed-crochet",
+    ],
+  },
+  {
+    stage: "Learn to read crochet",
+    blurb:
+      "Crochet has its own shorthand and two rival dialects. Twenty minutes here and patterns stop looking like code.",
+    slugs: [
+      "crochet-abbreviations-chart",
+      "how-to-read-a-crochet-pattern",
+      "crochet-hook-size-conversion-chart",
+      "yarn-weight-chart",
+    ],
+  },
+  {
+    stage: "Your first stitches",
+    blurb:
+      "Five stitches build almost everything. Learn them, then learn the one thing that makes edges come out straight.",
+    slugs: ["basic-crochet-stitches", "crochet-turning-chain"],
+  },
+  {
+    stage: "Shaping and working in circles",
+    blurb:
+      "Everything that is not a rectangle is made here — hats, toys, bags, anything round or curved.",
+    slugs: [
+      "crochet-increase-decrease",
+      "how-to-crochet-a-magic-ring",
+      "crochet-in-the-round",
+    ],
+  },
+  {
+    stage: "Color and finishing",
+    blurb:
+      "Finishing is most of the difference between handmade and homemade, and it is the part everyone rushes.",
+    slugs: ["changing-yarn-color-crochet", "weaving-in-ends-and-blocking"],
+  },
+  {
+    stage: "Make things that actually fit",
+    blurb:
+      "The last two steps: get the size right, then go find something worth making.",
+    slugs: ["crochet-gauge", "where-to-find-free-crochet-patterns"],
+  },
 ];

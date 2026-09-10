@@ -1,0 +1,66 @@
+---
+import type { StepPosition } from "../lib/learningPath";
+
+interface Props {
+  position: StepPosition;
+}
+
+const { position } = Astro.props;
+const { next, previous } = position;
+---
+
+<nav aria-label="Course navigation" class="no-print mt-14 border-t border-rule pt-8">
+  {
+    next ? (
+      <a
+        href={`/${next.id}`}
+        class="group block rounded-lg border border-rule bg-paper-deep px-5 py-5 no-underline transition-colors hover:border-terracotta"
+      >
+        <span class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">
+          Next &middot; step {position.number + 1} of {position.total}
+        </span>
+        <span class="mt-1.5 block font-serif text-xl leading-snug text-ink group-hover:text-terracotta-deep">
+          {next.data.title}
+        </span>
+        <span class="mt-1.5 block text-sm leading-relaxed text-ink-soft">
+          {next.data.description}
+        </span>
+      </a>
+    ) : (
+      <div class="rounded-lg border border-rule bg-paper-deep px-5 py-5">
+        <span class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">
+          That is the whole course
+        </span>
+        <span class="mt-1.5 block font-serif text-xl leading-snug text-ink">
+          You have finished all {position.total} steps
+        </span>
+        <span class="mt-1.5 block text-sm leading-relaxed text-ink-soft">
+          Everything from here is practice. Pick a pattern, make the thing, and
+          come back to the <a href="/charts" class="text-terracotta-deep underline">charts</a> when
+          you need a number.
+        </span>
+      </div>
+    )
+  }
+
+  <div class="mt-4 flex flex-wrap items-center justify-between gap-3 text-sm">
+    {
+      previous ? (
+        <a
+          href={`/${previous.id}`}
+          class="text-ink-soft no-underline hover:text-terracotta-deep"
+        >
+          <span aria-hidden="true">&larr;</span> {previous.data.title}
+        </a>
+      ) : (
+        <span />
+      )
+    }
+    <a
+      href="/start-here"
+      class="text-ink-faint no-underline hover:text-terracotta-deep"
+    >
+      All {position.total} steps
+    </a>
+  </div>
+</nav>
