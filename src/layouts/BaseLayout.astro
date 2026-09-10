@@ -29,6 +29,13 @@ const {
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const fullTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
 
+/**
+ * Social crawlers need an absolute URL, and Pinterest and Facebook both
+ * ignore a relative one silently. Generated from the brand banner by
+ * scripts/generate-brand-assets.mjs at the 1200x630 they expect.
+ */
+const ogImage = new URL("/og-default.jpg", Astro.site).href;
+
 const organisation = {
   "@context": "https://schema.org",
   "@type": "WebSite",
@@ -60,6 +67,10 @@ const schemas = [organisation, ...(schema ? [schema].flat() : [])];
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={SITE.name} />
     <meta property="og:locale" content="en_US" />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={`${SITE.name} — ${SITE.tagline}`} />
     {
       publishedTime && (
         <meta
@@ -85,6 +96,7 @@ const schemas = [organisation, ...(schema ? [schema].flat() : [])];
       )
     }
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={ogImage} />
 
     {
       PINTEREST_DOMAIN_VERIFY && (
@@ -98,7 +110,9 @@ const schemas = [organisation, ...(schema ? [schema].flat() : [])];
       title={SITE.name}
       href={new URL("rss.xml", Astro.site)}
     />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
+    <link rel="icon" href="/icon-512.png" type="image/png" sizes="512x512" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta name="theme-color" content="#fdfaf6" />
 
     <script
