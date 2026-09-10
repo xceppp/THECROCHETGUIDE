@@ -42,14 +42,18 @@ body {
    Article body. Hand-rolled instead of a typography plugin so the rhythm
    matches the rest of the site exactly.
    -------------------------------------------------------------------------- */
+/* 18px against the 3xl column lands at roughly 78 characters a line, which is
+   the top of the comfortable range. Widening the column without raising the
+   type would have pushed it past 85 and made articles harder to read, not
+   easier. */
 .prose {
-  font-size: 1.0625rem;
+  font-size: 1.125rem;
   line-height: 1.75;
   color: var(--color-ink);
 }
 
 .prose > * + * {
-  margin-top: 1.15em;
+  margin-top: 1.25em;
 }
 
 .prose h2 {

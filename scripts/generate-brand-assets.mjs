@@ -6,7 +6,8 @@
  *
  * Produces:
  *   src/assets/mark.png        yarn-ball mark, background cut to transparency
- *   public/og-default.png      1200x630 social share card
+ *   src/assets/cover.jpg       hero art, enlarged so wide screens downscale it
+ *   public/og-default.jpg      1200x630 social share card
  *   public/favicon-32.png      browser tab
  *   public/icon-512.png        Android / PWA
  *   public/apple-touch-icon.png  iOS, opaque because iOS composites on black
@@ -22,6 +23,18 @@ const at = (...p) => path.join(root, ...p);
 
 const LOGO = at("src", "assets", "logo.png");
 const BANNER = at("src", "assets", "banner.png");
+const COVER_SOURCE = at("src", "assets", "cover-source.png");
+
+/**
+ * The hero spans the full viewport, but the cover art is only 1024px wide, so
+ * a 1080p screen would stretch it and a retina one would stretch it further.
+ * Enlarging once here with a good resampling kernel means the browser is
+ * downscaling on almost every screen instead of upscaling, and downscaling
+ * never looks soft. JPEG rather than PNG because the art is a photographic
+ * paper texture — the PNG runs five times larger for no visible difference,
+ * and that texture is also what keeps the flat cream from banding.
+ */
+const COVER_WIDTH = 2560;
 
 /** Flat background the artwork was generated on. */
 const CREAM = { r: 253, g: 247, b: 233 };
@@ -269,5 +282,17 @@ await sharp({
   ])
   .jpeg({ quality: 86, chromaSubsampling: "4:4:4", mozjpeg: true })
   .toFile(at("public", "og-default.jpg"));
+
+const coverMeta = await sharp(COVER_SOURCE).metadata();
+await sharp(COVER_SOURCE)
+  .resize({ width: COVER_WIDTH, kernel: "lanczos3" })
+  // Enlarging softens the rope's twist very slightly; this puts it back
+  // without haloing the edges.
+  .sharpen({ sigma: 0.6 })
+  .jpeg({ quality: 94, chromaSubsampling: "4:4:4", mozjpeg: true })
+  .toFile(at("src", "assets", "cover.jpg"));
+console.log(
+  `cover enlarged ${coverMeta.width}px -> ${COVER_WIDTH}px so wide screens downscale`,
+);
 
 console.log("brand assets written");
