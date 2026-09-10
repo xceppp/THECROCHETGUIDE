@@ -4,6 +4,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
 import AdSlot from "../components/AdSlot.astro";
 import WelcomeBanner from "../components/WelcomeBanner.astro";
+import ResumeCard from "../components/ResumeCard.astro";
 import { getPathStages } from "../lib/learningPath";
 import { SITE, CATEGORIES } from "../config";
 
@@ -21,6 +22,8 @@ const firstStep = stages[0]?.steps[0]?.post;
 
 <BaseLayout title={SITE.name} description={SITE.description}>
   <WelcomeBanner firstStepSlug={firstStep?.id} totalSteps={totalSteps} />
+
+  <ResumeCard />
 
   {
     stages.length > 0 && (

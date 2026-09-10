@@ -1,0 +1,101 @@
+---
+import { getPathSteps } from "../lib/learningPath";
+
+/**
+ * "Pick up where you left off" card.
+ *
+ * Rendered hidden and revealed by script, because the pages are static and
+ * served from a CDN — the same HTML goes to everyone, so the personal part
+ * has to happen in the browser. A visitor with no saved progress, or with
+ * scripting off, simply never sees it.
+ */
+const steps = (await getPathSteps()).map((step) => ({
+  id: step.post.id,
+  title: step.post.data.title,
+  number: step.number,
+}));
+---
+
+{/* The page wrapper lives inside the hidden element so a visitor with no saved
+    progress gets no leftover spacing where the card would have been. */}
+<aside class="no-print px-6 pt-12 sm:px-8" data-resume hidden>
+  <div
+    class="mx-auto max-w-4xl rounded-lg border border-rule bg-paper-deep px-5 py-5 sm:px-6"
+  >
+    <p class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">
+      Welcome back
+    </p>
+    <a
+      data-resume-link
+      href="/start-here"
+      class="group mt-1.5 block no-underline"
+    >
+      <span
+        data-resume-title
+        class="block font-serif text-xl leading-snug text-ink group-hover:text-terracotta-deep"
+      ></span>
+    </a>
+    <p data-resume-meta class="mt-1.5 text-sm text-ink-soft"></p>
+    <button
+      type="button"
+      data-resume-reset
+      class="mt-3 text-xs text-ink-faint underline underline-offset-2 hover:text-terracotta-deep"
+    >
+      Forget my progress
+    </button>
+  </div>
+</aside>
+
+<script
+  is:inline
+  type="application/json"
+  data-resume-steps
+  set:html={JSON.stringify(steps)}
+/>
+
+<script>
+  import { getProgress, clearProgress } from "../scripts/progress";
+
+  type Step = { id: string; title: string; number: number };
+
+  const host = document.querySelector<HTMLElement>("[data-resume]");
+  const source = document.querySelector<HTMLScriptElement>(
+    "[data-resume-steps]",
+  );
+
+  if (host && source) {
+    const steps: Step[] = JSON.parse(source.textContent || "[]");
+    const progress = getProgress();
+    const readCount = steps.filter((step) => progress.read[step.id]).length;
+
+    if (readCount > 0) {
+      const link = host.querySelector<HTMLAnchorElement>("[data-resume-link]");
+      const title = host.querySelector<HTMLElement>("[data-resume-title]");
+      const meta = host.querySelector<HTMLElement>("[data-resume-meta]");
+      // The next step is the first one not yet opened, not the one after the
+      // last visit — someone who skipped ahead should still be sent back to
+      // the gap rather than past it.
+      const next = steps.find((step) => !progress.read[step.id]);
+
+      if (link && title && meta) {
+        if (next) {
+          link.href = `/${next.id}`;
+          title.textContent = next.title;
+          meta.textContent = `Step ${next.number} of ${steps.length} — ${readCount} read so far`;
+        } else {
+          link.href = "/charts";
+          title.textContent = "You have read every step";
+          meta.textContent = `All ${steps.length} done. The charts are the part worth keeping open.`;
+        }
+        host.hidden = false;
+      }
+    }
+
+    host
+      .querySelector<HTMLButtonElement>("[data-resume-reset]")
+      ?.addEventListener("click", () => {
+        clearProgress();
+        host.hidden = true;
+      });
+  }
+</script>

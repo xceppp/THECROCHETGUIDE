@@ -104,7 +104,12 @@ const breadcrumbSchema = {
   modifiedTime={post.data.updatedDate}
   schema={[articleSchema, breadcrumbSchema]}
 >
-  <article class="mx-auto max-w-3xl px-6 py-10 sm:px-8 sm:py-14">
+  {/* Only course steps carry the slug, so opening a standalone article never
+      counts toward progress. */}
+  <article
+    class="mx-auto max-w-3xl px-6 py-10 sm:px-8 sm:py-14"
+    data-course-slug={step ? post.id : undefined}
+  >
     <nav aria-label="Breadcrumb" class="no-print text-xs text-ink-faint">
       <a href="/" class="no-underline hover:text-terracotta-deep">Home</a>
       <span aria-hidden="true" class="mx-1.5">/</span>
@@ -255,9 +260,14 @@ const breadcrumbSchema = {
 </BaseLayout>
 
 <script>
+  import { markRead } from "../scripts/progress";
+
   document
     .querySelector<HTMLButtonElement>("[data-print]")
     ?.addEventListener("click", () => window.print());
+
+  const article = document.querySelector<HTMLElement>("[data-course-slug]");
+  if (article?.dataset.courseSlug) markRead(article.dataset.courseSlug);
 
   /**
    * Charts wider than the screen scroll sideways. Flag the ones that actually

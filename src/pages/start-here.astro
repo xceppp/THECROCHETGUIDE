@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import AdSlot from "../components/AdSlot.astro";
+import ResumeCard from "../components/ResumeCard.astro";
 import { getPathStages } from "../lib/learningPath";
 import { SITE } from "../config";
 
@@ -64,7 +65,16 @@ const schema = {
     </div>
   </section>
 
+  <ResumeCard />
+
   <div class="mx-auto max-w-4xl px-6 sm:px-8 py-12">
+    <p
+      data-progress-summary
+      class="no-print mb-8 rounded-lg border border-rule bg-paper-deep px-4 py-3 text-sm text-ink-soft"
+      hidden
+    >
+    </p>
+
     <ol class="space-y-12">
       {
         stages.map((stage, stageIndex) => (
@@ -82,10 +92,11 @@ const schema = {
                 <li>
                   <a
                     href={`/${step.post.id}`}
+                    data-step-slug={step.post.id}
                     class="group flex gap-4 py-4 no-underline"
                   >
                     <span
-                      class="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-rule text-xs text-ink-faint transition-colors group-hover:border-terracotta group-hover:text-terracotta-deep"
+                      class="mt-0.5 flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-rule text-xs text-ink-faint transition-colors group-hover:border-terracotta group-hover:text-terracotta-deep group-data-[read]:border-terracotta group-data-[read]:bg-terracotta group-data-[read]:text-paper"
                       aria-hidden="true"
                     >
                       {step.number}
@@ -97,11 +108,14 @@ const schema = {
                       <span class="mt-1 block text-sm leading-relaxed text-ink-soft">
                         {step.post.data.description}
                       </span>
-                      {step.post.data.printable && (
-                        <span class="mt-1.5 inline-block text-xs text-ink-faint">
-                          Printable
+                      <span class="mt-1.5 flex flex-wrap gap-x-3 text-xs">
+                        <span class="hidden font-medium text-terracotta-deep group-data-[read]:inline">
+                          Read
                         </span>
-                      )}
+                        {step.post.data.printable && (
+                          <span class="text-ink-faint">Printable</span>
+                        )}
+                      </span>
                     </span>
                   </a>
                 </li>
@@ -127,3 +141,27 @@ const schema = {
     </div>
   </div>
 </BaseLayout>
+
+<script>
+  import { getProgress } from "../scripts/progress";
+
+  const progress = getProgress();
+  const links = document.querySelectorAll<HTMLAnchorElement>("[data-step-slug]");
+
+  let read = 0;
+  for (const link of links) {
+    const slug = link.dataset.stepSlug;
+    if (!slug || !progress.read[slug]) continue;
+    link.setAttribute("data-read", "");
+    read += 1;
+  }
+
+  const summary = document.querySelector<HTMLElement>("[data-progress-summary]");
+  if (summary && read > 0) {
+    summary.textContent =
+      read === links.length
+        ? `You have read all ${links.length} steps.`
+        : `You have read ${read} of ${links.length} steps. They are marked below.`;
+    summary.hidden = false;
+  }
+</script>
