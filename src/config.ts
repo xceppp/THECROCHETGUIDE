@@ -124,22 +124,20 @@ export const LEARNING_PATH: Array<{
     stage: "Before you pick up a hook",
     blurb:
       "Buy the right yarn and hook first. The wrong yarn makes learning genuinely harder, and most beginners buy it because it looks the nicest on the shelf.",
-    slugs: [
-      "best-yarn-for-beginners",
-      "best-crochet-hook-for-beginners",
-      "left-handed-crochet",
-    ],
+    slugs: ["what-you-need-to-start-crocheting", "left-handed-crochet"],
   },
   {
+    /**
+     * The hook-size and yarn-weight charts deliberately sit outside the course.
+     * They are lookup tables, not steps: nobody reads a conversion chart
+     * front to back, they open it when they need a number. Leaving them in
+     * put three reference tables between the reader and their first stitch.
+     * Both still publish, and both live in Charts & Tools.
+     */
     stage: "Learn to read crochet",
     blurb:
       "Crochet has its own shorthand and two rival dialects. Twenty minutes here and patterns stop looking like code.",
-    slugs: [
-      "crochet-abbreviations-chart",
-      "how-to-read-a-crochet-pattern",
-      "crochet-hook-size-conversion-chart",
-      "yarn-weight-chart",
-    ],
+    slugs: ["crochet-abbreviations-chart", "how-to-read-a-crochet-pattern"],
   },
   {
     stage: "Your first stitches",
@@ -151,11 +149,7 @@ export const LEARNING_PATH: Array<{
     stage: "Shaping and working in circles",
     blurb:
       "Everything that is not a rectangle is made here — hats, toys, bags, anything round or curved.",
-    slugs: [
-      "crochet-increase-decrease",
-      "how-to-crochet-a-magic-ring",
-      "crochet-in-the-round",
-    ],
+    slugs: ["crochet-increase-decrease", "crochet-in-the-round"],
   },
   {
     stage: "Color and finishing",
