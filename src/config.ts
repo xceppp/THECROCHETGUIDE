@@ -44,7 +44,7 @@ export const ADSENSE_SLOTS = {
  * (Settings > Claimed accounts > Claim website > Add HTML tag). Paste only the
  * content value here, not the whole tag. Requires the domain to be live first.
  */
-export const PINTEREST_DOMAIN_VERIFY = "";
+export const PINTEREST_DOMAIN_VERIFY = "188ca0119c04dcf1a0be0c3824e6b61b";
 
 /**
  * Only accounts that actually exist belong here. Every entry is rendered as a
