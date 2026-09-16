@@ -7,13 +7,17 @@ interface Props {
   /** First step of the course, so the primary button goes somewhere useful. */
   firstStepSlug?: string;
   totalSteps: number;
+  halloween?: boolean;
 }
 
-const { firstStepSlug, totalSteps } = Astro.props;
+const { firstStepSlug, totalSteps, halloween = false } = Astro.props;
 ---
 
 <section
-  class="no-print relative overflow-hidden border-b border-rule bg-paper-deep"
+  class:list={[
+    "no-print relative overflow-hidden border-b border-rule bg-paper-deep",
+    halloween && "ring-1 ring-inset ring-terracotta/25",
+  ]}
 >
   {/* The cover art carries no text of its own, so the headline below stays
       real markup. Words baked into an image are invisible to Google and to
@@ -28,8 +32,40 @@ const { firstStepSlug, totalSteps } = Astro.props;
     sizes="100vw"
     loading="eager"
     fetchpriority="high"
-    class="pointer-events-none absolute inset-0 h-full w-full object-cover object-bottom"
+    class="hero-cover-image pointer-events-none absolute inset-0 h-full w-full object-cover object-bottom"
   />
+
+  {
+    halloween && (
+      <svg
+        class="pointer-events-none absolute top-3 right-4 h-14 w-14 text-terracotta-deep opacity-70 sm:top-5 sm:right-8 sm:h-16 sm:w-16"
+        viewBox="0 0 64 64"
+        fill="none"
+        aria-hidden="true"
+        focusable="false"
+      >
+        <path
+          d="M32 10c2 0 4 1.2 5 3.2 1-1.2 2.4-2 4-2 3.2 0 5.2 3.2 5.2 6.4 0 1.2-.3 2.3-.9 3.2 6.4 2 10.7 7.8 10.7 14.7 0 9.8-9.8 17.8-22 17.8S12 45.1 12 35.3c0-6.9 4.3-12.7 10.7-14.7A6.2 6.2 0 0 1 21.8 17.4c0-3.2 2-6.4 5.2-6.4 1.6 0 3 .8 4 2 1-2 3-3.2 5-3.2Z"
+          stroke="currentColor"
+          stroke-width="1.6"
+          fill="color-mix(in srgb, currentColor 12%, transparent)"
+        ></path>
+        <path
+          d="M32 6c0 4-.8 7.5-2.2 9.5"
+          stroke="currentColor"
+          stroke-width="1.6"
+          stroke-linecap="round"
+        ></path>
+        <path
+          d="M24 34l4 2.5L32 30l4 6.5 4-2.5"
+          stroke="currentColor"
+          stroke-width="1.4"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        ></path>
+      </svg>
+    )
+  }
 
   {/* Same width and padding as the header, so the headline lines up with the
       logo above it rather than starting at a random offset. */}
@@ -37,39 +73,74 @@ const { firstStepSlug, totalSteps } = Astro.props;
     <p
       class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase"
     >
-      Welcome
+      {halloween ? "Halloween season" : "Welcome"}
     </p>
 
     <h1
       class="mt-4 max-w-2xl font-serif text-4xl leading-tight tracking-tight sm:text-5xl"
     >
-      Crochet answers without the guesswork
+      {
+        halloween
+          ? "Halloween crochet, explained slowly"
+          : "Crochet answers without the guesswork"
+      }
     </h1>
 
     <p class="mt-6 max-w-xl text-lg leading-relaxed text-ink-soft">
-      Most crochet instructions explain everything except the part you are stuck
-      on. This site does the opposite: plain-English tutorials, printable
-      charts, and honest answers about hooks and yarn — arranged in the order
-      you actually need them.
+      {
+        halloween ? (
+          <>
+            Pumpkins, ghosts, bats, and spiders — taught as real techniques, not
+            mood boards. Start with a beginner project, or jump back into the{" "}
+            {totalSteps}-step course when you want the foundations.
+          </>
+        ) : (
+          <>
+            Most crochet instructions explain everything except the part you are
+            stuck on. This site does the opposite: plain-English tutorials,
+            printable charts, and honest answers about hooks and yarn — arranged
+            in the order you actually need them.
+          </>
+        )
+      }
     </p>
 
     <div class="mt-9 flex flex-wrap items-center gap-3">
       {
-        firstStepSlug && (
-          <a
-            href="/start-here"
-            class="rounded-full bg-terracotta px-6 py-2.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
-          >
-            Start the {totalSteps}-step course
-          </a>
+        halloween ? (
+          <>
+            <a
+              href="/tutorials"
+              class="rounded-full bg-terracotta px-6 py-2.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
+            >
+              Browse Halloween tutorials
+            </a>
+            <a
+              href="/start-here"
+              class="rounded-full border border-rule bg-paper px-6 py-2.5 font-medium text-ink-soft no-underline transition-colors hover:border-terracotta hover:text-terracotta-deep"
+            >
+              Or start the course
+            </a>
+          </>
+        ) : (
+          <>
+            {firstStepSlug && (
+              <a
+                href="/start-here"
+                class="rounded-full bg-terracotta px-6 py-2.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
+              >
+                Start the {totalSteps}-step course
+              </a>
+            )}
+            <a
+              href="/charts"
+              class="rounded-full border border-rule bg-paper px-6 py-2.5 font-medium text-ink-soft no-underline transition-colors hover:border-terracotta hover:text-terracotta-deep"
+            >
+              Jump to the charts
+            </a>
+          </>
         )
       }
-      <a
-        href="/charts"
-        class="rounded-full border border-rule bg-paper px-6 py-2.5 font-medium text-ink-soft no-underline transition-colors hover:border-terracotta hover:text-terracotta-deep"
-      >
-        Jump to the charts
-      </a>
     </div>
 
     {/* ink-soft rather than ink-faint: this row can land over a peach blob,
@@ -78,13 +149,29 @@ const { firstStepSlug, totalSteps } = Astro.props;
       class="mt-9 flex flex-wrap gap-x-5 gap-y-1.5 text-sm text-ink-soft"
       aria-label={`Why use ${SITE.name}`}
     >
-      <li>Free, always</li>
-      <li aria-hidden="true">&middot;</li>
-      <li>No email required</li>
-      <li aria-hidden="true">&middot;</li>
-      <li>US terms, with UK conversions</li>
-      <li aria-hidden="true">&middot;</li>
-      <li>Printable</li>
+      {
+        halloween ? (
+          <>
+            <li>US terms</li>
+            <li aria-hidden="true">&middot;</li>
+            <li>Beginner-friendly shapes</li>
+            <li aria-hidden="true">&middot;</li>
+            <li>Printable</li>
+            <li aria-hidden="true">&middot;</li>
+            <li>No email required</li>
+          </>
+        ) : (
+          <>
+            <li>Free, always</li>
+            <li aria-hidden="true">&middot;</li>
+            <li>No email required</li>
+            <li aria-hidden="true">&middot;</li>
+            <li>US terms, with UK conversions</li>
+            <li aria-hidden="true">&middot;</li>
+            <li>Printable</li>
+          </>
+        )
+      }
     </ul>
   </div>
 </section>

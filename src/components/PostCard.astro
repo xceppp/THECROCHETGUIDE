@@ -15,6 +15,9 @@ const date = post.data.pubDate.toLocaleDateString("en-US", {
   day: "numeric",
   year: "numeric",
 });
+const isHalloween = post.data.tags.some(
+  (tag) => tag.toLowerCase() === "halloween",
+);
 ---
 
 <article class:list={["group", lead && "border-b border-rule pb-8"]}>
@@ -25,6 +28,13 @@ const date = post.data.pubDate.toLocaleDateString("en-US", {
     >
       {category.label}
     </a>
+    {
+      isHalloween && (
+        <span class="rounded-full border border-terracotta/40 bg-terracotta/10 px-2 py-0.5 font-medium tracking-wide text-terracotta-deep uppercase">
+          Halloween
+        </span>
+      )
+    }
     {
       post.data.level && (
         <span class="rounded-full border border-rule px-2 py-0.5 capitalize">

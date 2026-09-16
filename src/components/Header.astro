@@ -2,6 +2,14 @@
 import { Image } from "astro:assets";
 import mark from "../assets/mark.png";
 import { SITE, NAV, SOCIALS } from "../config";
+import HalloweenIcon from "./HalloweenIcon.astro";
+import ThemeToggle from "./ThemeToggle.astro";
+
+interface Props {
+  halloween?: boolean;
+}
+
+const { halloween = false } = Astro.props;
 
 const path = Astro.url.pathname;
 const isActive = (href: string) => path === href || path.startsWith(`${href}/`);
@@ -15,6 +23,9 @@ const isActive = (href: string) => path === href || path.startsWith(`${href}/`);
  */
 const cta = NAV.find((item) => item.href === "/start-here");
 const links = NAV.filter((item) => item.href !== "/start-here");
+
+/** Subtle seasonal accent on a few browse links — not a nav redesign. */
+const halloweenNavHrefs = new Set(["/tutorials", "/free-patterns"]);
 ---
 
 <header class="no-print border-b border-rule bg-paper">
@@ -32,66 +43,73 @@ const links = NAV.filter((item) => item.href !== "/start-here");
       </span>
     </a>
 
-    {/* Six links plus the wordmark need roughly 780px. Below that the inline
-        row would wrap into a second line, so the drawer takes over instead. */}
-    <nav aria-label="Main" class="hidden lg:block">
-      <ul class="flex items-center gap-x-6 text-sm">
-        {
-          links.map((item) => (
-            <li>
-              <a
-                href={item.href}
-                aria-current={isActive(item.href) ? "page" : undefined}
-                class:list={[
-                  "no-underline transition-colors hover:text-terracotta-deep",
-                  isActive(item.href)
-                    ? "text-terracotta-deep underline decoration-1 underline-offset-4"
-                    : "text-ink-soft",
-                ]}
-              >
-                {item.label}
-              </a>
-            </li>
-          ))
-        }
-        {
-          cta && (
-            <li class="flex items-center gap-x-6">
-              <span class="h-4 w-px bg-rule" aria-hidden="true" />
-              <a
-                href={cta.href}
-                aria-current={isActive(cta.href) ? "page" : undefined}
-                class="rounded-full bg-terracotta px-4 py-1.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
-              >
-                {cta.label}
-              </a>
-            </li>
-          )
-        }
-      </ul>
-    </nav>
+    <div class="flex items-center gap-2 sm:gap-3">
+      {/* Six links plus the wordmark need roughly 780px. Below that the inline
+          row would wrap into a second line, so the drawer takes over instead. */}
+      <nav aria-label="Main" class="hidden lg:block">
+        <ul class="flex items-center gap-x-6 text-sm">
+          {
+            links.map((item) => (
+              <li>
+                <a
+                  href={item.href}
+                  aria-current={isActive(item.href) ? "page" : undefined}
+                  class:list={[
+                    "inline-flex items-center gap-1.5 no-underline transition-colors hover:text-terracotta-deep",
+                    isActive(item.href)
+                      ? "text-terracotta-deep underline decoration-1 underline-offset-4"
+                      : "text-ink-soft",
+                  ]}
+                >
+                  {halloween && halloweenNavHrefs.has(item.href) && (
+                    <HalloweenIcon class="text-terracotta-deep" />
+                  )}
+                  {item.label}
+                </a>
+              </li>
+            ))
+          }
+          {
+            cta && (
+              <li class="flex items-center gap-x-6">
+                <span class="h-4 w-px bg-rule" aria-hidden="true" />
+                <a
+                  href={cta.href}
+                  aria-current={isActive(cta.href) ? "page" : undefined}
+                  class="rounded-full bg-terracotta px-4 py-1.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
+                >
+                  {cta.label}
+                </a>
+              </li>
+            )
+          }
+        </ul>
+      </nav>
 
-    <button
-      type="button"
-      class="-mr-1.5 flex items-center gap-2 rounded p-1.5 text-sm text-ink-soft transition-colors hover:text-terracotta-deep lg:hidden"
-      data-menu-open
-      aria-expanded="false"
-      aria-controls="site-menu"
-    >
-      <svg
-        width="22"
-        height="22"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="1.6"
-        stroke-linecap="round"
-        aria-hidden="true"
+      <ThemeToggle />
+
+      <button
+        type="button"
+        class="-mr-1.5 flex items-center gap-2 rounded p-1.5 text-sm text-ink-soft transition-colors hover:text-terracotta-deep lg:hidden"
+        data-menu-open
+        aria-expanded="false"
+        aria-controls="site-menu"
       >
-        <path d="M4 7h16M4 12h16M4 17h16"></path>
-      </svg>
-      Menu
-    </button>
+        <svg
+          width="22"
+          height="22"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.6"
+          stroke-linecap="round"
+          aria-hidden="true"
+        >
+          <path d="M4 7h16M4 12h16M4 17h16"></path>
+        </svg>
+        Menu
+      </button>
+    </div>
   </div>
 </header>
 
@@ -167,12 +185,15 @@ const links = NAV.filter((item) => item.href !== "/start-here");
                 href={item.href}
                 aria-current={isActive(item.href) ? "page" : undefined}
                 class:list={[
-                  "block rounded-lg px-4 py-3 no-underline transition-colors hover:bg-paper-deep",
+                  "flex items-center gap-2 rounded-lg px-4 py-3 no-underline transition-colors hover:bg-paper-deep",
                   isActive(item.href)
                     ? "bg-paper-deep font-medium text-terracotta-deep"
                     : "text-ink",
                 ]}
               >
+                {halloween && halloweenNavHrefs.has(item.href) && (
+                  <HalloweenIcon class="text-terracotta-deep" />
+                )}
                 {item.label}
               </a>
             </li>

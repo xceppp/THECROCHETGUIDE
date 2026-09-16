@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+/* Class-based dark mode (html.dark), not only prefers-color-scheme. */
+@custom-variant dark (&:where(.dark, .dark *));
+
 /* --------------------------------------------------------------------------
    Palette: warm paper, ink brown, terracotta accent, soft sage.
    Chosen to read like a well-made craft book rather than a tech blog.
@@ -30,6 +33,10 @@
   }
 }
 
+html {
+  color-scheme: light;
+}
+
 body {
   background-color: var(--color-paper);
   color: var(--color-ink);
@@ -38,9 +45,77 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+/* --------------------------------------------------------------------------
+   Dark mode. Warm charcoal paper, light ink — still a craft book, not a
+   tech dashboard. Class is set on <html> before paint (see BaseLayout).
+   -------------------------------------------------------------------------- */
+html.dark {
+  color-scheme: dark;
+  --color-paper: #1c1917;
+  --color-paper-deep: #141211;
+  --color-ink: #f0e8df;
+  --color-ink-soft: #b5a99c;
+  --color-ink-faint: #8a7f74;
+  --color-terracotta: #d4846a;
+  --color-terracotta-deep: #e09a84;
+  --color-sage: #8fa083;
+  --color-rule: #3a342e;
+}
+
+html.dark .hero-cover-image {
+  opacity: 0.4;
+}
+
+/* --------------------------------------------------------------------------
+   Halloween skin. Accent tokens shift; paper/ink follow light or dark base.
+   Toggle via body.theme-halloween (see HALLOWEEN_THEME in config.ts).
+   -------------------------------------------------------------------------- */
+body.theme-halloween {
+  --color-terracotta: #d9731f;
+  --color-terracotta-deep: #b85c14;
+  --color-sage: #4b2e5a;
+  --color-rule: #d9cfc3;
+  --halloween-charcoal: #211d1d;
+}
+
+html.dark body.theme-halloween {
+  --color-terracotta: #e8903a;
+  --color-terracotta-deep: #f0a85c;
+  --color-sage: #9b7aab;
+  --color-rule: #4a3f38;
+  --halloween-charcoal: #f0e8df;
+}
+
+body.theme-halloween :focus-visible {
+  outline-color: var(--color-terracotta);
+}
+
 :focus-visible {
   outline: 2px solid var(--color-terracotta);
   outline-offset: 2px;
+}
+
+/* Thin stitched divider used between homepage sections while the skin is on. */
+.halloween-divider {
+  display: none;
+  height: 1.25rem;
+  margin: 0;
+  border: 0;
+  background:
+    radial-gradient(circle at 50% 50%, var(--halloween-charcoal, #211d1d) 1.1px, transparent 1.2px)
+      0 50% / 0.7rem 100% repeat-x,
+    linear-gradient(
+      to right,
+      transparent 0%,
+      color-mix(in srgb, var(--color-terracotta) 55%, transparent) 18%,
+      color-mix(in srgb, var(--color-terracotta) 55%, transparent) 82%,
+      transparent 100%
+    )
+      0 50% / 100% 1px no-repeat;
+}
+
+body.theme-halloween .halloween-divider {
+  display: block;
 }
 
 /* --------------------------------------------------------------------------
@@ -210,7 +285,11 @@ body {
 }
 
 .prose tbody tr:nth-child(even) {
-  background-color: color-mix(in srgb, var(--color-paper-deep) 45%, white);
+  background-color: color-mix(
+    in srgb,
+    var(--color-paper-deep) 55%,
+    var(--color-paper)
+  );
 }
 
 .prose img {
@@ -259,6 +338,20 @@ body {
 @media print {
   .no-print {
     display: none !important;
+  }
+
+  /* Print always uses the light craft-book palette, even if the screen is dark. */
+  html.dark {
+    color-scheme: light;
+    --color-paper: #fdfaf6;
+    --color-paper-deep: #f6efe6;
+    --color-ink: #2f2a26;
+    --color-ink-soft: #6d635a;
+    --color-ink-faint: #9a9088;
+    --color-terracotta: #b0604a;
+    --color-terracotta-deep: #8f4a37;
+    --color-sage: #7d8b72;
+    --color-rule: #e6ddd1;
   }
 
   body {

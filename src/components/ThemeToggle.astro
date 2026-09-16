@@ -1,0 +1,98 @@
+---
+/**
+ * Light/dark toggle. Preference is stored in localStorage (`tcg-theme`).
+ * The FOUC-prevention script in BaseLayout applies the class before paint.
+ */
+---
+
+<button
+  type="button"
+  class="rounded p-1.5 text-ink-soft transition-colors hover:text-terracotta-deep"
+  data-theme-toggle
+  aria-label="Switch to dark mode"
+>
+  <svg
+    data-theme-icon="sun"
+    class="hidden h-[1.35rem] w-[1.35rem] dark:block"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="1.6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    aria-hidden="true"
+  >
+    <circle cx="12" cy="12" r="4"></circle>
+    <path
+      d="M12 3v1.5M12 19.5V21M4.9 4.9l1.1 1.1M18 18l1.1 1.1M3 12h1.5M19.5 12H21M4.9 19.1l1.1-1.1M18 6l1.1-1.1"
+    ></path>
+  </svg>
+  <svg
+    data-theme-icon="moon"
+    class="block h-[1.35rem] w-[1.35rem] dark:hidden"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="1.6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    aria-hidden="true"
+  >
+    <path d="M20 13.5A7.5 7.5 0 1 1 10.5 4 6 6 0 0 0 20 13.5z"></path>
+  </svg>
+</button>
+
+<script>
+  const STORAGE_KEY = "tcg-theme";
+
+  const isDark = () => document.documentElement.classList.contains("dark");
+
+  const themeColor = () => {
+    if (isDark()) return "#1c1917";
+    if (document.body.classList.contains("theme-halloween")) return "#d9731f";
+    return "#fdfaf6";
+  };
+
+  const syncUi = () => {
+    const dark = isDark();
+    document.documentElement.dataset.theme = dark ? "dark" : "light";
+
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute("content", themeColor());
+
+    document.querySelectorAll<HTMLButtonElement>("[data-theme-toggle]").forEach((button) => {
+      button.setAttribute(
+        "aria-label",
+        dark ? "Switch to light mode" : "Switch to dark mode",
+      );
+    });
+  };
+
+  const setDark = (dark: boolean) => {
+    document.documentElement.classList.toggle("dark", dark);
+    try {
+      localStorage.setItem(STORAGE_KEY, dark ? "dark" : "light");
+    } catch {
+      /* private mode / blocked storage */
+    }
+    syncUi();
+  };
+
+  document.querySelectorAll<HTMLButtonElement>("[data-theme-toggle]").forEach((button) => {
+    button.addEventListener("click", () => setDark(!isDark()));
+  });
+
+  syncUi();
+
+  try {
+    window
+      .matchMedia("(prefers-color-scheme: dark)")
+      .addEventListener("change", (event) => {
+        const stored = localStorage.getItem(STORAGE_KEY);
+        if (stored === "light" || stored === "dark") return;
+        setDark(event.matches);
+      });
+  } catch {
+    /* ignore */
+  }
+</script>

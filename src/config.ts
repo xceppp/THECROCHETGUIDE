@@ -47,6 +47,13 @@ export const ADSENSE_SLOTS = {
 export const PINTEREST_DOMAIN_VERIFY = "188ca0119c04dcf1a0be0c3824e6b61b";
 
 /**
+ * Google Search Console HTML-tag verification. Paste only the content value
+ * from the meta tag Google gives you (not the whole tag).
+ */
+export const GOOGLE_SITE_VERIFICATION =
+  "wk11YF_jgiO9ny1H-lGbQGFpeNjH_oC8KAVWcABtLcQ";
+
+/**
  * Only accounts that actually exist belong here. Every entry is rendered as a
  * live link in the footer and is published as a `sameAs` claim in the site's
  * structured data, so a handle that does not resolve is a broken link and a
@@ -83,7 +90,7 @@ export const CATEGORIES: Record<
     slug: "free-patterns",
     label: "Free Patterns",
     blurb:
-      "Hand-picked free patterns from designers we trust, sorted by skill level. Every link goes straight to the designer.",
+      "Free patterns hosted here, plus hand-picked links to designers we trust. Every external link goes straight to the designer.",
   },
   gear: {
     slug: "gear",
@@ -101,6 +108,23 @@ export const NAV = [
   { label: "Hooks & Yarn", href: "/gear" },
   { label: "About", href: "/about" },
 ];
+
+/**
+ * Seasonal Halloween skin. Applied as `theme-halloween` on <body> when active.
+ *
+ * - `force: true`  → always on (use while previewing before October)
+ * - `force: false` → always off (kill switch after the season)
+ * - `force: null`  → follow the date window below (inclusive)
+ *
+ * Suggested live window: October 1 – November 2.
+ * force is true for now so the skin is visible before the window opens;
+ * set it to null once you are ready to rely on the calendar alone.
+ */
+export const HALLOWEEN_THEME = {
+  force: true as boolean | null,
+  start: { month: 10, day: 1 },
+  end: { month: 11, day: 2 },
+} as const;
 
 /**
  * The guided route through the site, in teaching order.

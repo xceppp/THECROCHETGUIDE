@@ -7,9 +7,15 @@ import WelcomeBanner from "../components/WelcomeBanner.astro";
 import ResumeCard from "../components/ResumeCard.astro";
 import { getPathStages } from "../lib/learningPath";
 import { SITE, CATEGORIES } from "../config";
+import { isHalloweenThemeActive } from "../lib/seasonalTheme";
 
 const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
+);
+
+const halloween = isHalloweenThemeActive();
+const halloweenPosts = posts.filter((post) =>
+  post.data.tags.some((tag) => tag.toLowerCase() === "halloween"),
 );
 
 const [lead, ...rest] = posts;
@@ -21,9 +27,38 @@ const firstStep = stages[0]?.steps[0]?.post;
 ---
 
 <BaseLayout title={SITE.name} description={SITE.description}>
-  <WelcomeBanner firstStepSlug={firstStep?.id} totalSteps={totalSteps} />
+  <WelcomeBanner
+    firstStepSlug={firstStep?.id}
+    totalSteps={totalSteps}
+    halloween={halloween}
+  />
 
   <ResumeCard />
+
+  <hr class="halloween-divider mx-auto max-w-4xl" aria-hidden="true" />
+
+  {
+    halloween && halloweenPosts.length > 0 && (
+      <section class="border-b border-rule">
+        <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
+          <h2 class="font-serif text-2xl tracking-tight">
+            Halloween projects
+          </h2>
+          <p class="mt-2 leading-relaxed text-ink-soft">
+            Seasonal tutorials tagged Halloween. Same plain-English voice as the
+            rest of the guide — no fluff, no mystery abbreviations.
+          </p>
+          <div class="mt-6 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
+            {halloweenPosts.slice(0, 5).map((post) => (
+              <PostCard post={post} />
+            ))}
+          </div>
+        </div>
+      </section>
+    )
+  }
+
+  <hr class="halloween-divider mx-auto max-w-4xl" aria-hidden="true" />
 
   {
     stages.length > 0 && (
@@ -74,6 +109,8 @@ const firstStep = stages[0]?.steps[0]?.post;
       </section>
     )
   }
+
+  <hr class="halloween-divider mx-auto max-w-4xl" aria-hidden="true" />
 
   <div class="mx-auto max-w-4xl px-6 sm:px-8 py-12">
     <div class="mb-12 flex flex-wrap gap-x-3 gap-y-2 text-sm">

@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
-import { SITE, SOCIALS, ADSENSE_CLIENT, PINTEREST_DOMAIN_VERIFY } from "../config";
+import { SITE, SOCIALS, ADSENSE_CLIENT, PINTEREST_DOMAIN_VERIFY, GOOGLE_SITE_VERIFICATION } from "../config";
+import { isHalloweenThemeActive } from "../lib/seasonalTheme";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 
@@ -55,6 +56,15 @@ const organisation = {
 };
 
 const schemas = [organisation, ...(schema ? [schema].flat() : [])];
+
+/** Legal pages stay visually neutral even during the seasonal skin. */
+const legalPaths = new Set([
+  "/privacy-policy",
+  "/terms",
+  "/disclosures",
+]);
+const halloween =
+  isHalloweenThemeActive() && !legalPaths.has(Astro.url.pathname.replace(/\/$/, "") || "/");
 ---
 
 <!doctype html>
@@ -62,6 +72,21 @@ const schemas = [organisation, ...(schema ? [schema].flat() : [])];
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {/* Apply theme before paint so the first frame is not a light→dark flash. */}
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem("tcg-theme");
+          var prefersDark = window.matchMedia(
+            "(prefers-color-scheme: dark)",
+          ).matches;
+          var dark =
+            stored === "dark" || (stored !== "light" && prefersDark);
+          if (dark) document.documentElement.classList.add("dark");
+          document.documentElement.dataset.theme = dark ? "dark" : "light";
+        } catch (_) {}
+      })();
+    </script>
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
@@ -109,6 +134,14 @@ const schemas = [organisation, ...(schema ? [schema].flat() : [])];
         <meta name="p:domain_verify" content={PINTEREST_DOMAIN_VERIFY} />
       )
     }
+    {
+      GOOGLE_SITE_VERIFICATION && (
+        <meta
+          name="google-site-verification"
+          content={GOOGLE_SITE_VERIFICATION}
+        />
+      )
+    }
 
     <link
       rel="alternate"
@@ -119,7 +152,7 @@ const schemas = [organisation, ...(schema ? [schema].flat() : [])];
     <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
     <link rel="icon" href="/icon-512.png" type="image/png" sizes="512x512" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <meta name="theme-color" content="#fdfaf6" />
+    <meta name="theme-color" content={halloween ? "#d9731f" : "#fdfaf6"} />
 
     <script
       is:inline
@@ -139,17 +172,17 @@ const schemas = [organisation, ...(schema ? [schema].flat() : [])];
       )
     }
   </head>
-  <body class="flex min-h-screen flex-col">
+  <body class:list={["flex min-h-screen flex-col", halloween && "theme-halloween"]}>
     <a
       href="#main"
       class="no-print sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:rounded focus:bg-ink focus:px-3 focus:py-2 focus:text-paper"
     >
       Skip to content
     </a>
-    <Header />
+    <Header halloween={halloween} />
     <main id="main" class="flex-1">
       <slot />
     </main>
-    <Footer />
+    <Footer halloween={halloween} />
   </body>
 </html>
