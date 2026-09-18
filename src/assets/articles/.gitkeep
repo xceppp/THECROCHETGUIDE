@@ -1,0 +1,8 @@
+# Generated article images go here.
+#
+# Inside src/ rather than public/ on purpose: Astro only optimises images it can
+# resolve at build time, so anything in public/ would ship at full weight and
+# cost the page speed the ad revenue depends on.
+#
+# Filenames are specified in /image-prompts. They are referenced by the Markdown,
+# so a typo is a broken image.
