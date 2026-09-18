@@ -4,11 +4,12 @@ One file per article, numbered in course order. Each file lists every image that
 article needs, with the prompt to generate it, the filename to save it as, the
 alt text, and the caption that will run underneath it.
 
-57 images across 19 articles.
+75 images across 25 articles.
 
-`article-01` to `article-14` are the core course articles. `article-15` to
-`article-19` are the Halloween skills articles. The five `free-pattern-*` pages
-are not covered yet — see the note at the bottom.
+`article-01` to `article-14` are the core course articles, `article-15` to
+`article-19` the Halloween skills articles, and `article-20` to `article-25`
+the Christmas set. The `free-pattern-*` pages are deliberately not covered —
+see the note at the bottom.
 
 ## How to use this
 
@@ -27,8 +28,8 @@ are not covered yet — see the note at the bottom.
 
 Every prompt below already ends with this. It is repeated in full in each one
 so you can copy a single prompt without assembling anything, and it is worded
-identically everywhere so all 57 images read as one set rather than fifty-seven
-unrelated stock photos.
+identically everywhere so all 75 images read as one set rather than
+seventy-five unrelated stock photos.
 
 ```
 Shot from directly overhead on a pale oak table, bright soft daylight from the
@@ -65,17 +66,22 @@ an image has a detail that decides whether the technique works, the file notes
 what to check before accepting the generation. The recurring one: any image of
 a magic ring must show the hook passing under **both** strands of the loop.
 
-## Still to decide: the free-pattern pages
+## The free-pattern pages get real photographs, not prompts
 
-Five pages have no prompts yet — `free-pattern-pumpkin-amigurumi`,
-`free-pattern-ghost-amigurumi`, `free-pattern-bat-garland`,
-`free-pattern-spider-and-web` and `free-pattern-halloween-coasters`. All five
-are still `draft: true`.
+Nine pages have no prompts and are not going to get any:
+`free-pattern-pumpkin-amigurumi`, `free-pattern-ghost-amigurumi`,
+`free-pattern-bat-garland`, `free-pattern-spider-and-web`,
+`free-pattern-halloween-coasters`, `free-pattern-gnome`,
+`free-pattern-snowflake-set`, `free-pattern-mini-christmas-trees` and
+`free-pattern-santa-amigurumi`. All nine are `draft: true`.
 
-They are held back because a pattern page wants the one image the rest of this
-set deliberately avoids: the finished thing. Every other image here is hands,
-stitches, components or a swatch, because `/disclosures` promises no generated
-image on the site is presented as a real finished object. A generated photo of
-a completed pumpkin at the top of a pumpkin pattern is exactly that promise
-being broken, and it is the kind of thing an AdSense reviewer reads the
-disclosures page specifically to check.
+A pattern page wants the one image the rest of this set deliberately avoids:
+the finished thing. Every image in these files is hands, stitches, components
+or a swatch, because `/disclosures` promises that no generated image on the
+site is presented as a real finished object.
+
+Those pages are waiting on **photographs of physical samples** instead. That is
+also why each draft carries a warning box saying its measurements are
+unverified — the sizes become real when someone makes the thing and measures
+it. Real photographs also outperform generated images on Pinterest, so this
+costs nothing in traffic terms.

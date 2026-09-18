@@ -13,6 +13,8 @@ The whole answer: **a 5 mm hook, which is a US size H/8, in plain aluminum, and 
 
 That is not a budget recommendation. This specific pairing is the one that lets you *see your stitches*, and being able to see your stitches is the entire difficulty of learning crochet. Everything below is for when you want to know why, or when your hands have started complaining.
 
+![A single aluminum crochet hook beside one ball of ivory worsted-weight yarn](../../assets/articles/what-you-need-to-start-crocheting-1.jpg "Illustration. This is genuinely the whole shopping list.")
+
 <div class="tip">
 
 **Disclosure:** this guide contains affiliate links where products are named, which means a purchase may earn this site a small commission at no extra cost to you. No company sent anything for review and no commission influences what is recommended here. See the [disclosures page](/disclosures).
@@ -30,6 +32,8 @@ Buy one hook, not a set. Learn on it. Then buy a set once you know whether you a
 ### Head shape: the thing nobody explains
 
 This matters more than the material, and almost no beginner is told about it.
+
+![Two crochet hook heads side by side, one with a pointed tapered tip and one with a flat inline head](../../assets/articles/what-you-need-to-start-crocheting-2.jpg "Illustration. Tapered on the left, inline on the right. Most people develop a firm preference within a week.")
 
 **Tapered heads** — the classic Boye profile — have a pointed tip and a throat that narrows gradually. The point slides into tight stitches easily, which many people prefer for dense work like amigurumi. The taper means the loop can slip forward slightly, so stitch size varies a touch more.
 
@@ -75,6 +79,8 @@ For **dishcloths**, switch to a worsted cotton. **Lily Sugar'n Cream** and **Pea
 ### The five yarns that make learning harder
 
 None of these are bad yarns. They are all genuinely lovely for the right project. They are just poor teachers, and beginners buy them constantly because they are the most attractive things on the shelf.
+
+![Four balls of yarn in a row: smooth pale solid, very dark, variegated, and fuzzy](../../assets/articles/what-you-need-to-start-crocheting-3.jpg "Illustration. Only the first one shows you where to put the hook.")
 
 **Black and very dark colors.** Stitch definition disappears. You will be squinting, guessing where to insert the hook, and dropping stitches you cannot see. Experienced crocheters find dark yarn tiring; a beginner finds it defeating. Save it for your fifth project.
 
@@ -139,6 +145,8 @@ This is the most common reason people quit crochet, and it is usually fixable.
 The one accessory genuinely worth buying early is a **hook gauge**, a small metal plate with graduated holes, for a few dollars. It tells you the true size of any hook, including the unlabeled ones inherited in a bag and the ones whose printing has worn off. Since the letter stamped on a handle is not standardized between manufacturers, and the millimeter measurement is what patterns actually mean, this settles the question permanently.
 
 Beyond that: a blunt tapestry needle for weaving in ends, split-ring stitch markers, and a tape measure. That is the entire necessary kit.
+
+![A hook gauge plate, a blunt tapestry needle, split-ring stitch markers and a tape measure](../../assets/articles/what-you-need-to-start-crocheting-4.jpg "Illustration. The hook gauge is the one accessory worth buying early.")
 
 Three things to skip at the start:
 

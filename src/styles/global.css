@@ -297,6 +297,26 @@ body.theme-halloween .halloween-divider {
   border: 1px solid var(--color-rule);
 }
 
+/* Photographs are lit for the cream paper background. Against the dark
+   palette the same bright frame glares, so take the edge off it — the hero
+   cover is dimmed for the same reason. */
+html.dark .prose img {
+  filter: brightness(0.86) contrast(1.03);
+}
+
+.prose figure {
+  margin-top: 1.9em;
+  margin-bottom: 1.9em;
+}
+
+/* Astro writes the real width and height onto the image, so the box is
+   reserved before the file arrives and nothing shifts as it loads. */
+.prose figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .prose figcaption {
   font-size: 0.875rem;
   color: var(--color-ink-soft);
