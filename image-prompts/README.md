@@ -4,7 +4,11 @@ One file per article, numbered in course order. Each file lists every image that
 article needs, with the prompt to generate it, the filename to save it as, the
 alt text, and the caption that will run underneath it.
 
-42 images across 14 articles.
+57 images across 19 articles.
+
+`article-01` to `article-14` are the core course articles. `article-15` to
+`article-19` are the Halloween skills articles. The five `free-pattern-*` pages
+are not covered yet — see the note at the bottom.
 
 ## How to use this
 
@@ -23,7 +27,7 @@ alt text, and the caption that will run underneath it.
 
 Every prompt below already ends with this. It is repeated in full in each one
 so you can copy a single prompt without assembling anything, and it is worded
-identically everywhere so all 42 images read as one set rather than forty-two
+identically everywhere so all 57 images read as one set rather than fifty-seven
 unrelated stock photos.
 
 ```
@@ -35,6 +39,11 @@ stated otherwise. Bright modern craft photography, sharp focus, high clarity,
 natural colour, no plastic sheen. No text, no numerals, no watermark anywhere in
 the image. 3:2 horizontal.
 ```
+
+The Halloween files swap the ivory yarn for a seasonal colour and, where the
+yarn is black or white, ask for harder directional light — black yarn loses its
+stitch definition in soft light and white yarn blows out against pale oak.
+Everything else stays fixed, so the seasonal images still belong to the set.
 
 ## Two rules these prompts follow
 
@@ -55,3 +64,18 @@ These illustrate instructions, so a wrong image teaches the wrong thing. Where
 an image has a detail that decides whether the technique works, the file notes
 what to check before accepting the generation. The recurring one: any image of
 a magic ring must show the hook passing under **both** strands of the loop.
+
+## Still to decide: the free-pattern pages
+
+Five pages have no prompts yet — `free-pattern-pumpkin-amigurumi`,
+`free-pattern-ghost-amigurumi`, `free-pattern-bat-garland`,
+`free-pattern-spider-and-web` and `free-pattern-halloween-coasters`. All five
+are still `draft: true`.
+
+They are held back because a pattern page wants the one image the rest of this
+set deliberately avoids: the finished thing. Every other image here is hands,
+stitches, components or a swatch, because `/disclosures` promises no generated
+image on the site is presented as a real finished object. A generated photo of
+a completed pumpkin at the top of a pumpkin pattern is exactly that promise
+being broken, and it is the kind of thing an AdSense reviewer reads the
+disclosures page specifically to check.
