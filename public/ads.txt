@@ -1,3 +1,1 @@
-# Google AdSense authorized seller declaration.
-# https://crochetexplained.com/ads.txt
 google.com, pub-5737689254964633, DIRECT, f08c47fec0942fa0

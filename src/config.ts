@@ -8,7 +8,7 @@ export const SITE = {
   tagline: "Clear crochet answers, charts and tutorials",
   description:
     "Free crochet charts, conversion tables and step-by-step tutorials written in plain English. No fluff, no guesswork.",
-  url: "https://crochetexplained.com",
+  url: "https://www.crochetexplained.com",
   locale: "en-US",
   /** Shown on the About page and in every article byline. */
   author: {
