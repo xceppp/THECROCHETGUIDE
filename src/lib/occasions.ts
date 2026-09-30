@@ -99,9 +99,12 @@ export const OCCASIONS: Occasion[] = [
     eyebrow: "Halloween season",
     headline: "Halloween crochet, explained slowly",
     blurb:
-      "Pumpkins, ghosts, bats, and spiders — taught as real techniques, not mood boards.",
-    primaryCta: { label: "Browse Halloween tutorials", href: "/tutorials" },
-    secondaryCta: { label: "Or start the course", href: "/start-here" },
+      "Start with the orange ghost card wallet — flap, button, tiny ghost — then pumpkins, bats, and spiders taught as real techniques.",
+    primaryCta: {
+      label: "Make the Halloween card wallet",
+      href: "/halloween-crochet-card-wallet",
+    },
+    secondaryCta: { label: "More Halloween tutorials", href: "/tutorials" },
     calendarNote: "Seasonal amigurumi and colorwork",
   },
   {

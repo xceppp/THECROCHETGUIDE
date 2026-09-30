@@ -21,13 +21,25 @@ const bannerOccasion =
 
 const seasonalTag = occasion?.contentTag?.toLowerCase();
 const seasonalPosts = seasonalTag
-  ? posts.filter((post) =>
-      post.data.tags.some((tag) => tag.toLowerCase() === seasonalTag),
-    )
+  ? posts
+      .filter((post) =>
+        post.data.tags.some((tag) => tag.toLowerCase() === seasonalTag),
+      )
+      .sort((a, b) => Number(b.data.featured) - Number(a.data.featured))
   : [];
 
-const [lead, ...rest] = posts;
-const recent = rest.slice(0, 6);
+// Featured seasonal piece is pinned first on the homepage when the season is live.
+const featuredSeasonal = seasonalPosts[0] ?? null;
+const remaining = featuredSeasonal
+  ? posts.filter((post) => post.id !== featuredSeasonal.id)
+  : posts;
+// When a seasonal pin exists, it is the lead. Otherwise newest post leads.
+const lead = featuredSeasonal ?? remaining[0];
+const moreFrom = featuredSeasonal ? remaining : remaining.slice(1);
+const recent = moreFrom.slice(0, 6);
+const otherSeasonal = featuredSeasonal
+  ? seasonalPosts.filter((post) => post.id !== featuredSeasonal.id)
+  : seasonalPosts;
 
 const stages = await getPathStages();
 const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
@@ -61,11 +73,22 @@ const seasonalHeading =
             Seasonal tutorials for the current window. Same plain-English voice
             as the rest of the site.
           </p>
-          <div class="mt-6 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
-            {seasonalPosts.slice(0, 5).map((post) => (
-              <PostCard post={post} />
-            ))}
-          </div>
+          {
+            featuredSeasonal && (
+              <div class="mt-6">
+                <PostCard post={featuredSeasonal} lead />
+              </div>
+            )
+          }
+          {
+            otherSeasonal.length > 0 && (
+              <div class="mt-8 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
+                {otherSeasonal.slice(0, 4).map((post) => (
+                  <PostCard post={post} />
+                ))}
+              </div>
+            )
+          }
         </div>
       </section>
     )
@@ -153,12 +176,18 @@ const seasonalHeading =
         </p>
       ) : (
         <>
-          <h2 class="mt-14 text-xs font-semibold tracking-wider text-ink-faint uppercase">
-            Latest
-          </h2>
-          <div class="mt-5">
-            <PostCard post={lead} lead />
-          </div>
+          {
+            !featuredSeasonal && lead && (
+              <>
+                <h2 class="mt-14 text-xs font-semibold tracking-wider text-ink-faint uppercase">
+                  Latest
+                </h2>
+                <div class="mt-5">
+                  <PostCard post={lead} lead />
+                </div>
+              </>
+            )
+          }
 
           {recent.length > 0 && (
             <>

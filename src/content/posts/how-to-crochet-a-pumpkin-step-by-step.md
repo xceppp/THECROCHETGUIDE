@@ -1,11 +1,12 @@
 ---
 title: "How to Crochet a Pumpkin, Step by Step"
-description: "Build a basic amigurumi pumpkin: magic-ring sphere, short-row ribbing for grooves, and a simple stem — with the mistakes that flatten or dent the shape."
+description: "Build a basic amigurumi pumpkin in four pictured steps: sphere, stuff and close, cinch the grooves, sew on a stem — with the mistakes that flatten the shape."
 pubDate: 2026-09-16
 category: skills
 level: beginner
 howTo: true
 printable: true
+featured: false
 tags:
   [
     "halloween",
@@ -19,7 +20,9 @@ tags:
 
 A crochet pumpkin is a stuffed sphere with vertical grooves and a short stem on top. The sphere is ordinary amigurumi math. The grooves come from a finishing trick, not from fancy stitches. If you can work [in the round](/crochet-in-the-round) and make a [basic increase](/crochet-increase-decrease), you can make one.
 
-This page teaches the construction. Hook size, yarn weight, and stuffing amount change the final diameter, so treat the stitch counts as a shape recipe rather than a promise of a specific inch measurement until you have made one and measured it yourself.
+Hook size, yarn weight, and stuffing amount change the final diameter, so treat the stitch counts as a shape recipe rather than a promise of a specific inch measurement until you have made one and measured it yourself.
+
+![A finished orange crochet pumpkin with vertical grooves and a short brown stem](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-result.jpg "Illustration. The finished look these steps build toward.")
 
 ## What you need
 
@@ -31,15 +34,9 @@ This page teaches the construction. Hook size, yarn weight, and stuffing amount 
 
 Abbreviations follow US terms. If any look unfamiliar, open the [abbreviations chart](/crochet-abbreviations-chart).
 
-## The shape in three parts
+## Step 1: start the sphere (increase)
 
-1. **Body** — a sphere worked in continuous rounds of single crochet.
-2. **Ribbing** — long vertical wraps of yarn that pull the sphere into pumpkin sections.
-3. **Stem** — a short tube sewn or crocheted onto the top.
-
-You can stop after the sphere and call it a ball. The ribbing is what makes people read it as a pumpkin.
-
-## Body: start and increase
+![Hands crocheting an orange sphere in the round, the sides curving upward](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-1.jpg "Illustration. Step 1 — increase until the circle is wide enough, then the sides will turn up.")
 
 Work in a spiral. Mark the first stitch of every round.
 
@@ -55,9 +52,11 @@ Work in a spiral. Mark the first stitch of every round.
 
 **Rnd 6.** *Sc in next 4 sts, 2 sc in next st; repeat from * around. (36)
 
-For a small desk pumpkin, stop increasing here. For a larger one, keep the same pattern: each round adds six stitches, with one more single crochet between increases than the round before (next would be *sc in next 5, 2 sc in next*). That six-increase rule is what keeps the circle flat until you decide to build height. More on the math is in [increases and decreases](/crochet-increase-decrease).
+For a small desk pumpkin, stop increasing here. For a larger one, keep adding six stitches each round (next would be *sc in next 5, 2 sc in next*). That six-increase rule is what keeps the circle flat until you build height. More on the math is in [increases and decreases](/crochet-increase-decrease).
 
-## Body: work even, then decrease
+## Step 2: work even, decrease, and stuff
+
+![An orange crochet sphere being stuffed and closed with a yarn needle through the last stitches](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-4.jpg "Illustration. Step 2 — stuff firmly while the opening is still wide enough to reach into.")
 
 Work even (one sc in each stitch) for enough rounds that the height of the tube is a little less than the diameter of the circle. Pumpkins are slightly squat, not tall.
 
@@ -75,13 +74,17 @@ Finish with *sc2tog* around to 6 stitches, fasten off leaving a long tail, and c
 
 </div>
 
-## Ribbing: the grooves
+## Step 3: cinch the grooves
+
+![A length of yarn wrapped around a stuffed orange ball and pulled tight to form a groove](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-2.jpg "Illustration. Step 3 — the grooves are cinched from the outside, not crocheted in.")
 
 Thread a long strand of the body color (or a slightly darker orange) onto a yarn needle. Anchor it at the bottom center. Take the needle straight up the outside to the top center, then down through the middle of the pumpkin and out the bottom again. Pull until a groove forms. Repeat around the pumpkin, spacing the wraps evenly — six or eight sections look classic.
 
 Pull each wrap snug enough to show a clear valley, not so tight that the top and bottom pucker into points. Tie off at the bottom and bury the ends inside.
 
-## Stem
+## Step 4: make and sew the stem
+
+![A small crocheted brown tube and a green leaf shape lying beside a tapestry needle](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-3.jpg "Illustration. Step 4 — stem (and optional leaf) worked separately, then sewn on.")
 
 With brown or green, magic ring 6 sc. Work 3–5 rounds even. Stuff lightly or leave hollow. Sew to the top center over the ribbing ends so the stem covers the gathering point.
 
@@ -97,7 +100,7 @@ A chain-6 loop sewn flat also reads as a stem if you want something faster; the 
 
 **Ribbing with a contrasting color you did not mean to show.** Matching or slightly darker yarn hides the wrap. Bright green wraps read as decoration, which is fine if that is intentional.
 
-**Closing the top before stuffing.** Obvious, and still the error most people make once. Leave an opening you can still reach into.
+**Closing the top before stuffing.** Leave an opening you can still reach into.
 
 ## Frequently asked
 
@@ -115,4 +118,4 @@ The last decrease rounds were rushed, or the stem was sewn onto a poorly closed 
 
 ### What should I make next?
 
-Once the sphere-plus-ribs idea is clear, try a [ghost amigurumi](/crochet-ghost-amigurumi-for-beginners) for a simpler silhouette, or the [bat](/bat-amigurumi-wings-body-and-ears) if you want practice sewing on flat pieces. For color play without stuffing, see [Halloween granny square variations](/halloween-granny-square-variations).
+Try a [ghost amigurumi](/crochet-ghost-amigurumi-for-beginners), the [bat](/bat-amigurumi-wings-body-and-ears), or flat color practice on [Halloween granny squares](/halloween-granny-square-variations). For a reel-friendly pocket project, make the [Halloween card wallet](/halloween-crochet-card-wallet).

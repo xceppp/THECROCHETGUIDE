@@ -4,12 +4,12 @@ One file per article, numbered in course order. Each file lists every image that
 article needs, with the prompt to generate it, the filename to save it as, the
 alt text, and the caption that will run underneath it.
 
-75 images across 25 articles.
+82 images across 26 articles.
 
 `article-01` to `article-14` are the core course articles, `article-15` to
-`article-19` the Halloween skills articles, and `article-20` to `article-25`
-the Christmas set. The `free-pattern-*` pages are deliberately not covered —
-see the note at the bottom.
+`article-19` plus `article-26` the Halloween skills articles, and
+`article-20` to `article-25` the Christmas set. The `free-pattern-*` pages
+are deliberately not covered — see the note at the bottom.
 
 ## How to use this
 
