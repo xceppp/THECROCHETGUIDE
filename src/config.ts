@@ -31,7 +31,7 @@ export const SITE = {
  * markup is rendered at all, which is what you want during review — Google
  * rejects sites that ship empty ad containers.
  */
-export const ADSENSE_CLIENT = "";
+export const ADSENSE_CLIENT = "ca-pub-5737689254964633";
 
 /** Ad unit slot IDs, copied from the AdSense dashboard once you have them. */
 export const ADSENSE_SLOTS = {
