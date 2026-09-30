@@ -11,7 +11,7 @@ tags: ["christmas", "gnome", "amigurumi", "free pattern", "beginner"]
 
 <div class="warning">
 
-**Draft pattern.** This is an original written design for The Crochet Guide. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat the sizes below as verified until that happens. Technique walkthrough: [How to Crochet a Gnome, Step by Step](/how-to-crochet-a-gnome).
+**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat the sizes below as verified until that happens. Technique walkthrough: [How to Crochet a Gnome, Step by Step](/how-to-crochet-a-gnome).
 
 </div>
 

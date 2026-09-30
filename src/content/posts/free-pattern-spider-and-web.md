@@ -19,7 +19,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** Original design for The Crochet Guide. Not released until a physical sample is made and photographed. Skills overview: [How to Crochet a Spider (and Web)](/how-to-crochet-a-spider-and-web).
+**Draft pattern.** Original design for Crochet Explained. Not released until a physical sample is made and photographed. Skills overview: [How to Crochet a Spider (and Web)](/how-to-crochet-a-spider-and-web).
 
 </div>
 

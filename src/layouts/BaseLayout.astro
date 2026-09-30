@@ -1,7 +1,7 @@
 ---
 import "../styles/global.css";
 import { SITE, SOCIALS, ADSENSE_CLIENT, PINTEREST_DOMAIN_VERIFY, GOOGLE_SITE_VERIFICATION } from "../config";
-import { isHalloweenThemeActive } from "../lib/seasonalTheme";
+import { getThemeClass, getThemeId } from "../lib/seasonalTheme";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 
@@ -63,8 +63,18 @@ const legalPaths = new Set([
   "/terms",
   "/disclosures",
 ]);
-const halloween =
-  isHalloweenThemeActive() && !legalPaths.has(Astro.url.pathname.replace(/\/$/, "") || "/");
+const onLegal = legalPaths.has(Astro.url.pathname.replace(/\/$/, "") || "/");
+const themeId = onLegal ? "default" : getThemeId();
+const themeClass = onLegal ? "" : getThemeClass();
+const halloween = themeId === "halloween";
+const themeColor =
+  themeId === "halloween"
+    ? "#d9731f"
+    : themeId === "christmas"
+      ? "#9a3b3b"
+      : themeId === "teachers"
+        ? "#6f8f5c"
+        : "#fdfaf6";
 ---
 
 <!doctype html>
@@ -152,7 +162,7 @@ const halloween =
     <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32" />
     <link rel="icon" href="/icon-512.png" type="image/png" sizes="512x512" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <meta name="theme-color" content={halloween ? "#d9731f" : "#fdfaf6"} />
+    <meta name="theme-color" content={themeColor} />
 
     <script
       is:inline
@@ -172,7 +182,7 @@ const halloween =
       )
     }
   </head>
-  <body class:list={["flex min-h-screen flex-col", halloween && "theme-halloween"]}>
+  <body class:list={["flex min-h-screen flex-col", themeClass]}>
     <a
       href="#main"
       class="no-print sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-50 focus:rounded focus:bg-ink focus:px-3 focus:py-2 focus:text-paper"

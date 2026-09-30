@@ -11,7 +11,7 @@ tags: ["christmas", "snowflake", "thread crochet", "free pattern", "ornaments"]
 
 <div class="warning">
 
-**Draft pattern.** These are original written designs for The Crochet Guide. They are not public on the live site until physical samples have been made, measured, blocked, and photographed. Do not treat the diameters below as verified until that happens. Technique walkthrough, including the four stiffening methods: [How to Crochet a Snowflake](/how-to-crochet-a-snowflake).
+**Draft pattern.** These are original written designs for Crochet Explained. They are not public on the live site until physical samples have been made, measured, blocked, and photographed. Do not treat the diameters below as verified until that happens. Technique walkthrough, including the four stiffening methods: [How to Crochet a Snowflake](/how-to-crochet-a-snowflake).
 
 </div>
 

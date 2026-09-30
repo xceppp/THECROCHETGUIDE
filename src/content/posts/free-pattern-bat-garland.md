@@ -19,7 +19,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** Original design for The Crochet Guide. Remains draft until bats are made, measured, and photographed. Technique page: [Bat Amigurumi: Wings, Body and Ears](/bat-amigurumi-wings-body-and-ears).
+**Draft pattern.** Original design for Crochet Explained. Remains draft until bats are made, measured, and photographed. Technique page: [Bat Amigurumi: Wings, Body and Ears](/bat-amigurumi-wings-body-and-ears).
 
 </div>
 

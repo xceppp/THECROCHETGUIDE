@@ -1,4 +1,4 @@
-# The Crochet Guide — project context
+# Crochet Explained — project context
 
 Read this before making changes. It covers what this project is, the rules that
 are not negotiable, and the conventions to follow. Setup and deploy steps live
@@ -6,7 +6,7 @@ in `README.md`.
 
 ## What this is
 
-A static content site at `thecrochetguide.com`: free crochet tutorials,
+A static content site at `crochetexplained.com`: free crochet tutorials,
 printable reference charts, and gear guides, written for a **United States**
 audience.
 
@@ -35,14 +35,16 @@ npm run check    # astro check, must stay at 0 errors
 
 | Path | What it is |
 | --- | --- |
-| `src/config.ts` | **All branding and the course order.** Site name, domain, author, socials, AdSense IDs, categories, nav, `LEARNING_PATH`. |
-| `src/content/posts/*.md` | The 14 articles. One file per article; the filename becomes the URL. |
+| `src/config.ts` | **All branding and the course order.** Site name, domain, author, socials, AdSense IDs, categories, nav, `LEARNING_PATH`, `OCCASION_THEME_FORCE`. |
+| `src/lib/occasions.ts` | Internal date windows for seasonal skins and hero copy. Not shown on the public site. |
+| `src/lib/seasonalTheme.ts` | Resolves the active occasion / body theme class. |
+| `src/content/posts/*.md` | The articles. One file per article; the filename becomes the URL. |
 | `src/content.config.ts` | Frontmatter schema. Build fails on invalid frontmatter, which is intentional. |
 | `src/lib/learningPath.ts` | Resolves `LEARNING_PATH` into step numbers and prev/next links. |
 | `src/pages/[slug].astro` | Renders every article. |
 | `src/pages/start-here.astro` | The course overview page. |
 | `src/components/AdSlot.astro` | Ad placement. Renders nothing until a publisher ID exists. |
-| `src/styles/global.css` | Palette, article typography, print styles. |
+| `src/styles/global.css` | Palette, occasion skins, article typography, print styles. |
 
 ## Non-negotiable constraints
 

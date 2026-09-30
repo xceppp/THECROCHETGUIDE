@@ -11,7 +11,7 @@ tags: ["christmas", "tree", "amigurumi", "free pattern", "beginner"]
 
 <div class="warning">
 
-**Draft pattern.** This is an original written design for The Crochet Guide. It is not public on the live site until physical samples have been made, measured, and photographed. Do not treat the heights below as verified until that happens. Technique walkthrough, including two other ways to build a tree: [How to Crochet a Christmas Tree](/how-to-crochet-a-christmas-tree).
+**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until physical samples have been made, measured, and photographed. Do not treat the heights below as verified until that happens. Technique walkthrough, including two other ways to build a tree: [How to Crochet a Christmas Tree](/how-to-crochet-a-christmas-tree).
 
 </div>
 

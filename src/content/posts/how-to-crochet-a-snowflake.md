@@ -21,6 +21,8 @@ Crocheting a snowflake takes about fifteen minutes. Making it hang flat instead 
 
 This page covers both: the construction, then the stiffening. If you have only ever crocheted with yarn, the shape will feel familiar — it is a circle worked [in the round](/crochet-in-the-round) with the stitches deliberately spread apart instead of packed together.
 
+![Hands working a white thread snowflake with a fine steel crochet hook](../../assets/articles/how-to-crochet-a-snowflake-1.jpg "Illustration. The making takes fifteen minutes. The blocking is the part that decides how it looks.")
+
 ## What you need
 
 - **Size 10 crochet thread** in white, or worsted-weight yarn for a chunky version
@@ -33,7 +35,9 @@ Abbreviations are US terms throughout. If any are unfamiliar, open the [abbrevia
 
 ## Why six points
 
-Real snowflakes have six-fold symmetry, because of the way water molecules lock together as ice crystals form. Eight-point crochet snowflakes exist and look perfectly nice, but six reads as a snowflake instantly and five reads as a starfish. Build in multiples of six and the shape does most of the work for you.
+Real snowflakes have six-fold symmetry, because of the way water molecules lock together as ice crystals form. Eight-point crochet snowflakes exist and look perfectly nice, but six reads as a snowflake instantly and five reads as a flower or a starfish. Build in multiples of six and the shape does most of the work for you.
+
+![A white thread motif with five chain-loop petals radiating from a closed center ring](../../assets/articles/how-to-crochet-a-snowflake-4.jpg "Illustration. The same construction with five loops instead of six. Nobody would call this a snowflake, which is why the count is the first thing to get right.")
 
 ## The construction, in three rounds
 
@@ -74,6 +78,8 @@ Straight off the hook a snowflake is soft, slightly cupped, and will not hang fl
 I am not going to pretend there is a consensus best answer here. Crocheters argue about this constantly and all four methods genuinely work; they just fail in different ways. If the flake matters, use commercial stiffener. If you are making thirty of them for a garland, glue and water is what most people end up doing.
 
 ## Blocking, step by step
+
+![A wet white snowflake pinned out flat on a foam blocking board](../../assets/articles/how-to-crochet-a-snowflake-3.jpg "Illustration. Every point pinned, pulled to full length, and left until bone dry.")
 
 1. Soak the flake in your chosen solution until it is saturated through, not just wet on the surface.
 2. Squeeze out the excess gently between your fingers. Do not wring it — the arms will twist and set twisted.

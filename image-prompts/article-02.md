@@ -2,7 +2,7 @@
 
 - Slug: `left-handed-crochet`
 - Course step 2 of 12 · category: skills
-- 3 images
+- 4 images
 
 Note on every image here: the working hand is the **left** hand. That is the
 whole subject of the article, so an image showing a right-handed grip is not a
@@ -98,3 +98,35 @@ horizontal.
 ```
 
 **Check:** the phone screen must stay blurred and abstract. Models will try to invent an interface, and fake buttons or invented logos are worse than an empty screen.
+
+---
+
+## Image 4 — a plain hook in the left hand
+
+**Save as:** `left-handed-crochet-4.jpg`
+**Goes:** under `## Practical notes`, after the paragraph on symmetrical hooks
+**Alt:** A plain aluminum crochet hook held in the left hand, working a swatch of ivory yarn
+**Caption:** Illustration. An ordinary hook off the shelf. Both hands are working either way — the only thing that changes is which one holds the hook.
+
+```
+An overhead photograph of a single pair of adult hands working a small tidy
+swatch of smooth ivory worsted-weight yarn, filling the middle of the frame.
+
+The crochet hook is a plain, entirely symmetrical silver aluminum hook with no
+moulded grip and no thumb rest, and it is held in the LEFT hand in a relaxed,
+comfortable grip. The right hand holds the fabric and manages the tension. Both
+hands are clearly doing work. The loose working yarn runs off toward the left
+edge of the frame.
+
+The plainness and symmetry of the hook is the point: nothing about it is
+handed.
+
+Shot from directly overhead on a pale oak table, bright soft daylight from the
+upper left, soft clean shadows. Adult female hands, warm medium-brown skin,
+short bare nails, no rings, oatmeal knit sleeves pushed to just below the elbow.
+Bright modern craft photography, sharp focus, high clarity, natural colour, no
+plastic sheen. No text, no numerals, no watermark anywhere in the image. 3:2
+horizontal.
+```
+
+**Check:** the hook must be a plain symmetrical one. An ergonomic handle with a shaped thumb rest is the exact exception the paragraph warns about, so it would contradict the text beside it.

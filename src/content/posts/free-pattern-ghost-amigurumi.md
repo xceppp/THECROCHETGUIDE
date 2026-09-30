@@ -18,7 +18,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** Original design for The Crochet Guide. Held as a draft until a sample is made and photographed. Technique companion: [Crochet Ghost Amigurumi for Beginners](/crochet-ghost-amigurumi-for-beginners).
+**Draft pattern.** Original design for Crochet Explained. Held as a draft until a sample is made and photographed. Technique companion: [Crochet Ghost Amigurumi for Beginners](/crochet-ghost-amigurumi-for-beginners).
 
 </div>
 

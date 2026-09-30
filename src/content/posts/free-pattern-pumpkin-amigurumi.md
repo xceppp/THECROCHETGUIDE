@@ -18,7 +18,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** This is an original written design for The Crochet Guide. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat sizes below as verified until that happens. Technique walkthrough: [How to Crochet a Pumpkin, Step by Step](/how-to-crochet-a-pumpkin-step-by-step).
+**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat sizes below as verified until that happens. Technique walkthrough: [How to Crochet a Pumpkin, Step by Step](/how-to-crochet-a-pumpkin-step-by-step).
 
 </div>
 

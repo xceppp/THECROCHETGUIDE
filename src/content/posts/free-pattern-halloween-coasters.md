@@ -19,7 +19,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** Original design for The Crochet Guide. Kept off the public site until squares are made, measured, and photographed. Color skills: [Halloween Granny Square Variations](/halloween-granny-square-variations) and [Changing Yarn Color](/changing-yarn-color-crochet).
+**Draft pattern.** Original design for Crochet Explained. Kept off the public site until squares are made, measured, and photographed. Color skills: [Halloween Granny Square Variations](/halloween-granny-square-variations) and [Changing Yarn Color](/changing-yarn-color-crochet).
 
 </div>
 

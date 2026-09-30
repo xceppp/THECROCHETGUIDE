@@ -113,7 +113,7 @@ function rehypeFigures() {
 }
 
 export default defineConfig({
-  site: "https://thecrochetguide.com",
+  site: "https://crochetexplained.com",
   integrations: [sitemap()],
   markdown: {
     rehypePlugins: [rehypeWrapTables, rehypeFigures],

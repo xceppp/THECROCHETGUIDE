@@ -12,6 +12,8 @@ Roughly one person in ten is left-handed, and almost every crochet tutorial ever
 
 You can do considerably better than that. Here is how to follow any pattern, diagram, or video left-handed without translating anything by hand.
 
+![Two pairs of hands mirroring each other, one crocheting left-handed and one right-handed](../../assets/articles/left-handed-crochet-1.jpg "Illustration. Same stitches, same fabric, opposite direction of travel.")
+
 ## The good news first
 
 **Crochet is not a handed craft the way writing is.** Both hands work the whole time: one holds the hook and one manages the tension and the fabric. Left-handed crochet is a genuine mirror image of right-handed crochet, and every stitch, every pattern, and every technique works identically. Nothing is off limits and nothing is harder.
@@ -21,6 +23,8 @@ There are only three real differences, and they are all mechanical.
 ## Difference 1: you work in the opposite direction
 
 Right-handers work a row from right to left. You work from left to right.
+
+![A left hand working a row of crochet from left to right across the fabric](../../assets/articles/left-handed-crochet-2.jpg "Illustration. The finished stitches of the row sit to the left of the hook, and the fabric still to be worked runs off to the right.")
 
 That is the entire change for flat work in rows. Chain, turn, work back the other way. Your stitches are identical, your fabric is identical, and your finished piece is identical.
 
@@ -87,6 +91,8 @@ But do not force it. If it feels wrong after a few sessions, switch. Working lef
 ## Practical notes
 
 **Hooks are symmetrical.** Standard aluminum and plastic hooks work identically in either hand, so there is nothing special to buy. The one exception is some ergonomic handles with a thumb rest shaped for a specific grip — check that the rest is symmetrical, or use a plain hook.
+
+![A plain aluminum crochet hook held in the left hand, working a swatch of ivory yarn](../../assets/articles/left-handed-crochet-4.jpg "Illustration. An ordinary hook off the shelf. Both hands are working either way — the only thing that changes is which one holds the hook.")
 
 **Seaming and joining are unaffected.** Whipstitching, slip stitch joins, and weaving in ends have no handedness.
 

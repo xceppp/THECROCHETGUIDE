@@ -1,6 +1,6 @@
-# The Crochet Guide
+# Crochet Explained
 
-Static site for `thecrochetguide.com`. Astro + Tailwind, deploys free on Cloudflare Pages.
+Static site for `crochetexplained.com`. Astro + Tailwind, deploys on Vercel.
 
 ## Running it
 

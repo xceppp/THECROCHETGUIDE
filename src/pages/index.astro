@@ -7,16 +7,24 @@ import WelcomeBanner from "../components/WelcomeBanner.astro";
 import ResumeCard from "../components/ResumeCard.astro";
 import { getPathStages } from "../lib/learningPath";
 import { SITE, CATEGORIES } from "../config";
-import { isHalloweenThemeActive } from "../lib/seasonalTheme";
+import { resolveSeasonalOccasion } from "../lib/seasonalTheme";
 
 const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
 );
 
-const halloween = isHalloweenThemeActive();
-const halloweenPosts = posts.filter((post) =>
-  post.data.tags.some((tag) => tag.toLowerCase() === "halloween"),
-);
+const occasion = resolveSeasonalOccasion();
+// Observance windows still shift the palette, but the hero stays normal so
+// visitors are not shown a calendar of awareness days.
+const bannerOccasion =
+  occasion && occasion.kind !== "observance" ? occasion : null;
+
+const seasonalTag = occasion?.contentTag?.toLowerCase();
+const seasonalPosts = seasonalTag
+  ? posts.filter((post) =>
+      post.data.tags.some((tag) => tag.toLowerCase() === seasonalTag),
+    )
+  : [];
 
 const [lead, ...rest] = posts;
 const recent = rest.slice(0, 6);
@@ -24,32 +32,37 @@ const recent = rest.slice(0, 6);
 const stages = await getPathStages();
 const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
 const firstStep = stages[0]?.steps[0]?.post;
+
+const seasonalHeading =
+  seasonalTag === "halloween"
+    ? "Halloween projects"
+    : seasonalTag === "christmas"
+      ? "Christmas projects"
+      : "";
 ---
 
 <BaseLayout title={SITE.name} description={SITE.description}>
   <WelcomeBanner
     firstStepSlug={firstStep?.id}
     totalSteps={totalSteps}
-    halloween={halloween}
+    occasion={bannerOccasion}
   />
 
   <ResumeCard />
 
-  <hr class="halloween-divider mx-auto max-w-4xl" aria-hidden="true" />
+  <hr class="season-divider mx-auto max-w-4xl" aria-hidden="true" />
 
   {
-    halloween && halloweenPosts.length > 0 && (
+    seasonalPosts.length > 0 && (
       <section class="border-b border-rule">
         <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
-          <h2 class="font-serif text-2xl tracking-tight">
-            Halloween projects
-          </h2>
+          <h2 class="font-serif text-2xl tracking-tight">{seasonalHeading}</h2>
           <p class="mt-2 leading-relaxed text-ink-soft">
-            Seasonal tutorials tagged Halloween. Same plain-English voice as the
-            rest of the guide — no fluff, no mystery abbreviations.
+            Seasonal tutorials for the current window. Same plain-English voice
+            as the rest of the site.
           </p>
           <div class="mt-6 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
-            {halloweenPosts.slice(0, 5).map((post) => (
+            {seasonalPosts.slice(0, 5).map((post) => (
               <PostCard post={post} />
             ))}
           </div>
@@ -58,12 +71,10 @@ const firstStep = stages[0]?.steps[0]?.post;
     )
   }
 
-  <hr class="halloween-divider mx-auto max-w-4xl" aria-hidden="true" />
-
   {
     stages.length > 0 && (
       <section class="border-b border-rule">
-        <div class="mx-auto max-w-4xl px-6 sm:px-8 py-12">
+        <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
           <div class="flex flex-wrap items-baseline justify-between gap-2">
             <h2 class="font-serif text-2xl tracking-tight">
               The course, start to finish
@@ -110,17 +121,26 @@ const firstStep = stages[0]?.steps[0]?.post;
     )
   }
 
-  <hr class="halloween-divider mx-auto max-w-4xl" aria-hidden="true" />
+  <hr class="season-divider mx-auto max-w-4xl" aria-hidden="true" />
 
-  <div class="mx-auto max-w-4xl px-6 sm:px-8 py-12">
-    <div class="mb-12 flex flex-wrap gap-x-3 gap-y-2 text-sm">
+  <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
+    <h2 class="font-serif text-2xl tracking-tight">Browse by topic</h2>
+    <p class="mt-2 leading-relaxed text-ink-soft">
+      Charts when you need a number. Tutorials when you need a technique. Gear
+      when you need to buy something once.
+    </p>
+
+    <div class="mt-6 grid gap-3 sm:grid-cols-2">
       {
         Object.values(CATEGORIES).map((category) => (
           <a
             href={`/${category.slug}`}
-            class="rounded-full border border-rule bg-paper px-4 py-1.5 text-ink-soft no-underline transition-colors hover:border-terracotta hover:text-terracotta-deep"
+            class="rounded-lg border border-rule bg-paper px-5 py-4 no-underline transition-colors hover:border-terracotta"
           >
-            {category.label}
+            <span class="block font-medium text-ink">{category.label}</span>
+            <span class="mt-1 block text-sm leading-relaxed text-ink-soft">
+              {category.blurb}
+            </span>
           </a>
         ))
       }
@@ -128,13 +148,13 @@ const firstStep = stages[0]?.steps[0]?.post;
 
     {
       posts.length === 0 ? (
-        <p class="rounded-lg border border-rule bg-paper-deep px-5 py-6 text-ink-soft">
+        <p class="mt-12 rounded-lg border border-rule bg-paper-deep px-5 py-6 text-ink-soft">
           The first articles are being written. Check back shortly.
         </p>
       ) : (
         <>
-          <h2 class="text-xs font-semibold tracking-wider text-ink-faint uppercase">
-            Start here
+          <h2 class="mt-14 text-xs font-semibold tracking-wider text-ink-faint uppercase">
+            Latest
           </h2>
           <div class="mt-5">
             <PostCard post={lead} lead />
@@ -143,7 +163,7 @@ const firstStep = stages[0]?.steps[0]?.post;
           {recent.length > 0 && (
             <>
               <h2 class="mt-12 text-xs font-semibold tracking-wider text-ink-faint uppercase">
-                More from the guide
+                More from {SITE.name}
               </h2>
               <div class="mt-5 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
                 {recent.map((post) => (

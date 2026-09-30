@@ -4,22 +4,23 @@
  */
 
 export const SITE = {
-  name: "The Crochet Guide",
+  name: "Crochet Explained",
   tagline: "Clear crochet answers, charts and tutorials",
   description:
     "Free crochet charts, conversion tables and step-by-step tutorials written in plain English. No fluff, no guesswork.",
-  url: "https://thecrochetguide.com",
+  url: "https://crochetexplained.com",
   locale: "en-US",
   /** Shown on the About page and in every article byline. */
   author: {
     name: "Nora Bell",
     role: "Founder and writer",
-    bio: "I started The Crochet Guide after spending an entire evening stuck on a pattern that assumed I already knew what it meant. Everything here is written the way I wish it had been explained to me.",
+    bio: "I started Crochet Explained after spending an entire evening stuck on a pattern that assumed I already knew what it meant. Everything here is written the way I wish it had been explained to me.",
   },
   /**
-   * Contact address. Note the double "i" in "guiide" — that is the real
-   * address, not a typo. Setting this to an empty string makes every page hide
-   * its email link and routes the contact page to social instead.
+   * Contact address. Still the live inbox until a crochetexplained.com mailbox
+   * exists. Note the double "i" in "guiide" — that is the real address, not a
+   * typo. Setting this to an empty string makes every page hide its email link
+   * and routes the contact page to social instead.
    */
   email: "thecrochetguiide@gmail.com",
 } as const;
@@ -110,21 +111,14 @@ export const NAV = [
 ];
 
 /**
- * Seasonal Halloween skin. Applied as `theme-halloween` on <body> when active.
+ * Override the occasion calendar skin.
  *
- * - `force: true`  → always on (use while previewing before October)
- * - `force: false` → always off (kill switch after the season)
- * - `force: null`  → follow the date window below (inclusive)
- *
- * Suggested live window: October 1 – November 2.
- * force is true for now so the skin is visible before the window opens;
- * set it to null once you are ready to rely on the calendar alone.
+ * - `null`     → follow the date windows in src/lib/occasions.ts
+ * - `false`    → kill switch, always default palette
+ * - occasion id (e.g. `"halloween"`, `"christmas"`) → force that occasion
+ *   for local preview before its window opens
  */
-export const HALLOWEEN_THEME = {
-  force: true as boolean | null,
-  start: { month: 10, day: 1 },
-  end: { month: 11, day: 2 },
-} as const;
+export const OCCASION_THEME_FORCE: string | false | null = "halloween";
 
 /**
  * The guided route through the site, in teaching order.

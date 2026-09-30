@@ -67,15 +67,43 @@ html.dark .hero-cover-image {
 }
 
 /* --------------------------------------------------------------------------
-   Halloween skin. Accent tokens shift; paper/ink follow light or dark base.
-   Toggle via body.theme-halloween (see HALLOWEEN_THEME in config.ts).
+   Occasion skins. Accent tokens shift; paper/ink follow light or dark base.
+   Driven by src/lib/occasions.ts via body.theme-* (see OCCASION_THEME_FORCE).
    -------------------------------------------------------------------------- */
+body.theme-teachers {
+  --color-terracotta: #6f8f5c;
+  --color-terracotta-deep: #557344;
+  --color-sage: #8a9e6e;
+  --color-rule: #d9e0d0;
+}
+
+html.dark body.theme-teachers {
+  --color-terracotta: #9bb884;
+  --color-terracotta-deep: #b4cda0;
+  --color-sage: #a8b892;
+  --color-rule: #3a4234;
+}
+
+body.theme-food {
+  --color-terracotta: #c4783a;
+  --color-terracotta-deep: #a05f28;
+  --color-sage: #8a7a5c;
+  --color-rule: #e2d6c4;
+}
+
+html.dark body.theme-food {
+  --color-terracotta: #e0a060;
+  --color-terracotta-deep: #f0b878;
+  --color-sage: #b8a888;
+  --color-rule: #42382c;
+}
+
 body.theme-halloween {
   --color-terracotta: #d9731f;
   --color-terracotta-deep: #b85c14;
   --color-sage: #4b2e5a;
   --color-rule: #d9cfc3;
-  --halloween-charcoal: #211d1d;
+  --season-mark: #211d1d;
 }
 
 html.dark body.theme-halloween {
@@ -83,10 +111,82 @@ html.dark body.theme-halloween {
   --color-terracotta-deep: #f0a85c;
   --color-sage: #9b7aab;
   --color-rule: #4a3f38;
-  --halloween-charcoal: #f0e8df;
+  --season-mark: #f0e8df;
 }
 
-body.theme-halloween :focus-visible {
+body.theme-all-saints {
+  --color-terracotta: #6d6578;
+  --color-terracotta-deep: #524c5c;
+  --color-sage: #8a8494;
+  --color-rule: #ddd8e0;
+}
+
+html.dark body.theme-all-saints {
+  --color-terracotta: #a89eb4;
+  --color-terracotta-deep: #c4bcd0;
+  --color-sage: #9a94a4;
+  --color-rule: #3a3640;
+}
+
+body.theme-children {
+  --color-terracotta: #5a8f9e;
+  --color-terracotta-deep: #3f6f7c;
+  --color-sage: #7d9b72;
+  --color-rule: #d2dde0;
+}
+
+html.dark body.theme-children {
+  --color-terracotta: #7eb0c0;
+  --color-terracotta-deep: #9ac4d0;
+  --color-sage: #9bb890;
+  --color-rule: #334044;
+}
+
+body.theme-observance {
+  --color-terracotta: #6a6560;
+  --color-terracotta-deep: #4f4a46;
+  --color-sage: #7a7870;
+  --color-rule: #ddd9d3;
+}
+
+html.dark body.theme-observance {
+  --color-terracotta: #a8a29a;
+  --color-terracotta-deep: #c4beb6;
+  --color-sage: #9a968e;
+  --color-rule: #3a3632;
+}
+
+body.theme-christmas {
+  --color-terracotta: #9a3b3b;
+  --color-terracotta-deep: #7a2c2c;
+  --color-sage: #3d6b4f;
+  --color-rule: #dcccc8;
+  --season-mark: #2a3d30;
+}
+
+html.dark body.theme-christmas {
+  --color-terracotta: #d07070;
+  --color-terracotta-deep: #e09090;
+  --color-sage: #6a9a78;
+  --color-rule: #3a3230;
+  --season-mark: #e8f0ea;
+}
+
+body.theme-newyear {
+  --color-terracotta: #8a7355;
+  --color-terracotta-deep: #6e5a40;
+  --color-sage: #6a7a88;
+  --color-rule: #ddd6ca;
+}
+
+html.dark body.theme-newyear {
+  --color-terracotta: #c4a882;
+  --color-terracotta-deep: #d8c09a;
+  --color-sage: #8a9aa8;
+  --color-rule: #3a3630;
+}
+
+body[class*="theme-"] :focus-visible {
   outline-color: var(--color-terracotta);
 }
 
@@ -95,14 +195,15 @@ body.theme-halloween :focus-visible {
   outline-offset: 2px;
 }
 
-/* Thin stitched divider used between homepage sections while the skin is on. */
+/* Thin stitched divider between homepage sections during a themed window. */
+.season-divider,
 .halloween-divider {
   display: none;
   height: 1.25rem;
   margin: 0;
   border: 0;
   background:
-    radial-gradient(circle at 50% 50%, var(--halloween-charcoal, #211d1d) 1.1px, transparent 1.2px)
+    radial-gradient(circle at 50% 50%, var(--season-mark, var(--color-ink)) 1.1px, transparent 1.2px)
       0 50% / 0.7rem 100% repeat-x,
     linear-gradient(
       to right,
@@ -114,6 +215,7 @@ body.theme-halloween :focus-visible {
       0 50% / 100% 1px no-repeat;
 }
 
+body[class*="theme-"] .season-divider,
 body.theme-halloween .halloween-divider {
   display: block;
 }

@@ -34,3 +34,7 @@ desktop.ini
 
 # Local scratch files
 *.local
+
+# Local-only working tools. Never published: keeping these out of git is what
+# stops Vercel from ever building or serving them.
+src/pages/tools/
