@@ -55,6 +55,13 @@ export const GOOGLE_SITE_VERIFICATION =
   "wk11YF_jgiO9ny1H-lGbQGFpeNjH_oC8KAVWcABtLcQ";
 
 /**
+ * Google Analytics 4 measurement ID, e.g. "G-XXXXXXXXXX".
+ * Leave empty until the GA4 property exists — nothing loads while blank.
+ * Used to track the Christmas traffic goal in GROWTH.md.
+ */
+export const GA_MEASUREMENT_ID = "";
+
+/**
  * Only accounts that actually exist belong here. Every entry is rendered as a
  * live link in the footer and is published as a `sameAs` claim in the site's
  * structured data, so a handle that does not resolve is a broken link and a

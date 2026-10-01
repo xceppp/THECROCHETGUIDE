@@ -6,6 +6,7 @@ category: skills
 level: beginner
 howTo: true
 printable: true
+featured: true
 tags:
   [
     "christmas",

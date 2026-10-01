@@ -216,7 +216,8 @@ export const OCCASIONS: Occasion[] = [
     id: "christmas",
     name: "Christmas Day",
     kind: "celebration",
-    start: { month: 12, day: 12 },
+    // Open early: Pinterest Christmas crochet peaks weeks before Dec 25.
+    start: { month: 11, day: 15 },
     end: { month: 12, day: 26 },
     peak: { month: 12, day: 25 },
     theme: "christmas",
@@ -225,11 +226,14 @@ export const OCCASIONS: Occasion[] = [
     eyebrow: "Christmas season",
     headline: "Christmas crochet, explained slowly",
     blurb:
-      "Snowflakes, gnomes, trees, and Santa shapes — with the stiffening, seaming, and yarn choices that decide whether the piece looks finished.",
-    primaryCta: { label: "Browse Christmas tutorials", href: "/tutorials" },
+      "Start with a flat snowflake, then trees, gnomes, and Santa — with the stiffening and yarn choices that decide whether the piece looks finished.",
+    primaryCta: {
+      label: "Crochet a snowflake",
+      href: "/how-to-crochet-a-snowflake",
+    },
     secondaryCta: {
-      label: "Christmas yarn guide",
-      href: "/yarn-for-christmas-crochet",
+      label: "More Christmas tutorials",
+      href: "/tutorials",
     },
     calendarNote: "Ornaments, gnomes, and trees",
   },

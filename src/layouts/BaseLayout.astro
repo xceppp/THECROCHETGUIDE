@@ -1,6 +1,13 @@
 ---
 import "../styles/global.css";
-import { SITE, SOCIALS, ADSENSE_CLIENT, PINTEREST_DOMAIN_VERIFY, GOOGLE_SITE_VERIFICATION } from "../config";
+import {
+  SITE,
+  SOCIALS,
+  ADSENSE_CLIENT,
+  PINTEREST_DOMAIN_VERIFY,
+  GOOGLE_SITE_VERIFICATION,
+  GA_MEASUREMENT_ID,
+} from "../config";
 import { getThemeClass, getThemeId } from "../lib/seasonalTheme";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -206,6 +213,25 @@ const themeColor =
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
           crossorigin="anonymous"
         />
+      )
+    }
+    {
+      GA_MEASUREMENT_ID && (
+        <>
+          <script
+            is:inline
+            async
+            src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          />
+          <script is:inline define:vars={{ GA_MEASUREMENT_ID }}>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+              dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+            gtag("config", GA_MEASUREMENT_ID);
+          </script>
+        </>
       )
     }
   </head>
