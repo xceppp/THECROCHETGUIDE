@@ -39,11 +39,12 @@ Every week until Christmas:
 
 ### Phase B — Nov (bridge traffic)
 
-1. https://www.crochetexplained.com/start-here/
-2. https://www.crochetexplained.com/what-you-need-to-start-crocheting/
-3. https://www.crochetexplained.com/basic-crochet-stitches/
-4. https://www.crochetexplained.com/how-to-crochet-a-snowflake/ *(start pinning early)*
-5. https://www.crochetexplained.com/how-to-crochet-a-gnome/
+1. https://www.crochetexplained.com/how-to-crochet-a-scrunchie/
+2. https://www.crochetexplained.com/crochet-mug-cozy-for-beginners/
+3. https://www.crochetexplained.com/how-to-crochet-a-simple-flower/
+4. https://www.crochetexplained.com/start-here/
+5. https://www.crochetexplained.com/how-to-crochet-a-snowflake/ *(start pinning early)*
+6. https://www.crochetexplained.com/basic-crochet-stitches/
 
 ### Phase C — Dec (Christmas)
 
