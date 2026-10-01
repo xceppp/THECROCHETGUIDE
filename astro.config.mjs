@@ -114,7 +114,11 @@ function rehypeFigures() {
 
 export default defineConfig({
   site: "https://www.crochetexplained.com",
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      filter: (page) => !page.includes("/tools/"),
+    }),
+  ],
   markdown: {
     rehypePlugins: [rehypeWrapTables, rehypeFigures],
   },

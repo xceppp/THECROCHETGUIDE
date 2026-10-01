@@ -6,6 +6,11 @@ import VideoEmbed from "../components/VideoEmbed.astro";
 import StepNav from "../components/StepNav.astro";
 import ArticleProgress from "../components/ArticleProgress.astro";
 import { getStepPosition } from "../lib/learningPath";
+import {
+  extractFaqItems,
+  extractHowToSteps,
+  faqPageSchema,
+} from "../lib/seo";
 import { SITE, CATEGORIES } from "../config";
 
 export async function getStaticPaths() {
@@ -57,29 +62,82 @@ const related = allPosts
   })
   .slice(0, 3);
 
-const articleSchema = {
-  "@context": "https://schema.org",
-  "@type": post.data.howTo ? "HowTo" : "Article",
-  headline: post.data.title,
-  description: post.data.description,
-  datePublished: post.data.pubDate.toISOString(),
-  ...(post.data.updatedDate && {
-    dateModified: post.data.updatedDate.toISOString(),
-  }),
-  author: {
-    "@type": "Person",
-    name: SITE.author.name,
-  },
-  publisher: {
-    "@type": "Organization",
-    name: SITE.name,
-    url: SITE.url,
-  },
-  mainEntityOfPage: {
-    "@type": "WebPage",
-    "@id": new URL(post.id, SITE.url).href,
-  },
-};
+const pageUrl = new URL(`/${post.id}/`, SITE.url).href;
+const ogImage = new URL("/og-default.jpg", SITE.url).href;
+const howToSteps = post.data.howTo ? extractHowToSteps(post.body) : [];
+const faqItems = extractFaqItems(post.body);
+const faqSchema = faqPageSchema(faqItems);
+
+const articleSchema = post.data.howTo
+  ? {
+      "@context": "https://schema.org",
+      "@type": "HowTo",
+      name: post.data.title,
+      headline: post.data.title,
+      description: post.data.description,
+      inLanguage: "en-US",
+      image: ogImage,
+      datePublished: post.data.pubDate.toISOString(),
+      dateModified: (
+        post.data.updatedDate ?? post.data.pubDate
+      ).toISOString(),
+      keywords: post.data.tags.join(", "),
+      author: {
+        "@type": "Person",
+        name: SITE.author.name,
+      },
+      publisher: {
+        "@type": "Organization",
+        name: SITE.name,
+        url: SITE.url,
+        logo: {
+          "@type": "ImageObject",
+          url: new URL("/icon-512.png", SITE.url).href,
+        },
+      },
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": pageUrl,
+      },
+      ...(howToSteps.length > 0 && {
+        step: howToSteps.map((step, index) => ({
+          "@type": "HowToStep",
+          position: index + 1,
+          name: step.name,
+          text: step.text,
+        })),
+      }),
+    }
+  : {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: post.data.title,
+      description: post.data.description,
+      inLanguage: "en-US",
+      image: ogImage,
+      datePublished: post.data.pubDate.toISOString(),
+      dateModified: (
+        post.data.updatedDate ?? post.data.pubDate
+      ).toISOString(),
+      keywords: post.data.tags.join(", "),
+      author: {
+        "@type": "Person",
+        name: SITE.author.name,
+      },
+      publisher: {
+        "@type": "Organization",
+        name: SITE.name,
+        url: SITE.url,
+        logo: {
+          "@type": "ImageObject",
+          url: new URL("/icon-512.png", SITE.url).href,
+        },
+      },
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": pageUrl,
+      },
+    };
 
 const breadcrumbSchema = {
   "@context": "https://schema.org",
@@ -90,11 +148,22 @@ const breadcrumbSchema = {
       "@type": "ListItem",
       position: 2,
       name: category.label,
-      item: new URL(category.slug, SITE.url).href,
+      item: new URL(`/${category.slug}/`, SITE.url).href,
     },
-    { "@type": "ListItem", position: 3, name: post.data.title },
+    {
+      "@type": "ListItem",
+      position: 3,
+      name: post.data.title,
+      item: pageUrl,
+    },
   ],
 };
+
+const pageSchemas = [
+  articleSchema,
+  breadcrumbSchema,
+  ...(faqSchema ? [faqSchema] : []),
+];
 ---
 
 <BaseLayout
@@ -102,8 +171,8 @@ const breadcrumbSchema = {
   description={post.data.description}
   type="article"
   publishedTime={post.data.pubDate}
-  modifiedTime={post.data.updatedDate}
-  schema={[articleSchema, breadcrumbSchema]}
+  modifiedTime={post.data.updatedDate ?? post.data.pubDate}
+  schema={pageSchemas}
 >
   {/* Only worth a reading bar when there is enough article to get lost in. */}
   {toc.length > 2 && <ArticleProgress headings={toc} minutes={minutes} />}

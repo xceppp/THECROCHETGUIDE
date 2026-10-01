@@ -37,12 +37,13 @@ const fullTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
  */
 const ogImage = new URL("/og-default.jpg", Astro.site).href;
 
-const organisation = {
+const websiteSchema = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: SITE.name,
   url: SITE.url,
   description: SITE.description,
+  inLanguage: "en-US",
   /**
    * Tells Google the social accounts and this site are one entity, which is
    * what lets traffic arriving from Pinterest reinforce the site's own
@@ -50,12 +51,35 @@ const organisation = {
    */
   sameAs: SOCIALS.map((social) => social.url),
   publisher: {
+    "@type": "Organization",
+    name: SITE.name,
+    url: SITE.url,
+    logo: {
+      "@type": "ImageObject",
+      url: new URL("/icon-512.png", SITE.url).href,
+    },
+  },
+};
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: SITE.name,
+  url: SITE.url,
+  description: SITE.description,
+  logo: new URL("/icon-512.png", SITE.url).href,
+  sameAs: SOCIALS.map((social) => social.url),
+  founder: {
     "@type": "Person",
     name: SITE.author.name,
   },
 };
 
-const schemas = [organisation, ...(schema ? [schema].flat() : [])];
+const schemas = [
+  websiteSchema,
+  organizationSchema,
+  ...(schema ? [schema].flat() : []),
+];
 
 /** Legal pages stay visually neutral even during the seasonal skin. */
 const legalPaths = new Set([
@@ -137,7 +161,10 @@ const themeColor =
       )
     }
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
+    <meta name="twitter:image:alt" content={`${SITE.name} — ${SITE.tagline}`} />
 
     {
       PINTEREST_DOMAIN_VERIFY && (
