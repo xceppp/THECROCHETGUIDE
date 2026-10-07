@@ -13,6 +13,9 @@ const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
 );
 
+const pinned = posts.find((post) => post.data.pinned) ?? null;
+const unpinned = pinned ? posts.filter((post) => post.id !== pinned.id) : posts;
+
 const occasion = resolveSeasonalOccasion();
 // Observance windows still shift the palette, but the hero stays normal so
 // visitors are not shown a calendar of awareness days.
@@ -21,7 +24,7 @@ const bannerOccasion =
 
 const seasonalTag = occasion?.contentTag?.toLowerCase();
 const seasonalPosts = seasonalTag
-  ? posts
+  ? unpinned
       .filter((post) =>
         post.data.tags.some((tag) => tag.toLowerCase() === seasonalTag),
       )
@@ -31,8 +34,8 @@ const seasonalPosts = seasonalTag
 // Featured seasonal piece is pinned first on the homepage when the season is live.
 const featuredSeasonal = seasonalPosts[0] ?? null;
 const remaining = featuredSeasonal
-  ? posts.filter((post) => post.id !== featuredSeasonal.id)
-  : posts;
+  ? unpinned.filter((post) => post.id !== featuredSeasonal.id)
+  : unpinned;
 // When a seasonal pin exists, it is the lead. Otherwise newest post leads.
 const lead = featuredSeasonal ?? remaining[0];
 const moreFrom = featuredSeasonal ? remaining : remaining.slice(1);
@@ -61,6 +64,21 @@ const seasonalHeading =
   />
 
   <ResumeCard />
+
+  {
+    pinned && (
+      <section class="border-b border-rule">
+        <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
+          <h2 class="text-xs font-semibold tracking-wider text-ink-faint uppercase">
+            Pinned
+          </h2>
+          <div class="mt-5">
+            <PostCard post={pinned} lead />
+          </div>
+        </div>
+      </section>
+    )
+  }
 
   <hr class="season-divider mx-auto max-w-4xl" aria-hidden="true" />
 

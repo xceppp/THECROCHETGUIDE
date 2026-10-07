@@ -21,6 +21,8 @@ const posts = defineCollection({
     /** Adds HowTo structured data. Only set true when the post really is steps. */
     howTo: z.boolean().default(false),
     featured: z.boolean().default(false),
+    /** One live article can be pinned above seasonal blocks on the homepage. */
+    pinned: z.boolean().default(false),
     draft: z.boolean().default(false),
   }),
 });

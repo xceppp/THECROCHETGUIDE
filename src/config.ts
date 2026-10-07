@@ -69,11 +69,8 @@ export const GA_MEASUREMENT_ID = "";
  * accounts are real.
  */
 export const SOCIALS = [
-  { name: "Pinterest", url: "https://www.pinterest.com/thecrochetguide/" },
-  {
-    name: "Facebook",
-    url: "https://www.facebook.com/profile.php?id=61593994663320",
-  },
+  { name: "Pinterest", url: "https://www.pinterest.com/crochetexplained/" },
+  { name: "Facebook", url: "https://www.facebook.com/crochetexplained/" },
 ] as const;
 
 export type CategoryId = "charts" | "skills" | "patterns" | "gear";
