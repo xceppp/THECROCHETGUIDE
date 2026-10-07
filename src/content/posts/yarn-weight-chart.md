@@ -8,11 +8,9 @@ printable: true
 tags: ["yarn weight", "conversion", "substitution", "reference"]
 ---
 
-"Yarn weight" has nothing to do with how much the ball weighs. It means how *thick the strand is*, and it is the single most important thing to get right when you substitute one yarn for another.
+"Yarn weight" means how thick the strand is, not how much the ball weighs. It is the thing to get right when you substitute one yarn for another.
 
-The confusing part is that every country and every brand has its own name for the same thickness. What Americans call worsted, the British call aran, the Australians call 10-ply, and the label might just say "medium." They are all the same yarn.
-
-The Craft Yarn Council standardized this into eight numbered categories, 0 through 7. That number is the only label that means the same thing everywhere, and it is usually printed inside a little yarn-skein symbol on the ball band.
+Every country and brand has its own name for the same thickness. What Americans call worsted, the British call aran, the Australians call 10-ply, and the label might just say "medium." The Craft Yarn Council's numbers, 0 through 7, mean the same thing everywhere. That number is usually printed inside a yarn-skein symbol on the ball band.
 
 <div class="warning">
 
@@ -37,59 +35,35 @@ Gauge below is single crochet over 4 inches, which is how crochet gauge is conve
 | 6 | Super Bulky | super chunky, roving | 9–15 mm | 7–9 sts |
 | 7 | Jumbo | jumbo, arm-knitting weight | 15 mm and up | 6 sts or fewer |
 
-The hook ranges are the manufacturers' suggestions. They are starting points, not rules — see the section on when to ignore them.
-
-## What each weight is actually good for
+The hook ranges are starting points. Learn on category 4, worsted: blankets, hats, scarves, amigurumi, dishcloths. Lace is a poor first yarn because you cannot see the stitches. DK is the most useful garment weight. A super-fine blanket is a several-month commitment, and super bulky gets expensive at blanket size.
 
 ![Thin fingering yarn strand beside worsted yarn for comparison](../../assets/articles/yarn-weight-chart-1.jpg "Illustration. Thinner yarns need more stitches and usually a smaller hook.")
 
-**0 — Lace.** Doilies, thread lace, fine edgings. Slow, fiddly, and beautiful. Not a beginner yarn, not because the stitches are harder but because you cannot see what your hands are doing.
+<div class="tip">
 
-**1 — Super Fine.** Socks, shawls, lightweight baby things. Drapes beautifully. A blanket in this weight is a several-month commitment.
+**Unlabeled yarn:** wrap it around a ruler for one inch, snug but not stretched, and count the wraps. This is wraps per inch. Roughly 8–11 wraps is bulky, 12–14 is worsted, 15–17 is DK, 18–24 is sport or fingering. Not precise, but enough to tell whether a ball is in the right neighborhood.
 
-**2 — Fine.** Baby garments and lightweight tops. A reasonable middle ground if you find worsted too bulky for clothing.
-
-**3 — Light (DK).** The most useful weight for garments. Enough body to hold its shape, fine enough that a sweater does not look armored. Very popular in Europe.
-
-**4 — Medium (worsted).** The default. Blankets, hats, scarves, amigurumi, dishcloths. Cheap, available everywhere, comes in every color, and most beginner patterns assume it. **Learn on this one.**
-
-**5 — Bulky.** Fast blankets, winter hats, chunky scarves. A satisfying weight when you want something finished this weekend.
-
-**6 — Super Bulky.** Very fast, very warm, very chunky. Uses a lot of yarn, so it gets expensive quickly on anything blanket-sized.
-
-**7 — Jumbo.** Giant blankets and floor poufs. More of a project category than a yarn category.
+</div>
 
 ## Substituting one yarn for another
 
 ![Four cream yarn cakes lined up from thin to bulky](../../assets/articles/yarn-weight-chart-2.jpg "Illustration. Match thickness first — then check yardage and fiber.")
 
-You will do this constantly, because the specific yarn a pattern calls for is often discontinued or unavailable where you live. Four things to match, in order of how much they matter.
+The yarn a pattern names is often discontinued. Match these, in order.
 
-**1. The weight number.** Non-negotiable. Substituting a category 3 for a category 4 will change the finished size of everything.
+**1. The weight number.** Substituting a category 3 for a category 4 changes the finished size.
 
-**2. The total yardage, not the number of balls.** This is where people get caught. A pattern calling for "3 skeins" means nothing on its own, because skein sizes differ enormously between brands — one brand's 7 oz skein can hold more than double another's 3.5 oz. Find the total yards or meters the pattern needs, then divide by the yardage of the yarn you are buying. Add ten percent, and buy it all at once so the dye lots match.
+**2. Total yardage, not the number of balls.** "3 skeins" means nothing on its own, because skein sizes differ between brands. One brand's 7 oz skein can hold more than double another's 3.5 oz. Find the total yards or meters, divide by the yardage on the yarn you are buying, and add ten percent. Buy it all at once so the dye lots match.
 
-**3. The fiber.** Same thickness does not mean same behavior. Acrylic is springy, cheap, machine washable, and holds its shape — ideal for blankets, kids' items, and amigurumi. Cotton is inelastic, heavy, and has no memory, so a cotton hat will stretch out and stay stretched; it is excellent for dishcloths, bags, and summer tops. Wool is warm, elastic, and blocks beautifully, but most of it needs hand washing. Substituting cotton for acrylic in a garment is technically possible and usually disappointing.
+**3. The fiber.** Acrylic is springy, machine washable, and holds its shape: blankets, kids' items, amigurumi. Cotton has no memory, so a cotton hat stretches and stays stretched. It suits dishcloths, bags, and summer tops. Wool is warm, elastic, and blocks well, and most of it needs hand washing. Acrylic is the right yarn for a blanket a toddler will drag around. For a garment you will wear for years, the fiber is most of what you are paying for.
 
-**4. The gauge.** Always swatch after substituting. Two yarns in the same category can still work up a stitch or two different over 4 inches.
+**4. The gauge.** Two yarns in the same category can still differ by a stitch or two over 4 inches. Swatch after you substitute.
 
-<div class="tip">
-
-**The one-minute substitution check:** wrap your candidate yarn around a ruler for one inch, snug but not stretched, and count the wraps. This is called wraps per inch. Roughly 8–11 wraps is bulky, 12–14 is worsted, 15–17 is DK, 18–24 is sport or fingering. It is not precise, but it will instantly tell you whether an unlabeled ball from the bottom of a bag is in the right neighborhood.
-
-</div>
-
-## When to ignore the hook on the label
-
-The label's hook suggestion aims for a balanced, general-purpose fabric. Two common projects want something else on purpose.
-
-**Amigurumi wants a smaller hook.** Toys need a dense fabric so stuffing does not show through the gaps. With worsted yarn, go down to a 3.5 mm or 4 mm rather than the suggested 5.5 mm. Your hands will notice, and the toy will look properly made instead of saggy.
-
-**Blankets and shawls want a larger hook.** Worked at the label's gauge, a blanket often comes out stiff and board-like. One size up gives you drape.
+For amigurumi, use a smaller hook than the label so stuffing does not show through: worsted on a 3.5 mm or 4 mm hook, rather than the suggested 5.5 mm. For blankets and shawls, go one size up. At the label's gauge they often come out stiff.
 
 ## How much yarn a project needs
 
-Rough figures in category 4 worsted, for planning rather than for ordering:
+Rough figures in category 4 worsted, for planning:
 
 | Project | Approximate yardage |
 | --- | --- |
@@ -100,14 +74,18 @@ Rough figures in category 4 worsted, for planning rather than for ordering:
 | Throw blanket, 50 x 60 in | 1,800–2,800 yds |
 | Adult sweater | 1,000–1,800 yds |
 
-Stitch choice moves these numbers more than people expect. Dense single crochet can use half again as much yarn as an open double crochet mesh over the same area, and textured stitches — bobbles, puffs, popcorns — are the hungriest of all. When in doubt, buy one extra ball. Returning it is easier than matching a dye lot three weeks later.
+Dense single crochet can use half again as much yarn as an open double crochet mesh over the same area. Bobbles, puffs, and popcorns use the most. Buy one extra ball. Returning it is easier than matching a dye lot three weeks later.
+
+## Common mistakes
+
+**Buying "3 skeins," or using a six-category chart.** Match the weight number and the total yardage. Current charts run from lace at 0 through jumbo at 7.
+
+**Changing the fiber and skipping the swatch.** A cotton hat stretches and stays stretched. Two yarns in one category can still differ by a stitch or two over 4 inches.
 
 ## Frequently asked
 
-**What does "4-ply" or "8-ply" mean?** It is the Australian and New Zealand system, and it refers to thickness rather than the literal number of strands twisted together. 4-ply is roughly fingering, 8-ply is roughly DK, 10-ply is roughly worsted.
+**What does "4-ply" or "8-ply" mean?** It is the Australian and New Zealand system, and it means thickness, not the literal number of strands. 4-ply is roughly fingering, 8-ply is roughly DK, 10-ply is roughly worsted.
 
-**Why is my hat too big when I followed the pattern exactly?** Almost always gauge rather than yarn. Your tension is looser than the designer's, so go down a hook size. [Gauge is covered here](/how-to-read-a-crochet-pattern).
+**Why is my hat too big when I followed the pattern exactly?** Almost always gauge. Your tension is looser than the designer's, so go down a hook size. [Gauge is covered here](/how-to-read-a-crochet-pattern).
 
-**Can I hold two thin yarns together to make a thicker one?** Yes, and it works well. Two strands of DK held together behave roughly like a chunky. Swatch it, because the result is never exactly what arithmetic suggests.
-
-**Is expensive yarn worth it?** For a blanket that will be dragged around by a toddler, no — acrylic is genuinely the right answer. For a garment you will wear for a decade, the fiber is most of what you are paying for and you will feel the difference every time you put it on.
+**Can I hold two thin yarns together to make a thicker one?** Yes. Two strands of DK held together behave roughly like a chunky. Swatch it, because the result is never exactly what the arithmetic suggests.

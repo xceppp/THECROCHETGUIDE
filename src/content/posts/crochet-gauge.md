@@ -9,9 +9,7 @@ printable: true
 tags: ["gauge", "tension", "swatch", "sizing", "troubleshooting"]
 ---
 
-Gauge is the number of stitches and rows that fit into a set measurement, almost always 4 inches. It is the most ignored line in any pattern and the reason a carefully followed sweater comes out fitting nobody.
-
-It exists because your hands are not the designer's hands. Two people can use the same yarn, the same hook, and the same instructions and produce items two inches different in size, purely because one of them holds the yarn tighter.
+Gauge is the number of stitches and rows that fit into a set measurement, almost always 4 inches. Two people can use the same yarn, hook, and instructions and come out two inches apart, because one of them holds the yarn tighter.
 
 
 ![A cream crochet gauge swatch measured with a metal ruler](../../assets/articles/crochet-gauge-result.jpg "Illustration. Measure stitches and rows over inches, not by counting the whole swatch.")
@@ -21,31 +19,33 @@ A pattern will say something like:
 
 > **GAUGE:** 14 sc and 16 rows = 4 inches
 
-That means fourteen single crochet stitches across, and sixteen rows tall, should measure four inches square. Two numbers: **stitch gauge** across, **row gauge** up.
+Fourteen single crochet stitches across, and sixteen rows tall, should measure four inches. **Stitch gauge** is the width. **Row gauge** is the height.
 
-Sometimes a pattern gives gauge in pattern repeats instead — "3 shell patterns = 4 inches" — which works the same way. Count repeats rather than individual stitches.
+Sometimes the line is in pattern repeats: "3 shell patterns = 4 inches." Count repeats instead of single stitches.
 
 ## Making the swatch
 
-**Work it bigger than 4 inches.** This is the mistake almost everyone makes. If you crochet exactly a 4-inch square and measure the whole thing, you are including the edge stitches, and edge stitches are always a different tension than the middle. Make it at least 6 inches square so you can measure the center and ignore the edges.
+**Make it bigger than 4 inches.** A swatch that is exactly 4 inches includes the edge stitches, and edges are a different tension than the middle. Six inches square lets you measure the center.
 
-**Use the actual stitch pattern.** If the pattern is worked in shells, swatch in shells. Single crochet gauge tells you nothing about how you work a shell.
+**Use the stitch the project uses.** Shell gauge is not single crochet gauge.
 
-**Use the actual yarn.** Not a similar yarn from your stash. Fiber and twist both affect gauge.
+**Use the yarn the project uses.** Fiber and twist both change the number.
 
-**Block it first if the finished item will be blocked.** Cotton and wool change measurably when wet and dried flat. Acrylic mostly does not. If your pattern says to block, block the swatch too, or you are comparing two different things.
+**Block the swatch if you will block the item.** Cotton and wool change when they are wet and dried flat. Acrylic mostly does not.
 
-## Measuring it
+Keep the swatch. Pin the ball band to it. A swatch is awkward to put back into the project, and over time the set becomes a record of how each yarn behaves for you.
+
+## Measuring
 
 ![Hands counting stitches across a gauge swatch with a ruler](../../assets/articles/crochet-gauge-1.jpg "Illustration. Count inside the fabric, away from the edges.")
 
-Lay the swatch on a flat surface. Do not hold it up, do not pin it, do not stretch it, do not smooth it out with your hand. Crochet fabric will happily stretch an inch if you ask it to, and then lie to you.
+Lay the swatch flat. Do not hold it up, pin it, stretch it, or smooth it. Crochet will stretch an inch if you ask it to, and then the measurement is a lie.
 
-Put a ruler across the middle. Count the stitches inside 4 inches, including partial stitches as fractions — 14½ stitches is a real and useful answer. Then turn the ruler and count rows the same way.
+Put a ruler across the middle. Count the stitches inside 4 inches, including a partial stitch as a fraction. 14½ is a real answer. Turn the ruler and count rows the same way.
 
 <div class="tip">
 
-**A gauge window makes this much easier.** It is a small stiff card or metal plate with a 4-inch square hole. Lay it on the swatch and count what is inside. A few dollars, and it removes the guesswork of where the ruler starts and stops.
+A gauge window is a stiff card or metal plate with a 4-inch square hole. Lay it on the swatch and count what shows through.
 
 </div>
 
@@ -53,60 +53,46 @@ Put a ruler across the middle. Count the stitches inside 4 inches, including par
 
 ![Two cream gauge swatches compared with a metal ruler](../../assets/articles/crochet-gauge-2.jpg "Illustration. Too many stitches per inch means go up a hook size.")
 
-Compare your numbers to the pattern's.
+**More stitches than the pattern in 4 inches** means each stitch is smaller. You crochet tightly. Go **up** a hook size and swatch again.
 
-**More stitches than the pattern in 4 inches** means your stitches are smaller than the designer's — you crochet tightly. Go **up** a hook size and swatch again.
+**Fewer stitches** means each stitch is bigger. You crochet loosely. Go **down** a hook size.
 
-**Fewer stitches** means your stitches are bigger — you crochet loosely. Go **down** a hook size.
+More stitches in the same space means each one is smaller, so a bigger hook makes them bigger. Change one size at a time. One hook size typically moves stitch gauge by about half a stitch to a full stitch over 4 inches.
 
-The direction feels backwards to people at first. Think of it this way: more stitches crammed into the same space means each one is smaller, so you need a bigger hook to make them bigger.
+Match **stitch gauge** first. Width is what determines fit, and most patterns tell you to work length to a measurement rather than to a row count. If the stitches are right and the rows are off, follow the inch measurements. Where a pattern insists on a row count for shaping, such as armholes or sleeve caps, try another hook and see whether both numbers get closer.
 
-Change one size at a time and re-swatch. A single hook size typically shifts stitch gauge by about half a stitch to a full stitch over 4 inches.
+## When you can skip it
 
-### If only your row gauge is off
+Skip gauge for blankets, scarves, dishcloths, coasters, bags, and anything where an inch either way changes nothing.
 
-Match the **stitch gauge** first. It matters far more, because width determines fit and because most patterns tell you to work to a measurement rather than a row count for length.
+Do not skip it for hats, sweaters, mittens, gloves, socks, or any fitted garment. Do not skip it for amigurumi either. A loose gauge leaves gaps, and stuffing shows through. Toys are worked tight on purpose.
 
-If your stitch gauge is right but your rows are off, just work to the measurements the pattern gives in inches rather than counting rows. For most projects that solves it completely. Where a pattern insists on a row count for shaping — armholes, sleeve caps — you may need to recalculate, and at that point it is worth checking whether a slightly different hook gets both closer.
+If being two inches off would bother you, swatch.
 
-## When you can honestly skip gauge
+## Working to your own gauge
 
-Not every project needs this, and pretending otherwise is why beginners think crochet is fussy.
-
-**Skip it for** blankets, scarves, dishcloths, coasters, bags, and anything where an inch either way changes nothing. Just make it until it looks right.
-
-**Do not skip it for** anything worn or fitted: hats, sweaters, mittens, gloves, socks, garments of any kind. Also amigurumi — loose gauge means visible gaps and stuffing showing through, and toys are worked deliberately tight.
-
-The honest rule: if being two inches off would bother you, swatch. Twenty minutes now against three weeks of wasted work is not a close call.
-
-## Resizing a pattern to your own gauge
-
-Sometimes you cannot hit the gauge — you have run out of hook sizes, or you like the fabric you are getting. You can work with your own gauge instead, as long as the shape is simple.
-
-Work out your stitches per inch, then multiply by the width you want:
+If you cannot hit the pattern gauge, or you prefer the fabric you have, you can plan from your own numbers on a simple shape.
 
 > Your gauge: 12 sc = 4 inches, so 3 stitches per inch.
 > You want a 20-inch-wide blanket.
 > 3 × 20 = **60 stitches** to start.
 
-The same arithmetic works for length using your row gauge. This is reliable for rectangles — blankets, scarves, dishcloths, simple shawls. Do not try it on a fitted garment unless you are willing to redraft the shaping too, because every increase and decrease position depends on the original numbers.
+The same arithmetic works for length, using your row gauge. It is reliable for rectangles: blankets, scarves, dishcloths, simple shawls. On a fitted garment, every increase and decrease sits on the original numbers, so changing the count means redrafting the shaping.
 
-## Things that quietly change your gauge mid-project
+## Common mistakes
 
-**Your mood and your hands.** Tension tightens when you are stressed and loosens when you are relaxed. This is real, it is normal, and it evens out over a large piece.
+**Measuring the whole swatch, edges included.** Count the middle.
 
-**A different hook brand.** Swapping a 5 mm aluminum hook for a 5 mm ergonomic one can shift your gauge, because the head shape and the shaft taper differ. Finish a project with the hook you started it with.
+**Stretching the fabric while you measure.** It will tell you a number you cannot repeat.
 
-**A new dye lot or a different color.** Occasionally a different color of the same yarn behaves slightly differently, because dye affects the fiber. Rare, but it happens.
+**Letting gauge drift.** Tension tightens when you are stressed and loosens when you are relaxed. That evens out on a large piece. A different brand of the same millimeter hook can still shift the gauge, because the head and the shaft taper differ. Finish on the hook you started with. A new dye lot or a different color of the same yarn occasionally behaves differently, because dye affects the fiber. Beginners often start tight and loosen as they relax. If the swatch is from your first week, make another one.
 
-**Getting better.** Beginners often tighten up for the first few inches and then loosen as they relax. If your swatch was made in your first week, re-swatch.
+**Stopping between sizes without choosing.** Try that size in another brand, or take the closer hook and adjust the stitch count with the arithmetic above.
 
 ## Frequently asked
 
-**Do I really have to make a swatch every time?** For garments, yes. Once you know your own tendency — most people learn they run consistently tight or loose — you can predict which hook you will need and confirm it with one swatch rather than three.
+**Do I have to swatch every time?** For garments, yes. Once you know you usually run tight or loose, one swatch is enough to confirm the hook.
 
-**Can I use the swatch in the project?** Not usually, and it is not worth the trouble. Keep swatches instead: pin the ball band to each one and keep them in a bag. Over a year they become a genuinely useful personal reference of how each yarn behaves for you.
+**My gauge matches and the item is still the wrong size.** Check the pattern's finished measurements against the person. A correct gauge can still be a size meant for someone else.
 
-**My gauge is right but the item is still the wrong size.** Then check the pattern's finished measurements against the person. A pattern can be accurately worked and still be sized for someone else's head.
-
-**What if I am between hook sizes?** Try the same size in a different brand, or accept the closer of the two and adjust the stitch count using the arithmetic above.
+**What if only my row gauge is off?** Keep the stitch gauge and work the length in inches. Recalculate only where the pattern shapes from a row count.

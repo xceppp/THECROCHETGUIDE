@@ -10,9 +10,7 @@ tags: ["hook sizes", "conversion", "reference", "beginner"]
 
 Your pattern calls for a 4 mm hook. Your hook says `G/6`. Are those the same thing?
 
-Yes — and here is every other size, in one table you can print.
-
-The important thing to understand up front: **the millimeter measurement is the real size.** The letters and numbers are a US convention that manufacturers have never fully agreed on, so a size H from one brand can differ very slightly from another. Where a pattern gives both, trust the millimeters.
+Yes. **The millimeter measurement is the real size.** Letters and numbers are a US convention manufacturers have never fully agreed on, so a size H from one brand can differ slightly from another. Where a pattern gives both, trust the millimeters.
 
 
 ![A row of aluminum crochet hooks in graduated sizes with a gauge plate](../../assets/articles/crochet-hook-size-conversion-chart-result.jpg "Illustration. Letter, metric, and steel sizes are different rulers — convert before you buy.")
@@ -44,15 +42,13 @@ These are the aluminum and plastic hooks you use with ordinary yarn, from sock w
 
 <div class="tip">
 
-**About the UK column.** Those numbers are a legacy sizing system, they run backwards from the metric measurement, and they have been largely retired — modern British and Australian patterns give millimeters like everyone else. The column is here because vintage patterns and inherited hooks still use it. If you are matching an old hook, measure it rather than trusting the stamp.
+**About the UK column.** Those numbers run backwards from the metric size, and modern British and Australian patterns give millimeters instead. The column is for vintage patterns and inherited hooks. Measure an old hook rather than trusting the stamp.
 
 </div>
 
 ## Steel hooks for thread crochet
 
-Steel hooks are a completely separate system, they are much finer, and — this is the part that trips people up — **the numbers run in the opposite direction**. A higher number means a *smaller* hook, which is the reverse of everything else in crochet.
-
-These are what you use for doilies, thread lace, and fine edgings.
+Steel hooks are a finer, separate system, and **the numbers run in the opposite direction**: a higher number is a smaller hook. Use them for doilies, thread lace, and fine edgings.
 
 | Millimeters | US steel size |
 | --- | --- |
@@ -73,11 +69,11 @@ These are what you use for doilies, thread lace, and fine edgings.
 | 0.85 mm | 13 |
 | 0.75 mm | 14 |
 
-Note the overlap: a steel size 2 and a standard B/1 are both 2.25 mm. The difference is the shape of the shaft and the head, not the diameter.
+A steel size 2 and a standard B/1 are both 2.25 mm. The difference is the shape of the shaft and the head, not the diameter.
 
 ## Which hook does your yarn want?
 
-Every yarn label suggests a hook size, and that suggestion is a reasonable starting point rather than a rule. Here is the general pairing.
+The hook on a yarn label is a starting point, not a rule.
 
 | Yarn weight | Common names | Suggested hook |
 | --- | --- | --- |
@@ -90,47 +86,29 @@ Every yarn label suggests a hook size, and that suggestion is a reasonable start
 | 6 — Super bulky | super chunky, roving | 9–15 mm (M/13 to Q) |
 | 7 — Jumbo | jumbo, arm-weight | 15 mm and larger (Q and up) |
 
-Two situations where you should deliberately ignore the label:
+**Amigurumi.** Go one or two sizes smaller than the label so stuffing does not show through. Worsted on a 3.5 mm or 4 mm hook, rather than 5.5 mm, makes a firm toy.
 
-**Amigurumi.** Toys need a dense fabric so the stuffing does not show through. Go one or two sizes *smaller* than the label suggests — worsted yarn on a 3.5 mm or 4 mm hook rather than 5.5 mm. It is harder on your hands, and it is the difference between a firm toy and a saggy one.
+**Blankets and shawls.** Go one size larger. At the label's gauge, a blanket often feels stiff.
 
-**Blankets and shawls.** Go one size *larger* for a softer drape. A blanket worked at the label's gauge often feels stiff.
-
-## Why the letter is not enough
+## Common mistakes
 
 ![Two crochet hook tip shapes compared side by side](../../assets/articles/crochet-hook-size-conversion-chart-1.jpg "Illustration. Tip shape and true millimeter size both matter.")
 
-Three reasons the millimeter number matters more than the letter stamped on the handle:
+**Trusting the letter on the handle.** There is no enforced standard. A size I is usually 5.5 mm, but some manufacturers have sold it as 5.25 mm or 5.75 mm. There is no US letter in common use for 3.75 mm, so F/5 gets applied to both 3.75 mm and 4 mm depending on who made the hook. Japanese hooks, and many ergonomic sets, are labeled only in millimeters. A hook gauge — a small metal plate with graduated holes — settles this for every hook you own, including unlabeled ones.
 
-**Brands disagree.** There is no enforced standard behind the letters. A size I hook is usually 5.5 mm, but some manufacturers have sold it as 5.25 mm or 5.75 mm.
-
-**Some sizes only exist in one system.** There is no US letter in common use for 3.75 mm, which is why the F/5 designation gets applied to both 3.75 mm and 4 mm depending on who made the hook.
-
-**Ergonomic and imported hooks often skip letters entirely.** Japanese hooks are labeled purely in millimeters, and many ergonomic sets are too.
-
-If you buy one thing after reading this page, buy a hook gauge — a small metal plate with graduated holes. It costs a few dollars and it settles the question permanently for every hook you own, including the unlabeled ones in the bottom of the bag.
-
-## The hook size in the pattern is a suggestion
-
-This is the part experienced crocheters wish beginners knew sooner.
-
-A pattern's hook size exists to get you to the pattern's **gauge**. If your tension is naturally tighter than the designer's, the stated hook will give you a smaller finished item, no matter how carefully you follow the instructions. If your tension is loose, you get a larger one.
-
-So the actual procedure is:
+**Using the pattern's hook without checking gauge.** That hook size exists to get you to the pattern's **gauge**. If your tension is tighter than the designer's, the item comes out smaller. If your tension is loose, it comes out larger.
 
 1. Start with the hook the pattern asks for.
-2. Work the gauge swatch it specifies — usually a 4-inch square.
-3. Measure it. Too small means your stitches are tight, so go **up** a hook size. Too large means go **down**.
+2. Work the gauge swatch it specifies, usually a 4-inch square.
+3. Too small means your stitches are tight, so go **up** a hook size. Too large means go **down**.
 4. Swatch again with the new hook.
 
-Nobody enjoys this. On a coaster it does not matter and you can skip it. On a sweater, twenty minutes of swatching saves you three weeks of work that does not fit.
+Skip this on a coaster. On a sweater, it saves a project that does not fit. If you crochet for hours or your hands ache, an ergonomic handle helps, covered in the [hooks and yarn guides](/gear).
 
 ## Frequently asked
 
-**Can I use a different hook than the pattern says?** Yes, as long as you hit the gauge, and yes anyway if the exact finished size does not matter. For scarves, blankets, and dishcloths, use what feels good.
+**Can I use a different hook than the pattern says?** Yes, if you hit the gauge. For scarves, blankets, and dishcloths, use what feels good.
 
-**What does the ½ mean in K/10½?** It is just a size name, not a fraction of anything measurable. K/10½ is 6.5 mm.
+**What does the ½ mean in K/10½?** It is a size name, not a fraction of anything measurable. K/10½ is 6.5 mm.
 
-**Which hook should I learn on?** A 5 mm (H/8) with a medium worsted yarn in a light, solid color. Big enough to see what your hands are doing, small enough to feel normal, and light yarn shows the stitch structure so you can tell when something has gone wrong.
-
-**Are expensive hooks worth it?** For casual use, no. If you crochet for hours at a time or your hands ache, an ergonomic handle genuinely helps, and that is covered in the [hooks and yarn guides](/gear).
+**Which hook should I learn on?** A 5 mm (H/8) with a medium worsted yarn in a light, solid color. Big enough to see what your hands are doing, and light yarn shows the stitch so you can tell when something has gone wrong.

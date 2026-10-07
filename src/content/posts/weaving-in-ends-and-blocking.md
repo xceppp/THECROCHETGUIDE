@@ -9,52 +9,44 @@ printable: true
 tags: ["finishing", "weaving in ends", "blocking", "seaming"]
 ---
 
-Finishing is the part everyone rushes, and it is most of the difference between a project that looks handmade and one that looks homemade.
-
-Three jobs: secure the ends, block the fabric if the fiber will respond to it, and join the pieces. None of them take long. All of them show.
+Finishing is most of the difference between a project that looks handmade and one that looks homemade. Three jobs: secure the ends, block if the fiber will respond, and join the pieces.
 
 
 ![A blocked crochet square pinned flat on a foam mat](../../assets/articles/weaving-in-ends-and-blocking-result.jpg "Illustration. Weave ends, then block — that order keeps the finish clean.")
 ## Fastening off
 
-When a piece is finished, cut the yarn leaving at least a six-inch tail — longer, eight to ten inches, if you will be seaming with it. Then yarn over, pull the cut end all the way through the last loop on your hook, and tug gently to snug it down.
+Cut the yarn, leaving at least a six-inch tail. Leave eight to ten inches if you will seam with it. Yarn over, pull the cut end all the way through the last loop, and tug gently. That secures the stitch. The tail is the next job.
 
-That secures the stitch. It does not secure the tail, which is the next job.
-
-## Weaving in ends properly
+## Weaving in ends
 
 ![Tapestry needle weaving a yarn end into crochet fabric](../../assets/articles/weaving-in-ends-and-blocking-1.jpg "Illustration. Weave through several stitches on the wrong side, then reverse direction once.")
 
-A tail that is simply threaded straight through the fabric will work its way loose. Wear and washing both pull at it. The goal is friction and direction changes.
+A tail threaded straight through the fabric works loose with wear and washing. You want friction and a change of direction.
 
-Thread the tail onto a blunt tapestry needle — blunt, so it slides between the plies instead of splitting them.
+Use a blunt tapestry needle so it slides between the plies instead of splitting them.
 
-**The method that holds:**
+1. On the wrong side, run the needle through the backs of four or five stitches, following the stitch bumps.
+2. Change direction. Weave back through several more stitches, on a different path.
+3. Split a ply once on the way back if you want it permanent.
+4. Trim close, then stretch the piece gently in both directions so the cut end pulls inside.
 
-1. Run the needle through the *backs* of four or five stitches on the wrong side, following the direction of the stitch bumps rather than cutting straight across.
-2. Change direction. Turn and weave back through several more stitches, roughly at right angles or straight back the way you came but through a different path.
-3. Optionally, split a ply once on the way back. This is what makes it genuinely permanent.
-4. Trim close to the fabric, then stretch the piece gently in both directions so the cut end retracts inside.
-
-The direction change in step 2 is the important part. A single straight pass has nothing stopping it sliding back out; a pass that reverses on itself cannot.
+The direction change is what holds. A straight pass can slide back out. A pass that reverses on itself cannot.
 
 <div class="tip">
 
-**Match the tail to the stitches you weave it through.** Run dark tails through dark areas and light tails through light. Weaving a navy end through a cream stripe will show a shadow through the fabric, and it gets worse after the first wash.
+Run dark tails through dark stitches and light tails through light. A navy end through a cream stripe shows a shadow, and it gets worse after the first wash.
 
 </div>
 
-**For amigurumi**, weave the tail across the inside of the piece, catching stitches on the way, then bring the needle out and back in through the same spot before trimming. Toys get handled hard, and there is no wrong side you can inspect once it is stuffed and closed.
+**Amigurumi.** Weave across the inside, catching stitches, then bring the needle out and back in through the same spot before you trim. Toys are handled hard, and once the piece is stuffed there is no wrong side to check.
 
-**Weave in as you go.** On a striped blanket with forty color changes, leaving all the ends for the end creates a finishing session nobody enjoys, and it is where projects die two rows from complete.
+On a striped piece, weave as you go. Leaving every end until the last row is where projects stall.
 
 ## Blocking
 
 ![A cream granny square pinned flat on a foam blocking mat](../../assets/articles/weaving-in-ends-and-blocking-2.jpg "Illustration. Pin to shape while damp — corners first, then mid-sides.")
 
-Blocking means wetting or steaming a finished piece, shaping it to the measurements you want, and letting it dry that way. It relaxes the stitches, evens out tension irregularities, opens up lace, and makes edges lie flat instead of curling.
-
-Whether it does anything at all depends entirely on the fiber.
+Blocking means wetting or steaming a finished piece, shaping it, and letting it dry that way. Stitches relax, tension evens out, lace opens, and edges lie flat. Whether it works depends on the fiber.
 
 | Fiber | Does blocking help? | Method |
 | --- | --- | --- |
@@ -64,60 +56,54 @@ Whether it does anything at all depends entirely on the fiber.
 | Superwash wool | Yes, but it can grow | Wet block, do not stretch far |
 | Novelty and fuzzy yarns | No | Skip it |
 
-### Wet blocking, for wool and cotton
+### Wet blocking
 
-1. Soak the piece in cool water with a little wool wash for fifteen to twenty minutes, until it is fully saturated.
-2. Lift it out supporting the whole weight — never let a wet piece hang, it will stretch permanently.
+For wool and cotton:
+
+1. Soak in cool water with a little wool wash for fifteen to twenty minutes, until the piece is fully wet.
+2. Lift it supporting the whole weight. A wet piece that hangs will stretch and stay stretched.
 3. Press the water out between towels. Do not wring or twist.
-4. Lay it on a padded flat surface — a towel-covered bed, a blocking mat, a carpet — and pin it to the measurements you want with rustproof pins.
-5. Let it dry completely before unpinning. This takes a day, sometimes two. Unpinning early undoes the work.
+4. Lay it on a flat padded surface and pin it to the measurements you want, with rustproof pins.
+5. Let it dry completely before you unpin. A day, sometimes two. Unpinning early undoes the work.
 
-This is what turns a lumpy, curling granny square into a crisp flat one, and it is genuinely transformative on lace.
+This is what turns a curling granny square into a flat one, and it changes lace.
 
-### Steam blocking, for acrylic
+### Steam blocking
 
-Acrylic is a plastic and it does not respond to water. It does respond to heat — permanently, which is both the point and the danger.
+Acrylic does not respond to water. Heat changes it permanently. Hold a steam iron above the piece, in short bursts, and keep it moving. Do not let the iron touch the fabric. Acrylic melts, flattens, and goes shiny. Some people do this on purpose for drape. It is often called killing acrylic, and you cannot undo it.
 
-Hold a steam iron **above** the piece and let the steam do the work. Do not let the iron touch the fabric. Acrylic will melt, flatten, and go shiny, and that damage cannot be reversed. This is often called "killing" acrylic, and while some people do it deliberately for drape, it is not something you can undo if you change your mind.
+Bobbles, popcorns, and puffs lose their dimension if pressed. Steam them from farther away, or skip them.
 
-Work in short bursts, check as you go, and keep the iron moving.
-
-**Textured stitches need extra care.** Bobbles, popcorns, and puffs lose their dimension if pressed. Steam them lightly from further away, or skip blocking them altogether.
-
-### When to skip blocking
-
-Acrylic blankets, dishcloths, amigurumi, bags, and anything that gets thrown in the washing machine regularly. There is no benefit, and for amigurumi you actively want the fabric firm.
+Skip blocking for acrylic blankets, dishcloths, amigurumi, bags, and anything that goes through the washing machine often. Toys should stay firm.
 
 ## Joining pieces
 
-Two approaches, and the choice is about how visible you want the seam.
+**Whipstitch.** Wrong sides facing you, sew through the matching stitches along the edge. Nearly invisible from the front, and it lies flat. Use it where a seam should disappear, such as garment shoulders.
 
-**Whipstitch, sewn with a needle.** Line the pieces up edge to edge with the wrong sides facing you, and sew through the matching stitches on each side. Nearly invisible from the front, and it lies flat. This is the right choice for garment shoulders and anywhere the seam should disappear.
+**Slip stitch.** Right sides together, slip stitch through one loop of each piece. Faster, with a small firm ridge. Good for blankets made of squares, and for bags.
 
-**Slip stitch join, with a hook.** Hold the pieces with right sides together, then slip stitch through one loop of each piece along the edge. Faster than sewing, and it creates a small firm ridge. Good for blankets made of squares, bags, and anywhere a bit of structure at the seam is welcome.
+**Single crochet the edges together** when you want a raised seam on purpose, as on some granny-square blankets.
 
-A third option worth knowing: **single crochet the pieces together** for a deliberately visible raised seam, used decoratively on granny square blankets.
+Block before you seam. Flat pieces line up. Curling ones do not.
 
-**Block before seaming, not after.** Flat, correctly sized pieces line up. Curling ones do not, and you will fight them the whole way.
-
-## The order to do all this in
-
-1. Weave in the ends on each piece as you finish it.
+1. Weave in ends on each piece as you finish it.
 2. Block the pieces.
-3. Seam them together.
+3. Seam them.
 4. Add the border or edging.
-5. Weave in the last few ends.
+5. Weave in the last ends.
 
-Blocking after seaming works, but blocking flat pieces is much easier than wrestling an assembled garment onto a mat.
+## Common mistakes
+
+**A straight weave, or a tail under six inches.** Without a turn, the end slides out. A knot holds, then comes to the surface as a hard bump.
+
+**A tail through the wrong color.** Navy through a cream stripe shows a shadow after washing.
+
+**The iron touching acrylic, or the seam done first.** Wool and cotton can be blocked again after every wash. Steamed acrylic cannot. Curled edges will not line up. A slightly tight corner count can curl a granny square too. Blocking fixes that on wool and cotton. Light steam helps on acrylic.
 
 ## Frequently asked
 
-**How long do woven ends need to be?** Six inches minimum. Anything shorter cannot make the direction change that keeps it in place.
+**How long do woven ends need to be?** Six inches minimum. Longer, eight to ten, if that tail will seam a piece.
 
-**Can I use a knot instead?** You can, and it will hold, but it will also migrate to the surface over time and show as a hard bump. Woven ends are barely slower and look far better.
+**Can I use a knot instead?** It holds, then works its way to the surface as a hard bump. Woven ends are barely slower.
 
-**Do I have to block?** No. For acrylic blankets and toys, skip it entirely. For wool garments, lace, and granny squares, it is the single biggest improvement available for twenty minutes of work.
-
-**My granny squares curl at the corners.** Blocking fixes this on wool and cotton. On acrylic, light steam will help. Persistent curling can also mean the corner stitch count is slightly tight.
-
-**Can I block something twice?** Wool and cotton, yes, as often as you like — every wash is effectively a re-block. Steamed acrylic, no; the change is permanent.
+**Do I have to block?** No. Skip it for acrylic blankets and toys. For wool garments, lace, and granny squares, it is the largest improvement you can make in the finishing.

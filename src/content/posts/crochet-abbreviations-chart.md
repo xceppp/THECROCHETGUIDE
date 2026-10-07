@@ -9,23 +9,19 @@ featured: true
 tags: ["abbreviations", "US terms", "UK terms", "reference", "beginner"]
 ---
 
-You are three rows into a pattern, it says `2 hdc in next st, sk 1, rep from *`, and you have no idea what half of that means. Here is the whole vocabulary in one place, written out properly instead of assuming you already know it.
-
-Print this page and keep it in your project bag. That is what it is for.
+A line like `2 hdc in next st, sk 1, rep from *` is ordinary pattern shorthand. The charts below are US terms, so print the page and keep it with the project.
 
 <div class="warning">
 
-**Read this bit first if your project came out wrong.** There are two crochet dialects: US terms and UK terms. They use the same abbreviations for *different stitches*. A pattern that says `dc` means a double crochet in the US and a completely different stitch in the UK. If your work looks half as tall as the photo, this is almost always why. The conversion table is [further down the page](#us-vs-uk-terms-the-one-that-catches-everyone).
+**If the fabric is the wrong height, check US versus UK before you rip more rows.** The same letters name different stitches. Half as tall as the photo is usually this. The conversion is [further down the page](#us-vs-uk-terms-the-one-that-catches-everyone).
 
 </div>
 
-
 ![A crochet abbreviations reference card beside yarn and a hook](../../assets/articles/crochet-abbreviations-chart-result.jpg "Illustration. Keep this chart open until the common abbreviations stick.")
+
 ## The stitches
 
 ![Cream crochet fabric beside a small stitch reference note](../../assets/articles/crochet-abbreviations-chart-1.jpg "Illustration. Same abbreviations show up in almost every US pattern.")
-
-These are the ones that build almost everything. All names below are **US terms**, which is what the overwhelming majority of patterns written for American crocheters use.
 
 | Abbreviation | Stitch | In plain English |
 | --- | --- | --- |
@@ -39,8 +35,6 @@ These are the ones that build almost everything. All names below are **US terms*
 | `ttr` | triple treble crochet | Very tall. Rare outside decorative work. |
 
 ## Where to put the stitch
-
-Half of pattern confusion is not the stitch itself — it is *where* it goes.
 
 | Abbreviation | Meaning | In plain English |
 | --- | --- | --- |
@@ -78,9 +72,9 @@ Half of pattern confusion is not the stitch itself — it is *where* it goes.
 | `MR` | magic ring | An adjustable starting loop for working in the round. |
 | `fsc` / `fdc` | foundation single / double crochet | Makes the chain and the first row at the same time. |
 
-## Textured stitches you will meet in patterns
+## Textured stitches
 
-These are combinations rather than true stitches, so the exact instructions vary between designers. A good pattern defines its own version in a "special stitches" section — if it does, trust that over any chart, including this one.
+Designers define these differently. A special-stitches note in the pattern wins over this chart.
 
 | Abbreviation | Name | Roughly |
 | --- | --- | --- |
@@ -95,9 +89,7 @@ These are combinations rather than true stitches, so the exact instructions vary
 
 ![Dense single crochet swatch beside taller double crochet fabric](../../assets/articles/crochet-abbreviations-chart-2.jpg "Illustration. US and UK reuse the same letters for different stitch heights.")
 
-This is the single most expensive mistake in crochet, measured in frogged rows.
-
-The names are shifted by one. What the US calls a single crochet, the UK calls a double crochet. Same stitch, different name. So a UK pattern asking for `dc` wants the short dense stitch, while a US pattern asking for `dc` wants the tall one.
+The names are shifted by one. What the US calls a single crochet, the UK calls a double crochet. A UK `dc` is the short, dense stitch. A US `dc` is the tall one.
 
 | US term | UK term |
 | --- | --- |
@@ -108,47 +100,20 @@ The names are shifted by one. What the US calls a single crochet, the UK calls a
 | treble crochet (`tr`) | double treble (`dtr`) |
 | double treble (`dtr`) | triple treble (`trtr`) |
 
-### How to tell which one you are holding
-
-The pattern usually will not say. Three reliable tells:
-
-1. **Look for `sc`.** UK terminology has no single crochet at all. If `sc` appears anywhere, it is a US pattern.
-2. **Look for `htr`.** That abbreviation only exists in UK terms. If you see it, work UK.
-3. **Check the spelling of colour, gauge, and yarn weight.** "Colour", "tension" instead of "gauge", and yarn described in grams rather than yards all point to a UK or Australian designer.
-
-<div class="tip">
-
-**Rule of thumb:** if you cannot tell, assume US terms. The large majority of English-language crochet patterns online, and almost everything from American designers and yarn companies, is written in US terms.
-
-</div>
+**`sc` means US terms.** UK terminology has no single crochet. **`htr` means UK terms.** "Colour", "tension" instead of "gauge", and grams instead of yards point to a UK or Australian designer. If you cannot tell, assume US terms.
 
 ## Reading the punctuation
 
-The symbols carry as much meaning as the abbreviations.
+Parentheses put stitches in one place: `(2 dc, ch 1, 2 dc) in next st`. At the end of a row they are the count, `(12 sts)`. Brackets repeat: `[sc, ch 1] x 6`. An asterisk starts a repeat that runs to the end. A number before a stitch is how many to make (`3 dc`). A number after it is one stitch (`dc3tog`). So `*2 dc in next st, sk 1 st, rep from * to end (24 sts)` finishes at 24.
 
-- **`( )` parentheses** — a group worked into the same place. `(2 dc, ch 1, 2 dc) in next st` all goes into one stitch. Parentheses at the *end* of a row usually give the stitch count instead: `(12 sts)`.
-- **`[ ]` brackets** — a group to be repeated a set number of times. `[sc, ch 1] x 6`.
-- **`*` asterisk** — marks the start of a repeat. `*sc, ch 1, rep from * to end` means keep doing that pair until you run out of row.
-- **`* *` two asterisks** — encloses a section repeated as a block.
-- **A number before the stitch** means how many to make: `3 dc` is three double crochets.
-- **A number after the stitch** is part of its name: `dc3tog` is one decrease made from three stitches.
+## Mistakes
 
-So `*2 dc in next st, sk 1 st, rep from * to end (24 sts)` reads as: two double crochets into one stitch, skip the following stitch, keep alternating to the end of the row, and you should finish with 24 stitches.
-
-## The mistakes worth knowing about in advance
-
-**Counting the turning chain as a stitch — or not.** Designers disagree on this, which is genuinely annoying. Some count the `ch 3` at the start of a double crochet row as the first stitch; others do not and tell you to work into the very first stitch. If your rows are gaining or losing a stitch every time, this is the cause. Read the pattern's first row carefully, then be consistent.
-
-**Working into the chain instead of the space.** When a pattern says `ch-2 sp`, put your hook through the hole, not into the individual chain stitches. Working into the chains gives a tighter, smaller result that will not match the gauge.
-
-**Missing the "special stitches" section.** If a designer invented a stitch for a pattern, they define it near the top. Skipping that section and guessing from a chart is how a blanket ends up with the wrong texture.
-
-**Assuming `dc` means what it did in the last pattern.** Especially if you jump between designers from different countries. Check the terminology before row one, not on row twelve.
+Some designers count the starting `ch 3` on a double-crochet row as the first stitch. Others do not. A stitch gained or lost every row is usually this. `ch-2 sp` means the hole, not the chain links. Check US or UK again when you change designers.
 
 ## Frequently asked
 
-**Is there an official standard for these?** Yes. The Craft Yarn Council maintains the standard list of US abbreviations, and most American publishers and yarn companies follow it. The chart above uses those terms, plus the widely used community abbreviations that the standard does not formally cover, such as `MR` and `FO`.
+**Is there an official list?** The Craft Yarn Council publishes the standard US abbreviations. This chart also includes common ones it does not cover, such as `MR` and `FO`.
 
-**Why do some patterns use symbols instead of words?** Those are stitch diagrams, common in Japanese patterns and in lace. They are a separate visual language, and once you can read one they are often clearer than text because you can see the shape of the finished motif.
+**Why symbols instead of words?** Stitch diagrams, common in Japanese patterns and lace, draw the motif.
 
-**Do I need to memorize all of this?** No. You will absorb about fifteen of these naturally in your first month, and the rest you look up. That is exactly why this page is printable.
+**Do I need to memorize this?** No. About fifteen show up in the first month. Look the rest up.

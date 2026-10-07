@@ -9,11 +9,9 @@ printable: true
 tags: ["color change", "stripes", "joining yarn", "beginner"]
 ---
 
-There is one trick to changing color in crochet, and once you know it, stripes stop looking amateur.
+Stripes look clean or messy for one reason. **Change color on the final yarn-over of the last stitch in the old color**, not at the start of the new row.
 
-**You make the change on the final yarn-over of the last stitch in the old color — not at the start of the new row.**
-
-That single detail is the difference between a crisp color line and a stripe with a stray dot of the wrong color at the edge of every row.
+That is the difference between a straight color line and a dot of the old color at the edge of every row.
 
 
 ![A crochet swatch with a clean cream to terracotta color change](../../assets/articles/changing-yarn-color-crochet-result.jpg "Illustration. Change on the last yarn-over so the new color starts clean.")
@@ -21,82 +19,74 @@ That single detail is the difference between a crisp color line and a stripe wit
 
 ![Hook joining terracotta yarn on the last cream yarn-over](../../assets/articles/changing-yarn-color-crochet-1.jpg "Illustration. Finish the old stitch with the new color.")
 
-Work your last stitch in the old color, but stop one step short of finishing it — leave the final two loops on the hook.
+Work the last stitch in the old color until two loops remain on the hook.
 
-1. Work the stitch normally until two loops remain on the hook.
-2. Drop the old color. Yarn over with the **new** color.
-3. Pull the new color through those two loops to complete the stitch.
+1. Stop before the final yarn-over. Two loops are still on the hook.
+2. Drop the old color. Yarn over with the new color.
+3. Pull the new color through those two loops.
 
-The stitch is now finished, and the loop on your hook is the new color, ready to continue. The completed stitch keeps the old color on its body, with the new color only in its top.
+The stitch body stays the old color. The loop on the hook is the new color. Leave both tails about six inches, and keep going.
 
-Leave both tails hanging about six inches for weaving in later, and carry on.
+The same rule holds for every stitch height. The new color always goes in on the yarn-over that closes the stitch.
 
-## Changing color between rows
+## Between rows
 
-Here is where people go wrong. If you finish the row in the old color, then turn and chain up in the new color, that turning chain is fine — but the *last stitch* of the previous row is now the old color, sitting right at the edge where the new stripe begins. It reads as a mistake.
+If you finish the row in the old color, then chain up in the new color, the last stitch of the old row sits at the edge of the new stripe. It reads as a mistake.
 
-**So make the change during the last stitch of the previous row.** Complete the final stitch of the old-color row using the new color, as above. Then turn, and your turning chain is already the new color, and the color line runs perfectly straight up the edge.
+Complete the last stitch of the old row with the new color, using the steps above. Turn. The turning chain is already the new color, and the line at the edge is straight.
 
 <div class="tip">
 
-**Test it once.** Work four rows of single crochet: change color the wrong way (at the start of the row) for the first change, and the right way (in the last stitch of the previous row) for the second. Put the swatch next to a window. The difference is immediately obvious, and you will never do it the wrong way again.
+Work four rows of single crochet. Change the wrong way once, at the start of a row, and the right way once, in the last stitch of the previous row. Hold the swatch next to a window. The difference is obvious.
 
 </div>
 
-## Changing color mid-round
+## Mid-round
 
 ![Hands joining terracotta yarn mid-round on a cream amigurumi](../../assets/articles/changing-yarn-color-crochet-2.jpg "Illustration. Mid-round changes use the same last-yarn-over rule.")
 
-In the round it is the same mechanism, with one extra consideration: joined rounds give you a natural place for the change, right at the join, and the seam hides it.
+Same yarn-over. On a joined round, make the change at the join and the seam hides it.
 
-In a spiral there is no join, so a color change is always a slightly diagonal step. That is unavoidable in a spiral and is one of the genuine reasons to use joined rounds for striped work.
+A spiral has no join, so the color change steps diagonally. That is built into spiral rounds. For stripes, joined rounds avoid it.
 
-## Carry it up, or cut it?
+You can change in the middle of a row the same way. A clean vertical block of color means managing two yarns at once. That is intarsia, not a simple stripe.
 
-Once you have changed color, you have to decide what to do with the yarn you are not using.
+## Carry it, or cut it?
 
-**Carry it up the side** when the stripe is narrow — up to about four rows. Do not cut. Just leave the old color hanging at the edge and pick it up when you need it next, catching it lightly against the edge stitches as you pass so it does not dangle. Far fewer ends to weave in later.
+**Carry the unused color up the side** when the stripe is narrow, about four rows or fewer. Leave it at the edge and pick it up when you need it. Catch it lightly against the edge stitches so it does not hang.
 
-**Cut it** when the stripe is wide, roughly five rows or more. Long strands running up the side, called floats, snag on fingers, jewelry, and washing machines, and they pull the edge in and distort it. Cut, leave a six-inch tail, and weave it in.
+**Cut it** when the stripe is wider, about five rows or more. A long float up the side snags, and it pulls the edge in. Cut, leave a six-inch tail, and weave it in.
 
-**Never carry a float across the back of the work** in ordinary striping. That is a colorwork technique with its own rules; in a simple stripe it just makes a mess.
+Do not carry a float across the back of ordinary stripes. That is a different colorwork method, and in a simple stripe it makes a mess.
 
-## Joining a new ball of the same color
+Even-numbered stripes keep the color you need waiting at the same edge, so you can carry the narrow ones instead of cutting every row.
 
-You will run out mid-project. Same procedure: change to the new ball on the final yarn-over of a stitch, exactly like a color change. It disappears completely because both yarns are the same color.
+## A new ball of the same color
 
-Two things to avoid:
+Join the new ball on the final yarn-over, the same way. It disappears because both yarns match.
 
-**Do not knot it.** Knots work themselves to the surface with use and washing, and they show. Weave both tails in instead.
+Do not knot it. Knots work to the surface with washing and show as a bump. Weave both tails. Join at the end of a row when you can, so the tails hide in the edge.
 
-**Do not join mid-row if you can avoid it** on anything visible. Run out at the end of a row where the tail can be woven into the edge.
+The magic knot and the Russian join splice two strands into one continuous yarn. The magic knot is faster and leaves a very small hard point. The Russian join is bulkier, smooth, and secure. Neither suits slippery yarn, or baby items, where woven ends are safer.
 
-If you would rather not have two tails at all, the **magic knot** and the **Russian join** both splice two strands into a continuous yarn. Both are worth knowing. The magic knot is faster and does leave a very small hard point in the yarn; the Russian join is bulkier but completely secure and smooth. Neither is suitable for slippery yarns or for baby items, where woven ends are safer.
+The color change sits in the top of the last old stitch. On the wrong side, and on tall stitches, the new color can look as if it bleeds down a little. That is normal. It shows most in double crochet and taller stitches, and least in single crochet, which is why graphic colorwork is usually single crochet.
 
-## Which side does the change show on?
+## Common mistakes
 
-The color change lives in the *top* of the last old-color stitch. That means the boundary sits slightly differently depending on whether you are looking at the right side or the wrong side, and on tall stitches it can look like the new color bleeds down a fraction.
+**Changing at the start of the row.** Change in the last stitch of the previous row.
 
-This is normal and it is how crochet colorwork looks. It is most visible in double crochet and taller, and least visible in single crochet — which is why crisp graphic colorwork is usually worked in single crochet.
+**Pulling the new color tight.** The first stitches of a new color get yanked, and the edge pinches. Keep the first two stitches loose on purpose.
 
-## The mistakes worth avoiding
+**Cutting the tail too short.** Six inches is the minimum. Longer if you will seam with it. A three-inch tail will not stay woven.
 
-**Changing at the start of the row.** The big one, covered above. Change in the last stitch of the previous row.
+**Weaving a tail along the color boundary.** A dark tail goes through dark stitches. A light tail goes through light stitches. Navy through a cream stripe shows, especially after washing.
 
-**Pulling the new color too tight.** The first stitch in a new color tends to get yanked snug, which pinches the edge. Deliberately keep it loose for the first two stitches.
-
-**Cutting too short.** Six inches minimum, longer if the piece will be seamed. A three-inch tail cannot be woven in securely and will pull out.
-
-**Weaving ends in along the color boundary.** Weave a dark tail through dark stitches and a light tail through light stitches. Running a navy tail through a cream stripe shows through, especially after washing.
-
-**Leaving all the ends for the end.** Weave in as you go, or a striped blanket becomes a two-hour finishing job you will resent.
+**Saving every end for the end.** Weave as you go, or a striped blanket becomes a long finishing job.
 
 ## Frequently asked
 
-**Can I change color in the middle of a row?** Yes, same technique. For a clean vertical boundary you will need to manage two yarns at once, which is intarsia-style colorwork rather than striping.
+**Can I change color in the middle of a row?** Yes. Same technique. A clean vertical edge means two yarns in play at once, which is intarsia rather than striping.
 
-**How do I make stripes without weaving in dozens of ends?** Use even-numbered stripes so the color you need is always waiting at the same edge, and carry narrow ones up the side rather than cutting.
+**How do I avoid a pile of ends on stripes?** Use even-numbered stripes so the next color is waiting at the same edge, and carry the narrow stripes up the side instead of cutting them.
 
-**Why does my color change look like a diagonal step?** You are working a spiral in the round. Unavoidable there — use joined rounds for stripes.
-
-**Do I change color the same way in every stitch?** Yes. Regardless of the stitch height, the rule is the same: the new color goes in on the final yarn-over that closes the stitch.
+**Why does the color change look like a step?** You are in a spiral. Joined rounds give stripes a straight join.
