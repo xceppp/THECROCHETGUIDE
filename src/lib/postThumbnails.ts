@@ -17,8 +17,22 @@ function findBySuffix(slug: string, suffix: string): ImageMetadata | undefined {
   return undefined;
 }
 
-/** Prefer the finished-result shot; fall back to the first step image. */
+/**
+ * Prefer the finished-result shot; fall back to the first step image.
+ * The Halloween card wallet lead uses the multi-appliqué variations flat lay
+ * as its listing miniature (ghost, pumpkin, bat, spider, cat).
+ */
 export function getPostThumbnail(slug: string): ImageMetadata | undefined {
+  if (slug === "halloween-crochet-card-wallet") {
+    return (
+      findBySuffix(slug, "-variations.jpg") ??
+      findBySuffix(slug, "-variations.jpeg") ??
+      findBySuffix(slug, "-variations.png") ??
+      findBySuffix(slug, "-variations.webp") ??
+      findBySuffix(slug, "-result.jpg")
+    );
+  }
+
   return (
     findBySuffix(slug, "-result.jpg") ??
     findBySuffix(slug, "-result.jpeg") ??
