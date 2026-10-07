@@ -11,8 +11,13 @@ interface Props {
 
 const { halloween = false } = Astro.props;
 
-const path = Astro.url.pathname;
-const isActive = (href: string) => path === href || path.startsWith(`${href}/`);
+const path = Astro.url.pathname.endsWith("/")
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const isActive = (href: string) => {
+  if (href === "/") return path === "/";
+  return path === href || path.startsWith(href);
+};
 
 /**
  * "Start Here" is the funnel entrance, so it is pulled out of the link row and
@@ -21,11 +26,11 @@ const isActive = (href: string) => path === href || path.startsWith(`${href}/`);
  *
  * Both come from NAV, so config stays the single source of truth.
  */
-const cta = NAV.find((item) => item.href === "/start-here");
-const links = NAV.filter((item) => item.href !== "/start-here");
+const cta = NAV.find((item) => item.href === "/start-here/");
+const links = NAV.filter((item) => item.href !== "/start-here/");
 
 /** Subtle seasonal accent on a few browse links — not a nav redesign. */
-const halloweenNavHrefs = new Set(["/tutorials", "/free-patterns"]);
+const halloweenNavHrefs = new Set(["/tutorials/", "/free-patterns/"]);
 ---
 
 <header class="no-print border-b border-rule bg-paper">
@@ -204,7 +209,7 @@ const halloweenNavHrefs = new Set(["/tutorials", "/free-patterns"]);
       <ul class="mt-2 border-t border-rule pt-2">
         <li>
           <a
-            href="/contact"
+            href="/contact/"
             aria-current={isActive("/contact") ? "page" : undefined}
             class="block rounded-lg px-4 py-3 text-sm text-ink-soft no-underline transition-colors hover:bg-paper-deep"
           >

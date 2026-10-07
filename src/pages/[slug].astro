@@ -187,7 +187,7 @@ const pageSchemas = [
       <a href="/" class="no-underline hover:text-terracotta-deep">Home</a>
       <span aria-hidden="true" class="mx-1.5">/</span>
       <a
-        href={`/${category.slug}`}
+        href={`/${category.slug}/`}
         class="no-underline hover:text-terracotta-deep">{category.label}</a
       >
     </nav>
@@ -195,7 +195,7 @@ const pageSchemas = [
     {
       step && (
         <a
-          href="/start-here"
+          href="/start-here/"
           class="no-print mt-4 inline-flex items-center gap-2 rounded-full border border-rule bg-paper-deep px-3 py-1 text-xs no-underline transition-colors hover:border-terracotta"
         >
           <span class="font-semibold text-terracotta-deep">
@@ -313,7 +313,7 @@ const pageSchemas = [
             {related.map((entry) => (
               <li class="py-3">
                 <a
-                  href={`/${entry.id}`}
+                  href={`/${entry.id}/`}
                   class="group block no-underline"
                 >
                   <span class="font-medium text-ink group-hover:text-terracotta-deep">

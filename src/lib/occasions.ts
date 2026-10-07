@@ -65,8 +65,8 @@ export const OCCASIONS: Occasion[] = [
     headline: "Teacher gifts, explained simply",
     blurb:
       "A small handmade piece beats a mug with a slogan. Start with a clean beginner project you can finish in a weekend.",
-    primaryCta: { label: "Browse tutorials", href: "/tutorials" },
-    secondaryCta: { label: "Start the course", href: "/start-here" },
+    primaryCta: { label: "Browse tutorials", href: "/tutorials/" },
+    secondaryCta: { label: "Start the course", href: "/start-here/" },
     calendarNote: "Handmade thank-you projects",
   },
   {
@@ -82,8 +82,8 @@ export const OCCASIONS: Occasion[] = [
     headline: "Kitchen crochet that earns its keep",
     blurb:
       "Dishcloths, coasters, and cotton yarn — the practical projects that teach tension without needing a costume palette.",
-    primaryCta: { label: "Hooks and yarn", href: "/gear" },
-    secondaryCta: { label: "Basic stitches", href: "/basic-crochet-stitches" },
+    primaryCta: { label: "Hooks and yarn", href: "/gear/" },
+    secondaryCta: { label: "Basic stitches", href: "/basic-crochet-stitches/" },
     calendarNote: "Cotton projects for the kitchen",
   },
   {
@@ -102,9 +102,9 @@ export const OCCASIONS: Occasion[] = [
       "Start with the orange ghost card wallet — flap, button, tiny ghost — then pumpkins, bats, and spiders taught as real techniques.",
     primaryCta: {
       label: "Make the Halloween card wallet",
-      href: "/halloween-crochet-card-wallet",
+      href: "/halloween-crochet-card-wallet/",
     },
-    secondaryCta: { label: "More Halloween tutorials", href: "/tutorials" },
+    secondaryCta: { label: "More Halloween tutorials", href: "/tutorials/" },
     calendarNote: "Seasonal amigurumi and colorwork",
   },
   {
@@ -122,9 +122,9 @@ export const OCCASIONS: Occasion[] = [
       "A reserved palette and a simple motif. Good day for finishing ends and blocking, not for rushing a costume piece.",
     primaryCta: {
       label: "Finishing and blocking",
-      href: "/weaving-in-ends-and-blocking",
+      href: "/weaving-in-ends-and-blocking/",
     },
-    secondaryCta: { label: "Browse tutorials", href: "/tutorials" },
+    secondaryCta: { label: "Browse tutorials", href: "/tutorials/" },
     calendarNote: "Calm finishing day",
   },
   {
@@ -140,8 +140,8 @@ export const OCCASIONS: Occasion[] = [
     headline: "Small projects for small hands to receive",
     blurb:
       "Soft shapes, safe finishes, and beginner amigurumi — make something a child can actually hold.",
-    primaryCta: { label: "Browse tutorials", href: "/tutorials" },
-    secondaryCta: { label: "Start the course", href: "/start-here" },
+    primaryCta: { label: "Browse tutorials", href: "/tutorials/" },
+    secondaryCta: { label: "Start the course", href: "/start-here/" },
     calendarNote: "Soft beginner toys and gifts",
   },
   {
@@ -157,8 +157,8 @@ export const OCCASIONS: Occasion[] = [
     headline: "A quiet day on the calendar",
     blurb:
       "We keep the site in its normal voice today. If you are here to learn, the course is still open.",
-    primaryCta: { label: "Start the course", href: "/start-here" },
-    secondaryCta: { label: "Browse tutorials", href: "/tutorials" },
+    primaryCta: { label: "Start the course", href: "/start-here/" },
+    secondaryCta: { label: "Browse tutorials", href: "/tutorials/" },
     calendarNote: "Observance — no seasonal skin",
   },
   {
@@ -174,8 +174,8 @@ export const OCCASIONS: Occasion[] = [
     headline: "A quiet day on the calendar",
     blurb:
       "No themed projects for this date. The charts and tutorials stay available as usual.",
-    primaryCta: { label: "Jump to the charts", href: "/charts" },
-    secondaryCta: { label: "Start the course", href: "/start-here" },
+    primaryCta: { label: "Jump to the charts", href: "/charts/" },
+    secondaryCta: { label: "Start the course", href: "/start-here/" },
     calendarNote: "Observance — no seasonal skin",
   },
   {
@@ -191,8 +191,8 @@ export const OCCASIONS: Occasion[] = [
     headline: "Crochet that fits more hands",
     blurb:
       "Left-handed guidance, clearer abbreviations, and honest notes about hand strain — the accessibility work is in the writing, not in a costume palette.",
-    primaryCta: { label: "Left-handed crochet", href: "/left-handed-crochet" },
-    secondaryCta: { label: "Hooks and yarn", href: "/gear" },
+    primaryCta: { label: "Left-handed crochet", href: "/left-handed-crochet/" },
+    secondaryCta: { label: "Hooks and yarn", href: "/gear/" },
     calendarNote: "Clearer instructions, better tools",
   },
   {
@@ -208,8 +208,8 @@ export const OCCASIONS: Occasion[] = [
     headline: "A quiet day on the calendar",
     blurb:
       "The site stays in its normal layout. Free tutorials remain free — that is the only point we make today.",
-    primaryCta: { label: "Free patterns", href: "/free-patterns" },
-    secondaryCta: { label: "Start the course", href: "/start-here" },
+    primaryCta: { label: "Free patterns", href: "/free-patterns/" },
+    secondaryCta: { label: "Start the course", href: "/start-here/" },
     calendarNote: "Observance — no seasonal skin",
   },
   {
@@ -229,11 +229,11 @@ export const OCCASIONS: Occasion[] = [
       "Start with a flat snowflake, then trees, gnomes, and Santa — with the stiffening and yarn choices that decide whether the piece looks finished.",
     primaryCta: {
       label: "Crochet a snowflake",
-      href: "/how-to-crochet-a-snowflake",
+      href: "/how-to-crochet-a-snowflake/",
     },
     secondaryCta: {
       label: "More Christmas tutorials",
-      href: "/tutorials",
+      href: "/tutorials/",
     },
     calendarNote: "Ornaments, gnomes, and trees",
   },
@@ -250,8 +250,8 @@ export const OCCASIONS: Occasion[] = [
     headline: "Start the year with stitches that stick",
     blurb:
       "A clean reset: the course from yarn choice to gauge, so January projects actually fit.",
-    primaryCta: { label: "Start the course", href: "/start-here" },
-    secondaryCta: { label: "Crochet gauge", href: "/crochet-gauge" },
+    primaryCta: { label: "Start the course", href: "/start-here/" },
+    secondaryCta: { label: "Crochet gauge", href: "/crochet-gauge/" },
     calendarNote: "Course reset and gauge",
   },
 ];

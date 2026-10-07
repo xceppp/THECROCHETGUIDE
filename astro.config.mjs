@@ -114,6 +114,12 @@ function rehypeFigures() {
 
 export default defineConfig({
   site: "https://www.crochetexplained.com",
+  /**
+   * One URL per page. Without this, Vercel serves both `/slug` and `/slug/`
+   * as 200s; Google then lists the no-slash copy as "Alternate page with
+   * proper canonical tag" and it looks like a failed indexation.
+   */
+  trailingSlash: "always",
   integrations: [
     sitemap({
       filter: (page) => !page.includes("/tools/"),

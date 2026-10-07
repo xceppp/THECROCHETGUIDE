@@ -33,7 +33,19 @@ const {
   noindex = false,
 } = Astro.props;
 
-const canonical = new URL(Astro.url.pathname, Astro.site).href;
+/**
+ * Always emit the www + trailing-slash form, even if this HTML is somehow
+ * served from a no-slash or apex request. Self-referencing the request path
+ * is what created duplicate "canonical" targets in Search Console.
+ */
+function absoluteCanonical(pathname: string): string {
+  const clean = pathname.split("?")[0]?.split("#")[0] || "/";
+  const withSlash =
+    clean === "/" ? "/" : `${clean.replace(/\/+$/, "")}/`;
+  return new URL(withSlash, SITE.url).href;
+}
+
+const canonical = absoluteCanonical(Astro.url.pathname);
 const fullTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
 
 /**

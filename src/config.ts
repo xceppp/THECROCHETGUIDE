@@ -109,12 +109,12 @@ export const CATEGORIES: Record<
 };
 
 export const NAV = [
-  { label: "Start Here", href: "/start-here" },
-  { label: "Tutorials", href: "/tutorials" },
-  { label: "Charts & Tools", href: "/charts" },
-  { label: "Free Patterns", href: "/free-patterns" },
-  { label: "Hooks & Yarn", href: "/gear" },
-  { label: "About", href: "/about" },
+  { label: "Start Here", href: "/start-here/" },
+  { label: "Tutorials", href: "/tutorials/" },
+  { label: "Charts & Tools", href: "/charts/" },
+  { label: "Free Patterns", href: "/free-patterns/" },
+  { label: "Hooks & Yarn", href: "/gear/" },
+  { label: "About", href: "/about/" },
 ];
 
 /**

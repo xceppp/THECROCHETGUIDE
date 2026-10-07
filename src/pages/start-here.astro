@@ -55,7 +55,7 @@ const schema = {
       {
         first && (
           <a
-            href={`/${first.id}`}
+            href={`/${first.id}/`}
             class="mt-7 inline-block rounded-full bg-terracotta px-6 py-2.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
           >
             Start with step 1
@@ -99,7 +99,7 @@ const schema = {
               {stage.steps.map((step) => (
                 <li>
                   <a
-                    href={`/${step.post.id}`}
+                    href={`/${step.post.id}/`}
                     data-step-slug={step.post.id}
                     class="group flex gap-4 py-4 no-underline"
                   >
@@ -141,9 +141,9 @@ const schema = {
         Already know the basics?
       </h2>
       <p class="mt-2 leading-relaxed text-ink-soft">
-        Skip the course. The <a href="/charts" class="text-terracotta-deep underline">charts and tools</a>
+        Skip the course. The <a href="/charts/" class="text-terracotta-deep underline">charts and tools</a>
         section has the printable reference tables, and
-        <a href="/free-patterns" class="text-terracotta-deep underline">free patterns</a>
+        <a href="/free-patterns/" class="text-terracotta-deep underline">free patterns</a>
         covers where to find patterns worth your time.
       </p>
     </div>

@@ -13,7 +13,7 @@ const { next, previous } = position;
   {
     next ? (
       <a
-        href={`/${next.id}`}
+        href={`/${next.id}/`}
         class="group block rounded-lg border border-rule bg-paper-deep px-5 py-5 no-underline transition-colors hover:border-terracotta"
       >
         <span class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">
@@ -36,7 +36,7 @@ const { next, previous } = position;
         </span>
         <span class="mt-1.5 block text-sm leading-relaxed text-ink-soft">
           Everything from here is practice. Pick a pattern, make the thing, and
-          come back to the <a href="/charts" class="text-terracotta-deep underline">charts</a> when
+          come back to the <a href="/charts/" class="text-terracotta-deep underline">charts</a> when
           you need a number.
         </span>
       </div>
@@ -47,7 +47,7 @@ const { next, previous } = position;
     {
       previous ? (
         <a
-          href={`/${previous.id}`}
+          href={`/${previous.id}/`}
           class="text-ink-soft no-underline hover:text-terracotta-deep"
         >
           <span aria-hidden="true">&larr;</span> {previous.data.title}
@@ -57,7 +57,7 @@ const { next, previous } = position;
       )
     }
     <a
-      href="/start-here"
+      href="/start-here/"
       class="text-ink-faint no-underline hover:text-terracotta-deep"
     >
       All {position.total} steps

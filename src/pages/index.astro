@@ -103,7 +103,7 @@ const seasonalHeading =
               The course, start to finish
             </h2>
             <a
-              href="/start-here"
+              href="/start-here/"
               class="text-sm text-terracotta-deep no-underline hover:underline"
             >
               See all {totalSteps} steps
@@ -118,7 +118,7 @@ const seasonalHeading =
             {stages.map((stage, index) => (
               <li>
                 <a
-                  href={`/${stage.steps[0].post.id}`}
+                  href={`/${stage.steps[0].post.id}/`}
                   class="group flex items-baseline gap-4 py-3.5 no-underline"
                 >
                   <span
@@ -157,7 +157,7 @@ const seasonalHeading =
       {
         Object.values(CATEGORIES).map((category) => (
           <a
-            href={`/${category.slug}`}
+            href={`/${category.slug}/`}
             class="rounded-lg border border-rule bg-paper px-5 py-4 no-underline transition-colors hover:border-terracotta"
           >
             <span class="block font-medium text-ink">{category.label}</span>
