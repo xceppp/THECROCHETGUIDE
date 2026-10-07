@@ -1,5 +1,7 @@
 ---
+import { Image } from "astro:assets";
 import { CATEGORIES } from "../config";
+import { getPostThumbnail } from "../lib/postThumbnails";
 import type { CollectionEntry } from "astro:content";
 
 interface Props {
@@ -18,53 +20,90 @@ const date = post.data.pubDate.toLocaleDateString("en-US", {
 const isHalloween = post.data.tags.some(
   (tag) => tag.toLowerCase() === "halloween",
 );
+const thumb = getPostThumbnail(post.id);
+const href = `/${post.id}`;
 ---
 
-<article class:list={["group", lead && "border-b border-rule pb-8"]}>
-  <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-ink-faint">
-    <a
-      href={`/${category.slug}`}
-      class="font-semibold tracking-wider text-terracotta-deep uppercase no-underline hover:underline"
-    >
-      {category.label}
-    </a>
-    {
-      isHalloween && (
-        <span class="rounded-full border border-terracotta/40 bg-terracotta/10 px-2 py-0.5 font-medium tracking-wide text-terracotta-deep uppercase">
-          Halloween
-        </span>
-      )
-    }
-    {
-      post.data.level && (
-        <span class="rounded-full border border-rule px-2 py-0.5 capitalize">
-          {post.data.level}
-        </span>
-      )
-    }
-    <time datetime={post.data.pubDate.toISOString()}>{date}</time>
-  </div>
-
-  <h2
+<article
+  class:list={[
+    "group",
+    lead ? "border-b border-rule pb-8" : "",
+  ]}
+>
+  <a
+    href={href}
     class:list={[
-      "mt-2 font-serif leading-snug tracking-tight",
-      lead ? "text-2xl sm:text-3xl" : "text-xl",
+      "no-underline",
+      thumb && "grid gap-4 sm:gap-5",
+      thumb && (lead ? "sm:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]" : "sm:grid-cols-[9.5rem_minmax(0,1fr)] sm:items-start"),
     ]}
   >
-    <a
-      href={`/${post.id}`}
-      class="text-ink no-underline group-hover:text-terracotta-deep"
-    >
-      {post.data.title}
-    </a>
-  </h2>
+    {
+      thumb && (
+        <div
+          class:list={[
+            "overflow-hidden border border-rule bg-paper-deep",
+            lead ? "aspect-[3/2] sm:aspect-auto sm:min-h-[14rem]" : "aspect-[3/2] sm:aspect-[4/3]",
+          ]}
+        >
+          <Image
+            src={thumb}
+            alt=""
+            widths={lead ? [480, 720, 960] : [240, 360, 480]}
+            sizes={
+              lead
+                ? "(min-width: 640px) 55vw, 100vw"
+                : "(min-width: 640px) 9.5rem, 100vw"
+            }
+            class:list={[
+              "h-full w-full object-cover transition-opacity group-hover:opacity-90",
+              lead ? "sm:min-h-[14rem]" : "",
+            ]}
+            loading={lead ? "eager" : "lazy"}
+          />
+        </div>
+      )
+    }
 
-  <p
-    class:list={[
-      "mt-2 leading-relaxed text-ink-soft",
-      lead ? "text-base" : "text-sm",
-    ]}
-  >
-    {post.data.description}
-  </p>
+    <div class="min-w-0">
+      <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-ink-faint">
+        <span class="font-semibold tracking-wider text-terracotta-deep uppercase">
+          {category.label}
+        </span>
+        {
+          isHalloween && (
+            <span class="rounded-full border border-terracotta/40 bg-terracotta/10 px-2 py-0.5 font-medium tracking-wide text-terracotta-deep uppercase">
+              Halloween
+            </span>
+          )
+        }
+        {
+          post.data.level && (
+            <span class="rounded-full border border-rule px-2 py-0.5 capitalize">
+              {post.data.level}
+            </span>
+          )
+        }
+        <time datetime={post.data.pubDate.toISOString()}>{date}</time>
+      </div>
+
+      <h2
+        class:list={[
+          "mt-2 font-serif leading-snug tracking-tight text-ink group-hover:text-terracotta-deep",
+          lead ? "text-2xl sm:text-3xl" : "text-xl",
+        ]}
+      >
+        {post.data.title}
+      </h2>
+
+      <p
+        class:list={[
+          "mt-2 leading-relaxed text-ink-soft",
+          lead ? "text-base" : "text-sm",
+        ]}
+      >
+        {post.data.description}
+      </p>
+    </div>
+  </a>
 </article>
