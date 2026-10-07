@@ -3,14 +3,13 @@ import "../styles/global.css";
 import {
   SITE,
   SOCIALS,
-  ADSENSE_CLIENT,
   PINTEREST_DOMAIN_VERIFY,
   GOOGLE_SITE_VERIFICATION,
-  GA_MEASUREMENT_ID,
 } from "../config";
 import { getThemeClass, getThemeId } from "../lib/seasonalTheme";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import CookieConsent from "../components/CookieConsent.astro";
 
 interface Props {
   title: string;
@@ -91,6 +90,9 @@ const schemas = [
 /** Legal pages stay visually neutral even during the seasonal skin. */
 const legalPaths = new Set([
   "/privacy-policy",
+  "/privacy-eu",
+  "/privacy-us",
+  "/cookie-settings",
   "/terms",
   "/disclosures",
 ]);
@@ -204,36 +206,20 @@ const themeColor =
       set:html={JSON.stringify(schemas.length === 1 ? schemas[0] : schemas)}
     />
 
-    {
-      /* Only loads once you have an approved publisher ID in src/config.ts. */
-      ADSENSE_CLIENT && (
-        <script
-          is:inline
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
-          crossorigin="anonymous"
-        />
-      )
-    }
-    {
-      GA_MEASUREMENT_ID && (
-        <>
-          <script
-            is:inline
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
-          />
-          <script is:inline define:vars={{ GA_MEASUREMENT_ID }}>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-              dataLayer.push(arguments);
-            }
-            gtag("js", new Date());
-            gtag("config", GA_MEASUREMENT_ID);
-          </script>
-        </>
-      )
-    }
+    {/* Default denied until CookieConsent grants storage (EU opt-in / US choice). */}
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("consent", "default", {
+        analytics_storage: "denied",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        wait_for_update: 500,
+      });
+    </script>
   </head>
   <body class:list={["flex min-h-screen flex-col", themeClass]}>
     <a
@@ -247,5 +233,6 @@ const themeColor =
       <slot />
     </main>
     <Footer halloween={halloween} />
+    <CookieConsent />
   </body>
 </html>

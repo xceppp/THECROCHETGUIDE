@@ -1,0 +1,194 @@
+---
+import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
+---
+
+<div
+  id="ce-consent"
+  class="no-print ce-consent"
+  hidden
+  data-adsense={ADSENSE_CLIENT}
+  data-ga={GA_MEASUREMENT_ID}
+  data-privacy-eu="/privacy-eu"
+  data-privacy-us="/privacy-us"
+  data-site={SITE.name}
+>
+  <div class="ce-consent__panel" role="dialog" aria-labelledby="ce-consent-title" aria-modal="false">
+    <p id="ce-consent-title" class="ce-consent__title font-serif text-lg text-ink">
+      Cookies and privacy
+    </p>
+    <p id="ce-consent-copy" class="ce-consent__copy mt-2 text-sm leading-relaxed text-ink-soft"></p>
+    <p class="mt-2 text-xs text-ink-faint">
+      Details:
+      <a id="ce-consent-policy" class="text-terracotta-deep underline" href="/privacy-policy"
+        >privacy policy</a
+      >
+      ·
+      <button type="button" id="ce-consent-switch" class="text-terracotta-deep underline">
+        Switch region
+      </button>
+    </p>
+    <div id="ce-consent-actions" class="ce-consent__actions mt-4 flex flex-wrap gap-2"></div>
+  </div>
+</div>
+
+<script>
+  import {
+    acceptAll,
+    applyConsent,
+    defaultState,
+    detectRegion,
+    readConsent,
+    rejectNonEssential,
+    usOptOutSale,
+    writeConsent,
+    type ConsentRegion,
+    type ConsentState,
+  } from "../scripts/consent";
+
+  const rootEl = document.getElementById("ce-consent");
+  if (rootEl) {
+    const root = rootEl;
+    const adsenseClient = root.dataset.adsense || "";
+    const gaId = root.dataset.ga || "";
+    const privacyEu = root.dataset.privacyEu || "/privacy-eu";
+    const privacyUs = root.dataset.privacyUs || "/privacy-us";
+    const copyEl = document.getElementById("ce-consent-copy");
+    const actionsEl = document.getElementById("ce-consent-actions");
+    const policyLink = document.getElementById(
+      "ce-consent-policy",
+    ) as HTMLAnchorElement | null;
+    const switchBtn = document.getElementById("ce-consent-switch");
+
+    let region: ConsentRegion = detectRegion();
+    let forceOpen = false;
+
+    function options() {
+      return { adsenseClient, gaId };
+    }
+
+    function hide() {
+      root.hidden = true;
+    }
+
+    function show() {
+      root.hidden = false;
+      render();
+    }
+
+    function render() {
+      if (!copyEl || !actionsEl || !policyLink) return;
+
+      if (region === "eu") {
+        policyLink.href = privacyEu;
+        policyLink.textContent = "EU / UK privacy & cookies";
+        copyEl.textContent =
+          "We use optional cookies for analytics and ads. In the EU, UK, and EEA these load only if you accept. Essential site features (like course progress on your device) always work.";
+        actionsEl.replaceChildren(
+          button("Accept all", "primary", () => {
+            applyConsent(acceptAll("eu"), options());
+            hide();
+          }),
+          button("Reject non-essential", "secondary", () => {
+            applyConsent(rejectNonEssential("eu"), options());
+            hide();
+          }),
+        );
+      } else {
+        policyLink.href = privacyUs;
+        policyLink.textContent = "US privacy & cookies";
+        copyEl.textContent =
+          "We use cookies for analytics and advertising (including Google). You can allow personalized ads or opt out of sale/sharing of personal information used for personalized advertising.";
+        actionsEl.replaceChildren(
+          button("Accept", "primary", () => {
+            applyConsent(acceptAll("us"), options());
+            hide();
+          }),
+          button("Do not sell or share", "secondary", () => {
+            applyConsent(usOptOutSale("us"), options());
+            hide();
+          }),
+          button("Reject non-essential", "ghost", () => {
+            applyConsent(rejectNonEssential("us"), options());
+            hide();
+          }),
+        );
+      }
+    }
+
+    function button(
+      label: string,
+      kind: "primary" | "secondary" | "ghost",
+      onClick: () => void,
+    ) {
+      const el = document.createElement("button");
+      el.type = "button";
+      el.textContent = label;
+      el.className =
+        kind === "primary"
+          ? "rounded-full bg-terracotta px-4 py-2 text-sm font-medium text-paper"
+          : kind === "secondary"
+            ? "rounded-full border border-rule bg-paper px-4 py-2 text-sm font-medium text-ink"
+            : "rounded-full px-4 py-2 text-sm text-ink-soft underline";
+      el.addEventListener("click", onClick);
+      return el;
+    }
+
+    function boot(state: ConsentState | null) {
+      if (state?.decided && !forceOpen) {
+        applyConsent(state, options());
+        hide();
+        return;
+      }
+      region = state?.region ?? detectRegion();
+      show();
+    }
+
+    switchBtn?.addEventListener("click", () => {
+      region = region === "eu" ? "us" : "eu";
+      const next = defaultState(region);
+      writeConsent({ ...next, decided: false });
+      render();
+    });
+
+    window.ceOpenConsent = () => {
+      forceOpen = true;
+      const existing = readConsent();
+      region = existing?.region ?? detectRegion();
+      show();
+    };
+
+    window.ceGetConsent = () => readConsent();
+
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("cookies") === "1") forceOpen = true;
+
+    boot(readConsent());
+  }
+</script>
+
+<style>
+  .ce-consent {
+    position: fixed;
+    inset-inline: 0;
+    bottom: 0;
+    z-index: 60;
+    padding: 1rem;
+    pointer-events: none;
+  }
+
+  .ce-consent__panel {
+    pointer-events: auto;
+    margin-inline: auto;
+    max-width: 36rem;
+    border: 1px solid var(--color-rule);
+    background: var(--color-paper);
+    padding: 1.25rem 1.25rem 1.35rem;
+    box-shadow: 0 -8px 32px rgb(47 42 38 / 12%);
+  }
+
+  @media (min-width: 640px) {
+    .ce-consent {
+      padding: 1.25rem;
+    }
+  }
+</style>

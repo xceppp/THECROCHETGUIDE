@@ -1,0 +1,60 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE } from "../config";
+---
+
+<BaseLayout
+  title="Cookie settings"
+  description={`Review or change cookie and advertising preferences for ${SITE.name}.`}
+>
+  <div class="mx-auto max-w-3xl px-6 sm:px-8 py-10 sm:py-14">
+    <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">
+      Cookie settings
+    </h1>
+    <p class="mt-3 text-lg leading-relaxed text-ink-soft">
+      Open the consent panel again to accept, reject non-essential cookies, or
+      (in the US) opt out of sale/sharing for personalized ads.
+    </p>
+
+    <div class="mt-8 flex flex-wrap gap-3">
+      <button
+        type="button"
+        id="ce-open-settings"
+        class="rounded-full bg-terracotta px-5 py-2.5 font-medium text-paper no-underline"
+      >
+        Manage cookie preferences
+      </button>
+      <a
+        href="/privacy-eu"
+        class="rounded-full border border-rule px-5 py-2.5 text-ink no-underline"
+      >
+        EU / UK notice
+      </a>
+      <a
+        href="/privacy-us"
+        class="rounded-full border border-rule px-5 py-2.5 text-ink no-underline"
+      >
+        US notice
+      </a>
+    </div>
+
+    <p class="mt-8 text-sm leading-relaxed text-ink-soft">
+      Essential cookies and on-device course progress are not advertising cookies.
+      Full details:
+      <a href="/privacy-policy" class="text-terracotta-deep underline"
+        >privacy hub</a
+      >.
+    </p>
+  </div>
+
+  <script>
+    const btn = document.getElementById("ce-open-settings");
+    btn?.addEventListener("click", () => {
+      window.ceOpenConsent?.();
+    });
+    // Deep link support: /cookie-settings?cookies=1 already handled in banner.
+    if (new URLSearchParams(location.search).get("cookies") === "1") {
+      window.ceOpenConsent?.();
+    }
+  </script>
+</BaseLayout>

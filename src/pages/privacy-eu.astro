@@ -1,0 +1,139 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE } from "../config";
+
+const effective = "October 7, 2026";
+---
+
+<BaseLayout
+  title="Privacy & Cookies (EU / UK)"
+  description={`How ${SITE.name} processes data for visitors in the EEA, UK, and Switzerland, including cookie consent.`}
+>
+  <div class="mx-auto max-w-3xl px-6 sm:px-8 py-10 sm:py-14">
+    <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">
+      Privacy &amp; Cookies (EU / UK / EEA)
+    </h1>
+    <p class="mt-3 text-sm text-ink-faint">Last updated {effective}</p>
+
+    <div class="prose mt-8">
+      <p>
+        This notice is for visitors in the European Economic Area, the United
+        Kingdom, and Switzerland. If you are in the United States, see the
+        <a href="/privacy-us">US privacy notice</a> instead. The overview hub is
+        the <a href="/privacy-policy">privacy policy</a>.
+      </p>
+
+      <h2>Who we are</h2>
+      <p>
+        {SITE.name} is operated by {SITE.author.name} at {SITE.url}. Contact for
+        privacy requests:
+        <a href="/contact">contact page</a>.
+      </p>
+
+      <h2>What this site collects</h2>
+      <ul>
+        <li>
+          <strong>Essential (always on):</strong> technical logs needed to serve
+          pages (for example IP address and browser type at the host), and
+          optional course-progress marks stored only in your browser’s local
+          storage — never sent to us as an account profile.
+        </li>
+        <li>
+          <strong>Analytics (optional):</strong> Google Analytics, only after you
+          accept. Used to see which tutorials are read, in aggregate.
+        </li>
+        <li>
+          <strong>Advertising (optional):</strong> Google AdSense and related ad
+          cookies, only after you accept. Used to show and measure ads.
+        </li>
+        <li>
+          <strong>If you email us:</strong> your address and message, kept only
+          as long as needed to reply and fix content.
+        </li>
+      </ul>
+
+      <h2>Legal bases (GDPR)</h2>
+      <ul>
+        <li>
+          <strong>Consent</strong> for analytics and personalized advertising —
+          given or refused in the cookie banner on your first visit, and
+          changeable later.
+        </li>
+        <li>
+          <strong>Legitimate interests</strong> for essential hosting security and
+          for answering emails you send us.
+        </li>
+      </ul>
+
+      <h2>Cookies</h2>
+      <p>
+        Non-essential cookies and similar technologies for analytics and ads are
+        <strong>not</strong> set until you click Accept on the banner. Rejecting
+        non-essential cookies does not block reading the tutorials.
+      </p>
+      <table>
+        <thead>
+          <tr>
+            <th>Category</th>
+            <th>Purpose</th>
+            <th>When</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Essential</td>
+            <td>Host delivery, security, consent choice storage</td>
+            <td>Always</td>
+          </tr>
+          <tr>
+            <td>Analytics</td>
+            <td>Google Analytics (aggregate traffic)</td>
+            <td>Only after Accept</td>
+          </tr>
+          <tr>
+            <td>Advertising</td>
+            <td>Google AdSense and partner ad cookies</td>
+            <td>Only after Accept</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>
+        Manage your choice anytime:
+        <a href="/cookie-settings">cookie settings</a>.
+      </p>
+
+      <h2>Your rights</h2>
+      <p>
+        You may request access, correction, erasure, restriction, portability, or
+        object to processing, and you may withdraw consent at any time without
+        affecting the lawfulness of processing before withdrawal. You may also
+        complain to your local supervisory authority.
+      </p>
+
+      <h2>Transfers</h2>
+      <p>
+        Google and the site host may process data in the United States or other
+        countries. Where required, they rely on appropriate safeguards (such as
+        Standard Contractual Clauses). See
+        <a
+          href="https://policies.google.com/privacy"
+          rel="nofollow noopener">Google’s privacy policy</a
+        >.
+      </p>
+
+      <h2>Children</h2>
+      <p>
+        This site is written for adults and is not directed at children under 16
+        for GDPR purposes (or under 13 where that is the relevant age). We do not
+        knowingly collect children’s data.
+      </p>
+
+      <h2>Related</h2>
+      <ul>
+        <li><a href="/privacy-us">US privacy &amp; cookies</a></li>
+        <li><a href="/terms">Terms of Use</a></li>
+        <li><a href="/disclosures">Disclosures</a></li>
+      </ul>
+    </div>
+  </div>
+</BaseLayout>

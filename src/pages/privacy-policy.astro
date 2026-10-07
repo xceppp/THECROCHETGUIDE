@@ -2,12 +2,12 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { SITE } from "../config";
 
-const effective = "September 10, 2026";
+const effective = "October 7, 2026";
 ---
 
 <BaseLayout
   title="Privacy Policy"
-  description={`How ${SITE.name} handles your data, which cookies it sets, and how to opt out of personalized advertising.`}
+  description={`Choose the privacy and cookie notice that matches your region: EU/UK or United States.`}
 >
   <div class="mx-auto max-w-3xl px-6 sm:px-8 py-10 sm:py-14">
     <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">
@@ -17,183 +17,53 @@ const effective = "September 10, 2026";
 
     <div class="prose mt-8">
       <p>
-        This policy explains what information {SITE.name} ({SITE.url}) collects,
-        why, and what you can do about it. It applies to this website only.
+        {SITE.name} ({SITE.url}) publishes different privacy and cookie notices
+        for Europe and for the United States, because the rules are not the same.
+        Pick the page that matches where you are.
       </p>
 
-      <h2>The short version</h2>
-      <ul>
-        <li>You can read every page here without giving me anything.</li>
-        <li>
-          I do not sell personal information, and I never will.
-        </li>
-        <li>
-          Advertising and analytics on this site are provided by third parties
-          that set their own cookies. Those are described below, along with how
-          to turn them off.
-        </li>
-      </ul>
-
-      <h2>Information collected automatically</h2>
-      <p>
-        Like almost every website, this one and the services it uses record
-        technical details when you visit: your IP address, browser and device
-        type, operating system, the pages you viewed, how long you stayed, and
-        the page that referred you. This is used to understand which articles
-        are useful and to keep the site working. It is not used to identify you
-        personally.
-      </p>
-
-      <h2>Information you give me</h2>
-      <p>
-        If you email the address on the <a href="/contact">contact page</a>, I
-        receive your address and whatever you write. I keep it only as long as
-        needed to reply and to keep a record of corrections, and I do not add it
-        to any mailing list without you asking.
-      </p>
-
-      <h2>Cookies</h2>
-      <p>
-        A cookie is a small file a website stores in your browser. This site uses
-        them for three purposes: keeping the site functioning, understanding
-        aggregate traffic, and serving advertising. You can delete or block
-        cookies at any time in your browser settings. Blocking them will not stop
-        you reading anything here.
-      </p>
-
-      <h2>Your course progress</h2>
-      <p>
-        If you read the <a href="/start-here">guided course</a>, this site
-        remembers which steps you have opened so it can show you where to pick
-        up next. That record is a short list of page names kept in your own
-        browser's local storage. It is not a cookie, it is never sent to me or
-        to anyone else, and it is not linked to any account, because there are
-        no accounts here.
-      </p>
-      <p>
-        It stays on the device you used, so it will not follow you to your
-        phone. To erase it, use the "Forget my progress" link on the course
-        card, or clear this site's data in your browser. If your browser blocks
-        local storage, nothing is stored and every page still works normally.
-      </p>
-
-      <h2>Analytics</h2>
-      <p>
-        When enabled, this site uses Google Analytics to count visits and see
-        which tutorials people open. Google may set cookies for that. You can
-        opt out with browser settings or Google’s own tools. Analytics is only
-        active when a measurement ID is configured for the site.
-      </p>
-
-      <h2>Advertising</h2>
-      <p>
-        This site displays advertising served by Google, which uses cookies to
-        show ads based on your prior visits to this and other websites.
-      </p>
-      <ul>
-        <li>
-          Google's use of advertising cookies enables it and its partners to
-          serve ads to you based on your visit to this site and other sites on
-          the internet.
-        </li>
-        <li>
-          You may opt out of personalized advertising by visiting
-          <a
-            href="https://www.google.com/settings/ads"
-            rel="nofollow noopener">Google Ads Settings</a
-          >.
-        </li>
-        <li>
-          You can opt out of personalized advertising from many other vendors at
-          <a href="https://www.aboutads.info/" rel="nofollow noopener"
-            >aboutads.info</a
-          > and
-          <a href="https://optout.networkadvertising.org/" rel="nofollow noopener"
-            >optout.networkadvertising.org</a
-          >.
-        </li>
-        <li>
-          Third-party vendors and ad networks other than Google may also serve
-          ads here and may use their own cookies to measure the effectiveness of
-          those ads.
-        </li>
-      </ul>
-      <p>
-        How Google handles data from sites that use its services is described in
+      <div class="not-prose mt-8 grid gap-4 sm:grid-cols-2">
         <a
-          href="https://policies.google.com/technologies/partner-sites"
-          rel="nofollow noopener">Google's partner sites policy</a
-        >.
-      </p>
-
-      <h2>Analytics</h2>
-      <p>
-        This site uses Google Analytics to measure traffic in aggregate — which
-        pages get read, on what kind of device, from which country. IP addresses
-        are anonymized. You can prevent Google Analytics from collecting data
-        with the
+          href="/privacy-eu"
+          class="rounded-lg border border-rule bg-paper-deep px-5 py-5 no-underline transition-colors hover:border-terracotta"
+        >
+          <span class="block font-serif text-xl text-ink">EU / UK / EEA</span>
+          <span class="mt-2 block text-sm leading-relaxed text-ink-soft">
+            GDPR and ePrivacy. Optional cookies (analytics and ads) load only
+            after you accept.
+          </span>
+        </a>
         <a
-          href="https://tools.google.com/dlpage/gaoptout"
-          rel="nofollow noopener">official browser opt-out add-on</a
-        >.
+          href="/privacy-us"
+          class="rounded-lg border border-rule bg-paper-deep px-5 py-5 no-underline transition-colors hover:border-terracotta"
+        >
+          <span class="block font-serif text-xl text-ink">United States</span>
+          <span class="mt-2 block text-sm leading-relaxed text-ink-soft">
+            Including California CCPA/CPRA. Notice, opt-out of sale/sharing for
+            personalized ads, and your request rights.
+          </span>
+        </a>
+      </div>
+
+      <h2>Cookie settings</h2>
+      <p>
+        Change or withdraw your choice at any time on the
+        <a href="/cookie-settings">cookie settings</a> page. Course progress stays
+        on your device only and does not need consent.
       </p>
 
-      <h2>If you are in the EEA, the UK, or Switzerland</h2>
+      <h2>Terms of use</h2>
       <p>
-        Where the GDPR applies, the lawful basis for analytics and personalized
-        advertising is your consent, collected through the consent banner shown
-        on your first visit, and you may withdraw it at any time using that same
-        banner. Strictly necessary processing relies on legitimate interest. You
-        have the right to request access to your personal data, correction,
-        erasure, restriction, portability, and to object to processing. Write to
-        the address on the <a href="/contact">contact page</a> to exercise any of
-        these.
-      </p>
-
-      <h2>If you are in California</h2>
-      <p>
-        Under the CCPA and CPRA you have the right to know what personal
-        information is collected, to request its deletion, to correct it, and to
-        opt out of its sale or sharing. {SITE.name} does not sell personal
-        information. To opt out of personalized advertising, use the Google Ads
-        Settings link above or the consent banner. Requests go to the contact
-        address and will not result in any different level of service.
-      </p>
-
-      <h2>Children</h2>
-      <p>
-        This site is written for adults and is not directed at children under 13.
-        I do not knowingly collect personal information from children. If you
-        believe a child has provided information here, email me and it will be
-        deleted.
-      </p>
-
-      <h2>External links</h2>
-      <p>
-        Articles here link out to pattern designers, retailers, and reference
-        sources. Once you follow a link you are on someone else's site under
-        their privacy policy, not this one.
-      </p>
-
-      <h2>Changes</h2>
-      <p>
-        If this policy changes, the date at the top changes with it. Material
-        changes will be noted on the home page.
-      </p>
-
-      <h2>Contact</h2>
-      <p>
-        Questions about this policy, and any request to exercise the rights
-        above, go through the <a href="/contact">contact page</a>.
+        Site rules for using the tutorials and charts are in the
+        <a href="/terms">Terms of Use</a> (same for all visitors). Money and AI
+        image notes are on <a href="/disclosures">Disclosures</a>.
       </p>
 
       <div class="warning">
         <p>
-          <strong>Note for the site owner:</strong> this is a solid, standards-based
-          starting policy that covers what Google AdSense requires you to
-          disclose. It is not legal advice. Before you launch, confirm the
-          analytics and ad vendors listed here match what you actually run, and
-          fill in a business address if you register one.
+          <strong>Note for the site owner:</strong> these pages are a practical
+          starting point for AdSense and a US/EU audience. They are not legal
+          advice. Have a lawyer review them before you rely on them in a dispute.
         </p>
       </div>
     </div>

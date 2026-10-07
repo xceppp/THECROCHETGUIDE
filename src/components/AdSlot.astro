@@ -11,9 +11,9 @@ const { placement, label = true } = Astro.props;
 const slot = ADSENSE_SLOTS[placement];
 
 /**
- * Renders nothing at all until both a publisher ID and a slot ID exist.
- * Shipping empty ad containers is a common reason AdSense rejects a site,
- * so during the review period this component is deliberately invisible.
+ * Renders the ad unit markup only when publisher + slot IDs exist.
+ * The adsbygoogle script and push() run only after cookie consent
+ * (see CookieConsent / src/scripts/consent.ts).
  */
 const enabled = Boolean(ADSENSE_CLIENT) && Boolean(slot);
 ---
@@ -34,9 +34,6 @@ const enabled = Boolean(ADSENSE_CLIENT) && Boolean(slot);
         data-ad-format="auto"
         data-full-width-responsive="true"
       />
-      <script is:inline>
-        (window.adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
     </aside>
   )
 }
