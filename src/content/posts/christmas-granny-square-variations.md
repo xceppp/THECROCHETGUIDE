@@ -14,6 +14,8 @@ A granny square is the same move over and over: clusters of three double crochet
 
 Four layouts below, in rough order of difficulty. None of them changes the stitch pattern at all — every one is the classic square with the colors moved around.
 
+
+![A set of Christmas granny squares in red green and cream](../../assets/articles/christmas-granny-square-variations-result.jpg "Illustration. The finished look these color variations build toward.")
 ## What you need
 
 - Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart)) in red, green, white and, optionally, a metallic gold
@@ -23,6 +25,8 @@ Four layouts below, in rough order of difficulty. None of them changes the stitc
 US abbreviations throughout. The [abbreviations chart](/crochet-abbreviations-chart) covers anything unfamiliar.
 
 ## Classic granny refresher, one color
+
+![Hook working a granny cluster in seasonal yarn](../../assets/articles/christmas-granny-square-variations-1.jpg "Illustration. Clusters go into the gaps, never into the stitch tops.")
 
 **Center.** Magic ring, then ch 3 (counts as the first dc), 2 dc into the ring, ch 2. *3 dc into the ring, ch 2; repeat from * three times total. Join to the top of the beginning ch-3. You now have four clusters separated by four ch-2 corners.
 
@@ -37,6 +41,8 @@ That is the whole thing. Each round adds one cluster per side, and the square gr
 </div>
 
 ## Variation 1: candy-cane rings
+
+![A granny square with cream center and red outer rounds](../../assets/articles/christmas-granny-square-variations-2.jpg "Illustration. Change color between rounds for candy-cane rings.")
 
 The easiest and the most obviously festive. Change color by round, alternating red and white, with each color occupying one or two complete rounds.
 

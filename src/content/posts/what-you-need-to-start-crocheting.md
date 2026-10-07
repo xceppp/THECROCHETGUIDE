@@ -21,6 +21,8 @@ That is not a budget recommendation. This specific pairing is the one that lets 
 
 </div>
 
+
+![Beginner crochet kit flat lay with hook yarn needle and markers](../../assets/articles/what-you-need-to-start-crocheting-result.jpg "Illustration. This is genuinely the short shopping list.")
 ## The hook
 
 ### Why 5 mm to start

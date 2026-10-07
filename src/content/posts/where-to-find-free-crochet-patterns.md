@@ -13,7 +13,11 @@ Here is where to look, and how to judge what you find.
 
 **Every link on this page goes to the designer or publisher directly.** No pattern instructions are reproduced here. Patterns belong to the people who wrote them, and the correct thing to do is send you to their page.
 
+
+![Laptop and tablet beside yarn and a crochet hook on a desk](../../assets/articles/where-to-find-free-crochet-patterns-result.jpg "Illustration. Start with trusted libraries — then check the pattern still opens.")
 ## The big pattern databases
+
+![Laptop open beside a printed crochet pattern yarn and hook](../../assets/articles/where-to-find-free-crochet-patterns-2.jpg "Illustration. Start with known libraries, then verify the pattern page still opens.")
 
 **[Ravelry](https://www.ravelry.com/patterns/search#craft=crochet&availability=free)** is the serious crocheter's search engine and the first place to look. It indexes hundreds of thousands of patterns from designers, publishers, and yarn companies, and you can filter by free, by craft, by yarn weight, by hook size, and by category all at once.
 
@@ -40,6 +44,8 @@ Individual designers publish free patterns on their own sites, usually supported
 The general rule with independent designers is to judge the individual designer rather than the category. Once you find one whose instructions make sense to you, work through their whole catalog — a designer's style is consistent, and if their explanations suit your brain, all of their patterns will.
 
 ## How to tell a good free pattern from a bad one
+
+![Notebook project list beside yarn and a hook](../../assets/articles/where-to-find-free-crochet-patterns-1.jpg "Illustration. Clear materials, gauge, and photos beat a pretty cover shot alone.")
 
 Check for these before you buy yarn. A pattern missing several is going to waste your time.
 

@@ -15,7 +15,11 @@ There is one trick to changing color in crochet, and once you know it, stripes s
 
 That single detail is the difference between a crisp color line and a stripe with a stray dot of the wrong color at the edge of every row.
 
+
+![A crochet swatch with a clean cream to terracotta color change](../../assets/articles/changing-yarn-color-crochet-result.jpg "Illustration. Change on the last yarn-over so the new color starts clean.")
 ## The basic color change
+
+![Hook joining terracotta yarn on the last cream yarn-over](../../assets/articles/changing-yarn-color-crochet-1.jpg "Illustration. Finish the old stitch with the new color.")
 
 Work your last stitch in the old color, but stop one step short of finishing it — leave the final two loops on the hook.
 
@@ -40,6 +44,8 @@ Here is where people go wrong. If you finish the row in the old color, then turn
 </div>
 
 ## Changing color mid-round
+
+![Hands joining terracotta yarn mid-round on a cream amigurumi](../../assets/articles/changing-yarn-color-crochet-2.jpg "Illustration. Mid-round changes use the same last-yarn-over rule.")
 
 In the round it is the same mechanism, with one extra consideration: joined rounds give you a natural place for the change, right at the join, and the seam hides it.
 

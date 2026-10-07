@@ -14,7 +14,11 @@ Yes — and here is every other size, in one table you can print.
 
 The important thing to understand up front: **the millimeter measurement is the real size.** The letters and numbers are a US convention that manufacturers have never fully agreed on, so a size H from one brand can differ very slightly from another. Where a pattern gives both, trust the millimeters.
 
+
+![A row of aluminum crochet hooks in graduated sizes with a gauge plate](../../assets/articles/crochet-hook-size-conversion-chart-result.jpg "Illustration. Letter, metric, and steel sizes are different rulers — convert before you buy.")
 ## Standard hook sizes
+
+![Aluminum crochet hooks checked in a metal gauge plate](../../assets/articles/crochet-hook-size-conversion-chart-2.jpg "Illustration. A gauge plate beats trusting the letter stamped on the hook alone.")
 
 These are the aluminum and plastic hooks you use with ordinary yarn, from sock weight up to chunky.
 
@@ -93,6 +97,8 @@ Two situations where you should deliberately ignore the label:
 **Blankets and shawls.** Go one size *larger* for a softer drape. A blanket worked at the label's gauge often feels stiff.
 
 ## Why the letter is not enough
+
+![Two crochet hook tip shapes compared side by side](../../assets/articles/crochet-hook-size-conversion-chart-1.jpg "Illustration. Tip shape and true millimeter size both matter.")
 
 Three reasons the millimeter number matters more than the letter stamped on the handle:
 

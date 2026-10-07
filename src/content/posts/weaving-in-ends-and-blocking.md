@@ -13,6 +13,8 @@ Finishing is the part everyone rushes, and it is most of the difference between 
 
 Three jobs: secure the ends, block the fabric if the fiber will respond to it, and join the pieces. None of them take long. All of them show.
 
+
+![A blocked crochet square pinned flat on a foam mat](../../assets/articles/weaving-in-ends-and-blocking-result.jpg "Illustration. Weave ends, then block — that order keeps the finish clean.")
 ## Fastening off
 
 When a piece is finished, cut the yarn leaving at least a six-inch tail — longer, eight to ten inches, if you will be seaming with it. Then yarn over, pull the cut end all the way through the last loop on your hook, and tug gently to snug it down.
@@ -20,6 +22,8 @@ When a piece is finished, cut the yarn leaving at least a six-inch tail — long
 That secures the stitch. It does not secure the tail, which is the next job.
 
 ## Weaving in ends properly
+
+![Tapestry needle weaving a yarn end into crochet fabric](../../assets/articles/weaving-in-ends-and-blocking-1.jpg "Illustration. Weave through several stitches on the wrong side, then reverse direction once.")
 
 A tail that is simply threaded straight through the fabric will work its way loose. Wear and washing both pull at it. The goal is friction and direction changes.
 
@@ -45,6 +49,8 @@ The direction change in step 2 is the important part. A single straight pass has
 **Weave in as you go.** On a striped blanket with forty color changes, leaving all the ends for the end creates a finishing session nobody enjoys, and it is where projects die two rows from complete.
 
 ## Blocking
+
+![A cream granny square pinned flat on a foam blocking mat](../../assets/articles/weaving-in-ends-and-blocking-2.jpg "Illustration. Pin to shape while damp — corners first, then mid-sides.")
 
 Blocking means wetting or steaming a finished piece, shaping it to the measurements you want, and letting it dry that way. It relaxes the stitches, evens out tension irregularities, opens up lace, and makes edges lie flat instead of curling.
 

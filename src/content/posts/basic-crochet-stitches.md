@@ -16,6 +16,8 @@ They are listed here shortest to tallest, which is also the easiest order to lea
 
 Before starting, get a medium worsted yarn in a light solid color and a 5 mm (H/8) hook. Dark yarn and variegated yarn both hide the stitch structure, which is exactly what you need to see while learning.
 
+
+![A cream crochet swatch showing basic stitches beside a hook](../../assets/articles/basic-crochet-stitches-result.jpg "Illustration. Five stitches build almost everything — learn them in height order.")
 ## The two moves everything is made of
 
 Every stitch below is a combination of two actions. Learn the names now and the instructions stop being cryptic.
@@ -27,6 +29,8 @@ Every stitch below is a combination of two actions. Learn the names now and the 
 That is genuinely all of it. The five stitches differ only in how many times you yarn over first and how many loops you close at a time.
 
 ## The foundation chain
+
+![Hands making a foundation chain in cream yarn](../../assets/articles/basic-crochet-stitches-1.jpg "Illustration. The foundation chain is where every flat piece starts.")
 
 You need something to work into, so every flat piece starts with a chain.
 
@@ -57,6 +61,8 @@ Done. One loop remains on the hook.
 
 ## 2. Single crochet (`sc`)
 
+![Close-up of single crochet stitches being formed](../../assets/articles/basic-crochet-stitches-2.jpg "Illustration. Single crochet — short, dense, and the stitch most beginners live in.")
+
 Short, dense, and sturdy. This is the workhorse for amigurumi, bags, dishcloths, and anything that needs to hold its shape without gaps.
 
 1. Insert the hook into the next stitch.
@@ -76,6 +82,8 @@ Between a single and a double in height. Slightly softer and drapier than single
 Note the difference from single crochet: you yarn over *before* going into the stitch. That extra wrap is what makes it taller. Into a chain, start in the **third chain from the hook**.
 
 ## 4. Double crochet (`dc`)
+
+![Close-up of a double crochet stitch in progress](../../assets/articles/basic-crochet-stitches-3.jpg "Illustration. Double crochet — yarn over first, then work the loops off in pairs.")
 
 The most-used stitch in crochet. Tall, quick to work, slightly open. Blankets, scarves, and garments are mostly this.
 

@@ -20,6 +20,8 @@ The Craft Yarn Council standardized this into eight numbered categories, 0 throu
 
 </div>
 
+
+![Yarn balls from thin lace weight to bulky lined up by size](../../assets/articles/yarn-weight-chart-result.jpg "Illustration. Weight categories tell you thickness — not brand quality.")
 ## The chart
 
 Gauge below is single crochet over 4 inches, which is how crochet gauge is conventionally expressed for yarn weight.
@@ -39,6 +41,8 @@ The hook ranges are the manufacturers' suggestions. They are starting points, no
 
 ## What each weight is actually good for
 
+![Thin fingering yarn strand beside worsted yarn for comparison](../../assets/articles/yarn-weight-chart-1.jpg "Illustration. Thinner yarns need more stitches and usually a smaller hook.")
+
 **0 — Lace.** Doilies, thread lace, fine edgings. Slow, fiddly, and beautiful. Not a beginner yarn, not because the stitches are harder but because you cannot see what your hands are doing.
 
 **1 — Super Fine.** Socks, shawls, lightweight baby things. Drapes beautifully. A blanket in this weight is a several-month commitment.
@@ -56,6 +60,8 @@ The hook ranges are the manufacturers' suggestions. They are starting points, no
 **7 — Jumbo.** Giant blankets and floor poufs. More of a project category than a yarn category.
 
 ## Substituting one yarn for another
+
+![Four cream yarn cakes lined up from thin to bulky](../../assets/articles/yarn-weight-chart-2.jpg "Illustration. Match thickness first — then check yardage and fiber.")
 
 You will do this constantly, because the specific yarn a pattern calls for is often discontinued or unavailable where you live. Four things to match, in order of how much they matter.
 

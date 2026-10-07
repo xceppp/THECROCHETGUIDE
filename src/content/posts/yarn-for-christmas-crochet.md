@@ -18,6 +18,8 @@ The short version: **worsted acrylic for anything stuffed, cotton for anything t
 
 </div>
 
+
+![Basket of red green and cream Christmas crochet yarns](../../assets/articles/yarn-for-christmas-crochet-result.jpg "Illustration. Match yarn to the job — ornaments, gnomes, and trees ask for different things.")
 ## Match the yarn to the job
 
 ### Stuffed things — gnomes, Santas, baubles
@@ -44,6 +46,8 @@ Either, and this is where leftovers earn their keep. A garland is a string of sm
 
 ## The sparkle question
 
+![Smooth worsted yarn beside sparkly Christmas yarn](../../assets/articles/yarn-for-christmas-crochet-1.jpg "Illustration. Sparkle photographs well and fights you on small stitches.")
+
 Metallic and tinsel yarns are the most tempting thing on the shelf in November and the most likely to be abandoned half-finished. What is usually sold is a fine polyester or nylon filament plied alongside a normal acrylic strand, and that filament is the source of every complaint about it.
 
 **It splits.** The metallic ply and the soft ply have different amounts of give, so a hook point slides between them constantly.
@@ -57,6 +61,8 @@ The fix most experienced crocheters land on is to stop using it as the main yarn
 If you do want to work metallic solo, keep it for the last round of an edging, where a single ornate round of sparkle finishes a plain piece and you only have to fight it for five minutes.
 
 ## Colors that make life harder
+
+![Matte red and green Christmas yarn beside a sparkly metallic skein](../../assets/articles/yarn-for-christmas-crochet-2.jpg "Illustration. Matte worsted is easier for small stitches than glitter yarn.")
 
 The same rule that applies to learning applies here, and Christmas is the season that breaks it most often, because the traditional palette is made of exactly the wrong colors.
 

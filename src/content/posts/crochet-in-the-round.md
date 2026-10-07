@@ -23,6 +23,8 @@ Working in the round means crocheting in a continuous circle instead of back and
 
 Three separate decisions shape how a circular project turns out: how you close the center, whether you join each round or spiral straight on, and how fast you increase. Most circular-project problems come from getting one of those right and another wrong, so all three are here in the order you meet them.
 
+
+![A flat cream crochet circle worked in the round with a stitch marker](../../assets/articles/crochet-in-the-round-result.jpg "Illustration. Circles start in the center — magic ring or chain ring — then grow with even increases.")
 ## The one rule that applies to everything here
 
 **You do not turn your work.** Unlike rows, where you flip at the end of each one, in the round the right side faces you the entire time and you keep traveling in the same direction. Every round is a right-side round.
@@ -30,6 +32,8 @@ Three separate decisions shape how a circular project turns out: how you close t
 If a circular pattern wants you to turn, it will say so explicitly — some do, for texture — but the default is: never turn.
 
 ## Starting the center: the magic ring
+
+![Hands forming a magic ring with cream yarn](../../assets/articles/crochet-in-the-round-1.jpg "Illustration. The magic ring closes tight — pull it shut after the first round.")
 
 The magic ring, also called the magic circle or adjustable ring, is an adjustable loop you work your first round into and then pull shut like a drawstring. It is the standard start for amigurumi, hats worked crown-first, and any motif where the middle must be solid.
 
@@ -137,6 +141,8 @@ A split-ring marker is easiest, but a safety pin, a paperclip, a scrap of contra
 </div>
 
 ## Circle or tube? The increases decide
+
+![A growing cream crochet circle with even increases](../../assets/articles/crochet-in-the-round-2.jpg "Illustration. Six increases per round keep a circle flat in single crochet.")
 
 The same technique makes both. What separates them is nothing more than how often you increase.
 

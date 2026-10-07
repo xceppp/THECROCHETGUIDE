@@ -19,7 +19,11 @@ Print this page and keep it in your project bag. That is what it is for.
 
 </div>
 
+
+![A crochet abbreviations reference card beside yarn and a hook](../../assets/articles/crochet-abbreviations-chart-result.jpg "Illustration. Keep this chart open until the common abbreviations stick.")
 ## The stitches
+
+![Cream crochet fabric beside a small stitch reference note](../../assets/articles/crochet-abbreviations-chart-1.jpg "Illustration. Same abbreviations show up in almost every US pattern.")
 
 These are the ones that build almost everything. All names below are **US terms**, which is what the overwhelming majority of patterns written for American crocheters use.
 
@@ -88,6 +92,8 @@ These are combinations rather than true stitches, so the exact instructions vary
 | `pico` / `p` | picot | A tiny decorative chain bump, common on edgings. |
 
 ## US vs UK terms: the one that catches everyone
+
+![Dense single crochet swatch beside taller double crochet fabric](../../assets/articles/crochet-abbreviations-chart-2.jpg "Illustration. US and UK reuse the same letters for different stitch heights.")
 
 This is the single most expensive mistake in crochet, measured in frogged rows.
 

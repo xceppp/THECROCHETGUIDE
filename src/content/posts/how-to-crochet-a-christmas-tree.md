@@ -14,6 +14,8 @@ There are three completely different ways to crochet a Christmas tree, and picki
 
 This page covers all three, then the part they share: making a standing tree that does not topple the first time someone walks past the table.
 
+
+![A finished green crochet Christmas tree standing on a wooden table](../../assets/articles/how-to-crochet-a-christmas-tree-result.jpg "Illustration. The finished look these steps build toward.")
 ## Which one do you want
 
 | You want | Build it as |
@@ -34,6 +36,8 @@ The tiered cone is the default and the one most people picture. Start there unle
 US abbreviations throughout. The [abbreviations chart](/crochet-abbreviations-chart) covers anything unfamiliar. Stitch counts here are a shape recipe, not a promise of finished inches — measure your own first tree and write the number down.
 
 ## Method 1: the tiered cone
+
+![Hands crocheting a green cone in the round for a Christmas tree](../../assets/articles/how-to-crochet-a-christmas-tree-1.jpg "Illustration. Tiered cone — work in a spiral and mark the first stitch of every round.")
 
 A plain cone reads as a party hat. What makes it read as a tree is the **tiers** — horizontal ridges that suggest layered branches. You get them from one trick: working stitches into the back loop only on a single round.
 
@@ -85,6 +89,8 @@ This one is genuinely faster than the tiered cone and looks more deliberate at a
 
 ## Making it stand up
 
+![A green crochet Christmas tree being stuffed](../../assets/articles/how-to-crochet-a-christmas-tree-2.jpg "Illustration. Stuff firmly and weight the base so the tree stands.")
+
 A tree is a cone, which means it is inherently top-heavy the moment it is more than a few inches tall. Three things fix it, and you usually want all three.
 
 **Weight the base.** Dry rice or pie weights in a small fabric bag, sitting flat on the bottom before you add any stuffing. Use a bag rather than loose rice, or the grains migrate out through the stitches over a couple of seasons.
@@ -94,6 +100,8 @@ A tree is a cone, which means it is inherently top-heavy the moment it is more t
 **Do not over-stuff the upper half.** Firm at the bottom, lighter toward the tip. Packing the top hard raises the center of gravity for no benefit.
 
 ## Decorating without ruining it
+
+![Sewing a brown trunk onto a crochet Christmas tree](../../assets/articles/how-to-crochet-a-christmas-tree-3.jpg "Illustration. Add the trunk and light decorations after the shape is stable.")
 
 **French knots** in contrasting yarn are the tidiest ornaments and the fastest.
 

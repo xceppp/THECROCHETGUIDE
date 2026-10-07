@@ -15,6 +15,8 @@ Crochet patterns are written in a compressed shorthand that every designer assum
 
 By the end of this page you will read that line without stopping. We will go through a pattern in the order you actually meet it, from top to bottom.
 
+
+![A printed crochet pattern beside yarn and a hook on a desk](../../assets/articles/how-to-read-a-crochet-pattern-result.jpg "Illustration. Read the materials and gauge notes before the first stitch line.")
 ## Start at the bottom, not the top
 
 The first useful move is counterintuitive: **read the whole pattern before you pick up your hook.** Not to memorize it — to check for three things.
@@ -78,6 +80,8 @@ The full conversion is in the [abbreviations chart](/crochet-abbreviations-chart
 
 ## Reading a single line
 
+![Finger pointing at crochet pattern abbreviations on paper](../../assets/articles/how-to-read-a-crochet-pattern-1.jpg "Illustration. One pattern line is a recipe — abbreviations, counts, and punctuation.")
+
 Now the shorthand itself. Here is that line again:
 
 > **Row 4:** Ch 3 (counts as dc), *2 dc in next st, sk 1 st, rep from * across, turn. (24 sts)
@@ -102,6 +106,8 @@ Broken into pieces:
 - **A number inside the stitch name** is part of one combined stitch: `dc3tog` is a single decrease made out of three stitches.
 
 ## Count your stitches
+
+![Finger counting stitches on a cream swatch beside a printed pattern](../../assets/articles/how-to-read-a-crochet-pattern-2.jpg "Illustration. Count after every row or round until the numbers stick.")
 
 The number in parentheses at the end of each row exists so you can catch a mistake immediately instead of thirty rows later. Use it.
 

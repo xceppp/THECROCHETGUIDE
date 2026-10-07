@@ -13,7 +13,11 @@ If your rectangle is coming out as a trapezoid, or you started with 20 stitches 
 
 It is a small thing that patterns explain badly, and it accounts for more frogged rows than any other single mistake in crochet.
 
+
+![Close-up of a turning chain at the start of a crochet row](../../assets/articles/crochet-turning-chain-result.jpg "Illustration. The turning chain lifts the row to the right height — and may or may not count as a stitch.")
 ## What it is and why it exists
+
+![Hands making a turning chain at the end of a row](../../assets/articles/crochet-turning-chain-1.jpg "Illustration. Chain, turn, then work the next row.")
 
 When you finish a row and turn your work, your hook is sitting at the bottom of the new row. But the stitches you are about to make are tall. If you just started crocheting from there, the first stitch of every row would be squashed and your edge would pull in.
 
@@ -70,6 +74,8 @@ You are gaining a stitch per row, which is the mirror image of the above. Either
 Your work is the right width but the sides lean. This means you are being inconsistent — counting the turning chain on some rows and not on others. Count your stitches at the end of every row for the next ten rows and the pattern of the mistake will surface immediately.
 
 ## The gap at the start of double crochet rows
+
+![Cream double crochet fabric showing a gap beside the turning chain](../../assets/articles/crochet-turning-chain-2.jpg "Illustration. A loose turning chain leaves a gap at the start of dc rows.")
 
 Even when you do everything right, a `ch 3` standing in for a double crochet leaves a small hole at the edge of every row. This is normal and everybody gets it, because a chain is thinner than a real double crochet.
 

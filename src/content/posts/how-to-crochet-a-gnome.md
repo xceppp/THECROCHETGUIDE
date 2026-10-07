@@ -14,6 +14,8 @@ A crochet gnome has no face, no arms and no legs. It is a cone, a hat, a nose an
 
 The rule that makes it read as a gnome: **the hat comes down far enough to cover where the eyes would be, and the nose sits just below the hat brim.** Get those two right and almost anything else you do looks intentional.
 
+
+![A finished crochet Christmas gnome with tall hat and beard](../../assets/articles/how-to-crochet-a-gnome-result.jpg "Illustration. The finished look these steps build toward.")
 ## What you need
 
 - Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart)) in three colors — body, hat, and a skin tone for the nose
@@ -34,6 +36,8 @@ US abbreviations throughout. The [abbreviations chart](/crochet-abbreviations-ch
 Treat the stitch counts below as a shape recipe rather than a promise of a finished height. Yarn thickness, hook size and how hard you stuff all change the final size, so measure your own first gnome and write the number down for the next one.
 
 ## Body: a weighted cone
+
+![Hands crocheting a round gnome body in the round](../../assets/articles/how-to-crochet-a-gnome-1.jpg "Illustration. The body is a weighted cone — start in the round.")
 
 Work in a continuous spiral and mark the first stitch of every round.
 
@@ -90,6 +94,8 @@ The tidier method is to crochet a beard shape: a half circle worked in rows, dec
 Either way the beard goes **on before the nose**, so the nose sits on top of it and hides the attachment line.
 
 ## Assembly, in order
+
+![Sewing a pointed hat onto a crochet gnome](../../assets/articles/how-to-crochet-a-gnome-2.jpg "Illustration. Hat on last so it covers the joins cleanly.")
 
 1. Sew or glue the weighted, stuffed body closed at the top.
 2. Attach the beard in an arc across the upper front of the body.

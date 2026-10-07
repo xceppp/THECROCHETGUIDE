@@ -13,6 +13,8 @@ Gauge is the number of stitches and rows that fit into a set measurement, almost
 
 It exists because your hands are not the designer's hands. Two people can use the same yarn, the same hook, and the same instructions and produce items two inches different in size, purely because one of them holds the yarn tighter.
 
+
+![A cream crochet gauge swatch measured with a metal ruler](../../assets/articles/crochet-gauge-result.jpg "Illustration. Measure stitches and rows over inches, not by counting the whole swatch.")
 ## How to read the gauge line
 
 A pattern will say something like:
@@ -35,6 +37,8 @@ Sometimes a pattern gives gauge in pattern repeats instead — "3 shell patterns
 
 ## Measuring it
 
+![Hands counting stitches across a gauge swatch with a ruler](../../assets/articles/crochet-gauge-1.jpg "Illustration. Count inside the fabric, away from the edges.")
+
 Lay the swatch on a flat surface. Do not hold it up, do not pin it, do not stretch it, do not smooth it out with your hand. Crochet fabric will happily stretch an inch if you ask it to, and then lie to you.
 
 Put a ruler across the middle. Count the stitches inside 4 inches, including partial stitches as fractions — 14½ stitches is a real and useful answer. Then turn the ruler and count rows the same way.
@@ -46,6 +50,8 @@ Put a ruler across the middle. Count the stitches inside 4 inches, including par
 </div>
 
 ## Adjusting
+
+![Two cream gauge swatches compared with a metal ruler](../../assets/articles/crochet-gauge-2.jpg "Illustration. Too many stitches per inch means go up a hook size.")
 
 Compare your numbers to the pattern's.
 

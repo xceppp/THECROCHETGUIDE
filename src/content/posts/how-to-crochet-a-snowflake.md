@@ -24,6 +24,8 @@ This page covers both: the construction, then the stiffening. If you have only e
 
 ![Hands working a white thread snowflake with a fine steel crochet hook](../../assets/articles/how-to-crochet-a-snowflake-1.jpg "Illustration. The making takes fifteen minutes. The blocking is the part that decides how it looks.")
 
+
+![A finished white crochet snowflake with open stiff points](../../assets/articles/how-to-crochet-a-snowflake-result.jpg "Illustration. The finished look these steps build toward — flat points after stiffening.")
 ## What you need
 
 - **Size 10 crochet thread** in white, or worsted-weight yarn for a chunky version

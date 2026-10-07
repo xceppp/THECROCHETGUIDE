@@ -13,7 +13,11 @@ Everything in crochet that is not a rectangle is made with increases and decreas
 
 The good news is that there are only two ideas here, and they work the same way for every stitch height.
 
+
+![A cream crochet piece showing increases and decreases shaping the fabric](../../assets/articles/crochet-increase-decrease-result.jpg "Illustration. Increases add stitches; decreases remove them — that is all shaping is.")
 ## Increasing
+
+![Close-up of a crochet increase two stitches in one](../../assets/articles/crochet-increase-decrease-1.jpg "Illustration. Two stitches in one stitch = an increase.")
 
 **An increase is two stitches worked into the same place.**
 
@@ -29,6 +33,8 @@ This works identically for single, half double, double, and treble crochet. Patt
 For a bigger jump, work three or more into one stitch — `3 dc in next st` adds two stitches. Shells and fans are exactly this, used decoratively instead of for shaping.
 
 ## Decreasing
+
+![Close-up of a crochet decrease joining two stitches](../../assets/articles/crochet-increase-decrease-2.jpg "Illustration. sc2tog pulls two stitches into one.")
 
 **A decrease joins two stitches into one**, by leaving the last loop of each on the hook and then closing them together.
 

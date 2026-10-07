@@ -14,6 +14,8 @@ A Santa is the first amigurumi where the face matters. A [gnome](/how-to-crochet
 
 The good news is the body underneath is the simplest shape in amigurumi: one continuous piece, no neck, no seam. Almost all of the work is in placement.
 
+
+![A finished beginner crochet Santa amigurumi with red hat](../../assets/articles/crochet-santa-amigurumi-for-beginners-result.jpg "Illustration. The finished look these steps build toward.")
 ## What you need
 
 - Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart)) in red, a skin tone, white, and a scrap of black
@@ -36,6 +38,8 @@ Santa is a single body worked bottom to top with no separate head. The waist is 
 Treat the stitch counts as a shape recipe rather than a promise of a finished height. Hook size, yarn and stuffing density all move the final measurement, so measure your own first one and note it down.
 
 ## Body and head in one piece
+
+![Hands crocheting a red Santa hat tube](../../assets/articles/crochet-santa-amigurumi-for-beginners-1.jpg "Illustration. Hat and body pieces start in the round.")
 
 Work in a continuous spiral, marking the first stitch of each round.
 
@@ -65,6 +69,8 @@ That is the flat base. Work even in red for enough rounds to make a body roughly
 
 ## The face, and why it goes wrong
 
+![Stuffing a crochet Santa body](../../assets/articles/crochet-santa-amigurumi-for-beginners-2.jpg "Illustration. Stuff before the opening gets too small.")
+
 Placement is the entire job, so do it in this order and do not sew anything until all three pieces are pinned.
 
 **Eyes.** They go on the lower half of the head, not the middle. Almost every beginner puts them too high, which reads as an adult stranger rather than a friendly character. Place them about two thirds of the way down the face and leave roughly four to five stitches between them.
@@ -78,6 +84,8 @@ Count the stitches on both sides from the center of the face outward — do not 
 The beard covers the bottom of the face entirely, which means any wobble down there is hidden. The eyes are the only part with nowhere to hide.
 
 ## Hat
+
+![Embroidering eyes on a crochet Santa](../../assets/articles/crochet-santa-amigurumi-for-beginners-3.jpg "Illustration. Simple embroidered eyes beat oversized safety eyes on a small face.")
 
 **Rnd 1.** Magic ring, 4 sc in red. (4)
 
