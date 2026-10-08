@@ -243,6 +243,11 @@ const themeColor =
         dataLayer.push(arguments);
       }
       gtag("consent", "default", {
+        analytics_storage: "denied",
+        region: ["ES", "US-AK"],
+        wait_for_update: 500,
+      });
+      gtag("consent", "default", {
         ad_storage: "denied",
         ad_user_data: "denied",
         ad_personalization: "denied",
