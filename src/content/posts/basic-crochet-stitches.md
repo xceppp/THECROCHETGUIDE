@@ -8,6 +8,7 @@ howTo: true
 printable: true
 featured: true
 tags: ["basic stitches", "beginner", "single crochet", "double crochet"]
+quickAnswer: "Learn the five US stitches from shortest to tallest: slip stitch, single crochet, half double, double, and treble. Each one starts with a different number of yarn overs and closes a different number of loops. Almost every later stitch is those five combined."
 ---
 
 Almost everything in crochet is five stitches. Shells, bobbles, clusters, and puffs are these five combined. Learn them shortest to tallest. Names are **US terms**.

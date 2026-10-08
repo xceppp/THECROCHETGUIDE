@@ -6,6 +6,7 @@ updatedDate: 2026-09-10
 category: skills
 level: beginner
 howTo: true
+quickAnswer: "A magic ring starts with the stitches worked into a loop you pull closed. A spiral does not join, so mark the first stitch. A joined round ends with a slip stitch, and six single crochets is the usual flat start."
 printable: true
 tags:
   [

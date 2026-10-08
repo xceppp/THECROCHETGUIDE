@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/generate-social-cards.mjs && astro build",
     "preview": "astro preview",
     "check": "astro check",
     "brand": "node scripts/generate-brand-assets.mjs"

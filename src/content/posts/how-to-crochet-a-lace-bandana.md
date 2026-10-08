@@ -46,15 +46,15 @@ A common stopping point is about **16 inches** on the long edge, with ties of ab
 
 ## Triangle
 
-**Row 1:** Ch 4. In the 4th chain from the hook, work 2 dc, ch 2, 3 dc. Turn.
+**Row 1:** Ch 4. In the 4th chain from the hook, work 2 dc, ch 2, 3 dc. Turn. (6 dc, 1 ch-2 corner)
 
 The chain you worked into is the point. You should see two shells with a ch-2 corner between them. The first shell is the 2 dc plus the ch-3 that sits at the start of that chain-4. Count it as one shell, then the corner, then the second shell. If you see three shells, you worked extra stitches into the chain.
 
-**Row 2:** Ch 3, 2 dc in the same stitch (the top of the edge). Ch 1. In the corner space, work (3 dc, ch 2, 3 dc). Ch 1. Work 3 dc in the top of the turning chain. Turn.
+**Row 2:** Ch 3, 2 dc in the same stitch (the top of the edge). Ch 1. In the corner space, work (3 dc, ch 2, 3 dc). Ch 1. Work 3 dc in the top of the turning chain. Turn. (9 dc, 1 ch-2 corner, 2 ch-1)
 
 Each side of the corner now has one shell, then a ch-1, then the corner shells.
 
-**Row 3:** Ch 3, 2 dc in the same stitch. Ch 1. Work 3 dc in the next ch-1 space, ch 1. Work the corner in the ch-2 space. Ch 1. Work 3 dc in the next ch-1 space, ch 1. Work 3 dc in the top of the turning chain. Turn.
+**Row 3:** Ch 3, 2 dc in the same stitch. Ch 1. Work 3 dc in the next ch-1 space, ch 1. Work the corner in the ch-2 space. Ch 1. Work 3 dc in the next ch-1 space, ch 1. Work 3 dc in the top of the turning chain. Turn. (18 dc, 1 ch-2 corner, 4 ch-1)
 
 One side, in order: edge shell, ch 1, shell in the space, ch 1, half of the corner. The other side mirrors it.
 

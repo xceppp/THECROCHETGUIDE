@@ -53,7 +53,7 @@ ch, sc, dc, tr, sl st, st(s), rnd, picot. Full list: [abbreviations chart](/croc
 
 **Rnd 2.** Ch 5, skip 1 st, sc in next st. *Ch 5, skip 1 st, sc in next st; rep from * around, sl st into the base of the first ch. (6 loops)
 
-**Rnd 3.** Into each ch-5 loop: 3 sc, ch 3, sl st into the 3rd ch from hook (picot made), 3 sc. Sl st into the next sc between loops. Repeat six times.
+**Rnd 3.** Into each ch-5 loop: 3 sc, ch 3, sl st into the 3rd ch from hook (picot made), 3 sc. Sl st into the next sc between loops. Repeat six times. (6 points)
 
 Fasten off, weave in, block.
 
@@ -61,7 +61,7 @@ Fasten off, weave in, block.
 
 Work Rnds 1 and 2 as Design 1.
 
-**Rnd 3.** Into each ch-5 loop work: 2 sc, then (ch 5, sl st into the 2nd ch from hook, sc in next 3 ch, sl st back into the loop) three times to make three spikes, then 2 sc. Sl st into the next sc between loops. Repeat six times.
+**Rnd 3.** Into each ch-5 loop work: 2 sc, then (ch 5, sl st into the 2nd ch from hook, sc in next 3 ch, sl st back into the loop) three times to make three spikes, then 2 sc. Sl st into the next sc between loops. Repeat six times. (6 arms)
 
 Fasten off, weave in, block.
 
@@ -75,7 +75,7 @@ Each arm now ends in three spikes instead of one picot. The arm count is still s
 
 **Rnd 3.** Sl st into the first ch-4 loop. Into each loop work (3 dc, ch 3, 3 dc), sl st into the next sc. Repeat around. (6 shells)
 
-**Rnd 4.** Sl st across to the first ch-3 space. Into each ch-3 space work: 3 sc, ch 7, sl st into the 4th ch from hook to form a small ring, ch 3, sl st back into the same ch-3 space, 3 sc. Sl st between shells. Repeat around.
+**Rnd 4.** Sl st across to the first ch-3 space. Into each ch-3 space work: 3 sc, ch 7, sl st into the 4th ch from hook to form a small ring, ch 3, sl st back into the same ch-3 space, 3 sc. Sl st between shells. Repeat around. (6 points)
 
 Fasten off, weave in, block.
 

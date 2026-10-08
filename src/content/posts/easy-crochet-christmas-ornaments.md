@@ -72,7 +72,7 @@ Joined rounds. The slip stitch that joins does not count as a stitch. Ch 1 at th
 
 Each repeat uses one of the 5 stitches from Round 1.
 
-**Round 3:** In each chain-5 space, work sc, hdc, dc, hdc, sc. Join to the first sc. Fasten off.
+**Round 3:** In each chain-5 space, work sc, hdc, dc, hdc, sc. Join to the first sc. Fasten off. (25)
 
 That is 5 stitches in each of 5 spaces, 25 stitches total. They sit in the chains, not in the single crochets of Round 2. If you also stitch into those single crochets, you get extra fabric between the points and the star looks like a flower.
 

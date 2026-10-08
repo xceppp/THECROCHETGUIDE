@@ -7,6 +7,7 @@ level: beginner
 howTo: true
 printable: true
 featured: false
+quickAnswer: "A Halloween granny square is a normal granny square with the colors planned before you start. Work clusters into the chain spaces, change color on the last yarn-over of the round, and keep every square the same size before you join."
 tags:
   [
     "halloween",
@@ -37,7 +38,7 @@ Abbreviations: [chart](/crochet-abbreviations-chart/). Classic granny uses dc cl
 
 **Rnd 1.** Ch 4, join to form a ring (or magic ring). Ch 3 (counts as dc), 2 dc in ring, ch 2, *3 dc in ring, ch 2; repeat from * twice more, join to top of beginning ch-3. (4 clusters, 4 corner spaces)
 
-**Rnd 2.** Slip to next corner space (or start with a standing dc). *(3 dc, ch 2, 3 dc) in corner, ch 1; repeat from * around, join.
+**Rnd 2.** Slip to next corner space (or start with a standing dc). *(3 dc, ch 2, 3 dc) in corner, ch 1; repeat from * around, join. (24 dc, 4 ch-2 corners, 4 ch-1)
 
 **Later rounds.** Corners always get `(3 dc, ch 2, 3 dc)`. Side spaces get `3 dc`. Pick one chain style between side groups and stay consistent so squares match when you join them.
 

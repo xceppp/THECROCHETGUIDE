@@ -1,5 +1,6 @@
 # Build output
 dist/
+public/social/
 
 # Astro generated types and cache
 .astro/

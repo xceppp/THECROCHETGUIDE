@@ -6,6 +6,7 @@ category: skills
 level: beginner
 howTo: true
 printable: true
+quickAnswer: "Christmas granny squares use the same three-double-crochet clusters as any granny square. Put a cream or white round between red and green so the colors do not turn muddy, and join squares that have been blocked to the same size."
 tags:
   ["christmas", "granny square", "colorwork", "blanket", "beginner", "how to"]
 ---

@@ -5,6 +5,7 @@ pubDate: 2026-09-18
 category: skills
 level: beginner
 howTo: true
+quickAnswer: "A standing crochet tree is a cone of single crochet that gets wider, then a separate base. A flat tree is a triangle decreased at both ends of each row. Weight the base if the tree will sit on a mantel."
 printable: true
 tags:
   ["christmas", "tree", "amigurumi", "in the round", "beginner", "how to"]
@@ -65,7 +66,7 @@ Stuff in small amounts as the cone narrows. The tip of a finished cone is nearly
 
 For garlands, cards, and appliques. Work bottom to top in rows, decreasing at both ends.
 
-**Row 1.** Ch as many stitches as you want the base wide — 15 is a good size — then sc in the second ch from the hook and in each ch across.
+**Row 1.** Ch as many stitches as you want the base wide — 15 is a good size — then sc in the second ch from the hook and in each ch across. (14 sc if you chained 15)
 
 **Row 2 and every row after.** Ch 1, turn, sc2tog, sc across to the last two stitches, sc2tog.
 

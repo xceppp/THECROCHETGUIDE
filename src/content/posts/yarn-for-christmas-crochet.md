@@ -4,6 +4,7 @@ description: "Which yarn to use for ornaments, gnomes and snowflakes, why metall
 pubDate: 2026-09-18
 category: gear
 level: beginner
+quickAnswer: "Use worsted acrylic for stuffed Christmas pieces, and cotton or crochet thread when the piece has to hold a blocked shape. Keep metallic yarn as a short accent. Do not put any crochet piece next to a lit candle."
 tags:
   ["christmas", "yarn", "buying guide", "metallic yarn", "cotton", "ornaments"]
 ---

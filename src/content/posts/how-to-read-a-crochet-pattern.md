@@ -7,6 +7,7 @@ level: beginner
 howTo: true
 printable: true
 tags: ["reading patterns", "beginner", "how to"]
+quickAnswer: "Read the materials, the hook size in millimeters, and whether the pattern is US or UK before you chain. A row is shorthand: the turning chain, the repeat between the asterisks, and the stitch count at the end. Stop when your count does not match that number."
 ---
 
 Crochet patterns are shorthand. The line below is a whole row, and the rest of a pattern uses the same pieces.

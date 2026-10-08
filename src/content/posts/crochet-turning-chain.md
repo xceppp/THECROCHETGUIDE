@@ -7,6 +7,7 @@ level: beginner
 howTo: true
 printable: true
 tags: ["turning chain", "troubleshooting", "beginner", "edges"]
+quickAnswer: "sc = 1 ch, hdc = 2 ch, dc = 3 ch, tr = 4 ch. The single-crochet chain is for height and does not count as a stitch. For hdc, dc, and tr, the turning chain usually stands in for the first stitch, unless the pattern tells you it does not."
 ---
 
 If your rectangle is coming out as a trapezoid, or you started with 20 stitches and now have 17, the turning chain is the usual reason.

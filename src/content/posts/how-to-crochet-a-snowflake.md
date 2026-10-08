@@ -49,7 +49,7 @@ If the magic ring is still awkward, chain 6, slip stitch into the first chain, a
 
 **Round 2, the spokes.** Ch 5, skip one st, sc in next st. *Ch 5, skip one st, sc in next st; repeat from * around, ending with a slip stitch into the base of the first chain. (6 loops)
 
-**Round 3, the points.** Into each ch-5 loop: 3 sc, ch 3, slip stitch into the third chain from the hook (a picot), 3 more sc. Slip stitch into the next sc between loops, then take the next loop. Repeat six times and fasten off.
+**Round 3, the points.** Into each ch-5 loop: 3 sc, ch 3, slip stitch into the third chain from the hook (a picot), 3 more sc. Slip stitch into the next sc between loops, then take the next loop. Repeat six times and fasten off. (6 points)
 
 For a lacier arm, replace each picot with ch 5, sc into the loop, ch 5, sc into the same loop, ch 5. Each arm ends in three spikes. The count stays six.
 

@@ -58,9 +58,9 @@ dc, ch, sl st, rnd, sp, st(s). Beginning ch-3 counts as dc.
 
 **Rnd 1.** With first color, ch 4, join to form a ring. Ch 3, 2 dc in ring, ch 2, *3 dc in ring, ch 2; rep from * twice more, join to top of ch-3. Fasten off if changing. (4 clusters)
 
-**Rnd 2.** Join next color in any ch-2 corner. Ch 3, (2 dc, ch 2, 3 dc) in same corner, ch 1, *(3 dc, ch 2, 3 dc) in next corner, ch 1; rep from * around, join. Fasten off if changing.
+**Rnd 2.** Join next color in any ch-2 corner. Ch 3, (2 dc, ch 2, 3 dc) in same corner, ch 1, *(3 dc, ch 2, 3 dc) in next corner, ch 1; rep from * around, join. Fasten off if changing. (24 dc, 4 ch-2 corners, 4 ch-1)
 
-**Rnd 3.** Join next color in any corner. Ch 3, (2 dc, ch 2, 3 dc) in corner, ch 1, 3 dc in next ch-1 sp, ch 1, *(3 dc, ch 2, 3 dc) in corner, ch 1, 3 dc in next ch-1 sp, ch 1; rep from * around, join.
+**Rnd 3.** Join next color in any corner. Ch 3, (2 dc, ch 2, 3 dc) in corner, ch 1, 3 dc in next ch-1 sp, ch 1, *(3 dc, ch 2, 3 dc) in corner, ch 1, 3 dc in next ch-1 sp, ch 1; rep from * around, join. (36 dc, 4 ch-2 corners, 4 side clusters)
 
 **Rnd 4.** Repeat the granny logic of Rnd 3: corners `(3 dc, ch 2, 3 dc)`, each side space `3 dc`, ch 1 between groups. Fasten off. Weave in.
 

@@ -5,6 +5,7 @@ pubDate: 2026-09-18
 category: skills
 level: beginner
 howTo: true
+quickAnswer: "A crochet gnome is a cone body, a taller hat, a small nose, and a beard. Start each piece with a magic ring of single crochet and increase until the base is wide enough to stand. Weight the bottom or the gnome tips over."
 printable: true
 tags:
   ["christmas", "gnome", "amigurumi", "in the round", "beginner", "how to"]

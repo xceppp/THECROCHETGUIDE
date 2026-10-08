@@ -63,7 +63,7 @@ Work flat. Make two.
 
 **Row 3.** Ch 1, sc across, 2 sc in last. Turn. (4)
 
-**Row 4.** Ch 1, sc across. Fasten off with a long tail.
+**Row 4.** Ch 1, sc across. Fasten off with a long tail. (4)
 
 Fold a tiny pinch at the base when you sew so the ear cups forward. Sew both ears near the top of the head, slightly toward the front, mirrored.
 
@@ -81,11 +81,11 @@ Flat wings read more clearly than tiny 3D ones at small sizes.
 
 **Row 1.** Ch 8, sc in second ch from hook and each ch across. Turn. (7)
 
-**Row 2.** Ch 1, sc2tog, sc across to last 2, sc2tog. Turn.
+**Row 2.** Ch 1, sc2tog, sc across to last 2, sc2tog. Turn. (5)
 
-**Row 3.** Ch 1, sc across. Turn.
+**Row 3.** Ch 1, sc across. Turn. (5)
 
-**Row 4.** Repeat Row 2.
+**Row 4.** Repeat Row 2. (3)
 
 Continue decreasing at both ends every other row until 3 stitches remain. Work one row even. Fasten off.
 

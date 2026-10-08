@@ -70,7 +70,7 @@ Close. Leave a 10 in (25 cm) tail if you will sew bats to the line instead of th
 
 **Row 2.** Ch 1, sc in first, 2 sc in last. Turn. (3)
 
-**Row 3.** Ch 1, sc across. Fasten off with tail. Sew near top of head, mirrored.
+**Row 3.** Ch 1, sc across. Fasten off with tail. Sew near top of head, mirrored. (3)
 
 ## Wings (make 2 per bat)
 

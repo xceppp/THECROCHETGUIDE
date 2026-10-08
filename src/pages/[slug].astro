@@ -6,7 +6,6 @@ import VideoEmbed from "../components/VideoEmbed.astro";
 import StepNav from "../components/StepNav.astro";
 import ArticleProgress from "../components/ArticleProgress.astro";
 import { getStepPosition } from "../lib/learningPath";
-import { getPostThumbnail } from "../lib/postThumbnails";
 import { grannyRoundOne, grannyRoundTwo } from "../lib/grannyChart";
 import { SITE, CATEGORIES } from "../config";
 import StructuredData from "../components/StructuredData.astro";
@@ -65,12 +64,12 @@ const related = allPosts
   })
   .slice(0, 3);
 
-const thumb = getPostThumbnail(post.id);
-const socialImage = post.data.ogImage
-  ? new URL(post.data.ogImage, SITE.url).href
-  : thumb
-    ? new URL(thumb.src, SITE.url).href
-    : new URL("/og-default.jpg", SITE.url).href;
+const socialImage = new URL(
+  post.data.ogImage ?? `/social/${post.id}-og.jpg`,
+  SITE.url,
+).href;
+const pinSrc = post.data.pinImage ?? `/social/${post.id}-pin.jpg`;
+const pinDescription = `${post.data.pinTitle ?? post.data.title} | ${post.data.description}`;
 
 const patternHeading = toc.find((heading) =>
   /pattern|classic|step 1|body/i.test(heading.text),
@@ -128,16 +127,14 @@ const grannyChart =
     <StructuredData post={post} image={socialImage} />
 
     {
-      post.data.pinImage && (
-        <img
-          src={post.data.pinImage}
-          alt=""
-          width="1000"
-          height="1500"
-          class="pin-source"
-          data-pin-description={`${post.data.pinTitle ?? post.data.title} | ${post.data.description}`}
-        />
-      )
+      <img
+        src={pinSrc}
+        alt=""
+        width="1000"
+        height="1500"
+        class="pin-source"
+        data-pin-description={pinDescription}
+      />
     }
 
     <header class="mt-4">
