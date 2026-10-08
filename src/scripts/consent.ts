@@ -30,6 +30,7 @@ declare global {
     ceGetConsent?: () => ConsentState | null;
     gtag?: (...args: unknown[]) => void;
     allConsentGranted?: () => void;
+    allConsentDenied?: () => void;
   }
 }
 
@@ -50,6 +51,17 @@ export function allConsentGranted(): void {
     ad_personalization: "granted",
     ad_storage: "granted",
     analytics_storage: "granted",
+  });
+}
+
+/** Reject non-essential cookies. Denies every Consent Mode signal. */
+export function allConsentDenied(): void {
+  ensureGtag();
+  window.gtag?.("consent", "update", {
+    analytics_storage: "denied",
+    ad_storage: "denied",
+    ad_user_data: "denied",
+    ad_personalization: "denied",
   });
 }
 
@@ -170,7 +182,9 @@ export function applyConsent(
   options: { adsenseClient: string; gaId: string },
 ): void {
   const fullGrant = state.analytics && state.ads && state.personalizedAds;
+  const fullDeny = !state.analytics && !state.ads && !state.personalizedAds;
   if (fullGrant) allConsentGranted();
+  else if (fullDeny) allConsentDenied();
 
   if (state.analytics && options.gaId) {
     loadScript(

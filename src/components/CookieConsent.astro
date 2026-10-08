@@ -34,6 +34,7 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
 <script>
   import {
     acceptAll,
+    allConsentDenied,
     allConsentGranted,
     applyConsent,
     defaultState,
@@ -91,6 +92,7 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
             hide();
           }),
           button("Reject non-essential", "secondary", () => {
+            allConsentDenied();
             applyConsent(rejectNonEssential("eu"), options());
             hide();
           }),
@@ -111,6 +113,7 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
             hide();
           }),
           button("Reject non-essential", "ghost", () => {
+            allConsentDenied();
             applyConsent(rejectNonEssential("us"), options());
             hide();
           }),
@@ -154,6 +157,7 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
     });
 
     window.allConsentGranted = allConsentGranted;
+    window.allConsentDenied = allConsentDenied;
 
     window.ceOpenConsent = () => {
       forceOpen = true;
