@@ -12,9 +12,9 @@ tags: ["book sleeve", "beginner", "how to"]
 
 A book in a tote picks up crumbs and bent corners. A crochet sleeve keeps the cover cleaner. It will not stop a water bottle leak, and it will not save a paperback from being sat on. Single crochet has gaps. Treat it as a soft cover, not armor.
 
-Measure the book you actually own. The numbers in the pattern are one worked example: a book about **5 inches wide and 8 inches tall**. If yours is different, change the stitch count before you seam it. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart).
+Measure the book you actually own. The numbers in the pattern are one worked example: a book about **5 inches wide and 8 inches tall**. If yours is different, change the stitch count before you seam it. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
 
-Photos are illustrations of that example size. This sleeve has not been fitted on a finished book in yarn. [Gauge](/crochet-gauge) is the part that decides the fit.
+Photos are illustrations of that example size. This sleeve has not been fitted on a finished book in yarn. [Gauge](/crochet-gauge/) is the part that decides the fit.
 
 ![A book partly inside an oatmeal crochet sleeve](../../assets/articles/how-to-crochet-a-book-sleeve-result.jpg "Illustration. Intended look: oatmeal sleeve, book showing at the top, no readable title.")
 
@@ -34,8 +34,8 @@ Add about **1/2 inch** to the width for ease. Plan the sleeve height at about **
 
 ![Oatmeal yarn, a hook, and a plain book](../../assets/articles/how-to-crochet-a-book-sleeve-1.jpg "Illustration. Yardage depends on the book. The 120-yard figure is for the example.")
 
-- Worsted cotton, oatmeal. About **120 yards** for the 5 by 8 inch example. A larger book needs more. [Yarn weights](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook, or whatever hits gauge. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted cotton, oatmeal. About **120 yards** for the 5 by 8 inch example. A larger book needs more. [Yarn weights](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook, or whatever hits gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors.
 
 Beginner, and longer than a coin pouch. A few hours for the example.
@@ -84,7 +84,7 @@ Library books and borrowed copies should not live in a damp sleeve, and they sho
 
 A stack of two thin books in one sleeve looks efficient and then the front book bows the seam. One book. If you carry two, make two sleeves or leave the second book in the bag.
 
-Cotton single crochet is denser than an open mesh, which is why this page does not use the granny stitch from the [lace bandana](/how-to-crochet-a-lace-bandana). Density still is not a rain shell. A pen in the same pocket can print a line through the stitches onto a pale cover. Put the sleeve in a pocket that does not also hold pens.
+Cotton single crochet is denser than an open mesh, which is why this page does not use the granny stitch from the [lace bandana](/how-to-crochet-a-lace-bandana/). Density still is not a rain shell. A pen in the same pocket can print a line through the stitches onto a pale cover. Put the sleeve in a pocket that does not also hold pens.
 
 ## A different book
 
@@ -102,7 +102,7 @@ A very thick hardcover needs extra width for the spine, not extra height. Add th
 
 **A lacy stitch for a white cover.** Gaps let every pen in the bag leave a mark. Single crochet is the dense option, and it is still not waterproof.
 
-**Ignoring gauge.** This is one of the projects where gauge is the pattern. The [gauge article](/crochet-gauge) is the setup, not optional reading.
+**Ignoring gauge.** This is one of the projects where gauge is the pattern. The [gauge article](/crochet-gauge/) is the setup, not optional reading.
 
 ## Care
 
@@ -124,4 +124,4 @@ No. If rain is the risk, use a bag that is actually water resistant and keep thi
 
 ## Next
 
-A smaller flat pocket, sized to a card instead of a book, is the [Christmas gift card holder](/how-to-crochet-a-christmas-gift-card-holder). A phone needs its own measurements: [phone case](/how-to-crochet-a-phone-case).
+A smaller flat pocket, sized to a card instead of a book, is the [Christmas gift card holder](/how-to-crochet-a-christmas-gift-card-holder/). A phone needs its own measurements: [phone case](/how-to-crochet-a-phone-case/).

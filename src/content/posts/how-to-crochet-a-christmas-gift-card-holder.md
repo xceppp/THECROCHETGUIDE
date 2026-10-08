@@ -14,7 +14,7 @@ A gift card in a plain envelope looks like an afterthought. A small crochet pock
 
 A standard US gift card follows the ID-1 size used for bank cards: **85.60 × 53.98 mm**, which is **3.37 × 2.13 inches**. This pocket is planned a little larger than that so the card slides. It is not a wallet, and it will not hold a stack of cards.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart).
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
 
 Photos are illustrations. The pocket has not been measured against a real card in yarn. The inches below assume the gauge. If your gauge is off, the card tells you, not the photo.
 
@@ -24,12 +24,12 @@ Photos are illustrations. The pocket has not been measured against a real card i
 
 ![Green and red yarn, a hook, and a blank card](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-1.jpg "Illustration. The card is a size check. Yardage is an estimate.")
 
-- Worsted cotton, green, about **30 yards**. Red, about **8 yards**. [Yarn weights](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted cotton, green, about **30 yards**. Red, about **8 yards**. [Yarn weights](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors.
 - One gift card, or a piece of card cut to 3.37 × 2.13 inches.
 
-Beginner. About an hour. A Halloween version with a different construction is the [card wallet](/halloween-crochet-card-wallet). Use this page if you want a Christmas pocket.
+Beginner. About an hour. A Halloween version with a different construction is the [card wallet](/halloween-crochet-card-wallet/). Use this page if you want a Christmas pocket.
 
 ## Gauge (estimate)
 
@@ -81,7 +81,7 @@ The red lip is enough decoration. A bow sewn over the opening looks festive and 
 
 A gift card that is thinner than a bank card still uses the same outline. Do not shrink the pocket for a paper card. Paper bends, and a tight 16-stitch width is what creases it. The ease in the 4-inch estimate is there so the card stays flat.
 
-If your cotton is closer to 5 sc per inch, 16 stitches are only about 3.2 inches and the card will not enter. That is a gauge problem, not a seam problem. Move to a larger hook and keep the same 16 stitches. The [gauge article](/crochet-gauge) shows how to measure a swatch before you seam a pocket you cannot use.
+If your cotton is closer to 5 sc per inch, 16 stitches are only about 3.2 inches and the card will not enter. That is a gauge problem, not a seam problem. Move to a larger hook and keep the same 16 stitches. The [gauge article](/crochet-gauge/) shows how to measure a swatch before you seam a pocket you cannot use.
 
 ## Changes
 
@@ -117,4 +117,4 @@ The 4-inch estimate shrinks. The card is the test. Move up a hook size and keep 
 
 ## Next
 
-Yarn choices for other December projects are in [yarn for Christmas crochet](/yarn-for-christmas-crochet). A small tree you can hang is [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree).
+Yarn choices for other December projects are in [yarn for Christmas crochet](/yarn-for-christmas-crochet/). A small tree you can hang is [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree/).

@@ -16,7 +16,7 @@ A granny square is the same move over and over: clusters of three double crochet
 ![A set of Christmas granny squares in red green and cream](../../assets/articles/christmas-granny-square-variations-result.jpg "Illustration. The finished look these color variations build toward.")
 ## What you need
 
-- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart)) in red, green, white, and optionally a metallic gold
+- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart/)) in red, green, white, and optionally a metallic gold
 - A hook that matches the yarn, often a US H/8 (5.0 mm)
 - A yarn needle. There will be a lot of ends
 
@@ -58,7 +58,7 @@ Two colors split the square, half red and half green. The carried-yarn way uses 
 
 Do not carry the unused color loosely across the back. Long floats snag. Catch the float every few stitches, or use a separate small ball for each section.
 
-Complete the last yarn-over of the stitch before the change with the new color. That step is covered in [changing yarn color](/changing-yarn-color-crochet).
+Complete the last yarn-over of the stitch before the change with the new color. That step is covered in [changing yarn color](/changing-yarn-color-crochet/).
 
 ## Variation 4: the Nordic square
 
@@ -72,7 +72,7 @@ Three rounds of cream, one round of red, three more rounds of cream, one round o
 
 **Join in the color you finished on.** White on white disappears. Red on white becomes a grid. Either is fine if you chose it.
 
-Weave ends when you finish each square. Saving them for the end of a blanket is how the project stalls. The method is in [weaving in ends and blocking](/weaving-in-ends-and-blocking).
+Weave ends when you finish each square. Saving them for the end of a blanket is how the project stalls. The method is in [weaving in ends and blocking](/weaving-in-ends-and-blocking/).
 
 ## Mistakes that muddy the color
 

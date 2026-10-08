@@ -12,7 +12,7 @@ tags: ["halloween", "pumpkin", "treat bag", "beginner", "how to"]
 
 A treat bag only works if the candy stays in when a kid swings it. This one is a small orange tube with a flat base, a drawstring, and a green stem sewn where it will not block the cord.
 
-It holds a handful of wrapped candy, not a pillowcase full. US terms. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart).
+It holds a handful of wrapped candy, not a pillowcase full. US terms. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart/).
 
 Photos are illustrations. The inches are estimates from the gauge. This bag has not been filled and measured in real yarn. Test it with the candy you mean to put in it.
 
@@ -22,11 +22,11 @@ Photos are illustrations. The inches are estimates from the gauge. This bag has 
 
 ![Orange yarn, green yarn, a hook, and a needle](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-1.jpg "Illustration. Materials. Yardage is an estimate.")
 
-- Worsted cotton, orange, about **80 yards**. Green, about **10 yards**. [Yarn weight chart](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted cotton, orange, about **80 yards**. Green, about **10 yards**. [Yarn weight chart](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors, stitch marker.
 
-Beginner. About 2 to 3 hours. A stuffed pumpkin with segments is a different project: [how to crochet a pumpkin](/how-to-crochet-a-pumpkin-step-by-step). This page is a bag.
+Beginner. About 2 to 3 hours. A stuffed pumpkin with segments is a different project: [how to crochet a pumpkin](/how-to-crochet-a-pumpkin-step-by-step/). This page is a bag.
 
 ## Gauge and size (estimates)
 
@@ -36,7 +36,7 @@ The base stops at 48 stitches, about **12 inches** around and about **3.8 inches
 
 ## Base and body
 
-Spiral. Do not join. Mark the first stitch. Same start as [crochet in the round](/crochet-in-the-round).
+Spiral. Do not join. Mark the first stitch. Same start as [crochet in the round](/crochet-in-the-round/).
 
 ![A flat orange crochet circle](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-2.jpg "Illustration. The base is a flat circle. It should not bowl.")
 
@@ -140,4 +140,4 @@ Yes. Do not republish this pattern.
 
 ## Next
 
-A coin-sized version of the same drawstring is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch). A flat Halloween holder for cards is the [card wallet](/halloween-crochet-card-wallet).
+A coin-sized version of the same drawstring is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/). A flat Halloween holder for cards is the [card wallet](/halloween-crochet-card-wallet/).

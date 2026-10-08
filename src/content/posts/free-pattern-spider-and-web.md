@@ -19,7 +19,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** Original design for Crochet Explained. Not released until a physical sample is made and photographed. Skills overview: [How to Crochet a Spider (and Web)](/how-to-crochet-a-spider-and-web).
+**Draft pattern.** Original design for Crochet Explained. Not released until a physical sample is made and photographed. Skills overview: [How to Crochet a Spider (and Web)](/how-to-crochet-a-spider-and-web/).
 
 </div>
 
@@ -39,7 +39,7 @@ Firm sc fabric for the spider; web gauge is not critical. Aim for chain spaces t
 - Stuffing, yarn needle, pins, stitch markers
 - Optional: small wooden dowel or branch for hanging
 
-Charts: [hooks](/crochet-hook-size-conversion-chart), [yarn weights](/yarn-weight-chart), [abbreviations](/crochet-abbreviations-chart).
+Charts: [hooks](/crochet-hook-size-conversion-chart/), [yarn weights](/yarn-weight-chart/), [abbreviations](/crochet-abbreviations-chart/).
 
 ## Abbreviations (US)
 
@@ -118,4 +118,4 @@ Sew spider off-center on web. Add ch-20 hanging loop at top of web, or sew web t
 
 ## What to make next
 
-[Bat garland](/free-pattern-bat-garland) or [Halloween coasters](/free-pattern-halloween-coasters).
+[Bat garland](/free-pattern-bat-garland/) or [Halloween coasters](/free-pattern-halloween-coasters/).

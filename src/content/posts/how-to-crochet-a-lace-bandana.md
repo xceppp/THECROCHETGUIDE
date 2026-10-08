@@ -12,7 +12,7 @@ tags: ["bandana", "lace", "intermediate", "how to"]
 
 A bandana that slips off is just a triangle with no plan for the head it sits on. This one is an open granny triangle in cotton, with a tie at each end of the long edge. You stop when that edge measures the width you need, instead of trusting a row count from someone else's gauge.
 
-US terms. US double crochet is UK treble. Names are on the [abbreviations chart](/crochet-abbreviations-chart). The turning chain of 3 counts as a double crochet in this pattern. That is one of the places crochet is not standardized. [The turning chain](/crochet-turning-chain) explains why edges go wrong when you count it and also skip it.
+US terms. US double crochet is UK treble. Names are on the [abbreviations chart](/crochet-abbreviations-chart/). The turning chain of 3 counts as a double crochet in this pattern. That is one of the places crochet is not standardized. [The turning chain](/crochet-turning-chain/) explains why edges go wrong when you count it and also skip it.
 
 Photos are illustrations of a cream triangle with two ties. This bandana has not been worn and measured in yarn. Make the long edge to your tape, not to the picture.
 
@@ -22,8 +22,8 @@ Photos are illustrations of a cream triangle with two ties. This bandana has not
 
 ![Cream yarn and a hook](../../assets/articles/how-to-crochet-a-lace-bandana-1.jpg "Illustration. DK cotton. Yardage grows with the size you stop at.")
 
-- DK-weight cotton, cream. About **80 yards** if you stop near a 16-inch long edge, more if you go wider. [Yarn weights](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook, or the size that keeps the clusters open without looking like netting. [Hook chart](/crochet-hook-size-conversion-chart).
+- DK-weight cotton, cream. About **80 yards** if you stop near a 16-inch long edge, more if you go wider. [Yarn weights](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook, or the size that keeps the clusters open without looking like netting. [Hook chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors, a tape measure.
 
 Intermediate, because you have to find the corner space every row. A few hours.
@@ -84,7 +84,7 @@ The open stitches will catch earrings and small hair clips. Take those out befor
 
 ## Changes
 
-**A second color on the last row.** Change color on the last yarn-over of the previous row, the way [changing yarn color](/changing-yarn-color-crochet) describes, and work one more row in the new color. Do not change in the middle of a shell.
+**A second color on the last row.** Change color on the last yarn-over of the previous row, the way [changing yarn color](/changing-yarn-color-crochet/) describes, and work one more row in the new color. Do not change in the middle of a shell.
 
 **No ties.** Sew the corners to a short elastic only if you understand the elastic length has to be shorter than the gap you are closing. A guessed elastic will either fall off or crease the edge. Ties are the version this page actually specifies.
 
@@ -94,7 +94,7 @@ The open stitches will catch earrings and small hair clips. Take those out befor
 
 **Forgetting that ch 3 counts.** You will add a shell and also skip the turning chain, and that side grows faster. Pick one method. This page counts it.
 
-**Blocking with an iron.** Pin the damp triangle to the measurements you want and let it dry. The steps are in [weaving ends and blocking](/weaving-in-ends-and-blocking). Acrylic can melt. This pattern asks for cotton.
+**Blocking with an iron.** Pin the damp triangle to the measurements you want and let it dry. The steps are in [weaving ends and blocking](/weaving-in-ends-and-blocking/). Acrylic can melt. This pattern asks for cotton.
 
 ## Care
 
@@ -116,4 +116,4 @@ Move up one hook size and start Row 1 again. Do not try to loosen a finished tri
 
 ## Next
 
-A flat openwork piece with a different job is the [snowflake](/how-to-crochet-a-snowflake), which is about keeping points flat. If you would rather make something you do not wear, the [book sleeve](/how-to-crochet-a-book-sleeve) is solid single crochet sized from a tape in the same way.
+A flat openwork piece with a different job is the [snowflake](/how-to-crochet-a-snowflake/), which is about keeping points flat. If you would rather make something you do not wear, the [book sleeve](/how-to-crochet-a-book-sleeve/) is solid single crochet sized from a tape in the same way.

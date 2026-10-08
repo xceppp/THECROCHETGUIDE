@@ -11,7 +11,7 @@ tags: ["christmas", "snowflake", "thread crochet", "free pattern", "ornaments"]
 
 <div class="warning">
 
-**Draft pattern.** These are original written designs for Crochet Explained. They are not public on the live site until physical samples have been made, measured, blocked, and photographed. Do not treat the diameters below as verified until that happens. Technique walkthrough, including the four stiffening methods: [How to Crochet a Snowflake](/how-to-crochet-a-snowflake).
+**Draft pattern.** These are original written designs for Crochet Explained. They are not public on the live site until physical samples have been made, measured, blocked, and photographed. Do not treat the diameters below as verified until that happens. Technique walkthrough, including the four stiffening methods: [How to Crochet a Snowflake](/how-to-crochet-a-snowflake/).
 
 </div>
 
@@ -32,14 +32,14 @@ Not critical. Blocking sets the final size, and the same pattern will measure di
 ## Materials
 
 - Size 10 crochet cotton thread in white, about 20 yd (18 m) per flake — or worsted cotton for the large version
-- Steel hook about 1.65–1.75 mm for thread, or 3.5–4 mm for worsted ([hook size chart](/crochet-hook-size-conversion-chart) — steel numbering runs backwards)
+- Steel hook about 1.65–1.75 mm for thread, or 3.5–4 mm for worsted ([hook size chart](/crochet-hook-size-conversion-chart/) — steel numbering runs backwards)
 - Rustproof pins and a foam or cork blocking board
 - Stiffener: commercial fabric stiffener, diluted PVA, sugar solution or spray starch
 - Yarn needle, wax paper or plastic wrap
 
 ## Abbreviations (US)
 
-ch, sc, dc, tr, sl st, st(s), rnd, picot. Full list: [abbreviations chart](/crochet-abbreviations-chart).
+ch, sc, dc, tr, sl st, st(s), rnd, picot. Full list: [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Notes
 
@@ -99,4 +99,4 @@ The inner shell round is what gives this one visible depth — two tiers of stru
 
 ## What to make next
 
-[Mini Christmas trees pattern](/free-pattern-mini-christmas-trees) (draft) for something stuffed, or the [granny square variations](/christmas-granny-square-variations) if you want flat colorwork.
+[Mini Christmas trees pattern](/free-pattern-mini-christmas-trees/) (draft) for something stuffed, or the [granny square variations](/christmas-granny-square-variations/) if you want flat colorwork.

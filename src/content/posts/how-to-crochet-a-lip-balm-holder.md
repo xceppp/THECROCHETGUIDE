@@ -12,7 +12,7 @@ tags: ["lip balm", "keychain", "beginner", "how to"]
 
 A lip balm tube at the bottom of a bag is the one you never find. A short sleeve with a key loop keeps it on the hardware you already reach for.
 
-The sleeve is a narrow single-crochet tube. The cap stays out so you can open it without taking the tube out. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart).
+The sleeve is a narrow single-crochet tube. The cap stays out so you can open it without taking the tube out. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
 
 Photos are illustrations. This holder has not been fitted to a named brand. Measure your tube. A typical stick is close to 2.5 inches tall and under 3/4 inch across, and plenty of them are not.
 
@@ -22,8 +22,8 @@ Photos are illustrations. This holder has not been fitted to a named brand. Meas
 
 ![Rose yarn, a hook, a key ring, and an unmarked lip balm tube](../../assets/articles/how-to-crochet-a-lip-balm-holder-1.jpg "Illustration. Materials. The tube is the size guide.")
 
-- Worsted cotton, dusty rose, about **15 yards**. [Yarn weights](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook, or a size that keeps the fabric firm. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted cotton, dusty rose, about **15 yards**. [Yarn weights](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook, or a size that keeps the fabric firm. [Hook chart](/crochet-hook-size-conversion-chart/).
 - A split ring or a short strap of bag hardware.
 - Yarn needle, scissors, stitch marker.
 
@@ -37,7 +37,7 @@ Nine stitches around is about **2.25 inches** in circumference, so the inside is
 
 ## Sleeve
 
-Spiral. Marker. No join. [In the round](/crochet-in-the-round).
+Spiral. Marker. No join. [In the round](/crochet-in-the-round/).
 
 ![A tiny rose circle on the hook](../../assets/articles/how-to-crochet-a-lip-balm-holder-2.jpg "Illustration. The base is only six stitches.")
 
@@ -121,4 +121,4 @@ Yes, with a smaller hook. Ignore the inch estimates and fit the real tube.
 
 ## Next
 
-The same small tube idea, with a flap instead of an open rim, is the [earbud pouch](/how-to-crochet-an-earbud-pouch). A flat card holder is the [Halloween card wallet](/halloween-crochet-card-wallet).
+The same small tube idea, with a flap instead of an open rim, is the [earbud pouch](/how-to-crochet-an-earbud-pouch/). A flat card holder is the [Halloween card wallet](/halloween-crochet-card-wallet/).

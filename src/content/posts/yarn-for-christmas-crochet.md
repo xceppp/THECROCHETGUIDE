@@ -14,7 +14,7 @@ Christmas crochet is mostly small: ornaments, gnomes, snowflakes, coasters, a ga
 
 <div class="tip">
 
-**Disclosure:** this guide contains affiliate links where products are named, which means a purchase may earn this site a small commission at no extra cost to you. No company sent anything for review and no commission influences what is recommended here. See the [disclosures page](/disclosures).
+**Disclosure:** this guide contains affiliate links where products are named, which means a purchase may earn this site a small commission at no extra cost to you. No company sent anything for review and no commission influences what is recommended here. See the [disclosures page](/disclosures/).
 
 </div>
 
@@ -30,7 +30,7 @@ Use a hook a size or two smaller than the label suggests, so stuffing cannot sho
 
 ### Things that must hold a shape — snowflakes, stars, flat ornaments
 
-**Cotton, or size 10 crochet thread.** Cotton has no memory. Block it flat and it stays flat. Acrylic springs back, so a stiffened acrylic snowflake slowly curls again over a season. Blocking is covered in [how to crochet a snowflake](/how-to-crochet-a-snowflake).
+**Cotton, or size 10 crochet thread.** Cotton has no memory. Block it flat and it stays flat. Acrylic springs back, so a stiffened acrylic snowflake slowly curls again over a season. Blocking is covered in [how to crochet a snowflake](/how-to-crochet-a-snowflake/).
 
 ### Coasters, placemats, potholders
 
@@ -86,7 +86,7 @@ Candle rings, advent wreaths, mantel garlands, and potholders are the projects p
 | Set of four coasters | 100–150 yds |
 | Garland, 6 ft with 10 pieces | 200–300 yds |
 
-One skein covers most of these more than once, so shop leftovers first. For a matched set, buy in one go so the dye lots match. A mismatch is invisible on one ornament and obvious when several hang on the same branch. Weights are in the [yarn weight chart](/yarn-weight-chart).
+One skein covers most of these more than once, so shop leftovers first. For a matched set, buy in one go so the dye lots match. A mismatch is invisible on one ornament and obvious when several hang on the same branch. Weights are in the [yarn weight chart](/yarn-weight-chart/).
 
 ## Mistakes worth skipping
 

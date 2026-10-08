@@ -20,7 +20,7 @@ tags:
 
 A crochet scrunchie is the rare beginner project that people actually wear. It finishes in one evening, uses scrap yarn, and shows up constantly on Pinterest and reels — which is why it earns a spot here beside the seasonal amigurumi.
 
-You are not inventing a new stitch. You crochet a flat strip, sew it into a tube around a regular elastic hair tie, and bury the ends. If you can [single crochet](/basic-crochet-stitches) in rows, you can make one tonight.
+You are not inventing a new stitch. You crochet a flat strip, sew it into a tube around a regular elastic hair tie, and bury the ends. If you can [single crochet](/basic-crochet-stitches/) in rows, you can make one tonight.
 
 The version below is the strip method, not crochet worked directly onto the elastic. Working onto the elastic is faster for some people and tighter for others. The strip is easier to photograph, easier to frog, and easier to size when your first try comes out wrong.
 
@@ -28,13 +28,13 @@ The version below is the strip method, not crochet worked directly onto the elas
 
 ## What you need
 
-- Worsted-weight yarn, about **30–40 yd** — [yarn weight chart](/yarn-weight-chart)
-- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart)
+- Worsted-weight yarn, about **30–40 yd** — [yarn weight chart](/yarn-weight-chart/)
+- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart/)
 - **One elastic hair tie** (the thin covered kind, not a bare rubber band)
 - Yarn needle
 - Scissors
 
-US abbreviations throughout. Open the [abbreviations chart](/crochet-abbreviations-chart) if any look unfamiliar.
+US abbreviations throughout. Open the [abbreviations chart](/crochet-abbreviations-chart/) if any look unfamiliar.
 
 ## Finished size
 
@@ -72,7 +72,7 @@ Lay the elastic along the long center of the wrong side of the strip. Fold the l
 
 Do not sew through the elastic. If you catch it, the scrunchie will not stretch.
 
-Join the two short ends of the tube with a few firm stitches so you have one continuous ring. Weave ends into the seam — [weaving in ends](/weaving-in-ends-and-blocking) covers the clean method.
+Join the two short ends of the tube with a few firm stitches so you have one continuous ring. Weave ends into the seam — [weaving in ends](/weaving-in-ends-and-blocking/) covers the clean method.
 
 ## Step 4: even the gathers
 
@@ -82,7 +82,7 @@ Slide the crochet fabric around the elastic until the gathers look even all the 
 
 ## Color ideas that pin well
 
-Solid bright yarn on a plain background wins on phone cameras. Black yarn hides every stitch and looks like a blob in a reel thumbnail. Pastels work if the light is clean. A thin contrast stripe on the last two rows gives the eye a line to follow without a second project’s worth of colorwork — same join used in [changing yarn color](/changing-yarn-color-crochet).
+Solid bright yarn on a plain background wins on phone cameras. Black yarn hides every stitch and looks like a blob in a reel thumbnail. Pastels work if the light is clean. A thin contrast stripe on the last two rows gives the eye a line to follow without a second project’s worth of colorwork — same join used in [changing yarn color](/changing-yarn-color-crochet/).
 
 If you are batching for gifts, pick three colors and make three in one sitting. The second and third go faster than the first because the seam is the only part that needs attention.
 
@@ -118,4 +118,4 @@ If they can keep an even single crochet for ten rows, yes — with help on the s
 
 ### What should I make next?
 
-A [simple flower](/how-to-crochet-a-simple-flower) sewn onto a second scrunchie, a [mug cozy](/crochet-mug-cozy-for-beginners) for gifts, or stay seasonal with the [Halloween card wallet](/halloween-crochet-card-wallet).
+A [simple flower](/how-to-crochet-a-simple-flower/) sewn onto a second scrunchie, a [mug cozy](/crochet-mug-cozy-for-beginners/) for gifts, or stay seasonal with the [Halloween card wallet](/halloween-crochet-card-wallet/).

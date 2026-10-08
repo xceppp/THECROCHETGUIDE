@@ -12,9 +12,9 @@ tags: ["earbud pouch", "beginner", "how to", "button"]
 
 A charging case in a bag picks up lint and then the lid sticks. A small crochet pouch keeps the case in one place. It does not make the case waterproof, and it does not stop a drop onto concrete. Yarn is a cover, not a case.
 
-This version is sage cotton with a wood button. A Halloween bat version of the same tube is already on the site: [gothic bat earbuds pouch](/gothic-bat-earbuds-pouch). Do not mix the two. This page has no ears and no wings.
+This version is sage cotton with a wood button. A Halloween bat version of the same tube is already on the site: [gothic bat earbuds pouch](/gothic-bat-earbuds-pouch/). Do not mix the two. This page has no ears and no wings.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart).
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
 
 Photos are illustrations. Inches are estimates. This pouch has not been fitted on a specific charging case. Measure yours before you fasten off.
 
@@ -30,8 +30,8 @@ If the case is wider than about 2.2 inches, use the larger stitch count at the e
 
 ![Sage yarn, a hook, a wood button, and a white charging case](../../assets/articles/how-to-crochet-an-earbud-pouch-1.jpg "Illustration. The case is a size guide. Yardage is an estimate.")
 
-- Worsted cotton, sage, about **45 yards**. [Yarn weights](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted cotton, sage, about **45 yards**. [Yarn weights](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
 - One button about 1/2 inch across.
 - Yarn needle, scissors, stitch marker.
 
@@ -45,7 +45,7 @@ At 30 stitches, the opening is about **2.4 inches** across the flat base, and th
 
 ## Body
 
-Spiral. Marker. No join. [Crochet in the round](/crochet-in-the-round).
+Spiral. Marker. No join. [Crochet in the round](/crochet-in-the-round/).
 
 ![A sage circle starting in a magic ring](../../assets/articles/how-to-crochet-an-earbud-pouch-2.jpg "Illustration. Six single crochets in a ring.")
 
@@ -123,7 +123,7 @@ No. Measure. The 30-stitch tube is a starting size, not a universal one.
 
 **Can I skip the button?**
 
-A drawstring works if you would rather not sew. Use the eyelet round from the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch) on an even stitch count.
+A drawstring works if you would rather not sew. Use the eyelet round from the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) on an even stitch count.
 
 **Is it safe in the rain?**
 
@@ -131,4 +131,4 @@ No. Single crochet has gaps. Do not put the case in a wet pouch and call it prot
 
 ## Next
 
-Cords that live next to the case are a separate scrap project once you want them tidy. A flat phone sleeve, sized to a measured phone, is [how to crochet a phone case](/how-to-crochet-a-phone-case).
+Cords that live next to the case are a separate scrap project once you want them tidy. A flat phone sleeve, sized to a measured phone, is [how to crochet a phone case](/how-to-crochet-a-phone-case/).

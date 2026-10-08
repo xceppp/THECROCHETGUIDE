@@ -18,7 +18,7 @@ tags:
   ]
 ---
 
-A snowflake takes about fifteen minutes to crochet. Keeping it flat is what makes this [in the round](/crochet-in-the-round) circle an ornament, with the stitches spread apart on purpose.
+A snowflake takes about fifteen minutes to crochet. Keeping it flat is what makes this [in the round](/crochet-in-the-round/) circle an ornament, with the stitches spread apart on purpose.
 
 ![Hands working a white thread snowflake with a fine steel crochet hook](../../assets/articles/how-to-crochet-a-snowflake-1.jpg "Illustration. The making takes fifteen minutes. The blocking is the part that decides how it looks.")
 
@@ -27,7 +27,7 @@ A snowflake takes about fifteen minutes to crochet. Keeping it flat is what make
 ## What you need
 
 - **Size 10 crochet thread** in white, or worsted yarn for a chunky version
-- A **steel hook** around 1.65–1.75 mm for thread, or a 3.5–4 mm hook for yarn. Steel numbers run backwards: a higher number is a smaller hook. The [hook size chart](/crochet-hook-size-conversion-chart) has the table
+- A **steel hook** around 1.65–1.75 mm for thread, or a 3.5–4 mm hook for yarn. Steel numbers run backwards: a higher number is a smaller hook. The [hook size chart](/crochet-hook-size-conversion-chart/) has the table
 - A yarn needle, rustproof pins, and a board you can pin into
 - A stiffener, covered below
 
@@ -59,7 +59,7 @@ Make one plain flake and stiffen it before you make six ornate ones. Stiffening 
 
 </div>
 
-Leave a tail and run it along the top of a few stitches. Openwork has no fabric to hide an end. More is in [weaving in ends and blocking](/weaving-in-ends-and-blocking). Weave before you stiffen. A hard tail will not thread.
+Leave a tail and run it along the top of a few stitches. Openwork has no fabric to hide an end. More is in [weaving in ends and blocking](/weaving-in-ends-and-blocking/). Weave before you stiffen. A hard tail will not thread.
 
 ## Stiffening
 

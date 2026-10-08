@@ -116,7 +116,7 @@ Swatch each stitch about 15 wide and 10 rows tall, then make a dishcloth in sing
 
 **Chaining too tightly.** The foundation should be looser than the stitches. If row one is a fight, chain with a hook one size larger, then switch back.
 
-**Gaining or losing stitches at the ends.** Nearly always the turning chain. The [full explanation](/crochet-turning-chain) is its own page.
+**Gaining or losing stitches at the ends.** Nearly always the turning chain. The [full explanation](/crochet-turning-chain/) is its own page.
 
 **The wrong part of the stitch.** Unless the pattern says otherwise, go under **both** top loops. Front loop only and back loop only are variations a pattern will name.
 
@@ -134,4 +134,4 @@ Double crochet and taller stitches are open. That is the stitch. For solid fabri
 
 ### Do I need UK terms?
 
-Only for British or Australian patterns. The same abbreviation is a different stitch in each system. The [abbreviations chart](/crochet-abbreviations-chart) has the conversion.
+Only for British or Australian patterns. The same abbreviation is a different stitch in each system. The [abbreviations chart](/crochet-abbreviations-chart/) has the conversion.

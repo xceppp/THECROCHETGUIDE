@@ -18,7 +18,7 @@ tags:
   ]
 ---
 
-A crochet pumpkin is a stuffed sphere with vertical grooves and a short stem on top. The sphere is ordinary amigurumi math. The grooves come from a finishing trick, not from fancy stitches. If you can work [in the round](/crochet-in-the-round) and make a [basic increase](/crochet-increase-decrease), you can make one.
+A crochet pumpkin is a stuffed sphere with vertical grooves and a short stem on top. The sphere is ordinary amigurumi math. The grooves come from a finishing trick, not from fancy stitches. If you can work [in the round](/crochet-in-the-round/) and make a [basic increase](/crochet-increase-decrease/), you can make one.
 
 Hook size, yarn weight, and stuffing amount change the final diameter, so treat the stitch counts as a shape recipe rather than a promise of a specific inch measurement until you have made one and measured it yourself.
 
@@ -26,13 +26,13 @@ Hook size, yarn weight, and stuffing amount change the final diameter, so treat 
 
 ## What you need
 
-- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart)) in orange for the body, a scrap of brown or green for the stem
-- A hook that matches your yarn — often a US G/6 (4.0 mm) or H/8 (5.0 mm); see the [hook size chart](/crochet-hook-size-conversion-chart)
+- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart/)) in orange for the body, a scrap of brown or green for the stem
+- A hook that matches your yarn — often a US G/6 (4.0 mm) or H/8 (5.0 mm); see the [hook size chart](/crochet-hook-size-conversion-chart/)
 - Stuffing
 - Yarn needle
 - Stitch marker
 
-Abbreviations follow US terms. If any look unfamiliar, open the [abbreviations chart](/crochet-abbreviations-chart).
+Abbreviations follow US terms. If any look unfamiliar, open the [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Step 1: start the sphere (increase)
 
@@ -52,7 +52,7 @@ Work in a spiral. Mark the first stitch of every round.
 
 **Rnd 6.** *Sc in next 4 sts, 2 sc in next st; repeat from * around. (36)
 
-For a small desk pumpkin, stop increasing here. For a larger one, keep adding six stitches each round (next would be *sc in next 5, 2 sc in next*). That six-increase rule is what keeps the circle flat until you build height. More on the math is in [increases and decreases](/crochet-increase-decrease).
+For a small desk pumpkin, stop increasing here. For a larger one, keep adding six stitches each round (next would be *sc in next 5, 2 sc in next*). That six-increase rule is what keeps the circle flat until you build height. More on the math is in [increases and decreases](/crochet-increase-decrease/).
 
 ## Step 2: work even, decrease, and stuff
 
@@ -118,4 +118,4 @@ The last decrease rounds were rushed, or the stem was sewn onto a poorly closed 
 
 ### What should I make next?
 
-Try a [ghost amigurumi](/crochet-ghost-amigurumi-for-beginners), the [bat](/bat-amigurumi-wings-body-and-ears), or flat color practice on [Halloween granny squares](/halloween-granny-square-variations). For a reel-friendly pocket project, make the [Halloween card wallet](/halloween-crochet-card-wallet).
+Try a [ghost amigurumi](/crochet-ghost-amigurumi-for-beginners/), the [bat](/bat-amigurumi-wings-body-and-ears/), or flat color practice on [Halloween granny squares](/halloween-granny-square-variations/). For a reel-friendly pocket project, make the [Halloween card wallet](/halloween-crochet-card-wallet/).

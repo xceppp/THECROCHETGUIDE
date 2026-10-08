@@ -20,19 +20,19 @@ tags:
 
 A crochet spider fails for one of two reasons: the body is a featureless blob, or the legs are all different lengths. The stitches are not hard. The proportions are.
 
-Comfort with [magic rings and spirals](/crochet-in-the-round) is expected. Legs take patience more than new stitches.
+Comfort with [magic rings and spirals](/crochet-in-the-round/) is expected. Legs take patience more than new stitches.
 
 ![A finished black crochet spider beside a pale grey flat crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-result.jpg "Illustration. The finished look these steps build toward.")
 
 ## What you need
 
 - Black or dark brown worsted yarn for the spider; white or gray for the web
-- Matching hook ([hook size chart](/crochet-hook-size-conversion-chart)); [yarn weights](/yarn-weight-chart)
+- Matching hook ([hook size chart](/crochet-hook-size-conversion-chart/)); [yarn weights](/yarn-weight-chart/)
 - Stuffing (spider body only)
 - Yarn needle, stitch markers
 - Optional: tiny bit of red or white for eyes
 
-Abbreviations: [chart](/crochet-abbreviations-chart).
+Abbreviations: [chart](/crochet-abbreviations-chart/).
 
 ## Step 1: crochet the body
 
@@ -90,7 +90,7 @@ Two small French knots or satin-stitch dots near the front of the head section a
 
 **Optional radial threads.** With a yarn needle, run straight lines from the outer edge to the center and tack them at each ring.
 
-Block lightly if the chains curl — same idea as in [blocking basics](/weaving-in-ends-and-blocking).
+Block lightly if the chains curl — same idea as in [blocking basics](/weaving-in-ends-and-blocking/).
 
 ## Step 5: sew the spider to the web
 
@@ -126,4 +126,4 @@ Smooth cotton or cotton-blend worsted blocks crisply.
 
 ### What to make next
 
-A [bat](/bat-amigurumi-wings-body-and-ears), a [ghost](/crochet-ghost-amigurumi-for-beginners), [Halloween granny squares](/halloween-granny-square-variations), or the [Halloween card wallet](/halloween-crochet-card-wallet).
+A [bat](/bat-amigurumi-wings-body-and-ears/), a [ghost](/crochet-ghost-amigurumi-for-beginners/), [Halloween granny squares](/halloween-granny-square-variations/), or the [Halloween card wallet](/halloween-crochet-card-wallet/).

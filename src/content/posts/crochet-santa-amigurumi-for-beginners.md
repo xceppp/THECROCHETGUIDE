@@ -10,13 +10,13 @@ tags:
   ["christmas", "santa", "amigurumi", "in the round", "beginner", "how to"]
 ---
 
-A Santa is the first amigurumi where the face shows. A [gnome](/how-to-crochet-a-gnome) hides under a hat, and a pumpkin has no face, so both forgive a lot. If Santa's eyes are a stitch off, everyone can see it. The body is one piece, no neck and no seam. The work is placement.
+A Santa is the first amigurumi where the face shows. A [gnome](/how-to-crochet-a-gnome/) hides under a hat, and a pumpkin has no face, so both forgive a lot. If Santa's eyes are a stitch off, everyone can see it. The body is one piece, no neck and no seam. The work is placement.
 
 
 ![A finished beginner crochet Santa amigurumi with red hat](../../assets/articles/crochet-santa-amigurumi-for-beginners-result.jpg "Illustration. The finished look these steps build toward.")
 ## What you need
 
-- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart)) in red, a skin tone, white, and a scrap of black
+- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart/)) in red, a skin tone, white, and a scrap of black
 - A hook a size or two below the label, often a US G/6 (4.0 mm)
 - Stuffing, a yarn needle, a stitch marker
 - Black yarn for embroidered eyes, or 6 mm safety eyes if this is not for a small child
@@ -49,7 +49,7 @@ That is the flat base. Work even in red until the body is roughly as tall as it 
 
 **Narrow for the shoulders.** *Sc in next 3 sts, sc2tog; repeat from * around. (24)
 
-**Change to the skin tone** and work even until the head is roughly two thirds the height of the body. A color change in the middle of a round is cleaner than at the start of one. The technique is in [changing yarn color](/changing-yarn-color-crochet).
+**Change to the skin tone** and work even until the head is roughly two thirds the height of the body. A color change in the middle of a round is cleaner than at the start of one. The technique is in [changing yarn color](/changing-yarn-color-crochet/).
 
 **Close the head.** Decrease by six stitches a round: *sc in next 2, sc2tog*, then *sc in next, sc2tog*, then *sc2tog* around. Stuff firmly as the opening shrinks. Fasten off, weave the tail through the front loops of the last stitches, and pull tight.
 

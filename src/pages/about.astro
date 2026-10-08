@@ -4,13 +4,13 @@ import { SITE } from "../config";
 
 const schema = {
   "@context": "https://schema.org",
-  "@type": "AboutPage",
+  "@type": "ProfilePage",
   mainEntity: {
     "@type": "Person",
     name: SITE.author.name,
+    url: new URL("/about/", SITE.url).href,
     jobTitle: SITE.author.role,
     description: SITE.author.bio,
-    worksFor: { "@type": "Organization", name: SITE.name },
   },
 };
 ---

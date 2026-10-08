@@ -103,7 +103,7 @@ The hook on a yarn label is a starting point, not a rule.
 3. Too small means your stitches are tight, so go **up** a hook size. Too large means go **down**.
 4. Swatch again with the new hook.
 
-Skip this on a coaster. On a sweater, it saves a project that does not fit. If you crochet for hours or your hands ache, an ergonomic handle helps, covered in the [hooks and yarn guides](/gear).
+Skip this on a coaster. On a sweater, it saves a project that does not fit. If you crochet for hours or your hands ache, an ergonomic handle helps, covered in the [hooks and yarn guides](/gear/).
 
 ## Frequently asked
 

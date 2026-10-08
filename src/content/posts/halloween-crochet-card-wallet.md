@@ -31,7 +31,7 @@ One tall single-crochet rectangle becomes a pumpkin-orange card wallet: fold a p
 - A yarn needle, and stitch markers or clips
 - **The card the wallet must hold.** Do not guess the size
 
-US terms. The body is almost only single crochet. If rows are new, skim [basic crochet stitches](/basic-crochet-stitches) first.
+US terms. The body is almost only single crochet. If rows are new, skim [basic crochet stitches](/basic-crochet-stitches/) first.
 
 ## Finished size
 
@@ -71,7 +71,7 @@ Optional: work the **last 2 rows** in black so the flap edge has a thin stripe.
 
 ![A crochet hook changing from pumpkin-orange yarn to black for a thin edge stripe on the wallet rectangle](../../assets/articles/halloween-crochet-card-wallet-2.jpg "Illustration. Step 3 — optional black edge: change color on the last yarn-over for a crisp line.")
 
-Change color on the last yarn-over of the final orange stitch, so the black loop is already on the hook. The same join is in [changing yarn color](/changing-yarn-color-crochet). Weave the tails on the wrong side later.
+Change color on the last yarn-over of the final orange stitch, so the black loop is already on the hook. The same join is in [changing yarn color](/changing-yarn-color-crochet/). Weave the tails on the wrong side later.
 
 ## Step 4: fold the pocket
 
@@ -102,7 +102,7 @@ Keep the ghost about **1–1.25 in tall** so the flap still closes flat.
 1. With white, magic ring, 6 sc. (6)
 2. Increase around. (12)
 3. Single crochet around for 2 rounds.
-4. Soft hem: *sc, hdc, dc, hdc, sc in next 5 sts* (or similar), so the bottom ripples. Same idea as a [beginner ghost](/crochet-ghost-amigurumi-for-beginners), much smaller.
+4. Soft hem: *sc, hdc, dc, hdc, sc in next 5 sts* (or similar), so the bottom ripples. Same idea as a [beginner ghost](/crochet-ghost-amigurumi-for-beginners/), much smaller.
 5. Flatten. Fasten off with a tail for sewing.
 
 French-knot eyes and a small curved mouth in black. Sew it to the **lower front corner**, knots inside. Wider than a third of the pocket, it wrinkles under the flap.

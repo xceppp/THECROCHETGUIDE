@@ -20,18 +20,18 @@ tags:
 
 Bats look complicated because of the wings. The body is a small oval. The ears are triangles. The hard part is making two wings the same size and sewing them on so the bat does not look like it is mid-shrug forever.
 
-You should already be comfortable [working in the round](/crochet-in-the-round) and sewing pieces with a yarn needle.
+You should already be comfortable [working in the round](/crochet-in-the-round/) and sewing pieces with a yarn needle.
 
 ![A finished black crochet bat with matching wings and small triangular ears](../../assets/articles/bat-amigurumi-wings-body-and-ears-result.jpg "Illustration. The finished look these steps build toward.")
 
 ## What you need
 
-- Dark yarn (black, charcoal, deep purple) in a worsted weight — [yarn weight chart](/yarn-weight-chart)
+- Dark yarn (black, charcoal, deep purple) in a worsted weight — [yarn weight chart](/yarn-weight-chart/)
 - Scrap of lighter yarn or white for fangs/eyes if you want them
-- Hook matched to the yarn ([hook size chart](/crochet-hook-size-conversion-chart))
+- Hook matched to the yarn ([hook size chart](/crochet-hook-size-conversion-chart/))
 - Stuffing, yarn needle, stitch markers, pins
 
-US terms: [abbreviations chart](/crochet-abbreviations-chart).
+US terms: [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Step 1: crochet the body
 
@@ -133,4 +133,4 @@ Leave long tails and thread several bats onto a chain or twine through the tops 
 
 ### What to make next
 
-A [spider and web](/how-to-crochet-a-spider-and-web), a [ghost](/crochet-ghost-amigurumi-for-beginners), [Halloween granny squares](/halloween-granny-square-variations), or the [Halloween card wallet](/halloween-crochet-card-wallet).
+A [spider and web](/how-to-crochet-a-spider-and-web/), a [ghost](/crochet-ghost-amigurumi-for-beginners/), [Halloween granny squares](/halloween-granny-square-variations/), or the [Halloween card wallet](/halloween-crochet-card-wallet/).

@@ -12,7 +12,7 @@ tags: ["halloween", "ghost", "coin pouch", "beginner", "how to"]
 
 Loose change in a coat pocket ends up in the wash. A small ghost pouch keeps the coins in one place and still fits in that pocket.
 
-This is a white single-crochet tube with a flat base, a drawstring near the top, and a simple embroidered face. It is a coin purse, not a wallet. US terms throughout. US single crochet is UK double crochet. Names are on the [abbreviations chart](/crochet-abbreviations-chart).
+This is a white single-crochet tube with a flat base, a drawstring near the top, and a simple embroidered face. It is a coin purse, not a wallet. US terms throughout. US single crochet is UK double crochet. Names are on the [abbreviations chart](/crochet-abbreviations-chart/).
 
 The photos are illustrations of the intended pouch. This pattern has not been stitched and measured in yarn, so the inch sizes are estimates from the gauge below. Drop a few coins in before you weave the ends, and add rounds if the pouch is too short.
 
@@ -22,8 +22,8 @@ The photos are illustrations of the intended pouch. This pattern has not been st
 
 ![White yarn, a hook, a needle, scissors, and a few quarters](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-1.jpg "Illustration. Materials. Yardage is an estimate, not a weighed amount.")
 
-- Worsted-weight cotton, white, about **40 yards**. A scrap of black for the face. Cotton holds a small pouch better than a fuzzy yarn. [Yarn weight chart](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook, or the size that matches the gauge. [Hook size chart](/crochet-hook-size-conversion-chart).
+- Worsted-weight cotton, white, about **40 yards**. A scrap of black for the face. Cotton holds a small pouch better than a fuzzy yarn. [Yarn weight chart](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook, or the size that matches the gauge. [Hook size chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors, stitch marker.
 - A few coins to test the opening.
 
@@ -43,7 +43,7 @@ If your base cups into a bowl, the increases are too tight. Redo them before you
 
 ## Body
 
-Work in a spiral. Do not join rounds. Mark the first stitch. The method is the same one in [crochet in the round](/crochet-in-the-round).
+Work in a spiral. Do not join rounds. Mark the first stitch. The method is the same one in [crochet in the round](/crochet-in-the-round/).
 
 ![Hands starting a white circle in a magic ring](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-2.jpg "Illustration. Six single crochets in a magic ring.")
 
@@ -103,7 +103,7 @@ Drop in the coins you actually carry. The gathered top should close over them wi
 
 **Taller pouch.** Add even rounds before Round 16. Keep the count at 30. Do not increase.
 
-**A second color on the last two rounds.** Change color on the last yarn-over of Round 16, using the method in [changing yarn color](/changing-yarn-color-crochet).
+**A second color on the last two rounds.** Change color on the last yarn-over of Round 16, using the method in [changing yarn color](/changing-yarn-color-crochet/).
 
 **No face.** A plain white pouch still works. The drawstring is the part that holds the coins.
 
@@ -123,7 +123,7 @@ Hand wash cool. Dry flat. Do not machine dry. Cotton can shrink enough to make t
 
 **Will it hold bills?**
 
-A bill folded very small may fit. The pouch is planned for coins. A stack of bills needs a wider piece, like the [Halloween card wallet](/halloween-crochet-card-wallet).
+A bill folded very small may fit. The pouch is planned for coins. A stack of bills needs a wider piece, like the [Halloween card wallet](/halloween-crochet-card-wallet/).
 
 **Can I sell finished pouches?**
 
@@ -135,4 +135,4 @@ Use a smaller hook and stop the even rounds when the tube is about 2 inches tall
 
 ## Next
 
-The same spiral starts the [bat earbuds pouch](/gothic-bat-earbuds-pouch), which is a flap instead of a drawstring. If the circle still feels new, stay with [crochet in the round](/crochet-in-the-round) before you add the cord.
+The same spiral starts the [bat earbuds pouch](/gothic-bat-earbuds-pouch/), which is a flap instead of a drawstring. If the circle still feels new, stay with [crochet in the round](/crochet-in-the-round/) before you add the cord.

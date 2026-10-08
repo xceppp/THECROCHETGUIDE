@@ -20,18 +20,18 @@ tags:
 
 A sleeve only works if this phone slides in. The iPhone 18 Pro Max body is **3.07 inches wide (78.0 mm)**, **6.43 inches tall (163.4 mm)**, and **0.34 inch thick (8.75 mm)**, per [Apple’s tech specs](https://support.apple.com/en-us/148591). Those numbers are the bare phone, not a stitch count.
 
-Crochet a dense [single crochet](/basic-crochet-stitches) rectangle to that width, fold it, and seam the sides. Cream, terracotta, sage, navy, black, or stripes all use the same rectangle.
+Crochet a dense [single crochet](/basic-crochet-stitches/) rectangle to that width, fold it, and seam the sides. Cream, terracotta, sage, navy, black, or stripes all use the same rectangle.
 
 ![Five crochet phone sleeves, with an iPhone 18 Pro Max in the cream one](../../assets/articles/how-to-crochet-a-phone-case-result.jpg "Illustration. Same sleeve in five colors, sized around an iPhone 18 Pro Max.")
 
 ## What you need
 
-- Worsted-weight cotton. One small skein is enough. Fuzzy yarn pills inside the sleeve. [Yarn weight chart](/yarn-weight-chart).
-- A hook that makes a firm fabric, often US G/6 (4.0 mm) or H/8 (5.0 mm). Drop a size if you can see through the stitches. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted-weight cotton. One small skein is enough. Fuzzy yarn pills inside the sleeve. [Yarn weight chart](/yarn-weight-chart/).
+- A hook that makes a firm fabric, often US G/6 (4.0 mm) or H/8 (5.0 mm). Drop a size if you can see through the stitches. [Hook chart](/crochet-hook-size-conversion-chart/).
 - The phone, with no extra case on it.
 - Yarn needle and scissors.
 
-US terms (`sc`). Abbreviations are on the [chart](/crochet-abbreviations-chart).
+US terms (`sc`). Abbreviations are on the [chart](/crochet-abbreviations-chart/).
 
 ## The size you are hitting
 
@@ -75,7 +75,7 @@ Fold in half. Whipstitch each side from the fold to the opening. Leave the top o
 
 Slide the iPhone 18 Pro Max in before you weave the tails. It should go in without force and stay when you tip the sleeve once. If the opening fights you, the last rows were tighter than the middle. Redo those rows a little looser. Do not stretch the finished sleeve onto the phone.
 
-Weave ends on the inside. See [weaving in ends](/weaving-in-ends-and-blocking). Do not pin this wider than the phone to block it.
+Weave ends on the inside. See [weaving in ends](/weaving-in-ends-and-blocking/). Do not pin this wider than the phone to block it.
 
 ## Color
 
@@ -83,7 +83,7 @@ Weave ends on the inside. See [weaving in ends](/weaving-in-ends-and-blocking). 
 
 **Solid.** One color the whole way. Best first sleeve, because you can see the stitches.
 
-**Two-tone.** Work to the fold line in color A, then [change color](/changing-yarn-color-crochet) and finish in color B.
+**Two-tone.** Work to the fold line in color A, then [change color](/changing-yarn-color-crochet/) and finish in color B.
 
 **Stripes.** Change every 4 rows. Two-row stripes turn into noise on a piece this small. Cut the old color unless the next stripe is only two rows away. A carried strand snags on the phone.
 
@@ -117,7 +117,7 @@ No. Apple’s 3.07 by 6.43 inches is the bare body. If you keep a thin case on, 
 
 **Will a left-handed crocheter do anything different?**
 
-No. Same rectangle. Holding the hook is covered in [left-handed crochet](/left-handed-crochet).
+No. Same rectangle. Holding the hook is covered in [left-handed crochet](/left-handed-crochet/).
 
 **Can I sell the sleeve?**
 

@@ -11,7 +11,7 @@ tags: ["christmas", "tree", "amigurumi", "free pattern", "beginner"]
 
 <div class="warning">
 
-**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until physical samples have been made, measured, and photographed. Do not treat the heights below as verified until that happens. Technique walkthrough, including two other ways to build a tree: [How to Crochet a Christmas Tree](/how-to-crochet-a-christmas-tree).
+**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until physical samples have been made, measured, and photographed. Do not treat the heights below as verified until that happens. Technique walkthrough, including two other ways to build a tree: [How to Crochet a Christmas Tree](/how-to-crochet-a-christmas-tree/).
 
 </div>
 
@@ -31,16 +31,16 @@ A graduated set of three, meant to stand together. Measured standing, after weig
 
 ## Materials
 
-- Worsted weight acrylic ([yarn weight chart](/yarn-weight-chart)) in green: about 40 yd (37 m) Small, 65 yd (60 m) Medium, 95 yd (87 m) Large
+- Worsted weight acrylic ([yarn weight chart](/yarn-weight-chart/)) in green: about 40 yd (37 m) Small, 65 yd (60 m) Medium, 95 yd (87 m) Large
 - Scraps in contrasting colors for decoration
-- US G/6 (4.0 mm) hook, or size needed for a firm fabric ([hook size chart](/crochet-hook-size-conversion-chart))
+- US G/6 (4.0 mm) hook, or size needed for a firm fabric ([hook size chart](/crochet-hook-size-conversion-chart/))
 - Stuffing
 - Dry rice or pie weights, in a small fabric bag per tree
 - Yarn needle, stitch marker
 
 ## Abbreviations (US)
 
-sc, sc2tog, blo (back loop only), rnd, st(s), ch, sl st. Full list: [abbreviations chart](/crochet-abbreviations-chart).
+sc, sc2tog, blo (back loop only), rnd, st(s), ch, sl st. Full list: [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Notes
 
@@ -140,7 +140,7 @@ Insert the weight bag. Continue as for Medium from its Rnd 7, working **four** e
 
 **Beads or buttons** look sharp and are a choking hazard on anything for a small child. Embroider instead for a child's gift.
 
-**A star** sits better sewn flat against the tip than standing upright, unless it is stiffened — the method is in the [snowflake set](/free-pattern-snowflake-set) (draft).
+**A star** sits better sewn flat against the tip than standing upright, unless it is stiffened — the method is in the [snowflake set](/free-pattern-snowflake-set/) (draft).
 
 Six ornaments per tree looks decorated. Thirty looks like a textured green blob.
 
@@ -152,4 +152,4 @@ Six ornaments per tree looks decorated. Thirty looks like a textured green blob.
 
 ## What to make next
 
-[Christmas gnome pattern](/free-pattern-gnome) (draft), or the [granny square variations](/christmas-granny-square-variations) for flat colorwork.
+[Christmas gnome pattern](/free-pattern-gnome/) (draft), or the [granny square variations](/christmas-granny-square-variations/) for flat colorwork.

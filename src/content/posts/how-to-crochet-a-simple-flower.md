@@ -20,7 +20,7 @@ tags:
 
 A flat crochet flower is a traffic magnet because it finishes small, photographs bright, and attaches to almost anything — scrunchie, mug cozy, beanie, gift wrap, Halloween card wallet. You are making an appliqué, not a botanical masterpiece.
 
-This version is one center plus one petal round. If you can work a [magic ring](/crochet-in-the-round) and a few double crochets, you can finish a flower in about fifteen minutes.
+This version is one center plus one petal round. If you can work a [magic ring](/crochet-in-the-round/) and a few double crochets, you can finish a flower in about fifteen minutes.
 
 Five petals is the sweet spot for “reads as a flower from three feet away.” Four looks sparse. Six still works if you start with six center stitches — just keep petal count and center stitches matched so the circle stays honest.
 
@@ -28,12 +28,12 @@ Five petals is the sweet spot for “reads as a flower from three feet away.” 
 
 ## What you need
 
-- Worsted-weight yarn in **petal color** and scrap **center color** (yellow or cream) — [yarn weight chart](/yarn-weight-chart)
+- Worsted-weight yarn in **petal color** and scrap **center color** (yellow or cream) — [yarn weight chart](/yarn-weight-chart/)
 - Optional scrap **green** for a leaf
-- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart)
+- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart/)
 - Yarn needle
 
-US terms. [Abbreviations chart](/crochet-abbreviations-chart) if anything is unfamiliar.
+US terms. [Abbreviations chart](/crochet-abbreviations-chart/) if anything is unfamiliar.
 
 ## Finished size
 
@@ -87,7 +87,7 @@ Do not glue it for wearables — glue cracks. Sewing holds through washes better
 
 ## Where to put them
 
-Sew flowers onto a [scrunchie](/how-to-crochet-a-scrunchie), the flap of a [mug cozy](/crochet-mug-cozy-for-beginners), a plain beanie, a gift bag, or the corner of a [Halloween card wallet](/halloween-crochet-card-wallet) when you want a non-ghost option. For Christmas reels, make white petals with a gold or pale yellow center and pin them next to a [snowflake](/how-to-crochet-a-snowflake).
+Sew flowers onto a [scrunchie](/how-to-crochet-a-scrunchie/), the flap of a [mug cozy](/crochet-mug-cozy-for-beginners/), a plain beanie, a gift bag, or the corner of a [Halloween card wallet](/halloween-crochet-card-wallet/) when you want a non-ghost option. For Christmas reels, make white petals with a gold or pale yellow center and pin them next to a [snowflake](/how-to-crochet-a-snowflake/).
 
 Batch work: finish ten centers first, then all the petal rounds, then sew. Assembly-line order is faster than completing each flower start to finish when you are stocking a craft fair or a teacher gift set.
 
@@ -119,8 +119,8 @@ Bright solids on a neutral background. Variegated yarn muddies petal edges on ph
 
 ### Do I need to know double crochet?
 
-Yes for this petal shape. If you only know single crochet, learn dc in [basic stitches](/basic-crochet-stitches) first — five minutes of practice, then come back.
+Yes for this petal shape. If you only know single crochet, learn dc in [basic stitches](/basic-crochet-stitches/) first — five minutes of practice, then come back.
 
 ### What should I make next?
 
-Sew one onto a [scrunchie](/how-to-crochet-a-scrunchie) or [mug cozy](/crochet-mug-cozy-for-beginners). For seasonal makes, try a [pumpkin](/how-to-crochet-a-pumpkin-step-by-step) or [snowflake](/how-to-crochet-a-snowflake).
+Sew one onto a [scrunchie](/how-to-crochet-a-scrunchie/) or [mug cozy](/crochet-mug-cozy-for-beginners/). For seasonal makes, try a [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/) or [snowflake](/how-to-crochet-a-snowflake/).

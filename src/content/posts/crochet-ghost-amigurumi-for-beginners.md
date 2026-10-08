@@ -20,19 +20,19 @@ tags:
 
 A crochet ghost is one of the friendliest Halloween projects because the silhouette is forgiving. You are not chasing perfect spheres or tiny ears. You need a soft bell shape, a hem that looks a little ragged on purpose, and a face that reads from across the room.
 
-If magic rings still feel shaky, skim [crochet in the round](/crochet-in-the-round) first. This page assumes you can work continuous rounds of single crochet.
+If magic rings still feel shaky, skim [crochet in the round](/crochet-in-the-round/) first. This page assumes you can work continuous rounds of single crochet.
 
 ![A finished white crochet ghost with a wavy hem and two simple embroidered eyes](../../assets/articles/crochet-ghost-amigurumi-for-beginners-result.jpg "Illustration. The finished look these steps build toward.")
 
 ## What you need
 
-- White (or cream) worsted-weight yarn — [yarn weight chart](/yarn-weight-chart)
+- White (or cream) worsted-weight yarn — [yarn weight chart](/yarn-weight-chart/)
 - Small amount of black yarn or embroidery floss for the face
-- Hook that matches the yarn ([hook size chart](/crochet-hook-size-conversion-chart))
+- Hook that matches the yarn ([hook size chart](/crochet-hook-size-conversion-chart/))
 - Stuffing
 - Yarn needle and stitch marker
 
-US abbreviations: see the [abbreviations chart](/crochet-abbreviations-chart).
+US abbreviations: see the [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Step 1: crochet the head and body
 
@@ -122,4 +122,4 @@ Thread a yarn loop through the top before closing, or sew a loop to the magic-ri
 
 ### What to make next
 
-A [pumpkin](/how-to-crochet-a-pumpkin-step-by-step), a [spider](/how-to-crochet-a-spider-and-web), [Halloween granny squares](/halloween-granny-square-variations), or the reel-friendly [Halloween card wallet](/halloween-crochet-card-wallet).
+A [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/), a [spider](/how-to-crochet-a-spider-and-web/), [Halloween granny squares](/halloween-granny-square-variations/), or the reel-friendly [Halloween card wallet](/halloween-crochet-card-wallet/).

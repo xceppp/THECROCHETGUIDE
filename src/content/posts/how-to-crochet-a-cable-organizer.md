@@ -14,7 +14,7 @@ A charging cable in a bag becomes a knot because nothing holds the coil. A short
 
 Coil the cable first. The strap only keeps a coil you already made.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart). Photos are illustrations. The strap has not been wrapped around a measured cable in yarn. Inches assume the gauge.
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). Photos are illustrations. The strap has not been wrapped around a measured cable in yarn. Inches assume the gauge.
 
 ![An oatmeal crochet strap around a coiled white cable](../../assets/articles/how-to-crochet-a-cable-organizer-result.jpg "Illustration. Intended look: a buttoned strap around one coil. No brand marks.")
 
@@ -28,12 +28,12 @@ Lay the cable in a loop about the width of your palm. Note how fat the coil is. 
 
 ![Oatmeal yarn, a hook, and a wood button](../../assets/articles/how-to-crochet-a-cable-organizer-2.jpg "Illustration. About 20 yards. That number is an estimate.")
 
-- Worsted cotton, oatmeal, about **20 yards**. [Yarn weights](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted cotton, oatmeal, about **20 yards**. [Yarn weights](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
 - A button about 1/2 inch wide.
 - Yarn needle, scissors.
 
-Beginner. Under an hour. If you want a pouch for the earbud case instead of a wrap for the cord, use the [earbud pouch](/how-to-crochet-an-earbud-pouch).
+Beginner. Under an hour. If you want a pouch for the earbud case instead of a wrap for the cord, use the [earbud pouch](/how-to-crochet-an-earbud-pouch/).
 
 ## Gauge (estimate)
 
@@ -75,7 +75,7 @@ Label the strap if you own more than one. A short tail of colored yarn through t
 
 A cable that stays plugged into a brick can still be coiled. Wrap the strap around the cable only, and leave the brick outside. Covering the brick makes a lump that will not button, and the pattern is not a brick cozy.
 
-Earbud cords that are not in a case can use the same strap if you coil them first. The [earbud pouch](/how-to-crochet-an-earbud-pouch) is for the case. This page is for the cord. Using one for the other leaves either the case loose or the cord in a tube it cannot charge from.
+Earbud cords that are not in a case can use the same strap if you coil them first. The [earbud pouch](/how-to-crochet-an-earbud-pouch/) is for the case. This page is for the cord. Using one for the other leaves either the case loose or the cord in a tube it cannot charge from.
 
 Coil in the same direction every time, the way the cable already wants to sit. Forcing a reverse coil and then buttoning it trains a kink. The strap will hold a bad coil just as well as a good one. If the button gapes, add rows. If the fabric buckles, you have too much overlap. Do not sew the strap to the cable to fix either problem.
 
@@ -113,4 +113,4 @@ No. You still coil it by hand. The strap holds that coil.
 
 ## Next
 
-A sleeve for a phone, which is a different measurement problem, is [how to crochet a phone case](/how-to-crochet-a-phone-case).
+A sleeve for a phone, which is a different measurement problem, is [how to crochet a phone case](/how-to-crochet-a-phone-case/).

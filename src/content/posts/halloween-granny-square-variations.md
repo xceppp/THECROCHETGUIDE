@@ -19,17 +19,17 @@ tags:
 
 Halloween granny squares are ordinary granny squares with a deliberate palette: pumpkin orange, black, purple, yellow, and white. The stitch is the same cluster-of-double-crochet motif. What changes is **when** you switch colors and **how** you keep the joins from looking muddy.
 
-If you have not changed colors cleanly before, read [How to Change Yarn Color in Crochet](/changing-yarn-color-crochet) first.
+If you have not changed colors cleanly before, read [How to Change Yarn Color in Crochet](/changing-yarn-color-crochet/) first.
 
 ![A set of finished Halloween granny squares in candy-corn, orange, and dark seasonal colors](../../assets/articles/halloween-granny-square-variations-result.jpg "Illustration. The finished look these color variations build toward.")
 
 ## What you need
 
 - Worsted yarn in orange, black, purple, plus yellow and white for candy corn (scraps are fine)
-- Hook matched to the yarn ([hook size chart](/crochet-hook-size-conversion-chart), [yarn weights](/yarn-weight-chart))
+- Hook matched to the yarn ([hook size chart](/crochet-hook-size-conversion-chart/), [yarn weights](/yarn-weight-chart/))
 - Yarn needle
 
-Abbreviations: [chart](/crochet-abbreviations-chart). Classic granny uses dc clusters and ch spaces.
+Abbreviations: [chart](/crochet-abbreviations-chart/). Classic granny uses dc clusters and ch spaces.
 
 ## Step 1: classic granny move (one color)
 
@@ -71,7 +71,7 @@ This variation is forgiving with scrap yarn because the outer rounds use the mos
 
 ![Two granny squares held edge to edge while a needle joins them stitch by stitch](../../assets/articles/halloween-granny-square-variations-3.jpg "Illustration. Step 4 — match the two edges stitch for stitch or the corners will drift.")
 
-Block each square to the same measurement before joining — see [weaving in ends and blocking](/weaving-in-ends-and-blocking). Join with slip stitch or whip stitch in black so the seams disappear into the darkest color.
+Block each square to the same measurement before joining — see [weaving in ends and blocking](/weaving-in-ends-and-blocking/). Join with slip stitch or whip stitch in black so the seams disappear into the darkest color.
 
 For a small wall hanging, join three squares in a column with purple joins and add a black border round around the whole piece.
 
@@ -101,4 +101,4 @@ Large enough for the mug base plus a little margin. Make one square, set the mug
 
 ### What to make next
 
-A [pumpkin](/how-to-crochet-a-pumpkin-step-by-step), a [ghost](/crochet-ghost-amigurumi-for-beginners), or the reel-friendly [Halloween card wallet](/halloween-crochet-card-wallet).
+A [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/), a [ghost](/crochet-ghost-amigurumi-for-beginners/), or the reel-friendly [Halloween card wallet](/halloween-crochet-card-wallet/).

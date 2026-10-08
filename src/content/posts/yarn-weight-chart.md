@@ -86,6 +86,6 @@ Dense single crochet can use half again as much yarn as an open double crochet m
 
 **What does "4-ply" or "8-ply" mean?** It is the Australian and New Zealand system, and it means thickness, not the literal number of strands. 4-ply is roughly fingering, 8-ply is roughly DK, 10-ply is roughly worsted.
 
-**Why is my hat too big when I followed the pattern exactly?** Almost always gauge. Your tension is looser than the designer's, so go down a hook size. [Gauge is covered here](/how-to-read-a-crochet-pattern).
+**Why is my hat too big when I followed the pattern exactly?** Almost always gauge. Your tension is looser than the designer's, so go down a hook size. [Gauge is covered here](/how-to-read-a-crochet-pattern/).
 
 **Can I hold two thin yarns together to make a thicker one?** Yes. Two strands of DK held together behave roughly like a chunky. Swatch it, because the result is never exactly what the arithmetic suggests.

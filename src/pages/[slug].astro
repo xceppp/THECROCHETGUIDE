@@ -6,12 +6,11 @@ import VideoEmbed from "../components/VideoEmbed.astro";
 import StepNav from "../components/StepNav.astro";
 import ArticleProgress from "../components/ArticleProgress.astro";
 import { getStepPosition } from "../lib/learningPath";
-import {
-  extractFaqItems,
-  extractHowToSteps,
-  faqPageSchema,
-} from "../lib/seo";
+import { getPostThumbnail } from "../lib/postThumbnails";
+import { grannyRoundOne, grannyRoundTwo } from "../lib/grannyChart";
 import { SITE, CATEGORIES } from "../config";
+import StructuredData from "../components/StructuredData.astro";
+import StitchChart from "../components/StitchChart.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("posts", ({ data }) => !data.draft);
@@ -37,11 +36,15 @@ const published = post.data.pubDate.toLocaleDateString("en-US", {
   day: "numeric",
   year: "numeric",
 });
-const updated = post.data.updatedDate?.toLocaleDateString("en-US", {
-  month: "long",
-  day: "numeric",
-  year: "numeric",
-});
+const updated =
+  post.data.updatedDate &&
+  post.data.updatedDate.toDateString() !== post.data.pubDate.toDateString()
+    ? post.data.updatedDate.toLocaleDateString("en-US", {
+        month: "long",
+        day: "numeric",
+        year: "numeric",
+      })
+    : "";
 
 /** Only h2s — a table of contents that lists every h3 is noise. */
 const toc = headings.filter((heading) => heading.depth === 2);
@@ -62,108 +65,23 @@ const related = allPosts
   })
   .slice(0, 3);
 
-const pageUrl = new URL(`/${post.id}/`, SITE.url).href;
-const ogImage = new URL("/og-default.jpg", SITE.url).href;
-const howToSteps = post.data.howTo ? extractHowToSteps(post.body) : [];
-const faqItems = extractFaqItems(post.body);
-const faqSchema = faqPageSchema(faqItems);
+const thumb = getPostThumbnail(post.id);
+const socialImage = post.data.ogImage
+  ? new URL(post.data.ogImage, SITE.url).href
+  : thumb
+    ? new URL(thumb.src, SITE.url).href
+    : new URL("/og-default.jpg", SITE.url).href;
 
-const articleSchema = post.data.howTo
-  ? {
-      "@context": "https://schema.org",
-      "@type": "HowTo",
-      name: post.data.title,
-      headline: post.data.title,
-      description: post.data.description,
-      inLanguage: "en-US",
-      image: ogImage,
-      datePublished: post.data.pubDate.toISOString(),
-      dateModified: (
-        post.data.updatedDate ?? post.data.pubDate
-      ).toISOString(),
-      keywords: post.data.tags.join(", "),
-      author: {
-        "@type": "Person",
-        name: SITE.author.name,
-      },
-      publisher: {
-        "@type": "Organization",
-        name: SITE.name,
-        url: SITE.url,
-        logo: {
-          "@type": "ImageObject",
-          url: new URL("/icon-512.png", SITE.url).href,
-        },
-      },
-      mainEntityOfPage: {
-        "@type": "WebPage",
-        "@id": pageUrl,
-      },
-      ...(howToSteps.length > 0 && {
-        step: howToSteps.map((step, index) => ({
-          "@type": "HowToStep",
-          position: index + 1,
-          name: step.name,
-          text: step.text,
-        })),
-      }),
-    }
-  : {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      headline: post.data.title,
-      description: post.data.description,
-      inLanguage: "en-US",
-      image: ogImage,
-      datePublished: post.data.pubDate.toISOString(),
-      dateModified: (
-        post.data.updatedDate ?? post.data.pubDate
-      ).toISOString(),
-      keywords: post.data.tags.join(", "),
-      author: {
-        "@type": "Person",
-        name: SITE.author.name,
-      },
-      publisher: {
-        "@type": "Organization",
-        name: SITE.name,
-        url: SITE.url,
-        logo: {
-          "@type": "ImageObject",
-          url: new URL("/icon-512.png", SITE.url).href,
-        },
-      },
-      mainEntityOfPage: {
-        "@type": "WebPage",
-        "@id": pageUrl,
-      },
-    };
-
-const breadcrumbSchema = {
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Home", item: SITE.url },
-    {
-      "@type": "ListItem",
-      position: 2,
-      name: category.label,
-      item: new URL(`/${category.slug}/`, SITE.url).href,
-    },
-    {
-      "@type": "ListItem",
-      position: 3,
-      name: post.data.title,
-      item: pageUrl,
-    },
-  ],
-};
-
-const pageSchemas = [
-  articleSchema,
-  breadcrumbSchema,
-  ...(faqSchema ? [faqSchema] : []),
-];
+const patternHeading = toc.find((heading) =>
+  /pattern|classic|step 1|body/i.test(heading.text),
+);
+const glance = post.data.glance;
+const showGlance =
+  Boolean(glance) ||
+  (post.data.category === "patterns" && post.data.howTo);
+const grannyChart =
+  post.id === "halloween-granny-square-variations" ||
+  post.id === "christmas-granny-square-variations";
 ---
 
 <BaseLayout
@@ -172,15 +90,16 @@ const pageSchemas = [
   type="article"
   publishedTime={post.data.pubDate}
   modifiedTime={post.data.updatedDate ?? post.data.pubDate}
-  schema={pageSchemas}
+  image={socialImage}
 >
   {/* Only worth a reading bar when there is enough article to get lost in. */}
   {toc.length > 2 && <ArticleProgress headings={toc} minutes={minutes} />}
 
   {/* Only course steps carry the slug, so opening a standalone article never
       counts toward progress. */}
+  <div class="mx-auto flex max-w-5xl items-start gap-10 px-6 py-10 sm:px-8 sm:py-14">
   <article
-    class="mx-auto max-w-3xl px-6 py-10 sm:px-8 sm:py-14"
+    class="min-w-0 max-w-[720px] flex-1"
     data-course-slug={step ? post.id : undefined}
   >
     <nav aria-label="Breadcrumb" class="no-print text-xs text-ink-faint">
@@ -206,10 +125,32 @@ const pageSchemas = [
       )
     }
 
+    <StructuredData post={post} image={socialImage} />
+
+    {
+      post.data.pinImage && (
+        <img
+          src={post.data.pinImage}
+          alt=""
+          width="1000"
+          height="1500"
+          class="pin-source"
+          data-pin-description={`${post.data.pinTitle ?? post.data.title} | ${post.data.description}`}
+        />
+      )
+    }
+
     <header class="mt-4">
       <h1 class="font-serif text-3xl leading-tight tracking-tight sm:text-4xl">
         {post.data.title}
       </h1>
+      {
+        post.data.quickAnswer && (
+          <p class="quick-answer mt-4 text-lg leading-relaxed text-ink">
+            {post.data.quickAnswer}
+          </p>
+        )
+      }
       <p class="mt-4 text-lg leading-relaxed text-ink-soft">
         {post.data.description}
       </p>
@@ -243,7 +184,7 @@ const pageSchemas = [
             <button
               type="button"
               data-print
-              class="no-print ml-auto rounded border border-rule px-2.5 py-1 text-xs text-ink-soft transition-colors hover:border-terracotta hover:text-terracotta-deep"
+              class="no-print ml-auto min-h-11 rounded border border-rule px-3 py-2 text-xs text-ink-soft transition-colors hover:border-terracotta hover:text-terracotta-deep"
             >
               Print this page
             </button>
@@ -259,31 +200,106 @@ const pageSchemas = [
     }
 
     {
-      toc.length > 2 && (
-        <nav
-          aria-label="On this page"
-          class="no-print mt-8 rounded-lg border border-rule bg-paper-deep px-5 py-4"
-        >
+      showGlance && (
+        <section class="no-print mt-6 rounded-lg border border-rule bg-paper-deep px-5 py-4">
           <h2 class="text-xs font-semibold tracking-wider text-ink-faint uppercase">
-            On this page
+            At a glance
           </h2>
+          <dl class="mt-3 grid gap-2 text-sm sm:grid-cols-2">
+            <div>
+              <dt class="text-ink-faint">Skill level</dt>
+              <dd class="capitalize">{post.data.level ?? "See the pattern"}</dd>
+            </div>
+            <div>
+              <dt class="text-ink-faint">Time</dt>
+              <dd>{glance?.time ?? "See the pattern"}</dd>
+            </div>
+            <div>
+              <dt class="text-ink-faint">Finished size</dt>
+              <dd>{glance?.size ?? "Estimated in the pattern"}</dd>
+            </div>
+            <div>
+              <dt class="text-ink-faint">Yarn weight</dt>
+              <dd>{glance?.yarn ?? "See the pattern"}</dd>
+            </div>
+            <div>
+              <dt class="text-ink-faint">Hook size</dt>
+              <dd>{glance?.hook ?? "See the pattern"}</dd>
+            </div>
+            <div>
+              <dt class="text-ink-faint">Yardage</dt>
+              <dd>{glance?.yardage ?? "Estimated in the pattern"}</dd>
+            </div>
+          </dl>
+          {
+            patternHeading && (
+              <a
+                href={`#${patternHeading.slug}`}
+                class="mt-4 inline-flex min-h-11 items-center text-sm text-terracotta-deep no-underline hover:underline"
+              >
+                Jump to pattern
+              </a>
+            )
+          }
+        </section>
+      )
+    }
+
+    {
+      toc.length > 2 && (
+        <details
+          class="no-print mt-8 rounded-lg border border-rule bg-paper-deep px-5 py-3 lg:hidden"
+        >
+          <summary class="min-h-11 cursor-pointer text-xs font-semibold tracking-wider text-ink-faint uppercase">
+            On this page
+          </summary>
           <ol class="mt-2 space-y-1 text-sm">
             {toc.map((heading) => (
               <li>
                 <a
                   href={`#${heading.slug}`}
-                  class="text-ink-soft no-underline hover:text-terracotta-deep hover:underline"
+                  class="inline-flex min-h-11 items-center text-ink-soft no-underline hover:text-terracotta-deep hover:underline"
                 >
                   {heading.text}
                 </a>
               </li>
             ))}
           </ol>
-        </nav>
+        </details>
       )
     }
 
-    <div class="prose mt-10">
+    {
+      post.data.category === "patterns" && (
+        <p class="mt-8 text-sm leading-relaxed text-ink-soft">
+          Written by {SITE.author.name} using US crochet terms. Images are AI
+          illustrations; stitch counts are checked round by round. Made it? Send
+          me a photo.
+        </p>
+      )
+    }
+
+    {
+      grannyChart && (
+        <StitchChart
+          title="Classic granny, rounds 1 and 2"
+          rounds={[
+            {
+              ...grannyRoundOne,
+              stitches: [...grannyRoundOne.stitches],
+              color: "#b0604a",
+            },
+            {
+              ...grannyRoundTwo,
+              stitches: [...grannyRoundTwo.stitches],
+              color: "#2f2a26",
+            },
+          ]}
+        />
+      )
+    }
+
+    <div class="prose mt-10 max-w-[720px]">
       <Content />
     </div>
 
@@ -305,8 +321,22 @@ const pageSchemas = [
         fall back to a related-articles list. */}
     {step && <StepNav position={step} />}
 
+    <aside class="author-box mt-12 border-t border-rule pt-6">
+      <p class="font-serif text-lg">{SITE.author.name}</p>
+      <p class="mt-1 max-w-xl text-sm leading-relaxed text-ink-soft">
+        {SITE.author.bio}
+      </p>
+      <p class="mt-3 text-sm">
+        <a href="/about/" class="text-terracotta-deep underline">About</a>
+        <span aria-hidden="true"> · </span>
+        <a href="/contact/" class="text-terracotta-deep underline">
+          Questions or found an error? Contact me
+        </a>
+      </p>
+    </aside>
+
     {
-      !step && related.length > 0 && (
+      related.length > 0 && (
         <section class="no-print mt-14 border-t border-rule pt-8">
           <h2 class="font-serif text-xl tracking-tight">Read this next</h2>
           <ul class="mt-4 divide-y divide-rule">
@@ -330,6 +360,31 @@ const pageSchemas = [
       )
     }
   </article>
+  {
+    toc.length > 2 && (
+      <nav
+        aria-label="On this page"
+        class="no-print sticky top-8 hidden w-56 shrink-0 lg:block"
+      >
+        <h2 class="text-xs font-semibold tracking-wider text-ink-faint uppercase">
+          On this page
+        </h2>
+        <ol class="mt-3 space-y-2 text-sm">
+          {toc.map((heading) => (
+            <li>
+              <a
+                href={`#${heading.slug}`}
+                class="text-ink-soft no-underline hover:text-terracotta-deep hover:underline"
+              >
+                {heading.text}
+              </a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )
+  }
+  </div>
 </BaseLayout>
 
 <script>

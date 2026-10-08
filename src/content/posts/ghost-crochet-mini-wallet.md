@@ -22,7 +22,7 @@ A ghost wallet is only cute if a real card goes in and stays there. The pocket i
 
 A standard ID-1 card, the size used for most US bank cards, is 85.60 mm wide and 53.98 mm tall (3.37 by 2.125 inches). That is the ISO/IEC 7810 ID-1 size. The crochet inches below are estimates from the gauge, not a finished wallet that has been measured. Photos are illustrations. Lay a card on the fabric before you seam.
 
-US terms. US single crochet is UK double crochet. Abbreviations are on the [chart](/crochet-abbreviations-chart).
+US terms. US single crochet is UK double crochet. Abbreviations are on the [chart](/crochet-abbreviations-chart/).
 
 ![A white crochet ghost mini wallet with a button flap and a card at the pocket](../../assets/articles/ghost-crochet-mini-wallet-result.jpg "Illustration. Intended look: white cotton, simple face, button flap, card pocket.")
 
@@ -34,8 +34,8 @@ Beginner. Single crochet, decreases, and a whipstitched side. About 2 to 3 hours
 
 ![White yarn, black scrap yarn, a hook, a button, a needle, and a blank card](../../assets/articles/ghost-crochet-mini-wallet-1.jpg "Illustration. Materials. The card is only there so you can check the width.")
 
-- Worsted cotton, white, about **55 yards**. A short scrap of black for the face. Cotton holds a pocket better than fuzzy acrylic. [Yarn weight chart](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook, or whatever hits the gauge. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted cotton, white, about **55 yards**. A short scrap of black for the face. Cotton holds a pocket better than fuzzy acrylic. [Yarn weight chart](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook, or whatever hits the gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
 - One button about **1/2 inch** across.
 - Yarn needle and scissors.
 - One real card to test the fit. Do not seam until it slides in.
@@ -116,7 +116,7 @@ The face sits on the flap, centered between the decrease rows and the button loo
 
 **Taller pocket.** Fold at Row 16 instead of Row 14 if your cards are in a thin plastic sleeve. Do not also add rows or the flap becomes too long.
 
-**A second color on the flap.** Work Rows 31–34 in a second color. Change on the last yarn-over of Row 30. The method is in [changing yarn color](/changing-yarn-color-crochet).
+**A second color on the flap.** Work Rows 31–34 in a second color. Change on the last yarn-over of Row 30. The method is in [changing yarn color](/changing-yarn-color-crochet/).
 
 **No face.** Leave it plain. The shape of the decreased flap still reads as a ghost if the yarn is white.
 
@@ -154,8 +154,8 @@ Yes, wallets you make. Do not repost this pattern.
 
 **Left-handed?**
 
-Same rows. The fold and the face do not change. Hook hold is in [left-handed crochet](/left-handed-crochet).
+Same rows. The fold and the face do not change. Hook hold is in [left-handed crochet](/left-handed-crochet/).
 
 ## Related
 
-A larger Halloween holder with more pieces is the [crochet card wallet](/halloween-crochet-card-wallet). The spiral used for a round pouch is the [bat earbuds pouch](/gothic-bat-earbuds-pouch) once that page is live, and the stitch itself is [basic single crochet](/basic-crochet-stitches).
+A larger Halloween holder with more pieces is the [crochet card wallet](/halloween-crochet-card-wallet/). The spiral used for a round pouch is the [bat earbuds pouch](/gothic-bat-earbuds-pouch/) once that page is live, and the stitch itself is [basic single crochet](/basic-crochet-stitches/).

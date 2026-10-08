@@ -16,7 +16,7 @@ A crochet gnome is a cone, a hat, a nose, and a beard. None of those pieces is h
 ![A finished crochet Christmas gnome with tall hat and beard](../../assets/articles/how-to-crochet-a-gnome-result.jpg "Illustration. The finished look these steps build toward.")
 ## What you need
 
-- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart)) in a body color, a hat color, and a skin tone for the nose
+- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart/)) in a body color, a hat color, and a skin tone for the nose
 - Something pale and fluffy for the beard: boucle, fuzzy yarn, or cut strands of worsted
 - A hook a size or two under the label, often a US G/6 (4.0 mm), so stuffing does not show
 - Stuffing, and dry rice, lentils, or pie weights in a small fabric bag
@@ -40,7 +40,7 @@ Work in a continuous spiral and mark the first stitch of every round.
 
 **Rnd 5.** *Sc in next 3 sts, 2 sc in next st; repeat from * around. (30)
 
-That circle is the base. Work two rounds even, then one increase round, and repeat. Every third round, not every round, turns a bowl into a taper. Why six increases a round behaves this way is in [increases and decreases](/crochet-increase-decrease).
+That circle is the base. Work two rounds even, then one increase round, and repeat. Every third round, not every round, turns a bowl into a taper. Why six increases a round behaves this way is in [increases and decreases](/crochet-increase-decrease/).
 
 Continue until the body is roughly twice as tall as the base is wide. Work even to the top and fasten off, leaving the last round open.
 
@@ -76,7 +76,7 @@ Make it bigger than feels tidy. A small nose looks like a mistake. An oversized 
 
 The fast method is fringe. Cut strands about twice the finished length, fold each in half, pull the folded loop through a stitch, then pull the ends through that loop. Work an arc across the front and trim the bottom straight or to a point.
 
-A half circle in rows, decreased at each end and sewn on, is tidier. On fuzzy yarn the two look the same. Seasonal yarn choices are in [yarn for Christmas crochet](/yarn-for-christmas-crochet).
+A half circle in rows, decreased at each end and sewn on, is tidier. On fuzzy yarn the two look the same. Seasonal yarn choices are in [yarn for Christmas crochet](/yarn-for-christmas-crochet/).
 
 Attach the beard **before the nose**, so the nose hides the join.
 

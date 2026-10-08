@@ -24,7 +24,7 @@ A tree for a mantel has to stand. A tree for a garland has to lie flat. Three bu
 
 ## What you need
 
-- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart)) in green, or any color
+- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart/)) in green, or any color
 - A hook a size or two under the label for the stuffed versions, often a US G/6 (4.0 mm)
 - Stuffing, and weight for the base: dry rice or pie weights in a small fabric bag
 - Scraps for decoration, a yarn needle, a stitch marker
@@ -49,7 +49,7 @@ Work in a continuous spiral and mark the first stitch of each round.
 
 **Rnd 5.** *Sc in next 3 sts, 2 sc in next st; repeat from * around. (30)
 
-That is the base. Then **two rounds even, one increase round**, and repeat. Every third round, not every round, makes a taper instead of a bowl. The six-increases-per-round logic is in [increases and decreases](/crochet-increase-decrease).
+That is the base. Then **two rounds even, one increase round**, and repeat. Every third round, not every round, makes a taper instead of a bowl. The six-increases-per-round logic is in [increases and decreases](/crochet-increase-decrease/).
 
 **The tier trick.** Every fourth or fifth round, work into the **back loop only**. The unused front loops stand out as a ridge. Three or four ridges is enough.
 
@@ -69,7 +69,7 @@ For garlands, cards, and appliques. Work bottom to top in rows, decreasing at bo
 
 **Row 2 and every row after.** Ch 1, turn, sc2tog, sc across to the last two stitches, sc2tog.
 
-Repeat until three stitches remain, then sc3tog and fasten off. Wavy sides are usually the turning chain. [The turning chain](/crochet-turning-chain) explains it.
+Repeat until three stitches remain, then sc3tog and fasten off. Wavy sides are usually the turning chain. [The turning chain](/crochet-turning-chain/) explains it.
 
 A two-stitch-wide brown rectangle is a trunk on a card. Skip it on a garland. The hanging thread does that job.
 

@@ -19,7 +19,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** Original design for Crochet Explained. Kept off the public site until squares are made, measured, and photographed. Color skills: [Halloween Granny Square Variations](/halloween-granny-square-variations) and [Changing Yarn Color](/changing-yarn-color-crochet).
+**Draft pattern.** Original design for Crochet Explained. Kept off the public site until squares are made, measured, and photographed. Color skills: [Halloween Granny Square Variations](/halloween-granny-square-variations/) and [Changing Yarn Color](/changing-yarn-color-crochet/).
 
 </div>
 
@@ -37,10 +37,10 @@ One coaster square = target size above using the hook and cotton suggested. Adju
 - Worsted cotton or cotton-blend (best for dishes): orange (A), black (B), purple (C)
   - Coaster set of 4: about 30 yd (27 m) each color
   - Dishcloth: about 60 yd (55 m) total mixed colors
-- US H/8 (5.0 mm) hook, or size needed ([hook size chart](/crochet-hook-size-conversion-chart))
+- US H/8 (5.0 mm) hook, or size needed ([hook size chart](/crochet-hook-size-conversion-chart/))
 - Yarn needle
 
-Also: [yarn weight chart](/yarn-weight-chart), [abbreviations chart](/crochet-abbreviations-chart).
+Also: [yarn weight chart](/yarn-weight-chart/), [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Abbreviations (US)
 
@@ -72,7 +72,7 @@ Work as coaster through Rnd 4, continuing in established granny pattern through 
 
 ## Finishing
 
-Block coasters as a set. Steam or wet-block cotton per [blocking notes](/weaving-in-ends-and-blocking).
+Block coasters as a set. Steam or wet-block cotton per [blocking notes](/weaving-in-ends-and-blocking/).
 
 ## Tips
 
@@ -81,4 +81,4 @@ Block coasters as a set. Steam or wet-block cotton per [blocking notes](/weaving
 
 ## What to make next
 
-Return to soft toys with the [pumpkin](/free-pattern-pumpkin-amigurumi) or [ghost](/free-pattern-ghost-amigurumi) drafts once you are ready to sample those too.
+Return to soft toys with the [pumpkin](/free-pattern-pumpkin-amigurumi/) or [ghost](/free-pattern-ghost-amigurumi/) drafts once you are ready to sample those too.

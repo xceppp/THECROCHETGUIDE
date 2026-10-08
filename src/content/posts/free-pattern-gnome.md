@@ -11,7 +11,7 @@ tags: ["christmas", "gnome", "amigurumi", "free pattern", "beginner"]
 
 <div class="warning">
 
-**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat the sizes below as verified until that happens. Technique walkthrough: [How to Crochet a Gnome, Step by Step](/how-to-crochet-a-gnome).
+**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat the sizes below as verified until that happens. Technique walkthrough: [How to Crochet a Gnome, Step by Step](/how-to-crochet-a-gnome/).
 
 </div>
 
@@ -30,18 +30,18 @@ Sizes assume the gauge below, weighted and stuffed, measured to the tip of the h
 
 ## Materials
 
-- Worsted weight acrylic ([yarn weight chart](/yarn-weight-chart)): body color (A), hat color (B), skin tone (C)
+- Worsted weight acrylic ([yarn weight chart](/yarn-weight-chart/)): body color (A), hat color (B), skin tone (C)
   - Small: about 50 yd (45 m) A, 40 yd (37 m) B, 5 yd (4.5 m) C
   - Tall: about 110 yd (100 m) A, 90 yd (82 m) B, 8 yd (7 m) C
 - Fuzzy pale yarn for the beard (D), about 15 yd (14 m)
-- US G/6 (4.0 mm) hook, or size needed for a firm fabric ([hook size chart](/crochet-hook-size-conversion-chart))
+- US G/6 (4.0 mm) hook, or size needed for a firm fabric ([hook size chart](/crochet-hook-size-conversion-chart/))
 - Stuffing
 - Dry rice or pie weights, in a small fabric bag
 - Yarn needle, stitch marker
 
 ## Abbreviations (US)
 
-sc, sc2tog, rnd, st(s), sl st, ch, invdec (optional invisible decrease). Full list: [abbreviations chart](/crochet-abbreviations-chart).
+sc, sc2tog, rnd, st(s), sl st, ch, invdec (optional invisible decrease). Full list: [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Notes
 
@@ -132,4 +132,4 @@ Work an arc of these across the upper front of the body — about 14 strands for
 
 ## What to make next
 
-[Santa amigurumi pattern](/free-pattern-santa-amigurumi) (draft), or the technique page for [snowflakes](/how-to-crochet-a-snowflake) if you want something flat.
+[Santa amigurumi pattern](/free-pattern-santa-amigurumi/) (draft), or the technique page for [snowflakes](/how-to-crochet-a-snowflake/) if you want something flat.

@@ -20,7 +20,11 @@ interface Props {
   modifiedTime?: Date;
   /** Extra JSON-LD to inject, already shaped as a schema.org object. */
   schema?: Record<string, unknown> | Array<Record<string, unknown>>;
+  /** Replaces the default noindex, nofollow pair. Example: "noindex, follow". */
+  robots?: string;
   noindex?: boolean;
+  /** Absolute URL for og:image and twitter:image. */
+  image?: string;
 }
 
 const {
@@ -30,7 +34,9 @@ const {
   publishedTime,
   modifiedTime,
   schema,
+  robots,
   noindex = false,
+  image,
 } = Astro.props;
 
 /**
@@ -46,14 +52,22 @@ function absoluteCanonical(pathname: string): string {
 }
 
 const canonical = absoluteCanonical(Astro.url.pathname);
-const fullTitle = title === SITE.name ? title : `${title} | ${SITE.name}`;
+const branded = `${title} | ${SITE.name}`;
+const fullTitle =
+  title === SITE.name || title.startsWith(`${SITE.name}:`)
+    ? title
+    : branded.length > 60
+      ? title
+      : branded;
+const robotsContent = robots ?? (noindex ? "noindex, nofollow" : "");
 
 /**
  * Social crawlers need an absolute URL, and Pinterest and Facebook both
  * ignore a relative one silently. Generated from the brand banner by
  * scripts/generate-brand-assets.mjs at the 1200x630 they expect.
  */
-const ogImage = new URL("/og-default.jpg", Astro.site).href;
+const ogImage = image ?? new URL("/og-default.jpg", Astro.site).href;
+const isHome = Astro.url.pathname === "/";
 
 const websiteSchema = {
   "@context": "https://schema.org",
@@ -94,8 +108,7 @@ const organizationSchema = {
 };
 
 const schemas = [
-  websiteSchema,
-  organizationSchema,
+  ...(isHome ? [websiteSchema, organizationSchema] : []),
   ...(schema ? [schema].flat() : []),
 ];
 
@@ -145,7 +158,7 @@ const themeColor =
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    {robotsContent && <meta name="robots" content={robotsContent} />}
 
     <meta property="og:type" content={type} />
     <meta property="og:title" content={fullTitle} />
@@ -212,11 +225,15 @@ const themeColor =
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <meta name="theme-color" content={themeColor} />
 
-    <script
-      is:inline
-      type="application/ld+json"
-      set:html={JSON.stringify(schemas.length === 1 ? schemas[0] : schemas)}
-    />
+    {
+      schemas.length > 0 && (
+        <script
+          is:inline
+          type="application/ld+json"
+          set:html={JSON.stringify(schemas.length === 1 ? schemas[0] : schemas)}
+        />
+      )
+    }
 
     {/* Default denied until CookieConsent grants storage (EU opt-in / US choice). */}
     <script is:inline>

@@ -238,6 +238,32 @@ body.theme-halloween .halloween-divider {
   margin-top: 1.25em;
 }
 
+.prose figcaption {
+  margin-top: 0.35rem;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--color-ink-faint);
+}
+
+.pin-source {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.stitch-chart svg {
+  color: var(--color-ink);
+}
+
+html.dark .stitch-chart svg {
+  color: var(--color-ink);
+}
+
 /* Jumping to a section must not park it underneath the fixed reading bar, so
    every heading keeps a bar's worth of clearance above it as a scroll target. */
 .prose :is(h2, h3) {
@@ -495,6 +521,16 @@ html.dark .prose img {
   .prose h2,
   .prose h3 {
     break-after: avoid;
+  }
+
+  .prose img {
+    display: none !important;
+  }
+
+  .prose table,
+  .stitch-chart,
+  .stitch-chart svg {
+    display: revert !important;
   }
 
   .prose table,

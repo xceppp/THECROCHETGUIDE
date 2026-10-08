@@ -20,8 +20,8 @@ US terms. Photos are illustrations. The heart has not been physically tested.
 
 ## Shared rules
 
-- Worsted cotton, about **8 to 15 yards** per charm. [Yarn weights](/yarn-weight-chart).
-- US G/6 (4.0 mm) or a slightly smaller hook so the fabric stays firm. [Hook chart](/crochet-hook-size-conversion-chart).
+- Worsted cotton, about **8 to 15 yards** per charm. [Yarn weights](/yarn-weight-chart/).
+- US G/6 (4.0 mm) or a slightly smaller hook so the fabric stays firm. [Hook chart](/crochet-hook-size-conversion-chart/).
 - A split ring, plus a chain of about 12 stitches sewn on as the loop.
 - Stuff very lightly, or not at all. A charm should stay under an inch and a half.
 
@@ -35,7 +35,7 @@ Sew the loop to a solid part of the charm, weave the tail through the chain thre
 
 **Cherry.** Two tiny red balls and a green chain stem. The stem is the weak point. Chain it a little thicker by holding two strands, or it kinks and snaps.
 
-**Mini flower.** Five petals around a small center. A full-size flower with a different construction is [how to crochet a simple flower](/how-to-crochet-a-simple-flower). That pattern is not a charm. Scale is the whole problem: a flower that looks right at 4 inches looks sparse at 1 inch.
+**Mini flower.** Five petals around a small center. A full-size flower with a different construction is [how to crochet a simple flower](/how-to-crochet-a-simple-flower/). That pattern is not a charm. Scale is the whole problem: a flower that looks right at 4 inches looks sparse at 1 inch.
 
 **Tiny heart.** Full pattern below. Beginner. Rows, then two short lobes.
 
@@ -47,13 +47,13 @@ Sew the loop to a solid part of the charm, weave the tail through the chain thre
 
 **Star.** Five points. Intermediate. Points curl if the decreases are loose. This page does not include a star pattern.
 
-**Pumpkin.** Orange ball, brown seam lines, short stem. A stuffed pumpkin with a full write-up is [how to crochet a pumpkin](/how-to-crochet-a-pumpkin-step-by-step). Use that if you want a bowl-sized pumpkin. A charm is the same idea at scrap size, and it is not written out here.
+**Pumpkin.** Orange ball, brown seam lines, short stem. A stuffed pumpkin with a full write-up is [how to crochet a pumpkin](/how-to-crochet-a-pumpkin-step-by-step/). Use that if you want a bowl-sized pumpkin. A charm is the same idea at scrap size, and it is not written out here.
 
-**Mini ghost.** White blob and two embroidered eyes. A pouch-sized ghost with a drawstring is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch). A charm has no opening.
+**Mini ghost.** White blob and two embroidered eyes. A pouch-sized ghost with a drawstring is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/). A charm has no opening.
 
 **Tiny purse.** A flat rectangle folded and seamed, with a strap of chain. Beginner. It is a charm, not a coin purse. Do not expect it to hold anything.
 
-**Mini Christmas tree.** Green triangle, small trunk. A standing tree pattern is [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree). That one is an ornament-scale project, not this charm.
+**Mini Christmas tree.** Green triangle, small trunk. A standing tree pattern is [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree/). That one is an ornament-scale project, not this charm.
 
 ## Tiny heart pattern
 
@@ -129,4 +129,4 @@ Eyelash and mohair. The shape disappears, and the loop grabs every sweater you w
 
 ## Next
 
-A useful scrap that is not a charm is the [lip balm holder](/how-to-crochet-a-lip-balm-holder). If you want a Halloween piece that holds something, use the [pumpkin treat bag](/how-to-crochet-a-pumpkin-treat-bag) instead of a mini pumpkin charm.
+A useful scrap that is not a charm is the [lip balm holder](/how-to-crochet-a-lip-balm-holder/). If you want a Halloween piece that holds something, use the [pumpkin treat bag](/how-to-crochet-a-pumpkin-treat-bag/) instead of a mini pumpkin charm.

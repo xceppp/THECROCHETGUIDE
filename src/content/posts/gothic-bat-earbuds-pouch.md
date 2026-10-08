@@ -22,7 +22,7 @@ tags:
 
 A bare earbud case disappears in a bag. A small bat pouch does not, and it still has to close over the case or the whole point is lost.
 
-This is a black single-crochet pouch with purple wings, two ears, a button flap, and a yarn loop for a split ring. It is written in US terms. US single crochet is UK double crochet. If your pattern book is British, translate before you start. The [abbreviations chart](/crochet-abbreviations-chart) uses the US names.
+This is a black single-crochet pouch with purple wings, two ears, a button flap, and a yarn loop for a split ring. It is written in US terms. US single crochet is UK double crochet. If your pattern book is British, translate before you start. The [abbreviations chart](/crochet-abbreviations-chart/) uses the US names.
 
 These photos are illustrations of the intended look. This page has not been stitched and measured on a finished pouch, so yarn amounts and finished inches are estimates from the gauge below. Lay your own earbud case on the fabric before you sew anything on.
 
@@ -36,8 +36,8 @@ Beginner, if you can single crochet, increase, and decrease. Plan on one sitting
 
 ![Black yarn, purple yarn, a 4 mm hook, a wood button, a needle, and a split ring](../../assets/articles/gothic-bat-earbuds-pouch-1.jpg "Illustration. Materials flat lay. Yarn amounts below are estimates.")
 
-- Worsted-weight cotton or a smooth cotton blend. Black, about **40 yards**. Purple, about **15 yards**. Fuzzy acrylic hides the wing edge and grabs the earbud case. See the [yarn weight chart](/yarn-weight-chart).
-- US G/6 (4.0 mm) hook, or the size that gives you the gauge. [Hook size chart](/crochet-hook-size-conversion-chart).
+- Worsted-weight cotton or a smooth cotton blend. Black, about **40 yards**. Purple, about **15 yards**. Fuzzy acrylic hides the wing edge and grabs the earbud case. See the [yarn weight chart](/yarn-weight-chart/).
+- US G/6 (4.0 mm) hook, or the size that gives you the gauge. [Hook size chart](/crochet-hook-size-conversion-chart/).
 - One button about **1/2 inch** across.
 - Yarn needle, scissors, stitch marker.
 - Optional: a metal split ring for keys.
@@ -69,7 +69,7 @@ If 4 sc is wider than 1 inch, your pouch will come out big and floppy. Drop a ho
 
 ## Body
 
-Work in a spiral. Do not join rounds. Mark the first stitch of every round. If spirals are new, read [crochet in the round](/crochet-in-the-round) first.
+Work in a spiral. Do not join rounds. Mark the first stitch of every round. If spirals are new, read [crochet in the round](/crochet-in-the-round/) first.
 
 ![Hands starting a small black circle from a magic ring](../../assets/articles/gothic-bat-earbuds-pouch-2.jpg "Illustration. Round 1 is six single crochets in a magic ring.")
 
@@ -146,7 +146,7 @@ Stitch check on the triangle: Row 2 uses 2+5+2 = 9 and leaves 7. Row 3 uses 2+3+
 1. Sew one ear on each side of the top, just behind the flap, tips pointing up. The bases should sit about 1/2 inch apart so the keychain loop has room between them.
 2. Sew a wing on each side, wide edge (Row 1) against the pouch, tip pointing out and slightly down. Place them over the middle of the tube, not on the flat base, or the pouch will not sit.
 3. Keychain loop: join black yarn at the top center between the ears, ch 16, sl st back into the same stitch. Fasten off. Slide a split ring onto that loop if you want it on keys.
-4. Weave ends on the inside. The [weaving-in guide](/weaving-in-ends-and-blocking) covers the path. Do not block this over a form larger than the case.
+4. Weave ends on the inside. The [weaving-in guide](/weaving-in-ends-and-blocking/) covers the path. Do not block this over a form larger than the case.
 
 ![A white earbud case sitting in the open bat pouch](../../assets/articles/gothic-bat-earbuds-pouch-6.jpg "Illustration. The case should drop in and the flap should close over it. If it will not, add even rounds, do not stretch the flap.")
 
@@ -198,4 +198,4 @@ Use a smaller hook and treat the earbud case as the pattern. Stop increasing whe
 
 ## Where to go next
 
-The same spiral is the start of the [crochet in the round](/crochet-in-the-round) lesson. A bigger sleeve, measured to a specific phone, is the [iPhone 18 Pro Max phone case](/how-to-crochet-a-phone-case). For more Halloween sewing-on, the [card wallet](/halloween-crochet-card-wallet) uses the same idea: a flat piece, a closure, then the decoration.
+The same spiral is the start of the [crochet in the round](/crochet-in-the-round/) lesson. A bigger sleeve, measured to a specific phone, is the [iPhone 18 Pro Max phone case](/how-to-crochet-a-phone-case/). For more Halloween sewing-on, the [card wallet](/halloween-crochet-card-wallet/) uses the same idea: a flat piece, a closure, then the decoration.

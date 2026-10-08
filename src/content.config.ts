@@ -24,6 +24,23 @@ const posts = defineCollection({
     /** One live article can be pinned above seasonal blocks on the homepage. */
     pinned: z.boolean().default(false),
     draft: z.boolean().default(false),
+    /** Two or three sentences shown under the title. */
+    quickAnswer: z.string().optional(),
+    /** Shown on project pages. Leave a field off rather than guessing it. */
+    glance: z
+      .object({
+        time: z.string().optional(),
+        size: z.string().optional(),
+        yarn: z.string().optional(),
+        hook: z.string().optional(),
+        yardage: z.string().optional(),
+      })
+      .optional(),
+    /** Absolute or site-root path to a 1200x630 social image. */
+    ogImage: z.string().optional(),
+    /** Site-root path to a 1000x1500 Pinterest image. */
+    pinImage: z.string().optional(),
+    pinTitle: z.string().optional(),
   }),
 });
 

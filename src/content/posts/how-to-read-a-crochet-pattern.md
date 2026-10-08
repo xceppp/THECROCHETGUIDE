@@ -21,7 +21,7 @@ Read the pattern once before you chain. Check for a special-stitches section, fo
 
 **Yarn.** Weight (a number from 0 to 7, or a name such as worsted or DK), total yardage, and the yarn used. Buy by yards or meters, plus ten percent. Ball sizes differ by brand.
 
-**Hook.** Trust the millimeters, not the letter. Letters differ by maker. The [hook size chart](/crochet-hook-size-conversion-chart) converts them.
+**Hook.** Trust the millimeters, not the letter. Letters differ by maker. The [hook size chart](/crochet-hook-size-conversion-chart/) converts them.
 
 **Gauge.** Often `16 sc and 18 rows = 4 inches`, in the pattern stitch. The same yarn and hook can still differ by an inch or two, because one person holds the yarn tighter. Swatch a bit larger than 4 inches square, lay it flat, and count the middle 4 inches. Too many stitches: go up a hook size. Too few: go down.
 
@@ -35,7 +35,7 @@ Skip the swatch for blankets, scarves, dishcloths, coasters, and bags. Do not sk
 
 ## US or UK terms
 
-US and UK names are shifted by one. A US single crochet is a UK double crochet. If `sc` appears, the pattern is US. UK terms have no single crochet. If you see `htr`, it is UK. The table is in the [abbreviations chart](/crochet-abbreviations-chart). If you cannot tell, assume US terms.
+US and UK names are shifted by one. A US single crochet is a UK double crochet. If `sc` appears, the pattern is US. UK terms have no single crochet. If you see `htr`, it is UK. The table is in the [abbreviations chart](/crochet-abbreviations-chart/). If you cannot tell, assume US terms.
 
 ## Rows and rounds
 
@@ -86,7 +86,7 @@ Some lace and Japanese patterns use a diagram. The symbols draw the shape.
 
 ## Frequently asked
 
-**Do I need every abbreviation first?** No. Keep the [abbreviations chart](/crochet-abbreviations-chart) open. About fifteen of them stick within a month.
+**Do I need every abbreviation first?** No. Keep the [abbreviations chart](/crochet-abbreviations-chart/) open. About fifteen of them stick within a month.
 
 **Why does it get narrower or wider?** The count is drifting, usually at the turning chain or the last stitch. Count each row until you see which.
 

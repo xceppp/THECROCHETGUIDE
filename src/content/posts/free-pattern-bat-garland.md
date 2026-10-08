@@ -19,7 +19,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** Original design for Crochet Explained. Remains draft until bats are made, measured, and photographed. Technique page: [Bat Amigurumi: Wings, Body and Ears](/bat-amigurumi-wings-body-and-ears).
+**Draft pattern.** Original design for Crochet Explained. Remains draft until bats are made, measured, and photographed. Technique page: [Bat Amigurumi: Wings, Body and Ears](/bat-amigurumi-wings-body-and-ears/).
 
 </div>
 
@@ -35,7 +35,7 @@ Each bat about 3.5 in (9 cm) wide wingtip to wingtip; garland length flexible (p
 - Stuffing, yarn needle, pins
 - Twine, yarn, or a long chain for the hanging line
 
-See [hook](/crochet-hook-size-conversion-chart), [yarn weight](/yarn-weight-chart), and [abbreviation](/crochet-abbreviations-chart) charts.
+See [hook](/crochet-hook-size-conversion-chart/), [yarn weight](/yarn-weight-chart/), and [abbreviation](/crochet-abbreviations-chart/) charts.
 
 ## Abbreviations (US)
 
@@ -111,4 +111,4 @@ Add hanging loops at both ends of the line.
 
 ## What to make next
 
-[Spider and web](/free-pattern-spider-and-web) or [Halloween coasters](/free-pattern-halloween-coasters).
+[Spider and web](/free-pattern-spider-and-web/) or [Halloween coasters](/free-pattern-halloween-coasters/).

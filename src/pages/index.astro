@@ -32,7 +32,13 @@ const remaining = featuredSeasonal
 // When a seasonal pin exists, it is the lead. Otherwise newest post leads.
 const lead = featuredSeasonal ?? remaining[0];
 const moreFrom = featuredSeasonal ? remaining : remaining.slice(1);
-const recent = moreFrom.slice(0, 6);
+const alreadyShown = new Set<string>([
+  ...(pinned ? [pinned.id] : []),
+  ...seasonalPosts.map((post) => post.id),
+]);
+const recent = moreFrom
+  .filter((post) => !alreadyShown.has(post.id))
+  .slice(0, 6);
 const otherSeasonal = featuredSeasonal
   ? seasonalPosts.filter((post) => post.id !== featuredSeasonal.id)
   : seasonalPosts;
@@ -48,7 +54,10 @@ const seasonalHeading =
       : "";
 ---
 
-<BaseLayout title={SITE.name} description={SITE.description}>
+<BaseLayout
+  title="Crochet Explained: Beginner Crochet Tutorials, Charts & Free Patterns"
+  description={SITE.description}
+>
   <h1 class="sr-only">{SITE.name}</h1>
   {
     pinned && (

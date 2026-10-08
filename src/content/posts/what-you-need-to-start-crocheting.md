@@ -15,7 +15,7 @@ Start with a **5 mm aluminum hook, US size H/8**, and a **medium worsted acrylic
 
 <div class="tip">
 
-**Disclosure:** this guide contains affiliate links where products are named, which means a purchase may earn this site a small commission at no extra cost to you. No company sent anything for review and no commission influences what is recommended here. See the [disclosures page](/disclosures).
+**Disclosure:** this guide contains affiliate links where products are named, which means a purchase may earn this site a small commission at no extra cost to you. No company sent anything for review and no commission influences what is recommended here. See the [disclosures page](/disclosures/).
 
 </div>
 
@@ -31,11 +31,11 @@ A 5 mm hook is large enough to see and matches the worsted yarn most beginner pa
 
 **Tapered** heads (Boye) have a pointed tip and a throat that narrows gradually. They enter tight stitches easily, and the loop can slip, so size varies a little. **Inline** heads (Susan Bates) sit flush with the shaft, so stitches stay more even. The blunter tip is harder to insert. Buy one of each in 5 mm and keep the shape you prefer.
 
-**Aluminum**, from 2.25 mm through about 10 mm, is the hook to learn on. **Steel** is only for thread below 2.25 mm, and a higher number is a smaller hook. The [hook size chart](/crochet-hook-size-conversion-chart) lists them. **Plastic and resin** are mostly above about 10 mm. Cheap small plastic hooks can snag. **Wood and bamboo** grip silk, feel slower with acrylic, and are best from about 4 mm up, because smaller wood hooks snap. **Ergonomic** handles cost several times more and help on long sessions. Clover Amour and Tulip Etimo are the mid-priced ranges. Furls is the premium end.
+**Aluminum**, from 2.25 mm through about 10 mm, is the hook to learn on. **Steel** is only for thread below 2.25 mm, and a higher number is a smaller hook. The [hook size chart](/crochet-hook-size-conversion-chart/) lists them. **Plastic and resin** are mostly above about 10 mm. Cheap small plastic hooks can snag. **Wood and bamboo** grip silk, feel slower with acrylic, and are best from about 4 mm up, because smaller wood hooks snap. **Ergonomic** handles cost several times more and help on long sessions. Clover Amour and Tulip Etimo are the mid-priced ranges. Furls is the premium end.
 
 ## The yarn
 
-Learn on **medium worsted, category 4**, in a **light solid color** such as cream, light gray, pale blue, or soft yellow, so the loops show. The [yarn weight chart](/yarn-weight-chart) lists the categories. **Smooth plied acrylic** is springy, machine washable, and cheap to rip out.
+Learn on **medium worsted, category 4**, in a **light solid color** such as cream, light gray, pale blue, or soft yellow, so the loops show. The [yarn weight chart](/yarn-weight-chart/) lists the categories. **Smooth plied acrylic** is springy, machine washable, and cheap to rip out.
 
 Common US worsted acrylics: **Red Heart Super Saver** (stiff until washed), **Lion Brand Basic Stitch** (smoother), **Bernat Super Value**, and **Loops & Threads Impeccable** (Michaels). Dishcloths need worsted cotton, **Lily Sugar'n Cream** or **Peaches & Creme**. Acrylic can melt on a hot pan. Cotton is less forgiving, so make it the second project.
 
@@ -89,6 +89,6 @@ A 20-piece set before you know tapered from inline. Three sizes cover the first 
 
 **Does the hook brand change gauge?** A little. Head shape changes the loop, so finish on the hook you started with.
 
-**Are there left-handed hooks?** Ordinary hooks work in either hand. Some ergonomic thumb rests do not, so check the shape or use a plain hook. More is in the [left-handed guide](/left-handed-crochet).
+**Are there left-handed hooks?** Ordinary hooks work in either hand. Some ergonomic thumb rests do not, so check the shape or use a plain hook. More is in the [left-handed guide](/left-handed-crochet/).
 
 **What hook and yarn suit amigurumi?** Worsted acrylic or cotton, with a hook smaller than the label suggests, around 3.5 mm or 4 mm, so the stuffing does not show through.

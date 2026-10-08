@@ -18,7 +18,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat sizes below as verified until that happens. Technique walkthrough: [How to Crochet a Pumpkin, Step by Step](/how-to-crochet-a-pumpkin-step-by-step).
+**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat sizes below as verified until that happens. Technique walkthrough: [How to Crochet a Pumpkin, Step by Step](/how-to-crochet-a-pumpkin-step-by-step/).
 
 </div>
 
@@ -37,15 +37,15 @@ Sizes assume the gauge below after stuffing and ribbing. Re-measure on your samp
 
 ## Materials
 
-- Worsted weight acrylic or wool-blend yarn ([yarn weight chart](/yarn-weight-chart)): orange (A), brown or green (B)
+- Worsted weight acrylic or wool-blend yarn ([yarn weight chart](/yarn-weight-chart/)): orange (A), brown or green (B)
   - Small: about 50 yd (45 m) A, 10 yd (9 m) B
   - XL: about 160 yd (145 m) A, 20 yd (18 m) B
-- US G/6 (4.0 mm) hook, or size needed for a firm fabric ([hook size chart](/crochet-hook-size-conversion-chart))
+- US G/6 (4.0 mm) hook, or size needed for a firm fabric ([hook size chart](/crochet-hook-size-conversion-chart/))
 - Stuffing, yarn needle, stitch marker
 
 ## Abbreviations (US)
 
-sc, sc2tog, rnd, st(s), sl st, ch, invdec (optional invisible decrease). Full list: [abbreviations chart](/crochet-abbreviations-chart).
+sc, sc2tog, rnd, st(s), sl st, ch, invdec (optional invisible decrease). Full list: [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Notes
 
@@ -119,4 +119,4 @@ Stuff lightly. Sew to top center over ribbing gathers.
 
 ## What to make next
 
-[Ghost amigurumi pattern](/free-pattern-ghost-amigurumi) (draft) or the technique page for [ghosts](/crochet-ghost-amigurumi-for-beginners).
+[Ghost amigurumi pattern](/free-pattern-ghost-amigurumi/) (draft) or the technique page for [ghosts](/crochet-ghost-amigurumi-for-beginners/).

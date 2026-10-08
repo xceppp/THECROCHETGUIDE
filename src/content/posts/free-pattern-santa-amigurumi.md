@@ -11,7 +11,7 @@ tags: ["christmas", "santa", "amigurumi", "free pattern", "beginner"]
 
 <div class="warning">
 
-**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat the sizes below as verified until that happens. Technique walkthrough: [Crochet Santa Amigurumi for Beginners](/crochet-santa-amigurumi-for-beginners).
+**Draft pattern.** This is an original written design for Crochet Explained. It is not public on the live site until a physical sample has been made, measured, and photographed. Do not treat the sizes below as verified until that happens. Technique walkthrough: [Crochet Santa Amigurumi for Beginners](/crochet-santa-amigurumi-for-beginners/).
 
 </div>
 
@@ -29,9 +29,9 @@ tags: ["christmas", "santa", "amigurumi", "free pattern", "beginner"]
 
 ## Materials
 
-- Worsted weight acrylic ([yarn weight chart](/yarn-weight-chart)): red (A), skin tone (B), white (C), scrap of black (D), scrap of yellow or gold (E)
+- Worsted weight acrylic ([yarn weight chart](/yarn-weight-chart/)): red (A), skin tone (B), white (C), scrap of black (D), scrap of yellow or gold (E)
   - About 70 yd (64 m) A, 30 yd (27 m) B, 25 yd (23 m) C
-- US G/6 (4.0 mm) hook, or size needed for a firm fabric ([hook size chart](/crochet-hook-size-conversion-chart))
+- US G/6 (4.0 mm) hook, or size needed for a firm fabric ([hook size chart](/crochet-hook-size-conversion-chart/))
 - Stuffing, yarn needle, stitch marker
 - For eyes: black yarn for embroidery, or 6 mm safety eyes
 
@@ -45,14 +45,14 @@ tags: ["christmas", "santa", "amigurumi", "free pattern", "beginner"]
 
 ## Abbreviations (US)
 
-sc, sc2tog, rnd, st(s), ch, sl st, invdec (optional invisible decrease). Full list: [abbreviations chart](/crochet-abbreviations-chart).
+sc, sc2tog, rnd, st(s), ch, sl st, invdec (optional invisible decrease). Full list: [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Notes
 
 - Body and head are one continuous piece. There is no neck and no seam.
 - The waist comes from the sewn-on belt, not from shaping.
 - Stuff the body harder than the head, or the figure leans.
-- Color change technique: [changing yarn color](/changing-yarn-color-crochet).
+- Color change technique: [changing yarn color](/changing-yarn-color-crochet/).
 
 ## Pattern — Body and head (A, then B)
 
@@ -171,4 +171,4 @@ Sew the belt around the body about a third of the way up, and the square on the 
 
 ## What to make next
 
-[Christmas gnome pattern](/free-pattern-gnome) (draft) for a faceless companion piece, or the [mini trees](/free-pattern-mini-christmas-trees) (draft) to build a set.
+[Christmas gnome pattern](/free-pattern-gnome/) (draft) for a faceless companion piece, or the [mini trees](/free-pattern-mini-christmas-trees/) (draft) to build a set.

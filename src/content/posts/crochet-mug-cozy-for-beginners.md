@@ -20,7 +20,7 @@ tags:
 
 A mug cozy is a gift people use the next morning. That is why it travels well on Pinterest in November and December: the photo is a warm cup, not another ornament in a drawer.
 
-You crochet a rectangle that wraps the mug, seam or button it closed, and stop. No amigurumi math. If your [single crochet](/basic-crochet-stitches) is even, you are ready.
+You crochet a rectangle that wraps the mug, seam or button it closed, and stop. No amigurumi math. If your [single crochet](/basic-crochet-stitches/) is even, you are ready.
 
 Work the strip **sideways** — foundation chain is the height, rows travel around the mug — so you can wrap and check fit without ripping out a tall piece that came out wrong. That one habit saves more frogging than any stitch tip on this page.
 
@@ -28,13 +28,13 @@ Work the strip **sideways** — foundation chain is the height, rows travel arou
 
 ## What you need
 
-- Worsted-weight yarn, about **60–80 yd** (cotton holds heat better than acrylic for drinkware) — [yarn weight chart](/yarn-weight-chart)
-- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart)
+- Worsted-weight yarn, about **60–80 yd** (cotton holds heat better than acrylic for drinkware) — [yarn weight chart](/yarn-weight-chart/)
+- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart/)
 - **One button**, about **⅝–¾ in** across
 - Yarn needle
 - **The mug** you are wrapping — measure it, do not guess
 
-US abbreviations. See the [abbreviations chart](/crochet-abbreviations-chart) if needed.
+US abbreviations. See the [abbreviations chart](/crochet-abbreviations-chart/) if needed.
 
 ## Finished size (design target)
 
@@ -69,7 +69,7 @@ Work rows of **single crochet**, ch 1 and turn. Keep going until the strip wraps
 
 Leave a vertical gap for the handle: when you wrap, the cozy should open under the handle, not climb over it. Mark the handle gap with stitch markers on the mug if that helps you visualize.
 
-For a Christmas reel, switch to a second color for the last 2–3 rows using a clean [color change](/changing-yarn-color-crochet).
+For a Christmas reel, switch to a second color for the last 2–3 rows using a clean [color change](/changing-yarn-color-crochet/).
 
 ## Step 3: button flap and seam choice
 
@@ -79,7 +79,7 @@ For a Christmas reel, switch to a second color for the last 2–3 rows using a c
 
 **Seamed version:** Whipstitch the short ends together only below and above the handle gap, leaving the handle free. No button needed.
 
-Weave ends on the inside. Steam-block cotton lightly if the edges curl — see [blocking](/weaving-in-ends-and-blocking).
+Weave ends on the inside. Steam-block cotton lightly if the edges curl — see [blocking](/weaving-in-ends-and-blocking/).
 
 ## Step 4: fit check
 
@@ -125,7 +125,7 @@ One evening. Good reel beats: measure, mid-wrap try-on, button close, finished m
 
 ### Can I make a set for Christmas?
 
-Yes. Same stitch count, three colors. Pin them as a set with gift tags. Pair with [yarn for Christmas crochet](/yarn-for-christmas-crochet) if you are buying one skein for a batch.
+Yes. Same stitch count, three colors. Pin them as a set with gift tags. Pair with [yarn for Christmas crochet](/yarn-for-christmas-crochet/) if you are buying one skein for a batch.
 
 ### Does it work on tumblers?
 
@@ -137,4 +137,4 @@ Yes — crochet a second smaller rectangle and sew three sides onto the outside 
 
 ### What should I make next?
 
-A [scrunchie](/how-to-crochet-a-scrunchie) for a stocking stuffer, a [snowflake](/how-to-crochet-a-snowflake) for the tree, or a [simple flower](/how-to-crochet-a-simple-flower) sewn onto the cozy flap.
+A [scrunchie](/how-to-crochet-a-scrunchie/) for a stocking stuffer, a [snowflake](/how-to-crochet-a-snowflake/) for the tree, or a [simple flower](/how-to-crochet-a-simple-flower/) sewn onto the cozy flap.

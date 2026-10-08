@@ -88,6 +88,10 @@ function rehypeFigures() {
       if (typeof caption !== "string" || caption.trim() === "") return child;
 
       delete image.properties.title;
+      const detail = caption.replace(/^Illustration\.?\s*/i, "").trim();
+      const captionText = detail.toLowerCase().startsWith("ai illustration")
+        ? detail
+        : `AI illustration: ${detail}`;
 
       return {
         type: "element",
@@ -99,7 +103,7 @@ function rehypeFigures() {
             type: "element",
             tagName: "figcaption",
             properties: {},
-            children: [{ type: "text", value: caption }],
+            children: [{ type: "text", value: captionText }],
           },
         ],
       };
@@ -122,7 +126,10 @@ export default defineConfig({
   trailingSlash: "always",
   integrations: [
     sitemap({
-      filter: (page) => !page.includes("/tools/"),
+      filter: (page) =>
+        !["/tools/", "/cookie-settings/", "/privacy-eu/", "/privacy-us/"].some(
+          (path) => page.includes(path),
+        ),
     }),
   ],
   markdown: {

@@ -1,0 +1,73 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { CATEGORIES, SITE, SOCIALS } from "../config";
+
+interface Props {
+  post: CollectionEntry<"posts">;
+  image: string;
+}
+
+const { post, image } = Astro.props;
+const category = CATEGORIES[post.data.category];
+const pageUrl = new URL(`/${post.id}/`, SITE.url).href;
+const published = post.data.pubDate.toISOString();
+const modified = (post.data.updatedDate ?? post.data.pubDate).toISOString();
+
+const organization = {
+  "@type": "Organization",
+  name: SITE.name,
+  url: SITE.url,
+  logo: {
+    "@type": "ImageObject",
+    url: new URL("/icon-512.png", SITE.url).href,
+  },
+  sameAs: SOCIALS.map((social) => social.url),
+};
+
+const graph = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      headline: post.data.title,
+      description: post.data.description,
+      image,
+      datePublished: published,
+      dateModified: modified,
+      inLanguage: "en-US",
+      author: {
+        "@type": "Person",
+        name: SITE.author.name,
+        url: new URL("/about/", SITE.url).href,
+      },
+      publisher: organization,
+      mainEntityOfPage: pageUrl,
+    },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: new URL("/", SITE.url).href,
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: category.label,
+          item: new URL(`/${category.slug}/`, SITE.url).href,
+        },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: post.data.title,
+          item: pageUrl,
+        },
+      ],
+    },
+  ],
+};
+---
+
+<script is:inline type="application/ld+json" set:html={JSON.stringify(graph)} />

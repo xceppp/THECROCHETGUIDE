@@ -18,7 +18,7 @@ tags:
 
 <div class="warning">
 
-**Draft pattern.** Original design for Crochet Explained. Held as a draft until a sample is made and photographed. Technique companion: [Crochet Ghost Amigurumi for Beginners](/crochet-ghost-amigurumi-for-beginners).
+**Draft pattern.** Original design for Crochet Explained. Held as a draft until a sample is made and photographed. Technique companion: [Crochet Ghost Amigurumi for Beginners](/crochet-ghost-amigurumi-for-beginners/).
 
 </div>
 
@@ -32,14 +32,14 @@ About 6 in (15 cm) tall including hem flare, at the gauge below, lightly stuffed
 
 ## Materials
 
-- Worsted weight yarn in white or cream: about 70 yd (64 m) ([yarn weight chart](/yarn-weight-chart))
+- Worsted weight yarn in white or cream: about 70 yd (64 m) ([yarn weight chart](/yarn-weight-chart/))
 - Black embroidery floss or fingering scrap for face
-- US G/6 (4.0 mm) hook ([hook size chart](/crochet-hook-size-conversion-chart))
+- US G/6 (4.0 mm) hook ([hook size chart](/crochet-hook-size-conversion-chart/))
 - Stuffing, yarn needle, stitch marker
 
 ## Abbreviations (US)
 
-sc, hdc, dc, sc2tog, rnd, st(s), ch, sl st. See [abbreviations chart](/crochet-abbreviations-chart).
+sc, hdc, dc, sc2tog, rnd, st(s), ch, sl st. See [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Notes
 
@@ -83,4 +83,4 @@ With black, embroider two oval eyes at the marked height, about 4 sts apart. Opt
 
 ## What to make next
 
-[Pumpkin pattern](/free-pattern-pumpkin-amigurumi) or [spider and web](/free-pattern-spider-and-web).
+[Pumpkin pattern](/free-pattern-pumpkin-amigurumi/) or [spider and web](/free-pattern-spider-and-web/).
