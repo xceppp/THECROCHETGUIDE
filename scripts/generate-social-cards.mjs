@@ -1,8 +1,9 @@
 import { readdir, readFile, mkdir } from "node:fs/promises";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 
-const root = "C:/Users/Acer/Desktop/NJERBOHA";
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const postsDir = path.join(root, "src/content/posts");
 const assetsDir = path.join(root, "src/assets/articles");
 const outDir = path.join(root, "public/social");
