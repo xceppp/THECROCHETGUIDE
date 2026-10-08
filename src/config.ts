@@ -60,6 +60,7 @@ export const GOOGLE_SITE_VERIFICATION =
  * Used to track the Christmas traffic goal in GROWTH.md.
  */
 export const GA_MEASUREMENT_ID = "G-WSPK5DR3Z5";
+export const GTM_CONTAINER_ID = "GTM-5PCLM4W5";
 
 /**
  * Only accounts that actually exist belong here. Every entry is rendered as a
