@@ -34,6 +34,7 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
 <script>
   import {
     acceptAll,
+    allConsentGranted,
     applyConsent,
     defaultState,
     detectRegion,
@@ -85,6 +86,7 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
           "We use optional cookies for analytics and ads. In the EU, UK, and EEA these load only if you accept. Essential site features (like course progress on your device) always work.";
         actionsEl.replaceChildren(
           button("Accept all", "primary", () => {
+            allConsentGranted();
             applyConsent(acceptAll("eu"), options());
             hide();
           }),
@@ -100,6 +102,7 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
           "We use cookies for analytics and advertising (including Google). You can allow personalized ads or opt out of sale/sharing of personal information used for personalized advertising.";
         actionsEl.replaceChildren(
           button("Accept", "primary", () => {
+            allConsentGranted();
             applyConsent(acceptAll("us"), options());
             hide();
           }),
@@ -149,6 +152,8 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
       writeConsent({ ...next, decided: false });
       render();
     });
+
+    window.allConsentGranted = allConsentGranted;
 
     window.ceOpenConsent = () => {
       forceOpen = true;

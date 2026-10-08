@@ -29,7 +29,28 @@ declare global {
     ceOpenConsent?: () => void;
     ceGetConsent?: () => ConsentState | null;
     gtag?: (...args: unknown[]) => void;
+    allConsentGranted?: () => void;
   }
+}
+
+function ensureGtag(): void {
+  window.dataLayer = window.dataLayer || [];
+  window.gtag =
+    window.gtag ||
+    function gtag(...args: unknown[]) {
+      window.dataLayer.push(args);
+    };
+}
+
+/** Accept all on the cookie banner. Grants every Consent Mode signal. */
+export function allConsentGranted(): void {
+  ensureGtag();
+  window.gtag?.("consent", "update", {
+    ad_user_data: "granted",
+    ad_personalization: "granted",
+    ad_storage: "granted",
+    analytics_storage: "granted",
+  });
 }
 
 export function detectRegion(): ConsentRegion {
@@ -148,24 +169,24 @@ export function applyConsent(
   state: ConsentState,
   options: { adsenseClient: string; gaId: string },
 ): void {
+  const fullGrant = state.analytics && state.ads && state.personalizedAds;
+  if (fullGrant) allConsentGranted();
+
   if (state.analytics && options.gaId) {
     loadScript(
       `https://www.googletagmanager.com/gtag/js?id=${options.gaId}`,
     );
-    window.dataLayer = window.dataLayer || [];
-    window.gtag =
-      window.gtag ||
-      function gtag(...args: unknown[]) {
-        window.dataLayer.push(args);
-      };
-    window.gtag("js", new Date());
-    window.gtag("consent", "update", {
-      analytics_storage: "granted",
-      ad_storage: state.ads ? "granted" : "denied",
-      ad_user_data: state.personalizedAds ? "granted" : "denied",
-      ad_personalization: state.personalizedAds ? "granted" : "denied",
-    });
-    window.gtag("config", options.gaId, {
+    ensureGtag();
+    window.gtag?.("js", new Date());
+    if (!fullGrant) {
+      window.gtag?.("consent", "update", {
+        ad_user_data: state.personalizedAds ? "granted" : "denied",
+        ad_personalization: state.personalizedAds ? "granted" : "denied",
+        ad_storage: state.ads ? "granted" : "denied",
+        analytics_storage: "granted",
+      });
+    }
+    window.gtag?.("config", options.gaId, {
       anonymize_ip: true,
     });
   }
