@@ -240,7 +240,7 @@ const themeColor =
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
-        dataLayer.push(arguments);
+        window.dataLayer.push(arguments);
       }
       gtag("set", "url_passthrough", true);
       gtag("consent", "default", {
@@ -266,7 +266,7 @@ const themeColor =
           <script is:inline define:vars={{ gaId: GA_MEASUREMENT_ID }}>
             window.dataLayer = window.dataLayer || [];
             function gtag() {
-              dataLayer.push(arguments);
+              window.dataLayer.push(arguments);
             }
             gtag("js", new Date());
             gtag("config", gaId);
