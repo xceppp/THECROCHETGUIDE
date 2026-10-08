@@ -59,7 +59,7 @@ export const GOOGLE_SITE_VERIFICATION =
  * Leave empty until the GA4 property exists — nothing loads while blank.
  * Used to track the Christmas traffic goal in GROWTH.md.
  */
-export const GA_MEASUREMENT_ID = "";
+export const GA_MEASUREMENT_ID = "G-WSPK5DR3Z5";
 
 /**
  * Only accounts that actually exist belong here. Every entry is rendered as a
