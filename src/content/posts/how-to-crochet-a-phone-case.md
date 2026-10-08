@@ -6,7 +6,7 @@ category: patterns
 level: beginner
 howTo: true
 printable: true
-pinned: true
+pinned: false
 featured: true
 tags:
   [

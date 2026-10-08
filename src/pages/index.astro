@@ -3,8 +3,6 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
 import AdSlot from "../components/AdSlot.astro";
-import WelcomeBanner from "../components/WelcomeBanner.astro";
-import ResumeCard from "../components/ResumeCard.astro";
 import { getPathStages } from "../lib/learningPath";
 import { SITE, CATEGORIES } from "../config";
 import { resolveSeasonalOccasion } from "../lib/seasonalTheme";
@@ -17,11 +15,6 @@ const pinned = posts.find((post) => post.data.pinned) ?? null;
 const unpinned = pinned ? posts.filter((post) => post.id !== pinned.id) : posts;
 
 const occasion = resolveSeasonalOccasion();
-// Observance windows still shift the palette, but the hero stays normal so
-// visitors are not shown a calendar of awareness days.
-const bannerOccasion =
-  occasion && occasion.kind !== "observance" ? occasion : null;
-
 const seasonalTag = occasion?.contentTag?.toLowerCase();
 const seasonalPosts = seasonalTag
   ? unpinned
@@ -46,7 +39,6 @@ const otherSeasonal = featuredSeasonal
 
 const stages = await getPathStages();
 const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
-const firstStep = stages[0]?.steps[0]?.post;
 
 const seasonalHeading =
   seasonalTag === "halloween"
@@ -57,14 +49,7 @@ const seasonalHeading =
 ---
 
 <BaseLayout title={SITE.name} description={SITE.description}>
-  <WelcomeBanner
-    firstStepSlug={firstStep?.id}
-    totalSteps={totalSteps}
-    occasion={bannerOccasion}
-  />
-
-  <ResumeCard />
-
+  <h1 class="sr-only">{SITE.name}</h1>
   {
     pinned && (
       <section class="border-b border-rule">
