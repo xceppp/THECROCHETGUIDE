@@ -1,0 +1,52 @@
+{
+  "articles": 65,
+  "failed": [],
+  "counts": {
+    "A": 4,
+    "B": 25,
+    "C": 25,
+    "D": 11
+  },
+  "classes": {
+    "Trending now": 14,
+    "Rising soon": 19,
+    "Evergreen": 21,
+    "Low priority": 11
+  },
+  "pins": 130,
+  "scheduled": 108,
+  "held": 22,
+  "perDay": [
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    0,
+    1,
+    6,
+    6,
+    5,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "maxDay": 6
+}
