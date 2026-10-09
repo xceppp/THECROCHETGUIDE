@@ -41,7 +41,9 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
     detectRegion,
     readConsent,
     rejectNonEssential,
+    reopenGoogleConsent,
     usOptOutSale,
+    whenGoogleCmpKnown,
     writeConsent,
     type ConsentRegion,
     type ConsentState,
@@ -159,11 +161,18 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
     window.allConsentGranted = allConsentGranted;
     window.allConsentDenied = allConsentDenied;
 
-    window.ceOpenConsent = () => {
+    function openSiteBanner() {
       forceOpen = true;
       const existing = readConsent();
       region = existing?.region ?? detectRegion();
       show();
+    }
+
+    window.ceOpenConsent = () => {
+      void whenGoogleCmpKnown().then((googleOwns) => {
+        if (googleOwns) reopenGoogleConsent();
+        else openSiteBanner();
+      });
     };
 
     window.ceGetConsent = () => readConsent();
@@ -171,7 +180,14 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
     const params = new URLSearchParams(window.location.search);
     if (params.get("cookies") === "1") forceOpen = true;
 
-    boot(readConsent());
+    void whenGoogleCmpKnown().then((googleOwns) => {
+      if (googleOwns) {
+        hide();
+        if (params.get("cookies") === "1") reopenGoogleConsent();
+        return;
+      }
+      boot(readConsent());
+    });
   }
 </script>
 

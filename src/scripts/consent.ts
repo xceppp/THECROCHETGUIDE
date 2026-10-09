@@ -31,6 +31,15 @@ declare global {
     gtag?: (...args: unknown[]) => void;
     allConsentGranted?: () => void;
     allConsentDenied?: () => void;
+    __tcfapi?: (
+      command: string,
+      version: number,
+      callback: (data: { gdprApplies?: boolean }) => void,
+    ) => void;
+    googlefc?: {
+      callbackQueue?: Array<Record<string, () => void>>;
+      showRevocationMessage?: () => void;
+    };
   }
 }
 
@@ -63,6 +72,45 @@ export function allConsentDenied(): void {
     ad_user_data: "denied",
     ad_personalization: "denied",
   });
+}
+
+/**
+ * Google's certified CMP sets gdprApplies from the visitor's location.
+ * Returns true only when that signal says the European message applies.
+ * If the message script is missing, resolves false so the site banner stays up.
+ */
+export function whenGoogleCmpKnown(timeoutMs = 2000): Promise<boolean> {
+  return new Promise((resolve) => {
+    let settled = false;
+    const finish = (value: boolean) => {
+      if (settled) return;
+      settled = true;
+      resolve(value);
+    };
+
+    const ping = () => {
+      const api = window.__tcfapi;
+      if (typeof api !== "function") return false;
+      api("ping", 2, (data) => finish(data?.gdprApplies === true));
+      return true;
+    };
+
+    window.setTimeout(() => finish(false), timeoutMs);
+    if (ping()) return;
+
+    window.googlefc = window.googlefc || {};
+    window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+    window.googlefc.callbackQueue.push({
+      CONSENT_DATA_READY: () => {
+        if (!ping()) finish(false);
+      },
+    });
+  });
+}
+
+/** Reopens Google's European regulations message. No effect until that message is loaded. */
+export function reopenGoogleConsent(): void {
+  window.googlefc?.showRevocationMessage?.();
 }
 
 export function detectRegion(): ConsentRegion {

@@ -7,6 +7,7 @@ import {
   GOOGLE_SITE_VERIFICATION,
   GA_MEASUREMENT_ID,
   GTM_CONTAINER_ID,
+  ADSENSE_CLIENT,
 } from "../config";
 import { getThemeClass, getThemeId } from "../lib/seasonalTheme";
 import Header from "../components/Header.astro";
@@ -242,11 +243,6 @@ const themeColor =
       gtag("set", "url_passthrough", false);
       gtag("set", "ads_data_redaction", true);
       gtag("consent", "default", {
-        analytics_storage: "denied",
-        region: ["ES", "US-AK"],
-        wait_for_update: 500,
-      });
-      gtag("consent", "default", {
         ad_storage: "denied",
         ad_user_data: "denied",
         ad_personalization: "denied",
@@ -254,6 +250,15 @@ const themeColor =
         wait_for_update: 500,
       });
     </script>
+    {
+      ADSENSE_CLIENT && (
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
+          crossorigin="anonymous"
+        />
+      )
+    }
     <script is:inline define:vars={{ gtmId: GTM_CONTAINER_ID }}>
       (function (w, d, s, l, i) {
         w[l] = w[l] || [];
