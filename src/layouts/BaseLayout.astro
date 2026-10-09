@@ -249,6 +249,13 @@ const themeColor =
         analytics_storage: "denied",
         wait_for_update: 500,
       });
+      window.__ceGoogleCmp = false;
+      window.googlefc = window.googlefc || {};
+      window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+      window.googlefc.controlledMessagingFunction = function (message) {
+        window.__ceGoogleCmp = true;
+        if (message && typeof message.proceed === "function") message.proceed(true);
+      };
     </script>
     {
       ADSENSE_CLIENT && (

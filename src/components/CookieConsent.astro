@@ -39,9 +39,12 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
     applyConsent,
     defaultState,
     detectRegion,
+    googleCmpHasPriority,
+    onGoogleCmpClaimed,
     readConsent,
     rejectNonEssential,
     reopenGoogleConsent,
+    shouldApplySavedConsent,
     usOptOutSale,
     whenGoogleCmpKnown,
     writeConsent,
@@ -169,8 +172,8 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
     }
 
     window.ceOpenConsent = () => {
-      void whenGoogleCmpKnown().then((googleOwns) => {
-        if (googleOwns) reopenGoogleConsent();
+      void whenGoogleCmpKnown().then(() => {
+        if (googleCmpHasPriority()) reopenGoogleConsent();
         else openSiteBanner();
       });
     };
@@ -180,13 +183,23 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
     const params = new URLSearchParams(window.location.search);
     if (params.get("cookies") === "1") forceOpen = true;
 
-    void whenGoogleCmpKnown().then((googleOwns) => {
-      if (googleOwns) {
+    onGoogleCmpClaimed(() => {
+      hide();
+    });
+
+    void whenGoogleCmpKnown().then((outcome) => {
+      const saved = readConsent();
+      if (outcome === "google" || googleCmpHasPriority()) {
         hide();
         if (params.get("cookies") === "1") reopenGoogleConsent();
         return;
       }
-      boot(readConsent());
+      if (!shouldApplySavedConsent(outcome, saved, forceOpen)) {
+        region = saved?.region ?? detectRegion();
+        show();
+        return;
+      }
+      boot(saved);
     });
   }
 </script>
