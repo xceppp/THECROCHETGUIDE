@@ -8,9 +8,13 @@ interface Props {
   post: CollectionEntry<"posts">;
   /** Larger treatment for the lead item on the home page. */
   lead?: boolean;
+  /** Small image-and-title card for the mobile homepage grid. */
+  compact?: boolean;
+  /** Load this card's image immediately. */
+  eager?: boolean;
 }
 
-const { post, lead = false } = Astro.props;
+const { post, lead = false, compact = false, eager = false } = Astro.props;
 const category = CATEGORIES[post.data.category];
 const date = post.data.pubDate.toLocaleDateString("en-US", {
   month: "long",
@@ -27,15 +31,17 @@ const href = `/${post.id}/`;
 <article
   class:list={[
     "group",
-    lead ? "border-b border-rule pb-8" : "",
+    compact && "h-full min-w-0",
+    lead && !compact ? "border-b border-rule pb-8" : "",
   ]}
 >
   <a
     href={href}
     class:list={[
       "no-underline",
-      thumb && "grid gap-4 sm:gap-5",
-      thumb && (lead ? "sm:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]" : "sm:grid-cols-[9.5rem_minmax(0,1fr)] sm:items-start"),
+      compact && "flex h-full min-w-0 flex-col gap-2",
+      !compact && thumb && "grid gap-4 sm:gap-5",
+      !compact && thumb && (lead ? "sm:grid-cols-[minmax(0,1.15fr)_minmax(0,1fr)]" : "sm:grid-cols-[9.5rem_minmax(0,1fr)] sm:items-start"),
     ]}
   >
     {
@@ -43,67 +49,82 @@ const href = `/${post.id}/`;
         <div
           class:list={[
             "overflow-hidden border border-rule bg-paper-deep",
-            lead ? "aspect-[3/2] sm:aspect-auto sm:min-h-[14rem]" : "aspect-[3/2] sm:aspect-[4/3]",
+            compact && "aspect-[3/2]",
+            !compact && lead && "aspect-[3/2] sm:aspect-auto sm:min-h-[14rem]",
+            !compact && !lead && "aspect-[3/2] sm:aspect-[4/3]",
           ]}
         >
           <Image
             src={thumb}
             alt=""
-            widths={lead ? [480, 720, 960] : [240, 360, 480]}
+            widths={lead && !compact ? [480, 720, 960] : [240, 360, 480]}
             sizes={
-              lead
-                ? "(min-width: 640px) 55vw, 100vw"
-                : "(min-width: 640px) 9.5rem, 100vw"
+              compact
+                ? "50vw"
+                : lead
+                  ? "(min-width: 640px) 55vw, 100vw"
+                  : "(min-width: 640px) 9.5rem, 100vw"
             }
             class:list={[
               "h-full w-full object-cover transition-opacity group-hover:opacity-90",
-              lead ? "sm:min-h-[14rem]" : "",
+              lead && !compact ? "sm:min-h-[14rem]" : "",
             ]}
-            loading={lead ? "eager" : "lazy"}
+            loading={eager || (lead && !compact) ? "eager" : "lazy"}
           />
         </div>
       )
     }
 
     <div class="min-w-0">
-      <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-ink-faint">
+      <div
+        class:list={[
+          "flex flex-wrap items-center gap-x-3 gap-y-1 text-ink-faint",
+          compact ? "text-[0.65rem]" : "text-xs",
+        ]}
+      >
         <span class="font-semibold tracking-wider text-terracotta-deep uppercase">
           {category.label}
         </span>
         {
-          isHalloween && (
+          !compact && isHalloween && (
             <span class="rounded-full border border-terracotta/40 bg-terracotta/10 px-2 py-0.5 font-medium tracking-wide text-terracotta-deep uppercase">
               Halloween
             </span>
           )
         }
         {
-          post.data.level && (
+          !compact && post.data.level && (
             <span class="rounded-full border border-rule px-2 py-0.5 capitalize">
               {post.data.level}
             </span>
           )
         }
-        <time datetime={post.data.pubDate.toISOString()}>{date}</time>
+        {!compact && <time datetime={post.data.pubDate.toISOString()}>{date}</time>}
       </div>
 
       <h2
         class:list={[
-          "mt-2 font-serif leading-snug tracking-tight text-ink group-hover:text-terracotta-deep",
-          lead ? "text-2xl sm:text-3xl" : "text-xl",
+          "font-serif leading-snug tracking-tight text-ink group-hover:text-terracotta-deep",
+          compact ? "mt-1 line-clamp-3 text-sm break-words" : "mt-2",
+          !compact && lead && "text-2xl sm:text-3xl",
+          !compact && !lead && "text-xl",
         ]}
       >
         {post.data.title}
       </h2>
 
-      <p
-        class:list={[
-          "mt-2 leading-relaxed text-ink-soft",
-          lead ? "text-base" : "text-sm",
-        ]}
-      >
-        {post.data.description}
-      </p>
+      {
+        !compact && (
+          <p
+            class:list={[
+              "mt-2 leading-relaxed text-ink-soft",
+              lead ? "text-base" : "text-sm",
+            ]}
+          >
+            {post.data.description}
+          </p>
+        )
+      }
     </div>
   </a>
 </article>

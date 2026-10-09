@@ -39,9 +39,23 @@ const alreadyShown = new Set<string>([
 const recent = moreFrom
   .filter((post) => !alreadyShown.has(post.id))
   .slice(0, 6);
+
+// Phone screens were opening on a single lead card. Four compact cards
+// sit above the fold instead; wider screens keep the lead treatment.
+const topMobile = [
+  ...(pinned ? [pinned] : []),
+  ...seasonalPosts,
+  ...posts,
+]
+  .filter((post, index, list) => list.findIndex((item) => item.id === post.id) === index)
+  .slice(0, 4);
+const topMobileIds = new Set(topMobile.map((post) => post.id));
 const otherSeasonal = featuredSeasonal
   ? seasonalPosts.filter((post) => post.id !== featuredSeasonal.id)
   : seasonalPosts;
+const seasonalOnMobile = otherSeasonal
+  .slice(0, 4)
+  .filter((post) => !topMobileIds.has(post.id));
 
 const stages = await getPathStages();
 const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
@@ -60,8 +74,24 @@ const seasonalHeading =
 >
   <h1 class="sr-only">{SITE.name}</h1>
   {
+    topMobile.length > 0 && (
+      <section class="border-b border-rule sm:hidden">
+        <div class="mx-auto max-w-4xl px-4 py-5">
+          <h2 class="text-xs font-semibold tracking-wider text-ink-faint uppercase">
+            Tutorials
+          </h2>
+          <div class="mt-3 grid grid-cols-2 gap-x-3 gap-y-5">
+            {topMobile.map((post, index) => (
+              <PostCard post={post} compact eager={index === 0} />
+            ))}
+          </div>
+        </div>
+      </section>
+    )
+  }
+  {
     pinned && (
-      <section class="border-b border-rule">
+      <section class="hidden border-b border-rule sm:block">
         <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
           <h2 class="text-xs font-semibold tracking-wider text-ink-faint uppercase">
             Pinned
@@ -78,7 +108,12 @@ const seasonalHeading =
 
   {
     seasonalPosts.length > 0 && (
-      <section class="border-b border-rule">
+      <section
+        class:list={[
+          "border-b border-rule",
+          seasonalOnMobile.length === 0 && "hidden sm:block",
+        ]}
+      >
         <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
           <h2 class="font-serif text-2xl tracking-tight">{seasonalHeading}</h2>
           <p class="mt-2 leading-relaxed text-ink-soft">
@@ -87,7 +122,7 @@ const seasonalHeading =
           </p>
           {
             featuredSeasonal && (
-              <div class="mt-6">
+              <div class="mt-6 hidden sm:block">
                 <PostCard post={featuredSeasonal} lead />
               </div>
             )
@@ -96,7 +131,9 @@ const seasonalHeading =
             otherSeasonal.length > 0 && (
               <div class="mt-8 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
                 {otherSeasonal.slice(0, 4).map((post) => (
-                  <PostCard post={post} />
+                  <div class:list={[topMobileIds.has(post.id) && "hidden sm:block"]}>
+                    <PostCard post={post} />
+                  </div>
                 ))}
               </div>
             )
