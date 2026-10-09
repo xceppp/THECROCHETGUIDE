@@ -207,7 +207,7 @@ not print gets `class="no-print"`.
 - Repo: `github.com/xceppp/THECROCHETGUIDE`.
 - Domain not yet live. AdSense not yet applied for — needs the custom domain,
   a real inbox, and a real author identity first.
-- `SITE.author` is the placeholder "Nora Bell", kept deliberately.
+- `SITE.author` is the Crochet Explained Editorial Team. Do not restore a fictional personal byline.
 - `SITE.email` is empty, kept deliberately.
 - Social URLs in `SOCIALS` are placeholder handles awaiting the real accounts.
 - Empty sections are an AdSense problem, so every nav category has content.

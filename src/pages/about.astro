@@ -2,14 +2,16 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { SITE } from "../config";
 
+const aboutUrl = new URL("/about/", SITE.url).href;
+
 const schema = {
   "@context": "https://schema.org",
-  "@type": "ProfilePage",
+  "@type": "AboutPage",
+  url: aboutUrl,
   mainEntity: {
-    "@type": "Person",
-    name: SITE.author.name,
-    url: new URL("/about/", SITE.url).href,
-    jobTitle: SITE.author.role,
+    "@type": "Organization",
+    name: SITE.name,
+    url: SITE.url,
     description: SITE.author.bio,
   },
 };
@@ -17,7 +19,7 @@ const schema = {
 
 <BaseLayout
   title="About"
-  description={`Who writes ${SITE.name}, how the tutorials are researched, and how the site pays for itself.`}
+  description="Crochet Explained is an independent site of crochet tutorials and pattern guides, published by the Crochet Explained Editorial Team."
   schema={schema}
 >
   <div class="mx-auto max-w-3xl px-6 sm:px-8 py-10 sm:py-14">
@@ -27,35 +29,49 @@ const schema = {
 
     <div class="prose mt-8">
       <p>
-        {SITE.name} is a reference site for people who crochet. It exists because
-        crochet instructions have a habit of explaining everything except the
-        part you are stuck on.
+        {SITE.name} is an independent website dedicated to making crochet
+        patterns, tutorials, and creative projects easier to discover and
+        understand.
+      </p>
+      <p>
+        We publish step-by-step crochet guides, practical project ideas, and
+        seasonal inspiration for makers of different skill levels.
+      </p>
+      <p>
+        Our content may be developed with assistance from digital tools. We aim
+        to provide clear, useful instructions and continually improve our
+        guides.
+      </p>
+      <p>Our editorial identity is {SITE.author.name}.</p>
+
+      <h2>{SITE.author.name}</h2>
+      <p>{SITE.author.bio}</p>
+
+      <h2>How articles are developed</h2>
+      <p>
+        Technique pages use standard US crochet terminology, the terms used by
+        the Craft Yarn Council, because that is what most patterns written for
+        American crocheters use. Where a UK term names a different stitch, the
+        page says so.
+      </p>
+      <p>
+        Conversion charts are checked against published standards, such as
+        manufacturer hook sizing and Craft Yarn Council yarn weights, rather
+        than copied from other blogs.
+      </p>
+      <p>
+        Digital tools may help draft, edit, or illustrate a guide. Illustrations
+        made that way are labeled in the caption. A pattern page does not claim
+        the project was handmade or yarn-tested unless that is stated on the
+        page itself.
       </p>
 
-      <h2>Who writes this</h2>
+      <h2>Corrections</h2>
       <p>
-        I am {SITE.author.name}, and I write and maintain every page here.
-        {SITE.author.bio}
-      </p>
-      <p>
-        There is no content team and no rotating cast of freelancers. If a page
-        is wrong, it is my fault, and I would genuinely like to know so I can fix
-        it. My address is on the <a href="/contact/">contact page</a>.
-      </p>
-
-      <h2>How the tutorials are put together</h2>
-      <p>
-        Every technique page is written against the standard US crochet
-        terminology used by the Craft Yarn Council, because that is what the
-        overwhelming majority of patterns American crocheters encounter are
-        written in. Where UK terms differ — and for a few stitches they differ in
-        genuinely confusing ways — the page says so explicitly instead of leaving
-        you to find out the hard way.
-      </p>
-      <p>
-        Conversion charts are checked against manufacturer sizing rather than
-        copied from other blogs, which is how small errors end up repeated across
-        the entire internet.
+        If a stitch count, measurement, or step looks wrong, tell us through the
+        <a href="/contact/">contact page</a> and name the page. Reported errors
+        are checked and, when the report is right, the page is corrected. When
+        a published fact changes, the article's updated date changes with it.
       </p>
 
       <h2>What this site will not do</h2>

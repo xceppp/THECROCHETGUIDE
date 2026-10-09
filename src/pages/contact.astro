@@ -34,8 +34,8 @@ const schema = {
         hasEmail ? (
           <>
             <p>
-              The fastest way to reach me is email, and it comes to me directly
-              rather than to a support queue.
+              The fastest way to reach the editorial team is email, and it comes
+              to that inbox directly rather than to a support queue.
             </p>
             <p>
               <a href={`mailto:${SITE.email}`} class="text-lg font-semibold">
@@ -46,13 +46,13 @@ const schema = {
         ) : (
           <>
             <p>
-              The quickest way to reach me right now is a direct message on any
-              of the accounts below. They all reach the same person.
+              The quickest way to reach the editorial team right now is a direct
+              message on any of the accounts below.
             </p>
             <ul>
               {SOCIALS.map((social) => (
                 <li>
-                  <a href={social.url} rel="me noopener">
+                  <a href={social.url} rel="noopener">
                     {social.name}
                   </a>
                 </li>
@@ -66,7 +66,7 @@ const schema = {
       <ul>
         <li>
           <strong>A correction.</strong> If a chart or a tutorial step is wrong,
-          tell me which page and what you found. These go to the front of the
+          tell us which page and what you found. These go to the front of the
           queue and the page gets fixed.
         </li>
         <li>
@@ -78,7 +78,7 @@ const schema = {
         <li>
           <strong>A question you could not find the answer to.</strong> These
           often turn into new articles, and it is the most useful thing you can
-          send me.
+          send.
         </li>
       </ul>
 

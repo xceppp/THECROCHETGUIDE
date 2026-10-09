@@ -12,9 +12,9 @@ export const SITE = {
   locale: "en-US",
   /** Shown on the About page and in every article byline. */
   author: {
-    name: "Nora Bell",
-    role: "Founder and writer",
-    bio: "I started Crochet Explained after spending an entire evening stuck on a pattern that assumed I already knew what it meant. Everything here is written the way I wish it had been explained to me.",
+    name: "Crochet Explained Editorial Team",
+    role: "Editorial team",
+    bio: "The Crochet Explained Editorial Team creates and maintains crochet tutorials, pattern guides, and project inspiration to help readers explore practical and creative crochet ideas.",
   },
   /**
    * Contact address. Still the live inbox until a crochetexplained.com mailbox

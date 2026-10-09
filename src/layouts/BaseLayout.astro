@@ -103,10 +103,6 @@ const organizationSchema = {
   description: SITE.description,
   logo: new URL("/icon-512.png", SITE.url).href,
   sameAs: SOCIALS.map((social) => social.url),
-  founder: {
-    "@type": "Person",
-    name: SITE.author.name,
-  },
 };
 
 const schemas = [
