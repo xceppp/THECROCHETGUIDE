@@ -1,0 +1,32 @@
+---
+import type { CollectionEntry } from "astro:content";
+import PostCard from "./PostCard.astro";
+import Pager from "./Pager.astro";
+
+interface Props {
+  posts: CollectionEntry<"posts">[];
+  current: number;
+  last: number;
+  heading?: string;
+}
+
+const { posts, current, last, heading } = Astro.props;
+---
+
+<section id="all-articles">
+  {
+    heading && (
+      <h2 class="font-serif text-2xl tracking-tight">{heading}</h2>
+    )
+  }
+  <p class:list={["text-sm text-ink-soft", heading && "mt-2"]}>
+    Page {current} of {last}.
+  </p>
+  <Pager current={current} last={last} />
+  <div class="mt-5 grid grid-cols-2 gap-x-3 gap-y-5 sm:gap-x-5 sm:gap-y-6">
+    {posts.map((post) => (
+      <PostCard post={post} compact />
+    ))}
+  </div>
+  <Pager current={current} last={last} />
+</section>

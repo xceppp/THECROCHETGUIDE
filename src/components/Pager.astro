@@ -1,0 +1,52 @@
+---
+import { articlePageHref } from "../lib/articlePages";
+
+interface Props {
+  current: number;
+  last: number;
+}
+
+const { current, last } = Astro.props;
+const pages = Array.from({ length: last }, (_, index) => index + 1);
+const link =
+  "inline-flex h-11 items-center justify-center rounded-full border px-4 text-sm no-underline";
+---
+
+{
+  last > 1 && (
+    <nav class="mt-4 flex flex-col items-center gap-3" aria-label="Article pages">
+      <div class="flex flex-wrap items-center justify-center gap-2">
+        {pages.map((page) => (
+          <a
+            href={articlePageHref(page)}
+            aria-current={page === current ? "page" : undefined}
+            class:list={[
+              "inline-flex h-11 min-w-11 items-center justify-center rounded-full border px-3 text-sm no-underline",
+              page === current
+                ? "border-terracotta bg-terracotta text-paper"
+                : "border-rule bg-paper text-ink",
+            ]}
+          >
+            {page}
+          </a>
+        ))}
+      </div>
+      <div class="flex items-center justify-center gap-2">
+        {current > 1 ? (
+          <a href={articlePageHref(current - 1)} class={`${link} border-rule bg-paper text-ink`}>
+            Previous
+          </a>
+        ) : (
+          <span class={`${link} border-rule text-ink-faint`}>Previous</span>
+        )}
+        {current < last ? (
+          <a href={articlePageHref(current + 1)} class={`${link} border-rule bg-paper text-ink`}>
+            Next
+          </a>
+        ) : (
+          <span class={`${link} border-rule text-ink-faint`}>Next</span>
+        )}
+      </div>
+    </nav>
+  )
+}

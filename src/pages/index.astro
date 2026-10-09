@@ -3,7 +3,9 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
 import AdSlot from "../components/AdSlot.astro";
+import ArticleIndex from "../components/ArticleIndex.astro";
 import { getPathStages } from "../lib/learningPath";
+import { ARTICLE_PAGE_SIZE } from "../lib/articlePages";
 import { SITE, CATEGORIES } from "../config";
 import { resolveSeasonalOccasion } from "../lib/seasonalTheme";
 
@@ -26,19 +28,8 @@ const seasonalPosts = seasonalTag
 
 // Featured seasonal piece is pinned first on the homepage when the season is live.
 const featuredSeasonal = seasonalPosts[0] ?? null;
-const remaining = featuredSeasonal
-  ? unpinned.filter((post) => post.id !== featuredSeasonal.id)
-  : unpinned;
-// When a seasonal pin exists, it is the lead. Otherwise newest post leads.
-const lead = featuredSeasonal ?? remaining[0];
-const moreFrom = featuredSeasonal ? remaining : remaining.slice(1);
-const alreadyShown = new Set<string>([
-  ...(pinned ? [pinned.id] : []),
-  ...seasonalPosts.map((post) => post.id),
-]);
-const recent = moreFrom
-  .filter((post) => !alreadyShown.has(post.id))
-  .slice(0, 6);
+const archiveLast = Math.max(1, Math.ceil(posts.length / ARTICLE_PAGE_SIZE));
+const archivePosts = posts.slice(0, ARTICLE_PAGE_SIZE);
 
 // Phone screens were opening on a single lead card. Four compact cards
 // sit above the fold instead; wider screens keep the lead treatment.
@@ -99,6 +90,21 @@ const seasonalHeading =
           <div class="mt-5">
             <PostCard post={pinned} lead />
           </div>
+        </div>
+      </section>
+    )
+  }
+
+  {
+    posts.length > 0 && (
+      <section class="border-b border-rule">
+        <div class="mx-auto max-w-4xl px-4 py-8 sm:px-8 sm:py-12">
+          <ArticleIndex
+            posts={archivePosts}
+            current={1}
+            last={archiveLast}
+            heading="All articles"
+          />
         </div>
       </section>
     )
@@ -218,42 +224,6 @@ const seasonalHeading =
       }
     </div>
 
-    {
-      posts.length === 0 ? (
-        <p class="mt-12 rounded-lg border border-rule bg-paper-deep px-5 py-6 text-ink-soft">
-          The first articles are being written. Check back shortly.
-        </p>
-      ) : (
-        <>
-          {
-            !featuredSeasonal && lead && (
-              <>
-                <h2 class="mt-14 text-xs font-semibold tracking-wider text-ink-faint uppercase">
-                  Latest
-                </h2>
-                <div class="mt-5">
-                  <PostCard post={lead} lead />
-                </div>
-              </>
-            )
-          }
-
-          {recent.length > 0 && (
-            <>
-              <h2 class="mt-12 text-xs font-semibold tracking-wider text-ink-faint uppercase">
-                More from {SITE.name}
-              </h2>
-              <div class="mt-5 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
-                {recent.map((post) => (
-                  <PostCard post={post} />
-                ))}
-              </div>
-            </>
-          )}
-
-          <AdSlot placement="footer" />
-        </>
-      )
-    }
+    <AdSlot placement="footer" />
   </div>
 </BaseLayout>
