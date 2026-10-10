@@ -3,13 +3,12 @@ import type { GetStaticPaths } from "astro";
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import ArticleIndex from "../../components/ArticleIndex.astro";
-import { ARTICLE_PAGE_SIZE } from "../../lib/articlePages";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
     (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
   );
-  return paginate(posts, { pageSize: ARTICLE_PAGE_SIZE });
+  return paginate(posts, { pageSize: Math.max(posts.length, 1) });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
@@ -28,6 +27,7 @@ const description =
       current={page.currentPage}
       last={page.lastPage}
       heading="All articles"
+      browse
     />
   </div>
 </BaseLayout>

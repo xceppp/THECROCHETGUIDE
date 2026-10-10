@@ -26,6 +26,13 @@ const isHalloween = post.data.tags.some(
 );
 const thumb = getPostThumbnail(post.id);
 const href = `/${post.id}/`;
+const searchText = [
+  post.data.title,
+  post.data.description,
+  category.label,
+  post.data.level ?? "",
+  ...post.data.tags,
+].join(" ");
 ---
 
 <article
@@ -34,6 +41,9 @@ const href = `/${post.id}/`;
     compact && "h-full min-w-0",
     lead && !compact ? "border-b border-rule pb-8" : "",
   ]}
+  data-slug={post.id}
+  data-published={post.data.pubDate.getTime()}
+  data-search={searchText}
 >
   <a
     href={href}

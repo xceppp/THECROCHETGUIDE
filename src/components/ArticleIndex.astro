@@ -2,31 +2,65 @@
 import type { CollectionEntry } from "astro:content";
 import PostCard from "./PostCard.astro";
 import Pager from "./Pager.astro";
+import ArticleToolbar from "./ArticleToolbar.astro";
 
 interface Props {
   posts: CollectionEntry<"posts">[];
   current: number;
   last: number;
   heading?: string;
+  /**
+   * Filter this list in the browser. The homepage form instead opens
+   * /articles/ so a search is not limited to the twelve newest cards.
+   */
+  browse?: boolean;
 }
 
-const { posts, current, last, heading } = Astro.props;
+const { posts, current, last, heading, browse = false } = Astro.props;
 ---
 
-<section id="all-articles">
+<section id="all-articles" data-article-browser={browse ? "page" : undefined}>
   {
     heading && (
       <h2 class="font-serif text-2xl tracking-tight">{heading}</h2>
     )
   }
-  <p class:list={["text-sm text-ink-soft", heading && "mt-2"]}>
-    Page {current} of {last}.
-  </p>
+  {
+    last > 1 && (
+      <p class:list={["text-sm text-ink-soft", heading && "mt-2"]}>
+        Page {current} of {last}.
+      </p>
+    )
+  }
+  <ArticleToolbar action={browse ? undefined : "/articles/"} />
+  {
+    !browse && last > 1 && (
+      <p class="mt-2 text-sm text-ink-soft">
+        <a href="/articles/" class="text-terracotta-deep no-underline hover:underline">
+          All articles
+        </a>
+        has the full list. The cards below are the twelve newest.
+      </p>
+    )
+  }
   <Pager current={current} last={last} />
-  <div class="mt-5 grid grid-cols-2 gap-x-3 gap-y-5 sm:gap-x-5 sm:gap-y-6">
+  <div
+    class="mt-5 grid grid-cols-2 gap-x-3 gap-y-5 sm:gap-x-5 sm:gap-y-6"
+    data-article-list
+  >
     {posts.map((post) => (
       <PostCard post={post} compact />
     ))}
   </div>
   <Pager current={current} last={last} />
 </section>
+
+{
+  browse && (
+    <script>
+      import { mountArticleBrowsers } from "../scripts/articleBrowser";
+
+      mountArticleBrowsers();
+    </script>
+  )
+}

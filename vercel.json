@@ -1,5 +1,12 @@
 {
   "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/articles/:page(\\d+)",
+      "destination": "/articles/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/ads.txt",

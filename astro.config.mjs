@@ -124,6 +124,12 @@ export default defineConfig({
    * proper canonical tag" and it looks like a failed indexation.
    */
   trailingSlash: "always",
+  redirects: Object.fromEntries(
+    Array.from({ length: 20 }, (_, index) => [
+      `/articles/${index + 2}/`,
+      "/articles/",
+    ]),
+  ),
   integrations: [
     sitemap({
       filter: (page) =>

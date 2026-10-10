@@ -1,0 +1,48 @@
+---
+interface Props {
+  /** Set when the form should open the full article index. */
+  action?: string;
+}
+
+const { action } = Astro.props;
+---
+
+<form
+  class="no-print mt-4 flex flex-col gap-3 sm:flex-row sm:items-end"
+  method="get"
+  action={action}
+  data-article-form
+>
+  <label class="block min-w-0 flex-1 text-sm text-ink-soft">
+    Search
+    <input
+      type="search"
+      name="q"
+      data-article-query
+      placeholder="Title or topic"
+      class="mt-1 w-full rounded-md border border-rule bg-paper px-3 py-2 text-base text-ink"
+    />
+  </label>
+  <label class="block text-sm text-ink-soft">
+    Sort
+    <select
+      name="sort"
+      data-article-sort
+      class="mt-1 w-full rounded-md border border-rule bg-paper px-3 py-2 text-base text-ink sm:w-48"
+    >
+      <option value="newest">Newest first</option>
+      <option value="oldest">Oldest first</option>
+      <option value="read">Most read</option>
+    </select>
+  </label>
+  <button
+    type="submit"
+    class="rounded-full bg-terracotta px-5 py-2.5 text-sm font-medium text-paper"
+  >
+    Apply
+  </button>
+</form>
+<p class="mt-2 text-xs leading-relaxed text-ink-faint">
+  Newest first is the default. Most read counts pages opened in this browser. It is not a count of every visitor.
+</p>
+<p class="mt-2 text-sm text-ink-soft" data-article-status hidden></p>
