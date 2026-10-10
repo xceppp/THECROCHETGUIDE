@@ -46,6 +46,8 @@ For single crochet, the answer is consistent: **the chain-1 does not count as a 
 
 A short check: start with 10 single crochet. Chain 1, turn, and work 10 again. The row is still 10. If you also put a stitch into the chain, the row is 11. Do that for five rows and the count is 15. The fabric is a wedge, and the extra stitches cannot be eased out later.
 
+Write the next check down. Chain 11. Single crochet in the second chain and across: that is 10. Work three more rows of 10, each starting with a chain-1 that you do not count. The list should read 10, 10, 10, 10. A 9 is a missed edge stitch. An 11 is an extra insertion, usually the turning chain or the first stitch worked twice. This is arithmetic, not a swatch measured for this page. The [stitch counter](/crochet-stitch-counter/) is there if you lose the number while you look at the edge.
+
 For everything taller, it depends on the designer.
 
 **If the turning chain counts,** skip the first stitch of the previous row. The chain stands in for it. Work the last stitch of the row into the top of the previous row's turning chain.

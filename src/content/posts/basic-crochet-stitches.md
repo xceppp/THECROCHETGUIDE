@@ -101,6 +101,20 @@ Short, dense, and sturdy. Use it for amigurumi, bags, and dishcloths.
 
 Into a foundation chain, start in the **second chain from the hook**.
 
+## Practice: a 15-stitch rectangle
+
+This is a counting exercise, not a finished object. No sample of it was measured for this page.
+
+Chain 16. Count the finished V links only. The loop on the hook is not a chain.
+
+**Row 1.** Single crochet in the second chain from the hook, then in each chain across. You skipped one chain, so 16 − 1 = **15 single crochet**.
+
+**Later rows.** Chain 1 and turn. For this exercise that chain is height only. It does not count. Single crochet in the first stitch and in every stitch after it, including the last one. The row is 15 again.
+
+Stop when four rows in a row are 15. Write the counts down: 15, 15, 15, 15. A 14 means an edge stitch was missed. A 16 means the turning chain was used as a stitch, or the hook went into one stitch twice. The [turning chain page](/crochet-turning-chain/) shows that wedge. A [stitch counter](/crochet-stitch-counter/) can hold the number while you look.
+
+When you stop, cut the yarn, pull the tail through the last loop, and weave it through several stitches on the back. Do not cut it flush against the knot. Weaving is covered in [weaving in ends](/weaving-in-ends-and-blocking/).
+
 ## 3. Half double crochet (`hdc`)
 
 Between single and double in height. Softer than single crochet, still fairly dense. Useful for hats and blankets.

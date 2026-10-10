@@ -30,6 +30,33 @@ const posts = (
               <PostCard post={post} />
             ))}
           </div>
+          {
+            category === "charts" && (
+              <section class="mt-12 border-t border-rule pt-8">
+                <h2 class="font-serif text-2xl tracking-tight">Practice tools</h2>
+                <ul class="mt-4 space-y-3 text-ink-soft">
+                  <li>
+                    <a href="/crochet-gauge-calculator/" class="text-terracotta-deep underline">
+                      Gauge calculator
+                    </a>
+                    . Predicted width from your swatch. Not a measurement of the finished piece.
+                  </li>
+                  <li>
+                    <a href="/crochet-stitch-counter/" class="text-terracotta-deep underline">
+                      Stitch counter
+                    </a>
+                    . Increase, decrease, and reset. Nothing is stored in an account.
+                  </li>
+                  <li>
+                    <a href="/crochet-pattern-practice/" class="text-terracotta-deep underline">
+                      Pattern practice
+                    </a>
+                    . Five questions on abbreviations, repeats, and stitch counts.
+                  </li>
+                </ul>
+              </section>
+            )
+          }
           <AdSlot placement="footer" />
         </>
       ) : (

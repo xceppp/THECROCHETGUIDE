@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Which way to change the hook</title>
+<desc>If four inches contains more stitches than the pattern, each stitch is smaller. Try a larger hook. If four inches contains fewer stitches, try a smaller hook.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="292" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">More stitches</text>
+     <text class="soft" x="40" y="140">20 sc in 4 inches</text>
+     <text class="soft" x="40" y="190">Pattern asked for 16</text>
+     <text class="label" x="40" y="270">Try a larger hook</text>
+     <text class="soft" x="40" y="330">Then measure again</text>
+     <rect x="332" y="24" width="292" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="348" y="60">Fewer stitches</text>
+     <text class="soft" x="356" y="140">14 sc in 4 inches</text>
+     <text class="soft" x="356" y="190">Pattern asked for 16</text>
+     <text class="label" x="356" y="270">Try a smaller hook</text>
+     <text class="soft" x="356" y="330">Then measure again</text>
+</svg>

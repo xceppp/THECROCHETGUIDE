@@ -1,0 +1,99 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Crochet Gauge Calculator"
+  description="Compare your swatch with a pattern gauge and see the predicted width. The result is arithmetic, not a measurement of the finished piece."
+>
+  <article class="mx-auto max-w-3xl px-6 py-12 sm:px-8 sm:py-16">
+    <p class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">Charts and tools</p>
+    <h1 class="mt-3 font-serif text-3xl tracking-tight sm:text-4xl">Crochet gauge calculator</h1>
+    <p class="mt-4 text-lg leading-relaxed text-ink-soft">
+      This page turns two stitch counts into a predicted width. It assumes the gauge stays the same across the piece. It does not replace a tape measure, and it does not know your row gauge.
+    </p>
+
+    <form id="gauge-form" class="mt-8 space-y-5 rounded-lg border border-rule bg-paper-deep p-5" novalidate>
+      <div>
+        <label class="block text-sm font-medium" for="pattern-stitches">Pattern stitches in the window</label>
+        <input id="pattern-stitches" name="patternStitches" inputmode="decimal" class="mt-1 w-full rounded border border-rule bg-paper px-3 py-2" required />
+      </div>
+      <div>
+        <label class="block text-sm font-medium" for="actual-stitches">Your swatch stitches in the same window</label>
+        <input id="actual-stitches" name="actualStitches" inputmode="decimal" class="mt-1 w-full rounded border border-rule bg-paper px-3 py-2" required />
+      </div>
+      <div>
+        <label class="block text-sm font-medium" for="window-inches">Window, in inches</label>
+        <input id="window-inches" name="windowInches" inputmode="decimal" value="4" class="mt-1 w-full rounded border border-rule bg-paper px-3 py-2" required />
+      </div>
+      <div>
+        <label class="block text-sm font-medium" for="stitch-count">Stitch count to predict, if you have one</label>
+        <input id="stitch-count" name="stitchCount" inputmode="decimal" class="mt-1 w-full rounded border border-rule bg-paper px-3 py-2" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium" for="desired-width">Or a width in inches you want</label>
+        <input id="desired-width" name="desiredWidth" inputmode="decimal" class="mt-1 w-full rounded border border-rule bg-paper px-3 py-2" />
+      </div>
+      <button type="submit" class="min-h-11 rounded bg-terracotta px-4 py-2 text-paper">Calculate</button>
+    </form>
+
+    <div id="gauge-result" class="mt-6 text-base leading-relaxed" aria-live="polite"></div>
+
+    <p class="mt-8 text-sm leading-relaxed text-ink-soft">
+      Worked check, already on the <a href="/crochet-gauge/" class="text-terracotta-deep underline">gauge lesson</a>: 16 stitches in the pattern and 20 on your swatch, both over 4 inches. Sixteen of your stitches are 3.2 inches wide. The pattern expected 4 inches. That fabric is 20 percent narrower. Try a larger hook and swatch again.
+    </p>
+  </article>
+</BaseLayout>
+
+<script>
+  import { gaugeAdvice, roundTenths } from "../lib/gaugeMath";
+
+  const form = document.querySelector<HTMLFormElement>("#gauge-form");
+  const result = document.querySelector<HTMLElement>("#gauge-result");
+
+  function readOptional(id: string): number | null {
+    const raw = (document.querySelector<HTMLInputElement>(`#${id}`)?.value ?? "").trim();
+    if (raw === "") return null;
+    return Number(raw);
+  }
+
+  form?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    if (!result) return;
+    const advice = gaugeAdvice({
+      patternStitches: Number((document.querySelector<HTMLInputElement>("#pattern-stitches")?.value ?? "").trim()),
+      actualStitches: Number((document.querySelector<HTMLInputElement>("#actual-stitches")?.value ?? "").trim()),
+      windowInches: Number((document.querySelector<HTMLInputElement>("#window-inches")?.value ?? "").trim()),
+      stitchCount: readOptional("stitch-count"),
+      desiredWidth: readOptional("desired-width"),
+    });
+    if (!advice.ok) {
+      result.textContent = advice.error;
+      return;
+    }
+    const lines: string[] = [];
+    if (advice.direction === "match") {
+      lines.push("Your stitch gauge matches the pattern over that window. Width should agree if the gauge holds.");
+    } else if (advice.direction === "narrower") {
+      lines.push(
+        `The same stitch count comes out about ${roundTenths(Math.abs(advice.percentVsPattern))} percent narrower than the pattern. Try a larger hook, then measure a new swatch.`,
+      );
+    } else {
+      lines.push(
+        `The same stitch count comes out about ${roundTenths(advice.percentVsPattern)} percent wider than the pattern. Try a smaller hook, then measure a new swatch.`,
+      );
+    }
+    if (advice.predictedWidth !== null && advice.patternWidth !== null) {
+      lines.push(
+        `Those stitches are about ${roundTenths(advice.predictedWidth)} inches wide at your gauge. The pattern gauge would make them about ${roundTenths(advice.patternWidth)} inches.`,
+      );
+    }
+    if (advice.stitchesForWidth !== null && advice.patternStitchesForWidth !== null) {
+      lines.push(
+        `At your gauge that width needs about ${roundTenths(advice.stitchesForWidth)} stitches. The pattern gauge would use about ${roundTenths(advice.patternStitchesForWidth)}.`,
+      );
+    }
+    lines.push("Row height is a separate count. This result does not include it.");
+    result.textContent = lines.join(" ");
+  });
+</script>

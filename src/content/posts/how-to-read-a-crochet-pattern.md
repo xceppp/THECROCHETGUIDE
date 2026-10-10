@@ -76,6 +76,29 @@ Use the number at the end of the row. Most drift comes from three places. The tu
 
 If you are off by a stitch or two, undo to the last row you trusted. Compensating on the next row does not fix it.
 
+## A line small enough to check by hand
+
+This example is only a count. It is not a project.
+
+**Foundation:** chain 11.
+
+**Row 1:** single crochet in the second chain from the hook and in each chain across. (10 sc)
+
+Eleven chains, skip the one nearest the hook, 11 − 1 = 10. The loop still on the hook is not an eleventh stitch.
+
+**Row 2:** chain 1, turn, single crochet in each stitch across. (10 sc)
+
+For this exercise the chain-1 does not count. Another pattern may say its turning chain does count. Use that pattern's note, not this one.
+
+A bracket works the same way. `[sc in next st, 2 sc in next st] 3 times` means one single crochet, then two single crochets in the following stitch, and do that pair three times. Each repeat uses 2 old stitches and makes 3 new ones. Three repeats use 6 old stitches and make 9. If the row does not have those 6 stitches left, the repeat does not fit.
+
+<figure class="diagram">
+<img src="/diagrams/pattern-repeat.svg" alt="Diagram of the repeat single crochet, then two single crochets in the next stitch, worked three times. It uses six old stitches and makes nine new stitches." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Count what the repeat uses, then what it makes, then multiply by how many times it says.</figcaption>
+</figure>
+
+The same rules are on the [pattern practice page](/crochet-pattern-practice/), five questions with the reason after each answer.
+
 ## Several sizes, and repeats
 
 Garment patterns stack sizes in one line:

@@ -37,6 +37,21 @@ A 5 mm hook is large enough to see and matches the worsted yarn most beginner pa
 
 Learn on **medium worsted, category 4**, in a **light solid color** such as cream, light gray, pale blue, or soft yellow, so the loops show. The [yarn weight chart](/yarn-weight-chart/) lists the categories. **Smooth plied acrylic** is springy, machine washable, and cheap to rip out.
 
+The label's hook size is a starting point. The pattern's gauge wins when the finished size matters. If your swatch has more stitches than the pattern in 4 inches, try a larger hook. If it has fewer, try a smaller hook. Millimeters matter more than the US letter, because letters are not identical across brands. The [hook chart](/crochet-hook-size-conversion-chart/) and the [gauge lesson](/crochet-gauge/) are the two pages for that check. You do not need a full set of hooks to start.
+
+<figure class="diagram">
+<img src="/diagrams/hook-gauge-choice.svg" alt="Diagram. More stitches than the pattern in four inches means try a larger hook. Fewer stitches means try a smaller hook. Measure again after the change." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Change one hook size, then measure the middle of a new swatch. The first swatch does not become the right size by stretching it.</figcaption>
+</figure>
+
+| You are making | What to check first |
+| --- | --- |
+| A practice rectangle | Smooth light yarn, and a hook you can see the loops on |
+| A dishcloth | Cotton, and the care label |
+| A fitted hat | The pattern gauge, then your own swatch |
+| A stuffed toy | A dense fabric with no gaps for stuffing |
+| A scarf where length can vary | Drape, not an exact width |
+
 Common US worsted acrylics: **Red Heart Super Saver** (stiff until washed), **Lion Brand Basic Stitch** (smoother), **Bernat Super Value**, and **Loops & Threads Impeccable** (Michaels). Dishcloths need worsted cotton, **Lily Sugar'n Cream** or **Peaches & Creme**. Acrylic can melt on a hot pan. Cotton is less forgiving, so make it the second project.
 
 ### Yarns that make learning harder

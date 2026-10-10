@@ -91,6 +91,13 @@ The same arithmetic shows why a tight swatch makes a small garment even when the
 
 Go up a hook size and measure again. Do not keep the tight swatch and hope the finished piece relaxes into the missing width.
 
+The same sum is on the [gauge calculator](/crochet-gauge-calculator/). It predicts a width from your swatch. It does not measure the piece in your hands, and it does not know your row gauge.
+
+<figure class="diagram">
+<img src="/diagrams/hook-gauge-choice.svg" alt="Diagram. More stitches than the pattern in four inches means try a larger hook. Fewer stitches means try a smaller hook." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. More stitches in four inches means the fabric is narrower. Fewer stitches means it is wider.</figcaption>
+</figure>
+
 The same arithmetic works for length, using your row gauge. It is reliable for rectangles: blankets, scarves, dishcloths, simple shawls. On a fitted garment, every increase and decrease sits on the original numbers, so changing the count means redrafting the shaping.
 
 ## Common mistakes

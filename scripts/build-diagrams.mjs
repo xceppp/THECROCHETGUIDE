@@ -239,6 +239,30 @@ const files = {
      <text class="soft" x="80" y="340">Move it to the new first stitch every round.</text>
      <text class="soft" x="80" y="372">The marker itself is not a stitch.</text>`,
   ),
+  "pattern-repeat.svg": svg(
+    "A crochet repeat worked three times",
+    "The instruction single crochet in the next stitch, then two single crochets in the next stitch, worked three times, uses six old stitches and makes nine new stitches.",
+    `${panel(16, 24, 608, 372, "One repeat, three times")}
+     <text class="soft" x="40" y="100">Each repeat: 1 sc, then 2 sc in the next stitch.</text>
+     <text class="label" x="40" y="170">Uses 2 old stitches</text>
+     <text class="label" x="40" y="220">Makes 3 new stitches</text>
+     <text class="soft" x="40" y="290">Times 3</text>
+     <text class="label" x="40" y="350">6 old stitches become 9 new stitches</text>`,
+  ),
+  "hook-gauge-choice.svg": svg(
+    "Which way to change the hook",
+    "If four inches contains more stitches than the pattern, each stitch is smaller. Try a larger hook. If four inches contains fewer stitches, try a smaller hook.",
+    `${panel(16, 24, 292, 370, "More stitches")}
+     <text class="soft" x="40" y="140">20 sc in 4 inches</text>
+     <text class="soft" x="40" y="190">Pattern asked for 16</text>
+     <text class="label" x="40" y="270">Try a larger hook</text>
+     <text class="soft" x="40" y="330">Then measure again</text>
+     ${panel(332, 24, 292, 370, "Fewer stitches")}
+     <text class="soft" x="356" y="140">14 sc in 4 inches</text>
+     <text class="soft" x="356" y="190">Pattern asked for 16</text>
+     <text class="label" x="356" y="270">Try a smaller hook</text>
+     <text class="soft" x="356" y="330">Then measure again</text>`,
+  ),
 };
 
 for (const [name, contents] of Object.entries(files)) {

@@ -1,0 +1,54 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Crochet Stitch Counter"
+  description="Count crochet stitches on your phone. Increase, decrease, and reset. Nothing is saved to an account."
+>
+  <article class="mx-auto max-w-3xl px-6 py-12 sm:px-8 sm:py-16">
+    <p class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">Charts and tools</p>
+    <h1 class="mt-3 font-serif text-3xl tracking-tight sm:text-4xl">Stitch counter</h1>
+    <p class="mt-4 leading-relaxed text-ink-soft">
+      Tap once per finished stitch. The loop still on the hook is not a stitch, and a turning chain counts only when the pattern says it does. The number stays in this browser tab. Closing the tab clears it.
+    </p>
+    <div class="mt-8 rounded-lg border border-rule bg-paper-deep p-6 text-center">
+      <p id="stitch-count" class="font-serif text-6xl tabular-nums" aria-live="polite">0</p>
+      <div class="mt-6 flex flex-wrap items-center justify-center gap-3">
+        <button id="stitch-down" type="button" class="min-h-11 min-w-11 rounded border border-rule bg-paper px-4 py-2">Decrease</button>
+        <button id="stitch-up" type="button" class="min-h-11 min-w-28 rounded bg-terracotta px-4 py-2 text-paper">Increase</button>
+        <button id="stitch-reset" type="button" class="min-h-11 rounded border border-rule bg-paper px-4 py-2">Reset</button>
+      </div>
+    </div>
+    <p class="mt-8 text-sm leading-relaxed text-ink-soft">
+      Use it with the <a class="text-terracotta-deep underline" href="/basic-crochet-stitches/">15-stitch practice rectangle</a> or the <a class="text-terracotta-deep underline" href="/crochet-turning-chain/">turning-chain check</a>.
+    </p>
+  </article>
+</BaseLayout>
+
+<script>
+  import { changeCount } from "../lib/practiceMath";
+
+  const display = document.querySelector<HTMLElement>("#stitch-count");
+  const up = document.querySelector<HTMLButtonElement>("#stitch-up");
+  const down = document.querySelector<HTMLButtonElement>("#stitch-down");
+  const reset = document.querySelector<HTMLButtonElement>("#stitch-reset");
+  let count = 0;
+
+  function render() {
+    if (display) display.textContent = String(count);
+  }
+
+  up?.addEventListener("click", () => {
+    count = changeCount(count, "up");
+    render();
+  });
+  down?.addEventListener("click", () => {
+    count = changeCount(count, "down");
+    render();
+  });
+  reset?.addEventListener("click", () => {
+    count = changeCount(count, "reset");
+    render();
+  });
+</script>

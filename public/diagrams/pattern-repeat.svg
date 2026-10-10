@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>A crochet repeat worked three times</title>
+<desc>The instruction single crochet in the next stitch, then two single crochets in the next stitch, worked three times, uses six old stitches and makes nine new stitches.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="608" height="372" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">One repeat, three times</text>
+     <text class="soft" x="40" y="100">Each repeat: 1 sc, then 2 sc in the next stitch.</text>
+     <text class="label" x="40" y="170">Uses 2 old stitches</text>
+     <text class="label" x="40" y="220">Makes 3 new stitches</text>
+     <text class="soft" x="40" y="290">Times 3</text>
+     <text class="label" x="40" y="350">6 old stitches become 9 new stitches</text>
+</svg>
