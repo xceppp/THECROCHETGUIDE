@@ -65,6 +65,8 @@ Chain 49.
 
 **Rows 2–60:** Sc in each stitch. Ch 1, turn. (48)
 
+At 4 single crochet and 5 rows to the inch, 48 stitches and 60 rows are both 12 inches. If your row gauge is not 5 rows to the inch, 60 rows will not match the width. Measure both sides before you join. Two layers make the fabric thicker. They do not make it a hot pad.
+
 Count every 10 rows. Measure the square. If your bowl math is different, stop at your own row count.
 
 ![Two cream squares stacked, edges aligned](../../assets/articles/how-to-crochet-a-bowl-cozy-3.jpg "Illustration. Two cotton layers. Both squares need to match before you join them.")

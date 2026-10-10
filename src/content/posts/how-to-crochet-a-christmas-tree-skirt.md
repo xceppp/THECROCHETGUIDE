@@ -72,6 +72,8 @@ Do not join the slit.
 
 **Increase rule.** Take the stitch count, which divides by 12. Divide by 12. That is one group. In each group, work 2 dc in the first stitch and 1 dc in each remaining stitch of the group. Twelve groups give you 12 new stitches.
 
+A flat circle made in closed rounds, from a center ring, is a different object. Joining these rows would close the slit, and a tree that is already standing could not get in. Twelve increases a row is the usual double-crochet rate only when the stitch is about twice as tall as it is wide. Rows 2 through 4 are the test. If they cup or wave, stop and change the increase before you keep going. A closed circle in [the round](/crochet-in-the-round/) will not fix a slit skirt.
+
 **Row 2:** 36 ÷ 12 = 3. *2 dc in the next stitch, dc in the next 2.* Repeat across. Ch 2, turn. (48)
 
 **Row 3:** 48 ÷ 12 = 4. *2 dc in the next stitch, dc in the next 3.* Repeat across. Ch 2, turn. (60)

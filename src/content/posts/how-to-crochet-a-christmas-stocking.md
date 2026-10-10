@@ -95,7 +95,7 @@ Each decrease grabs the next unworked stitch, so the heel cups. If you decrease 
 
 **Rows 3–14:** Ch 1, sc in the next 5 stitches. Work the 6th stitch together with the first unworked stitch beside it (sc2tog). Turn. (6)
 
-After row 14 you have **6 stitches** and no skipped stitches left on the flap. If a fan of stitches is still sitting there, the decreases stayed inside the center. Pull back to row 3.
+After row 2, six stitches are still waiting on each side of the flap, 12 in all. Rows 3 through 14 take one of those 12, one row at a time. Turning sends the next decrease to the other side. Twelve rows use up 12 stitches. The center stays at 6. After row 14 you have **6 stitches** and no skipped stitches left on the flap. If a fan of stitches is still sitting there, the decreases stayed inside the center. Pull back to row 3.
 
 ## Foot
 

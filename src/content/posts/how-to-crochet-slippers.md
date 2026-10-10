@@ -62,7 +62,7 @@ Chain 15 for the example width.
 
 **Rows 2–48:** Sc in each stitch. Ch 1, turn. (14)
 
-The written slipper is a rectangle sole, a short toe cap, and a short heel tab, with the instep left open. If a drawing looks more closed than that, follow the row counts. Fourteen stitches at 4 sc to the inch is about **3.5 inches**. Lay it on the foot. The longest toe should sit inside the far end, with a little fabric left. If the toes hang off, add rows. If the width is tight, start over with more stitches. Do not stretch a narrow sole and sew the upper on.
+The written slipper is a rectangle sole, a short toe cap, and a short heel tab, with the instep left open. These sole rows do not narrow, and they do not cup under the heel. The heel is a separate rectangle sewn on later. If a drawing looks more closed than that, follow the row counts. Fourteen stitches at 4 sc to the inch is about **3.5 inches**. Lay it on the foot. The longest toe should sit inside the far end, with a little fabric left. If the toes hang off, add rows. If the width is tight, start over with more stitches. Do not stretch a narrow sole and sew the upper on.
 
 Mark one short end with a scrap of yarn. That end is the toe. You need the mark because the two ends look the same, and sewing both pieces to one end is a common way to ruin the pair.
 
