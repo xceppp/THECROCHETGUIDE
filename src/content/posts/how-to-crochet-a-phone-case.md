@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Phone Case for iPhone 18 Pro Max"
-description: "Size a single-crochet phone sleeve to the iPhone 18 Pro Max: 3.07 by 6.43 inches, then seam it and change colors."
+description: "Size a single-crochet sleeve from the iPhone 18 Pro Max body, 3.07 by 6.43 inches. US terms. No finished sleeve was measured."
 pubDate: 2026-10-07
 category: patterns
 level: beginner
@@ -22,7 +22,7 @@ A sleeve only works if this phone slides in. The iPhone 18 Pro Max body is **3.0
 
 Crochet a dense [single crochet](/basic-crochet-stitches/) rectangle to that width, fold it, and seam the sides. Cream, terracotta, sage, navy, black, or stripes all use the same rectangle.
 
-![Five crochet phone sleeves, with an iPhone 18 Pro Max in the cream one](../../assets/articles/how-to-crochet-a-phone-case-result.jpg "Illustration. Same sleeve in five colors, sized around an iPhone 18 Pro Max.")
+![Five illustrated crochet phone sleeves in different colors](../../assets/articles/how-to-crochet-a-phone-case-result.jpg "Illustration. Five colorways of the same rectangle. Not a sleeve measured on a phone.")
 
 ## What you need
 
@@ -93,7 +93,7 @@ Stay in the same yarn weight for every color. A thinner stripe changes the width
 
 ## Optional flap
 
-![An iPhone 18 Pro Max sliding into a terracotta sleeve with a button flap](../../assets/articles/how-to-crochet-a-phone-case-5.jpg "Illustration. iPhone 18 Pro Max in the sleeve. Add a flap only after the phone already fits.")
+![An illustrated terracotta sleeve with a button flap](../../assets/articles/how-to-crochet-a-phone-case-5.jpg "Illustration. A flap drawn on the sleeve. Add one only after the phone you own already fits. Not a measured sample.")
 
 Fit the open sleeve first. Then join yarn at the center of the back opening, single crochet a short flap (about 6 to 8 rows), and narrow it by decreasing one stitch at each end every other row. On the last row, chain a loop that slips over your button, slip stitch back, and fasten off. Sew the button on the front.
 
