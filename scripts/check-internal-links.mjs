@@ -8,6 +8,7 @@ const slugs = new Set(
   fs
     .readdirSync(postsDir)
     .filter((name) => name.endsWith(".md"))
+    .filter((name) => !/^draft:\s*true/m.test(fs.readFileSync(path.join(postsDir, name), "utf8")))
     .map((name) => name.slice(0, -3)),
 );
 const pageRoutes = new Set();

@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Scrunchie (Beginner, One Evening)"
-description: "Crochet a stretchy hair scrunchie over an elastic: chain a tube, seam it, and pull it onto a hair tie. Fast beginner project that photographs well."
+description: "Crochet a strip, seam it around a hair elastic, and gather it. US terms. The picture is an illustration, not a worn sample."
 pubDate: 2026-10-01
 category: skills
 level: beginner
