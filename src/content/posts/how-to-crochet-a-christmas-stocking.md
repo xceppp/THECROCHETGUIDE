@@ -12,7 +12,7 @@ tags: ["christmas stocking", "worsted", "intermediate", "how to"]
 
 A gift bag does not hang on a mantel. A stocking does, and the heel is what makes it a stocking instead of a tube with a cuff sewn on. This page is a cuff, a leg, a short heel flap, a turned heel, a foot, and a toe, all in single crochet.
 
-The inches are an example, estimated from a gauge that has not been swatched for this page. The stocking has not been hung or filled in yarn. The photos are illustrations. Measure the longest gift you actually plan to put inside, and add rounds if the example is short. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
+The inches are an example, estimated from a gauge that has not been swatched for this page. The stocking has not been hung or filled in yarn. The heel turn below is a written sequence, not a heel anyone has crocheted for this page. If the decreases do not use up the waiting stitches, the heel is not the shape the drawing shows. The photos are illustrations, not a finished stocking. Measure the longest gift you actually plan to put inside, and add rounds if the example is short. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
 
 ![A worsted crochet Christmas stocking with a folded cuff](../../assets/articles/how-to-crochet-a-christmas-stocking-result.jpg "Illustration. Intended look: ribbed cuff, heel, and a closed toe. Not a measured sample.")
 

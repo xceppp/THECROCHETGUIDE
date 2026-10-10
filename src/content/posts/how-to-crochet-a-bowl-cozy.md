@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Bowl Cozy"
-description: "A cotton bowl cozy sized from your bowl. It has not been heat-tested. Acrylic can melt. This does not promise microwave safety."
+description: "A cotton bowl cozy sized from your bowl. Not heat-tested. Do not microwave it or use it as a hot pad."
 pubDate: 2026-10-09
 category: patterns
 level: beginner
@@ -18,7 +18,7 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 <div class="warning">
 
-Cotton only. Acrylic can melt. Do not use metal thread, metallic yarn, wire, sequins, or metal buttons. This pattern does not promise microwave safety. It has not been heat-tested. Read the microwave manual. If you choose to reheat, use a short time, stay there, and stop if the cotton smells hot.
+Cotton only. Acrylic can melt and can burn. Do not use metal thread, metallic yarn, wire, sequins, or metal buttons. This page does not recommend putting the cozy in a microwave, on a stove, or in an oven. It has not been heat-tested, and it is not protection from a hot bowl. A thin cotton layer can scorch, and a bowl that is too hot to hold can burn you through it.
 
 </div>
 
@@ -41,9 +41,9 @@ Example: a bowl **6 inches across and 3 inches tall**. The side of the square is
 
 - Worsted **cotton** only. About **300 yards** for two example squares and the joining round. That is a shopping estimate from the stitch count, not a weighed cozy. A larger bowl needs more. [Yarn weights](/yarn-weight-chart/).
 - US G/6 (4.0 mm) hook, or the hook that hits gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle, scissors. Stitch markers, if you use them, must come out before any reheating you choose to do. A metal marker left in the fabric is metal.
+- Yarn needle and scissors. If you use stitch markers, take every one out when you finish. Metal does not belong in the cozy.
 
-Read the yarn label. If it is acrylic, a blend, metallic, or not clearly cotton, do not use it here. Acrylic can melt. Metallic thread can heat in a microwave. Wool can scorch. No buttons, beads, wire, sequins, or metal markers left in the fabric.
+Read the yarn label. If it is acrylic, a blend, metallic, or not clearly cotton, do not use it here. Acrylic can melt and can burn. Metallic thread can get hot. Wool can scorch. No buttons, beads, wire, sequins, or metal markers left in the fabric.
 
 The fabric is solid single crochet. Some older drawings of this cozy showed open holes. Those holes are not in the instructions. Follow the rows.
 
@@ -89,13 +89,9 @@ The bottom should stay wide enough for the bowl's base.
 
 ## Heat
 
-This cozy has not been heat-tested. Nothing here promises that it is microwave-safe. Cotton can scorch. A short reheating that smells fine once is not a test of the next one.
+Do not microwave this cozy. Do not use it as a pot holder, an oven mitt, or a trivet for a bowl you cannot hold with your bare hands. Cotton can scorch and can burn. Acrylic, if someone substitutes it, can melt onto skin. A metal stitch marker, a needle, or metallic thread does not belong in the fabric.
 
-Follow the microwave manual. If the manual does not allow a textile around a bowl, stop. The bowl itself has to be one the manual already allows. A cotton cover does not make a random bowl safe to microwave.
-
-If you choose to reheat, use a short time and stay there. Stop if the cotton smells hot, looks browned, or feels dry and stiff. Do not run a long cycle and leave the room. Do not put an empty cozy in an empty microwave.
-
-Take every metal thing out first: metal thread, a stitch marker, a needle left in an end, and any bowl the manual does not allow. This is also not an oven mitt. Do not pull a pan from the oven with it. A bowl that is too hot to hold belongs on a trivet you already trust. Setting the cozy under a warm bowl on the table is still not a heat test.
+This page has no heat test. Nothing here is evidence that the cozy protects you from a hot dish. If the bowl is too hot to hold, leave it on a trivet you already trust and wait. The cozy is a shape for a bowl that is cool enough to handle.
 
 ## A different bowl
 
@@ -113,9 +109,9 @@ The 12 inch example is step 1 for a bowl 6 inches across and 3 inches tall. Your
 
 **Pinching before you measure.** You can sew a cozy that fits the example and not your bowl. The bowl goes on the square first.
 
-**A metal marker left in the corner.** Find it before any reheating you choose to do.
+**A metal marker left in the corner.** Take it out when you finish sewing. Metal does not belong in this object.
 
-**Treating thickness as a test.** This cozy has not been heat-tested. If you choose to reheat, follow the manual, keep it short, stay there, and stop if the cotton smells hot.
+**Using it on a bowl you cannot hold.** That is a burn risk. The thickness of the cotton is not a heat test.
 
 ## Care
 
@@ -125,7 +121,7 @@ Wash off food. Hand wash cool. Dry flat, fully, before it is used again. Do not 
 
 **Can I microwave it?**
 
-This page cannot tell you yes. It has not been heat-tested, and it does not promise microwave safety. Read the manual. Cotton only, no metal. If you choose to reheat, keep the time short, stay there, and stop if the cotton smells hot.
+No. This page does not recommend microwaving the cozy. It has not been heat-tested, and cotton can scorch. Use the cozy only with a bowl that is already cool enough to hold.
 
 **Why not acrylic if that is the yarn I have?**
 

@@ -12,7 +12,7 @@ tags: ["christmas", "tree skirt", "intermediate"]
 
 The tree stand sits on the floor, and the gifts end up on the carpet around it. A tree skirt is a flat circle with two practical holes in the plan: a center opening for the trunk or the stand, and a slit from that opening to the hem so you can lay the circle around a tree that is already up.
 
-US terms. US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations of the example size. This skirt has not been yarn-tested, and it has not been put under a tree. Every inch and every yard below is an estimate from the stated gauge. Measure the stand you own, and measure the floor space around it, before you decide the last row.
+US terms. US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations of the example size. This skirt has not been yarn-tested, and it has not been put under a tree. Every inch and every yard below is an estimate from the stated gauge. Row 24 is about 33 inches across by the stitch gauge and about 36 inches across by the row-height estimate. Neither number was measured on a finished skirt, and this page does not promise the circle will lie flat under a tree. Measure the stand you own, and measure the floor space around it, before you decide the last row.
 
 ![A deep green crochet circle with a slit and a center hole](../../assets/articles/how-to-crochet-a-christmas-tree-skirt-result.jpg "Illustration. Intended look: a flat circle, a slit, and a center opening. Not placed under a tree.")
 

@@ -34,6 +34,16 @@ When you finish a row and turn, the hook sits at the bottom of the new row, and 
 
 For single crochet, the answer is consistent: **the chain-1 does not count as a stitch.** It is there for height. After chaining 1 and turning, work the first single crochet into the very first stitch of the row.
 
+<figure class="diagram">
+<img src="/diagrams/turning-chain.svg" alt="Diagram of a single crochet row. Four stitches are numbered, and the chain-1 at the end is marked as not a stitch. An arrow points at the first stitch." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. For single crochet, the first stitch of the new row is the first stitch of the old row. The chain-1 is only height.</figcaption>
+</figure>
+
+<figure class="diagram">
+<img src="/diagrams/count-stitches.svg" alt="Diagram of four chain-top Vs numbered 1 through 4, and a loop still on the hook marked as not a stitch." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Count the V on top of each finished stitch. The loop on the hook is not one of them.</figcaption>
+</figure>
+
 A short check: start with 10 single crochet. Chain 1, turn, and work 10 again. The row is still 10. If you also put a stitch into the chain, the row is 11. Do that for five rows and the count is 15. The fabric is a wedge, and the extra stitches cannot be eased out later.
 
 For everything taller, it depends on the designer.
@@ -67,6 +77,11 @@ You are losing a stitch each row.
 ### The work gets wider
 
 You gained a stitch. Either you worked into the first stitch and also counted the turning chain, or you worked into a turning chain the pattern does not count.
+
+<figure class="diagram">
+<img src="/diagrams/uneven-edges.svg" alt="Diagram of a straight fabric with the same stitch count each row, beside a wedge that gains one stitch every row." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. The same count each row stays straight. Gaining one stitch a row makes a wedge.</figcaption>
+</figure>
 
 ### The edge slants, but the width is right
 

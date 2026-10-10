@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Half double crochet sequence</title>
+<desc>Yarn over before inserting the hook. After you pull up a loop there are three loops. Yarn over and pull through all three at once.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="196" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">Yarn over first</text>
+     <path class="hook" d="M40 210 H180"/>
+     <path class="yarn" d="M90 210 c0 -36 40 -36 40 0"/>
+     <text class="soft" x="32" y="340">Wrap, then insert</text>
+     <rect x="222" y="24" width="196" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="238" y="60">Three loops</text>
+     <path class="hook" d="M250 230 H390"/>
+     <path class="yarn" d="M280 230 c0 -20 16 -20 16 0"/>
+     <path class="yarn" d="M310 230 c0 -20 16 -20 16 0"/>
+     <path class="yarn" d="M340 230 c0 -20 16 -20 16 0"/>
+     <text class="soft" x="246" y="340">Three on the hook</text>
+     <rect x="428" y="24" width="196" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="444" y="60">One pull</text>
+     <path class="hook" d="M460 220 H590"/>
+     <path class="yarn" d="M510 220 c0 -30 40 -30 40 0"/>
+     <text class="soft" x="444" y="340">Through all three</text>
+</svg>

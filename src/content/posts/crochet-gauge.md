@@ -43,6 +43,11 @@ Lay the swatch flat. Do not hold it up, pin it, stretch it, or smooth it. Croche
 
 Put a ruler across the middle. Count the stitches inside 4 inches, including a partial stitch as a fraction. 14½ is a real answer. Turn the ruler and count rows the same way.
 
+<figure class="diagram">
+<img src="/diagrams/gauge-swatch.svg" alt="Diagram of a crochet swatch with a marked window across the middle labeled 4 inches. The edges of the swatch sit outside that window." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Measure inside the fabric. The edge stitches are a different tension and stay outside the window.</figcaption>
+</figure>
+
 <div class="tip">
 
 A gauge window is a stiff card or metal plate with a 4-inch square hole. Lay it on the swatch and count what shows through.

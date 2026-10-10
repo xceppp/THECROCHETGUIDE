@@ -67,6 +67,11 @@ One line, expanded. Suppose the previous row has 24 stitches and this row says `
 
 ![Finger counting stitches on a cream swatch beside a printed pattern](../../assets/articles/how-to-read-a-crochet-pattern-2.jpg "Illustration. Count after every row or round until the numbers stick.")
 
+<figure class="diagram">
+<img src="/diagrams/count-stitches.svg" alt="Diagram of four chain-top Vs numbered 1 through 4, and a loop still on the hook marked as not a stitch." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. The number in parentheses is how many finished Vs you should have. The loop on the hook is not an extra stitch.</figcaption>
+</figure>
+
 Use the number at the end of the row. Most drift comes from three places. The turning chain, if you sometimes count it and sometimes do not. The last stitch, easy to miss in double crochet, where the previous chain looks like fabric. Losing one stitch every row is usually that. And `ch-2 sp`, which means the hole, not the chain stitches. The wrong choice changes the count and the gauge.
 
 If you are off by a stitch or two, undo to the last row you trusted. Compensating on the next row does not fix it.

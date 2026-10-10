@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Measuring a gauge swatch</title>
+<desc>Lay the swatch flat. Measure across the middle, inside the fabric, not across the edge stitches. A 4 inch span is the usual window.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="608" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">Measure the middle</text>
+     <rect x="120" y="120" width="280" height="180" fill="#f3e6d4" stroke="#6b4428" stroke-width="8"/>
+     <rect class="mark" x="160" y="160" width="200" height="100"/>
+     <path class="ink" d="M160 210 H360"/>
+     <text class="label" x="210" y="200">4 inches</text>
+     <text class="soft" x="150" y="290">Edges stay outside the window</text>
+     <text class="label" x="40" y="360">Do not stretch the swatch to hit the number.</text>
+</svg>

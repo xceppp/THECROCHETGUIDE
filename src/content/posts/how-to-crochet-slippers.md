@@ -12,7 +12,7 @@ tags: ["slippers", "beginner", "worsted", "how to"]
 
 Socks slide on a wood floor, and a bought slipper is often a size you do not have. A crochet sole can follow the foot you measured. It will still slide on tile, wood, and any hard floor. These are indoor slippers for a rug or a carpet. They are not shoes, and they are not safe on stairs.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations. This pair has not been worn or measured in yarn. The inches and the yardage are estimates from the gauge. Measure your own foot before you chain.
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations of a shape, not a pair that was worn. This pair has not been worn or measured in yarn. The inches and the yardage are estimates from the gauge, not a promise of fit. A crochet sole is slippery. These are not safe on stairs, tile, or wood. Measure your own foot before you chain.
 
 ![A pair of simple crochet slippers with a toe cap and a heel tab](../../assets/articles/how-to-crochet-slippers-result.jpg "Illustration. Intended look: a flat sole, a toe cap, a short heel tab. Not a worn pair.")
 

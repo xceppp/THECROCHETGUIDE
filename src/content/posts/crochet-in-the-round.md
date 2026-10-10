@@ -71,6 +71,11 @@ The join steps up. For a last round, cut the yarn, thread it through the first s
 
 Mark the first stitch and move the marker each round. A split ring, safety pin, paperclip, yarn scrap, or bobby pin works. The rounds look the same, so memory fails.
 
+<figure class="diagram">
+<img src="/diagrams/stitch-marker.svg" alt="Diagram of a crochet circle with a marker clipped into the first stitch of the round. The marker is not counted as a stitch." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. In a spiral, the marker sits in the first stitch. Move it up when you get back to it.</figcaption>
+</figure>
+
 <div class="warning">
 
 **A spiral ends on a small step.** The last stitch sits one stitch-height above the fabric around it. On a toy the step hides in a seam. On a hat brim, work one or two slip stitches down into the previous round to taper it, or finish with a single joined round.

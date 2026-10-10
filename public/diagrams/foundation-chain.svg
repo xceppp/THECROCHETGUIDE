@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Foundation chain anatomy</title>
+<desc>The front of a chain is a row of Vs. The back has a bump. The slip knot and the loop on the hook are not stitches.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="608" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">One chain, two sides</text>
+     <path class="yarn" d="M80 180 h80 a28 28 0 1 0 0.1 0 M188 180 h80 a28 28 0 1 0 0.1 0 M296 180 h80 a28 28 0 1 0 0.1 0"/>
+     <path class="ink" d="M120 150 l20 24 l20 -24"/>
+     <text class="soft" x="100" y="140">Front: a V</text>
+     <path class="ink" d="M250 230 q20 18 40 0"/>
+     <text class="soft" x="230" y="270">Back: a bump</text>
+     <path class="hook" d="M430 168 H520 q14 0 14 14 q0 14 -14 14 H470"/>
+     <text class="soft" x="420" y="250">Loop on the hook</text>
+     <text class="soft" x="420" y="276">Do not count it</text>
+     <text class="label" x="40" y="340">Count only the finished V links.</text>
+</svg>

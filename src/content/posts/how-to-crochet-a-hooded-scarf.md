@@ -62,7 +62,7 @@ Chain 38.
 
 Repeat the hdc row until the piece is about 12 inches tall. At 2.5 rows to the inch that is about **30 rows**. This rectangle is wider than the scarf on purpose. It has to go over the head.
 
-Fold it in half so the short ends meet. The fold is the top of the head. Sew the side opposite the fold, from the fold down about 8 inches, and leave the rest open for the face and neck. You are making a pocket, not a bag.
+Fold it in half so the short ends meet. The fold is the top of the head. Sew the side opposite the fold for a distance you check on the person, and leave the rest open for the face and neck. About 8 inches is a planning guess from the row gauge, not a seam measured on a worn hood. You are making a pocket, not a bag. If the hood sits over one ear or pulls the scarf into the mouth, undo the seam and move it. This page cannot tell you the finished position, because the scarf has not been worn.
 
 ![The hood rectangle folded and partly seamed](../../assets/articles/how-to-crochet-a-hooded-scarf-3.jpg "Illustration. Fold, then seam the back. Leave the face edge open.")
 

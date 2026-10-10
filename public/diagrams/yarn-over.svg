@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Yarn over direction</title>
+<desc>Bring the working yarn over the hook from the back of the hook toward the front.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="608" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">Yarn over, back to front</text>
+     <path class="hook" d="M120 210 H420 q22 0 22 22 q0 22 -22 22 H220"/>
+     <path class="yarn" d="M300 300 C300 160 250 150 250 210"/>
+     <path class="ink" d="M250 210 l-18 -8 M250 210 l-6 -20"/>
+     <text class="soft" x="80" y="330">The wrap travels over the hook, from back to front.</text>
+</svg>

@@ -21,6 +21,11 @@ Use medium worsted in a light solid color and a 5 mm (H/8) hook. Dark yarn and v
 
 **Yarn over (`yo`)** — wrap the working yarn over the hook from back to front.
 
+<figure class="diagram">
+<img src="/diagrams/yarn-over.svg" alt="Diagram of a yarn over. The working yarn wraps over the hook from back to front." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Yarn over moves from the back of the hook toward the front. It is not a photograph.</figcaption>
+</figure>
+
 **Pull through** — draw the hook, with yarn on it, back through a loop or a stitch.
 
 The five stitches differ only in how many times you yarn over first, and how many loops you close at a time.
@@ -40,6 +45,11 @@ Every flat piece starts with a chain. The chain starts with a slip knot, which i
 
 The knot should slide. If it will not move, the yarn hand is too tight. Loosen it before you chain. The loop on the hook is not a chain.
 
+<figure class="diagram">
+<img src="/diagrams/slip-knot.svg" alt="Diagram of a slip knot in three steps: cross the tail, pull a loop through, and seat it on the hook so it still slides." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. The slip knot is adjustable. The loop on the hook is not a chain.</figcaption>
+</figure>
+
 Then chain:
 
 1. Yarn over.
@@ -47,6 +57,11 @@ Then chain:
 3. Repeat for the number the pattern asks for.
 
 Do not count the slip knot or the loop on the hook. Only the finished V-shaped links count. Chain about 20, and keep it loose.
+
+<figure class="diagram">
+<img src="/diagrams/foundation-chain.svg" alt="Diagram of a foundation chain. The front of each chain is a V, the back is a bump, and the loop on the hook is not counted." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Count the finished V links. Skip the slip knot and the loop still on the hook.</figcaption>
+</figure>
 
 <div class="tip">
 
@@ -70,6 +85,16 @@ One loop remains.
 
 Short, dense, and sturdy. Use it for amigurumi, bags, and dishcloths.
 
+<figure class="diagram">
+<img src="/diagrams/insert-single-crochet.svg" alt="Diagram of the top of a stitch, with a front loop and a back loop, and the hook going under both." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Ordinary single crochet goes under both loops at the top of the stitch.</figcaption>
+</figure>
+
+<figure class="diagram">
+<img src="/diagrams/single-crochet.svg" alt="Diagram of single crochet in three steps: insert under both loops, pull up a loop so two loops are on the hook, then pull through both." width="640" height="430" loading="lazy" decoding="async" />
+<figcaption>Diagram. Single crochet. Two loops on the hook, then yarn over and pull through both.</figcaption>
+</figure>
+
 1. Insert the hook into the next stitch.
 2. Yarn over and pull up a loop. Two loops on the hook.
 3. Yarn over and pull through both loops.
@@ -79,6 +104,11 @@ Into a foundation chain, start in the **second chain from the hook**.
 ## 3. Half double crochet (`hdc`)
 
 Between single and double in height. Softer than single crochet, still fairly dense. Useful for hats and blankets.
+
+<figure class="diagram">
+<img src="/diagrams/half-double-crochet.svg" alt="Diagram of half double crochet: yarn over before inserting, three loops on the hook, then one pull through all three." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Half double crochet starts with a yarn over. The closing pull goes through all three loops.</figcaption>
+</figure>
 
 1. Yarn over, then insert the hook into the next stitch.
 2. Yarn over and pull up a loop. Three loops on the hook.
@@ -91,6 +121,11 @@ You yarn over *before* entering the stitch. That extra wrap is the height. Into 
 ![Close-up of a double crochet stitch in progress](../../assets/articles/basic-crochet-stitches-3.jpg "Illustration. Double crochet — yarn over first, then work the loops off in pairs.")
 
 The most-used stitch: tall, quick, and slightly open.
+
+<figure class="diagram">
+<img src="/diagrams/double-crochet.svg" alt="Diagram of double crochet: three loops on the hook, yarn over and pull through two, then yarn over and pull through the last two." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Double crochet closes two loops at a time. It does not pull through all the loops at once.</figcaption>
+</figure>
 
 1. Yarn over, then insert the hook into the next stitch.
 2. Yarn over and pull up a loop. Three loops on the hook.
@@ -130,6 +165,11 @@ Swatch each stitch about 15 wide and 10 rows tall, then make a dishcloth in sing
 **Gaining or losing stitches at the ends.** Nearly always the turning chain. The [full explanation](/crochet-turning-chain/) is its own page.
 
 **The wrong part of the stitch.** Unless the pattern says otherwise, go under **both** top loops. Front loop only and back loop only are variations a pattern will name.
+
+<figure class="diagram">
+<img src="/diagrams/front-back-loops.svg" alt="Diagram comparing a hook under both loops, under the front loop only, and under the back loop only." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Front loop is the one nearer you. Back loop is the far one. Ordinary stitches use both.</figcaption>
+</figure>
 
 **A hard grip on the yarn.** Tight, uneven stitches usually mean the yarn hand is too tense. Let it run more freely.
 

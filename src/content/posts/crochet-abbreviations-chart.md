@@ -48,6 +48,11 @@ A line like `2 hdc in next st, sk 1, rep from *` is ordinary pattern shorthand. 
 | `tch` / `t-ch` | turning chain | The chain(s) at the start of a row that give it height. |
 | `ch-sp` | chain space | A space created by a chain. `ch-2 sp` means the gap made by two chains. |
 
+<figure class="diagram">
+<img src="/diagrams/front-back-loops.svg" alt="Diagram comparing a hook under both loops, under the front loop only, and under the back loop only." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. Front loop is the strand nearer you. Back loop is the far strand. A plain stitch uses both.</figcaption>
+</figure>
+
 ## Actions and counts
 
 | Abbreviation | Meaning | In plain English |
@@ -99,6 +104,11 @@ The names are shifted by one. What the US calls a single crochet, the UK calls a
 | double crochet (`dc`) | treble (`tr`) |
 | treble crochet (`tr`) | double treble (`dtr`) |
 | double treble (`dtr`) | triple treble (`trtr`) |
+
+<figure class="diagram">
+<img src="/diagrams/us-uk-terms.svg" alt="Chart pairing US stitch names with UK names. US single crochet matches UK double crochet. US double crochet matches UK treble." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. The letters move one stitch taller in UK terms. A UK dc is the short stitch.</figcaption>
+</figure>
 
 **`sc` means US terms.** UK terminology has no single crochet. **`htr` means UK terms.** "Colour", "tension" instead of "gauge", and grams instead of yards point to a UK or Australian designer. If you cannot tell, assume US terms.
 

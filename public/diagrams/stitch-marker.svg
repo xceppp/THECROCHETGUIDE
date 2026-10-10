@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Stitch marker on the first stitch of a round</title>
+<desc>In a spiral, clip a marker into the first stitch of the round and move it up each time you reach it. The marker is not a stitch.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="608" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">First stitch of the round</text>
+     <circle cx="280" cy="220" r="90" class="yarn"/>
+     <circle cx="280" cy="130" r="14" fill="#b0604a"/>
+     <text class="label" x="310" y="136">Marker</text>
+     <text class="soft" x="80" y="340">Move it to the new first stitch every round.</text>
+     <text class="soft" x="80" y="372">The marker itself is not a stitch.</text>
+</svg>

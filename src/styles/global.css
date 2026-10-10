@@ -527,6 +527,10 @@ html.dark .prose img {
     display: none !important;
   }
 
+  .prose figure.diagram img {
+    display: block !important;
+  }
+
   .prose table,
   .stitch-chart,
   .stitch-chart svg {

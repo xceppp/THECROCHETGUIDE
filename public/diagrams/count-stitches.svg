@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Counting stitches in a row</title>
+<desc>Count the finished V on top of each stitch. Do not count the loop still on the hook, and do not count a single-crochet turning chain.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="608" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">What gets a number</text>
+     <path class="yarn" d="M70 200 l24 28 l24 -28 M150 200 l24 28 l24 -28 M230 200 l24 28 l24 -28 M310 200 l24 28 l24 -28"/>
+     <text class="label" x="78" y="180">1</text>
+     <text class="label" x="158" y="180">2</text>
+     <text class="label" x="238" y="180">3</text>
+     <text class="label" x="318" y="180">4</text>
+     <path class="hook" d="M430 210 H540"/>
+     <text class="soft" x="430" y="180">Live loop</text>
+     <text class="soft" x="430" y="250">Not a stitch</text>
+     <text class="label" x="40" y="340">Four Vs means four stitches.</text>
+</svg>
