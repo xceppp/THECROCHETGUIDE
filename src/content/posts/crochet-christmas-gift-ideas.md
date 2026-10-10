@@ -33,7 +33,6 @@ The [ornament ideas](/easy-crochet-christmas-ornaments/) page lists fifteen shap
 
 ## If you have a weekend
 
-- [Christmas stocking](/how-to-crochet-a-christmas-stocking/). Bigger than an ornament, still one main piece.
 - [Chunky beanie](/how-to-crochet-a-chunky-beanie/). Bulky yarn finishes faster than worsted. Measure the head.
 - [Ear warmer](/how-to-crochet-an-ear-warmer/). A good gift when you do not know the hat size.
 - [Fingerless gloves](/how-to-crochet-fingerless-gloves/). Make the second glove as a mirror of the first.
@@ -48,7 +47,6 @@ The [ornament ideas](/easy-crochet-christmas-ornaments/) page lists fifteen shap
 - [Hooded scarf](/how-to-crochet-a-hooded-scarf/). Long. Start it before December.
 - [Baby blanket](/how-to-crochet-a-baby-blanket/). A plain rectangle. Wash a swatch before you buy all the yarn. No buttons and no appliqués.
 - [Slippers](/how-to-crochet-slippers/). A sole that is pure yarn is slippery on wood floors. Read the finishing notes before you gift them.
-- [Christmas tree skirt](/how-to-crochet-a-christmas-tree-skirt/). This is the large project. It is the one to start first, not the one to start on the 20th.
 
 ## People who do not want another hat
 
@@ -59,7 +57,7 @@ The [ornament ideas](/easy-crochet-christmas-ornaments/) page lists fifteen shap
 
 ## What not to promise
 
-Do not tell someone a project is done when the ends are still hanging out. [Weaving ends](/weaving-in-ends-and-blocking/) is part of the gift. Do not stuff a new amigurumi pattern into the same week as a tree skirt. The [Santa](/crochet-santa-amigurumi-for-beginners/) tutorial is a technique page for that shape, separate from the stocking and the gnome.
+Do not tell someone a project is done when the ends are still hanging out. [Weaving ends](/weaving-in-ends-and-blocking/) is part of the gift. Do not stuff a new amigurumi pattern into the same week as a blanket. The [Santa](/crochet-santa-amigurumi-for-beginners/) tutorial is a technique page for that shape, separate from the gnome.
 
 ## Frequently asked
 

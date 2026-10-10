@@ -47,11 +47,13 @@ const sitemap = fs.readFileSync(path.join(root, "dist/sitemap-0.xml"), "utf8");
 const locs = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
 const dup = locs.filter((loc, i) => locs.indexOf(loc) !== i);
 console.log(`sitemap locs ${locs.length} duplicate locs ${dup.length}`);
-const stocking = fs.readFileSync(
-  path.join(root, "dist/how-to-crochet-a-christmas-stocking/index.html"),
-  "utf8",
-);
-const canon = stocking.match(/rel="canonical" href="([^"]+)"/);
-console.log(`stocking canonical ${canon?.[1]}`);
-console.log(`stocking has 5 inches ${stocking.includes("5 inches")}`);
+const withheld = [
+  "how-to-crochet-a-christmas-stocking",
+  "how-to-crochet-a-christmas-tree-skirt",
+];
+for (const slug of withheld) {
+  const page = path.join(root, "dist", slug, "index.html");
+  const listed = locs.some((loc) => loc.includes(`/${slug}/`));
+  console.log(`${slug} built ${fs.existsSync(page)} sitemap ${listed}`);
+}
 console.log(`home halloween theme ${fs.readFileSync(path.join(root, "dist/index.html"), "utf8").includes("theme-halloween")}`);

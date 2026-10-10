@@ -142,4 +142,4 @@ On a rug, a wool worsted sole is warmer than cotton. Neither one replaces a shoe
 
 ## Next
 
-A hanging stocking with a heel and a toe, not sized as a shoe, is the [Christmas stocking](/how-to-crochet-a-christmas-stocking/). For the rest of a cold evening, the [ear warmer](/how-to-crochet-an-ear-warmer/) and the [hooded scarf](/how-to-crochet-a-hooded-scarf/) stay off the floor entirely.
+For a cold evening that does not need a sole, the [ear warmer](/how-to-crochet-an-ear-warmer/) and the [hooded scarf](/how-to-crochet-a-hooded-scarf/) stay off the floor entirely.

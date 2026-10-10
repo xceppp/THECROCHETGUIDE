@@ -6,7 +6,7 @@ category: patterns
 level: intermediate
 howTo: true
 printable: true
-draft: false
+draft: true
 tags: ["christmas stocking", "worsted", "intermediate", "how to"]
 ---
 
