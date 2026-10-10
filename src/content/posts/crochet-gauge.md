@@ -77,6 +77,15 @@ If you cannot hit the pattern gauge, or you prefer the fabric you have, you can 
 > You want a 20-inch-wide blanket.
 > 3 × 20 = **60 stitches** to start.
 
+The same arithmetic shows why a tight swatch makes a small garment even when the stitch count is right.
+
+> The pattern asks for 16 sc over 4 inches.
+> Your swatch has 20 sc over 4 inches.
+> Each of your stitches is 4 ÷ 20 = 0.2 inch wide. The pattern's stitch is 4 ÷ 16 = 0.25 inch wide.
+> At the pattern's stitch count, your fabric is 16 ÷ 20 = 0.8 times as wide. That is 20 percent narrower.
+
+Go up a hook size and measure again. Do not keep the tight swatch and hope the finished piece relaxes into the missing width.
+
 The same arithmetic works for length, using your row gauge. It is reliable for rectangles: blankets, scarves, dishcloths, simple shawls. On a fitted garment, every increase and decrease sits on the original numbers, so changing the count means redrafting the shaping.
 
 ## Common mistakes

@@ -12,7 +12,7 @@ tags: ["christmas", "ornament", "star", "beginner"]
 
 A crochet ornament has one job: hang flat enough that it does not curl into a tube by New Year. The hanging loop matters more than the color.
 
-This page lists 15 shapes. The flat star is a full pattern. Two other shapes already have patterns on this site, and those links are the instructions. The rest are ideas for planning yarn and difficulty. They are not stitch-by-stitch tutorials, and the group photo is an illustration, not a set of tested samples.
+This page lists 15 shapes. The flat star is a full pattern. Two other shapes already have patterns on this site, and those links are the instructions. The rest are ideas for planning yarn and difficulty. They are not stitch-by-stitch tutorials, and the group photo is an illustration, not a set of tested samples. For the star that is written out, the hanging loop has to pass over the hook you will actually use. Chain it, slip stitch it to the top, and check the hook before you weave the tail. If the star cups, block it flat before it hangs. A cupped star twists on the tree.
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
 
@@ -28,11 +28,11 @@ Stuffing is optional and usually a mistake on a flat ornament. It makes the piec
 
 ## The fifteen
 
-**Mini Christmas tree.** Full patterns already exist: [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree/) and the [mini Christmas trees set](/free-pattern-mini-christmas-trees/). Do not invent a third tree from the photo.
+**Mini Christmas tree.** Use [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree/). Do not invent a second tree from the photo.
 
 **Star.** Full pattern below. Beginner. Flat, five points, joined rounds.
 
-**Snowflake.** Use [how to crochet a snowflake](/how-to-crochet-a-snowflake/) or the [snowflake set](/free-pattern-snowflake-set/). Those pages deal with keeping points flat. This page does not repeat them.
+**Snowflake.** Use [how to crochet a snowflake](/how-to-crochet-a-snowflake/). That page deals with keeping points flat. This page does not repeat it.
 
 **Mini stocking.** Beginner idea. A short rectangle folded and seamed, with a cuff row in a second color. The heel is the part people fake with a lump of stitches. If you want a real heel, that is a sock technique, not a one-round charm.
 

@@ -10,7 +10,7 @@ tags:
   ["christmas", "santa", "amigurumi", "in the round", "beginner", "how to"]
 ---
 
-A Santa is the first amigurumi where the face shows. A [gnome](/how-to-crochet-a-gnome/) hides under a hat, and a pumpkin has no face, so both forgive a lot. If Santa's eyes are a stitch off, everyone can see it. The body is one piece, no neck and no seam. The work is placement.
+A Santa is the first amigurumi where the face shows. A [gnome](/how-to-crochet-a-gnome/) hides under a hat, and a pumpkin has no face, so both forgive a lot. If Santa's eyes are a stitch off, everyone can see it. The body is one piece, no neck and no seam. The work is placement. Put a marker at the center front before you embroider. Each eye should sit the same number of stitches away from that marker, and on the same round. One stitch off is visible because there is no hat brim to hide it. The photos are illustrations.
 
 
 ![A finished beginner crochet Santa amigurumi with red hat](../../assets/articles/crochet-santa-amigurumi-for-beginners-result.jpg "Illustration. The finished look these steps build toward.")

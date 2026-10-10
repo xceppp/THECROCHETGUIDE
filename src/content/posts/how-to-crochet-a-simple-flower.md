@@ -18,7 +18,7 @@ tags:
   ]
 ---
 
-A flat crochet flower is a traffic magnet because it finishes small, photographs bright, and attaches to almost anything — scrunchie, mug cozy, beanie, gift wrap, Halloween card wallet. You are making an appliqué, not a botanical masterpiece.
+A flat crochet flower is an appliqué: one center and one petal round, small enough to sew onto something else. The picture is an illustration.
 
 This version is one center plus one petal round. If you can work a [magic ring](/crochet-in-the-round/) and a few double crochets, you can finish a flower in about fifteen minutes.
 
@@ -73,7 +73,7 @@ You should see five distinct lobes. If a petal looks skinny, your dc are too tig
 
 ![A small green crochet leaf beside a finished flower appliqué](../../assets/articles/how-to-crochet-a-simple-flower-3.jpg "Illustration. Step 3 — a quick leaf: chain, then stitches back down the chain.")
 
-With green: ch 7. Sc in second ch from hook, hdc in next, dc in next 2, hdc in next, sc in last. Fasten off with a tail. Sew under one side of the flower so only part of the leaf shows.
+With green: ch 7. Sc in second ch from hook, hdc in next, dc in next 2, hdc in next, sc in last. That is 6 stitches on the 6 chains after the one the first stitch skipped: 1 + 1 + 2 + 1 + 1. Fasten off with a tail. Sew under one side of the flower so only part of the leaf shows.
 
 Skip the leaf for the fastest reel. Add it when you want a gift-ready flat lay.
 

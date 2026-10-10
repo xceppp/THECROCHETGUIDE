@@ -30,7 +30,7 @@ A tree for a mantel has to stand. A tree for a garland has to lie flat. Three bu
 - Stuffing, and weight for the base: dry rice or pie weights in a small fabric bag
 - Scraps for decoration, a yarn needle, a stitch marker
 
-US abbreviations. The counts are a shape, not a finished size.
+US abbreviations. The counts are a shape, not a finished size. A standing tree needs weight in the base. The illustration is not evidence that a tree made from these counts stood up. A flat triangle for a garland is decreased at both ends of the row, so the stitch count drops by two each row. If it drops by one, only one edge is decreasing and the tree leans.
 
 ## Method 1: the tiered cone
 

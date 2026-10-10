@@ -36,7 +36,7 @@ Beginner. An afternoon, unless you are frogging the brim twice, which is normal.
 
 ## Gauge (estimate)
 
-The example math uses **2.5 sc = 1 inch** in bulky yarn. That is a planning number, not a swatch from this page. Work 12 sc for a few rows. If those 12 stitches are not about **4.8 inches**, do not follow the 50-row brim below.
+The example math uses **2.5 sc = 1 inch** in bulky yarn. That is a planning number, not a swatch from this page. A 20-inch relaxed brim at that gauge is 20 × 2.5 = 50 stitches, which is why the brim section uses 50. Work 12 sc for a few rows. If those 12 stitches are not about **4.8 inches** (12 ÷ 2.5), do not follow the 50-row brim below. Recount from your own stitches per inch.
 
 [Gauge](/crochet-gauge/) on a hat is the difference between a gift and a hat the person never wears.
 

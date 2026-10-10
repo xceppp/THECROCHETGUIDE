@@ -29,12 +29,22 @@ The five stitches differ only in how many times you yarn over first, and how man
 
 ![Hands making a foundation chain in cream yarn](../../assets/articles/basic-crochet-stitches-1.jpg "Illustration. The foundation chain is where every flat piece starts.")
 
-Every flat piece starts with a chain.
+Every flat piece starts with a chain. The chain starts with a slip knot, which is not a stitch and does not count.
 
-1. Make a slip knot and put it on the hook.
-2. Yarn over.
-3. Pull that yarn through the loop on the hook. That is one chain.
-4. Repeat for the number the pattern asks for.
+**Slip knot**
+
+1. Cross the tail over the working yarn so you have a loop, with the tail hanging down.
+2. Reach through that loop and pull a new loop of working yarn through it.
+3. Put the new loop on the hook.
+4. Pull the tail and the working yarn in opposite directions until the knot sits against the hook.
+
+The knot should slide. If it will not move, the yarn hand is too tight. Loosen it before you chain. The loop on the hook is not a chain.
+
+Then chain:
+
+1. Yarn over.
+2. Pull that yarn through the loop on the hook. That is one chain.
+3. Repeat for the number the pattern asks for.
 
 Do not count the slip knot or the loop on the hook. Only the finished V-shaped links count. Chain about 20, and keep it loose.
 
@@ -74,7 +84,7 @@ Between single and double in height. Softer than single crochet, still fairly de
 2. Yarn over and pull up a loop. Three loops on the hook.
 3. Yarn over and pull through all three loops at once.
 
-You yarn over *before* entering the stitch. That extra wrap is the height. Into a chain, start in the **third chain from the hook**.
+You yarn over *before* entering the stitch. That extra wrap is the height. Into a chain, start in the **third chain from the hook**. On the next row, chain 2 to turn. Whether that chain counts as a stitch is the usual reason an edge slants, and it is covered on the [turning chain](/crochet-turning-chain/) page. Pick one rule and keep it for the whole swatch.
 
 ## 4. Double crochet (`dc`)
 
@@ -87,7 +97,7 @@ The most-used stitch: tall, quick, and slightly open.
 3. Yarn over and pull through the **first two loops only**. Two loops remain.
 4. Yarn over and pull through the last two loops.
 
-You close the loops in two stages, not all at once. Into a chain, start in the **fourth chain from the hook**.
+You close the loops in two stages, not all at once. Into a chain, start in the **fourth chain from the hook**. The turning chain for the next row is usually 3. The [turning chain](/crochet-turning-chain/) page is where to decide whether that chain replaces the first double crochet.
 
 ## 5. Treble crochet (`tr`)
 
@@ -111,7 +121,7 @@ Close two loops at a time until one remains. Into a chain, start in the **fifth 
 | `dc` | 1 | 4th | 3 |
 | `tr` | 2 | 5th | 4 |
 
-Swatch each stitch about 15 wide and 10 rows tall, then make a dishcloth in single crochet or a scarf in double crochet.
+Swatch each stitch about 15 wide and 10 rows tall, then make a dishcloth in single crochet or a scarf in half double. A row is successful when the count matches the row before it. Ten single crochets, a chain-1 that you do not count, and ten single crochets on the way back is a straight edge. Eleven means the turning chain was used as an extra stitch.
 
 ## The mistakes everyone makes
 

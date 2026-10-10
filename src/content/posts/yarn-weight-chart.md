@@ -63,7 +63,7 @@ For amigurumi, use a smaller hook than the label so stuffing does not show throu
 
 ## How much yarn a project needs
 
-Rough figures in category 4 worsted, for planning:
+Rough figures in category 4 worsted, for planning. They were not weighed from a finished piece made for this site. A pattern's own yardage is the number to buy.
 
 | Project | Approximate yardage |
 | --- | --- |

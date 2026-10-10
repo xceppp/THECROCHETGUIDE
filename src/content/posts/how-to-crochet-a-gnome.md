@@ -11,7 +11,7 @@ tags:
   ["christmas", "gnome", "amigurumi", "in the round", "beginner", "how to"]
 ---
 
-A crochet gnome is a cone, a hat, a nose, and a beard. None of those pieces is hard. Proportion is what makes it read as a gnome: **the hat comes down far enough to cover where the eyes would be, and the nose sits just under the brim.**
+A crochet gnome is a cone, a hat, a nose, and a beard. None of those pieces is hard. Proportion is what makes it read as a gnome: **the hat comes down far enough to cover where the eyes would be, and the nose sits just under the brim.** The hat piece has to be taller than the body cone. If the brim stops above the nose, it reads as a person in a cap, not a gnome. The photo is an illustration, not a stuffed sample. Weight in the base is what keeps a cone upright. Yarn alone usually tips.
 
 
 ![A finished crochet Christmas gnome with tall hat and beard](../../assets/articles/how-to-crochet-a-gnome-result.jpg "Illustration. The finished look these steps build toward.")

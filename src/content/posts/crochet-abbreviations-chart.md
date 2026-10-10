@@ -104,7 +104,7 @@ The names are shifted by one. What the US calls a single crochet, the UK calls a
 
 ## Reading the punctuation
 
-Parentheses put stitches in one place: `(2 dc, ch 1, 2 dc) in next st`. At the end of a row they are the count, `(12 sts)`. Brackets repeat: `[sc, ch 1] x 6`. An asterisk starts a repeat that runs to the end. A number before a stitch is how many to make (`3 dc`). A number after it is one stitch (`dc3tog`). So `*2 dc in next st, sk 1 st, rep from * to end (24 sts)` finishes at 24.
+Parentheses put stitches in one place: `(2 dc, ch 1, 2 dc) in next st`. At the end of a row they are the count, `(12 sts)`. Brackets repeat: `[sc, ch 1] x 6`. An asterisk starts a repeat that runs to the end. A number before a stitch is how many to make (`3 dc` is three double crochets). A number inside the name is how many stitches one decrease uses (`dc3tog` is one stitch made from three). If the previous row has 24 stitches, `*2 dc in next st, sk 1 st, rep from * to end (24 sts)` finishes at 24: each repeat uses 2 stitches and makes 2.
 
 ## Mistakes
 

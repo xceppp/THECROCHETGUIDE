@@ -83,6 +83,8 @@ Count at the end of every shaped row. The number in parentheses is there so one 
 
 In single crochet, each round adds as many stitches as the first round had. Start with 6 and add 6 every round: 6, 12, 18, 24, 30.
 
+The third round is the one worth counting out loud. The previous round has 12 stitches. The instruction `(sc, 2 sc in the next st)` six times uses 2 stitches per repeat and makes 3. Six repeats use all 12 stitches and make 6 × 3 = 18. A count of 17 or 19 means one increase was skipped or worked twice. Fix that round before you continue. The same check is 8 × 3 = 24 on the next round, when the repeat becomes `(2 sc, 2 sc in the next st)`.
+
 Taller stitches need a larger start. A double crochet circle typically starts at 12 and adds 12 each round.
 
 **The circle cups like a bowl** when there are too few increases. That is what you want for a hat or a toy. Once the flat circle matches the crown, stop increasing and work even. The fabric turns into a dome, then a tube. Keep increasing and the hat stays a disc.

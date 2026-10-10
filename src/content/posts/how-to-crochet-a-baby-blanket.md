@@ -36,6 +36,8 @@ A common receiving size is about 30 in wide and 36 in long. That is a target, no
 
 About 3 hdc and 2.5 rows to 1 in. At that gauge, 30 in is 90 stitches and 36 in is 90 rows. If your washed swatch is 2.5 hdc to the inch, 30 in is 75 stitches, not 90. [Gauge](/crochet-gauge/).
 
+A second case, so the multiply is obvious. A washed swatch with 14 hdc in 4 inches is 14 ÷ 4 = 3.5 stitches per inch. A 30-inch width then needs 3.5 × 30 = 105 stitches. The foundation chain is 107, because half double starts in the third chain. The 90-stitch pattern further down is only the 3-stitches-per-inch case: 90 ÷ 30 = 3. Wash the swatch before you trust either number. Cotton grows. Some acrylic relaxes.
+
 ## Abbreviations (US)
 
 ch, hdc. The turning ch-2 does **not** count as a stitch. [Turning chain](/crochet-turning-chain/). US hdc is the stitch between single and double. It is not UK half treble.

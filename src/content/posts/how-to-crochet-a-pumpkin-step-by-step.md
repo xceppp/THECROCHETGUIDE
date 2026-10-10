@@ -52,7 +52,7 @@ Work in a spiral. Mark the first stitch of every round.
 
 **Rnd 6.** *Sc in next 4 sts, 2 sc in next st; repeat from * around. (36)
 
-For a small desk pumpkin, stop increasing here. For a larger one, keep adding six stitches each round (next would be *sc in next 5, 2 sc in next*). That six-increase rule is what keeps the circle flat until you build height. More on the math is in [increases and decreases](/crochet-increase-decrease/).
+For a small desk pumpkin, stop increasing here. For a larger one, keep adding six stitches each round (next would be *sc in next 5, 2 sc in next*). That six-increase rule is what keeps the circle flat until you build height. The round written as single crochet in the next 2, then two in the next, six times, uses 3 old stitches per repeat and makes 4, so the new count is 6 × 4 = 24 if the previous round was 18. If your count is not that, stop. More on the math is in [increases and decreases](/crochet-increase-decrease/). The photos are illustrations. No pumpkin on this page was stuffed and measured.
 
 ## Step 2: work even, decrease, and stuff
 

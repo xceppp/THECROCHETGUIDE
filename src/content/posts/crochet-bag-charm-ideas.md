@@ -12,7 +12,7 @@ tags: ["bag charm", "scrap yarn", "beginner", "heart"]
 
 A bag charm is a scrap project that has to survive a zipper pull. If the loop is thin, it saws through in a week. If the charm is heavy, it knocks the bag while you walk.
 
-Below are 12 shapes worth making from leftover worsted cotton. Only the tiny heart has a full stitch pattern. The other eleven are ideas: color, size, and what to watch. They are not tutorials. Do not treat the group photo as proof that each shape has been written out.
+Below are 12 shapes worth making from leftover worsted cotton. Only the tiny heart has a full stitch pattern. The other eleven are ideas: color, size, and what to watch. They are not tutorials. Do not treat the group photo as proof that each shape has been written out. The loop that goes on a zipper should be a short chain of the same cotton as the charm, closed with a slip stitch, and thick enough that it does not saw through. Test the loop on the zipper pull before you weave the end. A loop that barely fits will cut itself.
 
 US terms. Photos are illustrations. The heart has not been physically tested.
 

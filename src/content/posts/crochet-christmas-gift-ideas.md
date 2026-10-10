@@ -14,7 +14,7 @@ The useful Christmas question is not "what can I invent in December." It is whic
 
 <div class="warning">
 
-This is a guide to existing tutorials. It is not a new pattern, and the photo is an illustration of the kind of objects those pages describe.
+This is a guide to existing tutorials. It is not a new pattern, and the photo is an illustration of the kind of objects those pages describe. If a linked page says the object has not been made in yarn, this list does not change that. Pick the project you can finish, not the one with the newest date.
 
 </div>
 

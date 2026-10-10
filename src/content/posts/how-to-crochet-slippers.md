@@ -28,7 +28,7 @@ The example sole is planned for a foot about **9 inches** long and about **3.5 i
 At the gauge below:
 
 - Width in inches times 4, rounded to a whole number, is the stitch count. The example is 3.5 times 4, which is **14 stitches**.
-- Length you want for the sole, in inches, times 5, rounded, is the row count. The example is about 9.6 inches, which is **48 rows**.
+- Length you want for the sole, in inches, times 5, rounded, is the row count. The example is about 9.6 inches, which is 9.6 × 5 = **48 rows**. Both products were checked as multiplication. They are not measurements from a worn pair.
 
 Chain one more than the stitch count. A 10 inch foot that wants a sole near 10.5 inches is about **53 rows**. A 4 inch width is **16 stitches**. The upper uses the same stitch count as the sole.
 

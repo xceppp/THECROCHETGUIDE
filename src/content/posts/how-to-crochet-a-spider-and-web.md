@@ -20,7 +20,7 @@ tags:
 
 A crochet spider fails for one of two reasons: the body is a featureless blob, or the legs are all different lengths. The stitches are not hard. The proportions are.
 
-Comfort with [magic rings and spirals](/crochet-in-the-round/) is expected. Legs take patience more than new stitches.
+Comfort with [magic rings and spirals](/crochet-in-the-round/) is expected. Legs take patience more than new stitches. Chain all eight legs to the same count, and pair them before you sew: two short, or eight the same, but not eight different numbers. A leg that is two chains longer sticks out as a mistake. The photos are illustrations.
 
 ![A finished black crochet spider beside a pale grey flat crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-result.jpg "Illustration. The finished look these steps build toward.")
 

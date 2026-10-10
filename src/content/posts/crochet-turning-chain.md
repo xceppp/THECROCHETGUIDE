@@ -34,6 +34,8 @@ When you finish a row and turn, the hook sits at the bottom of the new row, and 
 
 For single crochet, the answer is consistent: **the chain-1 does not count as a stitch.** It is there for height. After chaining 1 and turning, work the first single crochet into the very first stitch of the row.
 
+A short check: start with 10 single crochet. Chain 1, turn, and work 10 again. The row is still 10. If you also put a stitch into the chain, the row is 11. Do that for five rows and the count is 15. The fabric is a wedge, and the extra stitches cannot be eased out later.
+
 For everything taller, it depends on the designer.
 
 **If the turning chain counts,** skip the first stitch of the previous row. The chain stands in for it. Work the last stitch of the row into the top of the previous row's turning chain.

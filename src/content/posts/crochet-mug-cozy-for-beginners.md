@@ -1,6 +1,6 @@
 ---
 title: "Crochet Mug Cozy for Beginners (Button Closure)"
-description: "Crochet a fitted mug cozy in single crochet: measure the mug, work a rectangle, add a button flap, and finish a gift-ready sleeve in one sitting."
+description: "Size a single-crochet mug cozy from the mug in front of you: measure, work a rectangle, add a button flap, and check the handle gap."
 pubDate: 2026-10-01
 category: skills
 level: beginner
@@ -18,9 +18,9 @@ tags:
   ]
 ---
 
-A mug cozy is a gift people use the next morning. That is why it travels well on Pinterest in November and December: the photo is a warm cup, not another ornament in a drawer.
+A mug cozy is a rectangle sized from one mug. Measure that mug. A cozy made for a different cup will gap or buckle, and the photo on this page is an illustration, not a fitted sample.
 
-You crochet a rectangle that wraps the mug, seam or button it closed, and stop. No amigurumi math. If your [single crochet](/basic-crochet-stitches/) is even, you are ready.
+You crochet a rectangle that wraps the mug, seam or button it closed, and stop. If your [single crochet](/basic-crochet-stitches/) is even, you are ready.
 
 Work the strip **sideways** — foundation chain is the height, rows travel around the mug — so you can wrap and check fit without ripping out a tall piece that came out wrong. That one habit saves more frogging than any stitch tip on this page.
 
@@ -28,7 +28,7 @@ Work the strip **sideways** — foundation chain is the height, rows travel arou
 
 ## What you need
 
-- Worsted-weight yarn, about **60–80 yd** (cotton holds heat better than acrylic for drinkware) — [yarn weight chart](/yarn-weight-chart/)
+- Worsted-weight yarn. Cotton holds its shape on a mug better than a fluffy acrylic. About **60–80 yd** is a shopping guess for a diner mug, not yarn weighed off a finished cozy. A taller mug uses more. [Yarn weight chart](/yarn-weight-chart/)
 - Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart/)
 - **One button**, about **⅝–¾ in** across
 - Yarn needle
@@ -43,7 +43,9 @@ US abbreviations. See the [abbreviations chart](/crochet-abbreviations-chart/) i
 | Circumference under the handle | Cozy length before button overlap |
 | Height from table to below the rim | Cozy height (leave the lip free) |
 
-Most diner-style mugs want a cozy about **3–3.5 in tall** and a wrap length about **1 in less than the full circumference**, plus a short flap for the button.
+Most diner-style mugs want a cozy about **3–3.5 in tall** and a wrap length about **1 in less than the full circumference**, plus a short flap for the button. That height is a common mug, not a measurement from a cozy made for this page.
+
+Worked example of the method. The mug is 10 inches around under the handle. The body of the cozy aims near 9 inches, so the fabric can stretch closed without buckling. If your swatch is 4 single crochet to the inch, 9 × 4 = 36 rows for the body. The flap is extra rows on top of that. If your swatch is 5 stitches to the inch, the same 9 inches is 45 rows. Do not keep 36.
 
 ![A tape measure around a ceramic mug beside a crochet cozy rectangle](../../assets/articles/crochet-mug-cozy-for-beginners-1.jpg "Illustration. Step prep — the mug is the pattern. Measure before you chain.")
 

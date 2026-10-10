@@ -53,6 +53,8 @@ None of these are bad yarns. They are poor teachers. **Black and very dark color
 
 Buy **yardage, not a skein count.** One brand's large skein can hold more than double another's. Divide the pattern's yards by the yards on the label, add ten percent, and buy it all at once so the dye lots match.
 
+The table is a shopping range for plain worsted fabric. It was not weighed from a finished piece made for this site. If a pattern prints its own yardage, use that number instead.
+
 | Project | Approximate yardage |
 | --- | --- |
 | Dishcloth or coasters | 75–150 yds |

@@ -11,7 +11,7 @@ tags:
   ["christmas", "granny square", "colorwork", "blanket", "beginner", "how to"]
 ---
 
-A granny square is the same move over and over: clusters of three double crochets worked into the **gaps**, never into the tops of the stitches. Once that is in your hands, the interesting part is color. Christmas is where those choices go muddy. Four layouts below. None of them changes the stitch.
+A granny square is the same move over and over: clusters of three double crochets worked into the **gaps**, never into the tops of the stitches. Once that is in your hands, the interesting part is color. Christmas is where those choices go muddy. Four layouts below. None of them changes the stitch. The [Halloween granny squares](/halloween-granny-square-variations/) use this same cluster. Their problem is a candy-corn order and a dark join. This page's problem is red sitting against green.
 
 
 ![A set of Christmas granny squares in red green and cream](../../assets/articles/christmas-granny-square-variations-result.jpg "Illustration. The finished look these color variations build toward.")

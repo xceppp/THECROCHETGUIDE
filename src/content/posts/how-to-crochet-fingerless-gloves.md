@@ -24,7 +24,7 @@ Three numbers:
 - From the wrist bone to the base of the fingers.
 - Around the thumb at the widest part, if you want the hole checked.
 
-Subtract about **1/2 inch** from the knuckle measurement so the glove stays on. Example: a **7.5 inch** hand becomes a **7 inch** tube. At the gauge below that is **28 stitches**. Your hand is probably not this hand. Do the division with your own gauge.
+Subtract about **1/2 inch** from the knuckle measurement so the glove stays on. Example: a **7.5 inch** hand becomes a **7 inch** tube. At 4 single crochet to the inch, 7 × 4 = **28 stitches**. Your hand is probably not this hand. Do the division with your own gauge.
 
 ## Materials
 

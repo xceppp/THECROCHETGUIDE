@@ -48,7 +48,7 @@ Chain 13.
 
 **Row 2:** sc in the back loop only across. Ch 1, turn. (12)
 
-Repeat row 2 until the strip, relaxed, matches your target length. At 3.5 rows to the inch, 20 inches is about **70 rows**. That row gauge is the same planning assumption as the stitch gauge and it is just as untested. Lay the strip on a tape.
+Repeat row 2 until the strip, relaxed, matches your target length. At 3.5 rows to the inch, 20 × 3.5 = **70 rows**. That row gauge is the same planning assumption as the stitch gauge and it is just as untested. Lay the strip on a tape.
 
 ![The flat band beside a tape measure](../../assets/articles/how-to-crochet-an-ear-warmer-3.jpg "Illustration. Measure the relaxed band. Do not stretch it to the number you wanted.")
 

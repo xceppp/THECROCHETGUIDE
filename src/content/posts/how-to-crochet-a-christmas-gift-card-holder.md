@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Christmas Gift Card Holder"
-description: "A small green crochet pocket for a standard US gift card, 3.37 by 2.13 inches. One card. US terms. The inch estimates are not from a yarn-tested sample."
+description: "A small green crochet pocket for one card. ID-1 size is 3.370 by 2.125 inches. US terms. The crochet inches are not from a yarn-tested sample."
 pubDate: 2026-10-08
 category: patterns
 level: beginner
@@ -27,7 +27,7 @@ Photos are illustrations. The pocket has not been measured against a real card i
 - Worsted cotton, green, about **30 yards**. Red, about **8 yards**. [Yarn weights](/yarn-weight-chart/).
 - US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors.
-- One gift card, or a piece of card cut to 3.37 × 2.13 inches.
+- One gift card, or a piece of card cut to 3.370 × 2.125 inches. That is the ISO/IEC 7810 ID-1 size used for most US credit cards. A store gift card is sometimes shorter. Measure the card you will use.
 
 Beginner. About an hour. A Halloween version with a different construction is the [card wallet](/halloween-crochet-card-wallet/). Use this page if you want a Christmas pocket.
 

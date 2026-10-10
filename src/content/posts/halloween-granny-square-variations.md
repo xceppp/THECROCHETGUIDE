@@ -18,7 +18,7 @@ tags:
   ]
 ---
 
-Halloween granny squares are ordinary granny squares with a deliberate palette: pumpkin orange, black, purple, yellow, and white. The stitch is the same cluster-of-double-crochet motif. What changes is **when** you switch colors and **how** you keep the joins from looking muddy.
+Halloween granny squares are ordinary granny squares with a deliberate palette: pumpkin orange, black, purple, yellow, and white. The stitch is the same cluster-of-double-crochet motif as the [Christmas granny squares](/christmas-granny-square-variations/). That page solves a different color problem: red and green need a light round between them or the boundary goes muddy. This page is high-contrast rings, including a yellow-orange-white candy-corn order. The stitch does not change. What changes is **when** you switch colors and **how** you keep the joins from looking muddy.
 
 If you have not changed colors cleanly before, read [How to Change Yarn Color in Crochet](/changing-yarn-color-crochet/) first.
 

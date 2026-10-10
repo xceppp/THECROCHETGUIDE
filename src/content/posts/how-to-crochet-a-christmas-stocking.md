@@ -25,7 +25,7 @@ At the gauge below, the example is about:
 - **10 inches** around the cuff and the leg
 - **3 inches** of cuff
 - **about 5.6 inches** of leg under the cuff (28 rounds)
-- **about 7.5 inches** of foot rounds from the gusset through the toe, before you count how the heel cup sits
+- **5 inches** of foot rounds after the heel turn. That is 25 rounds at 5 rounds to the inch. The heel cup is extra length this row count does not include.
 
 Those numbers are stitch math, not a tape on a finished stocking. Measure the gift. Add leg rounds for a longer drop, and add plain foot rounds if the gift is long. This hangs. It is not a sock. For a foot, use the [slippers](/how-to-crochet-slippers/).
 
@@ -102,6 +102,8 @@ After row 14 you have **6 stitches** and no skipped stitches left on the flap. I
 Pick up around the opening so the foot can start.
 
 **Setup round:** Sc in the next 6 heel stitches, pick up 12 sc along the flap edge (one in each flap row), sc in the 20 instep stitches, pick up 12 sc along the other flap edge. Join, ch 1. (50)
+
+That 50 is addition: 6 + 12 + 20 + 12. The five decrease rounds after it each remove 2 stitches and were checked the same way, down to 40. None of this was worked in yarn.
 
 These five rounds assume 50 stitches. Extra flap rows add pickup stitches, so the numbers below will miss. Get to 40 stitches, then go on.
 

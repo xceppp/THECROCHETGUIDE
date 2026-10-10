@@ -61,6 +61,8 @@ The sample row, in order:
 
 **Punctuation.** Parentheses group stitches that all go in one place: `(2 dc, ch 1, 2 dc) in next st`. Parentheses at the end of a row are the count instead. Brackets repeat a set number of times: `[sc, ch 1] x 6`. An asterisk marks a repeat that runs to the end of the row or round. A number before a stitch is how many to make (`3 dc`). A number inside the name is one combined stitch (`dc3tog`, a decrease made from three stitches).
 
+One line, expanded. Suppose the previous row has 24 stitches and this row says `*2 dc in next st, sk 1 st; rep from * across (24 sts)`. Each repeat uses 2 stitches of the old row (one that receives two double crochets, one that is skipped) and makes 2 new double crochets. Twelve repeats use 24 old stitches and make 24 new ones. The count stays 24. If you finish with 26, an extra increase landed in a stitch that should have been skipped.
+
 ## Count your stitches
 
 ![Finger counting stitches on a cream swatch beside a printed pattern](../../assets/articles/how-to-read-a-crochet-pattern-2.jpg "Illustration. Count after every row or round until the numbers stick.")

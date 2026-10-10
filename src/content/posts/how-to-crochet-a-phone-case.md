@@ -18,7 +18,7 @@ tags:
   ]
 ---
 
-A sleeve only works if this phone slides in. The iPhone 18 Pro Max body is **3.07 inches wide (78.0 mm)**, **6.43 inches tall (163.4 mm)**, and **0.34 inch thick (8.75 mm)**, per [Apple’s tech specs](https://support.apple.com/en-us/148591). Those numbers are the bare phone, not a stitch count.
+A sleeve only works if this phone slides in. The iPhone 18 Pro Max body is **3.07 inches wide (78.0 mm)**, **6.43 inches tall (163.4 mm)**, and **0.34 inch thick (8.75 mm)**, per [Apple’s tech specs](https://support.apple.com/en-us/148591). Those numbers are the bare phone, checked against that Apple page, not a stitch count and not the size of a finished sleeve. No sleeve for this page was measured on a phone. The pictures are illustrations. Crochet to the phone you have, and lay that phone on the fabric before you seam.
 
 Crochet a dense [single crochet](/basic-crochet-stitches/) rectangle to that width, fold it, and seam the sides. Cream, terracotta, sage, navy, black, or stripes all use the same rectangle.
 

@@ -81,7 +81,7 @@ Mark the first stitch and move the marker each round. A split ring, safety pin, 
 
 ![A growing cream crochet circle with even increases](../../assets/articles/crochet-in-the-round-2.jpg "Illustration. Six increases per round keep a circle flat in single crochet.")
 
-**Keep increasing** and the fabric stays flat. In single crochet, add as many stitches each round as the first round had: 6, then 12, 18, 24, 30. **Stop increasing** and it becomes a tube. A hat stops once the flat circle matches the crown, then works even for the depth. A toy body is that tube, decreased later. The mechanics are in [increases and decreases](/crochet-increase-decrease/).
+**Keep increasing** and the fabric stays flat. In single crochet, add as many stitches each round as the first round had: 6, then 12, 18, 24, 30. After the round that should be 18, stop and count. The repeat is one single crochet, then two in the next stitch, six times: 6 × 3 = 18. **Stop increasing** and it becomes a tube. A hat stops once the flat circle matches the crown, then works even for the depth. A toy body is that tube, decreased later. The mechanics are in [increases and decreases](/crochet-increase-decrease/).
 
 Cupping means too few increases: a hat or a toy, and a problem only if you wanted a coaster. Ruffling means too many. The edge cannot hold the extra fabric flat.
 

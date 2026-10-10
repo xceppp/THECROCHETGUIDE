@@ -1,6 +1,6 @@
 ---
 title: "Halloween Crochet Card Wallet with Ghost (Easy Flap + Button)"
-description: "Step-by-step Halloween card wallet: measure a real card, crochet one orange rectangle, fold a flap, add a black button, sew on a tiny ghost. Gift-ready and reel-friendly."
+description: "A single-crochet card wallet sized from the card you will carry: one rectangle, a folded pocket, a flap, and a button. The photo is an illustration."
 pubDate: 2026-09-30
 category: skills
 level: beginner
@@ -21,7 +21,7 @@ tags:
 
 One tall single-crochet rectangle becomes a pumpkin-orange card wallet: fold a pocket, leave a flap, sew on a black button, and add a tiny ghost. The same pocket later takes a spider, bat, pumpkin, or cat appliqué.
 
-![A close-up of a pumpkin-orange crochet card wallet with a black button closure and a small white ghost applique, held in front of warm Halloween candles and pumpkins](../../assets/articles/halloween-crochet-card-wallet-result.jpg "The finished wallet these steps build: flap, black button, and a tiny ghost.")
+![A close-up of a pumpkin-orange crochet card wallet with a black button closure and a small white ghost applique, held in front of warm Halloween candles and pumpkins](../../assets/articles/halloween-crochet-card-wallet-result.jpg "Illustration. Intended look: flap, black button, and a tiny ghost. Not a photograph of a fitted wallet.")
 
 ## What you need
 
@@ -35,7 +35,7 @@ US terms. The body is almost only single crochet. If rows are new, skim [basic c
 
 ## Finished size
 
-A standard US credit or debit card is about **3.375 in × 2.125 in** (roughly 86 mm × 54 mm).
+A standard ID-1 card, the size used for most US credit and debit cards, is **3.370 in × 2.125 in** (85.60 mm × 53.98 mm) under ISO/IEC 7810. Gift cards are sometimes shorter. Measure the card this wallet has to hold. The crochet rectangle on this page has not been fitted to a card, and the photos are illustrations.
 
 | Piece | Target size |
 | --- | --- |

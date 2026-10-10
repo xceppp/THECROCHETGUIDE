@@ -76,7 +76,7 @@ Cotton, not acrylic, if the coaster will see a hot mug. Orange for the disc, a s
 
 **Rnd 9.** Sc in each st. Sl st to the first sc and fasten off. (48)
 
-At a planning gauge of 4 sc to 1 in, 48 stitches is about 12 in around, which is roughly a 4 in circle. That is arithmetic, not a measured swatch. Set a mug on the disc before you fasten off and add or skip a round.
+At a planning gauge of 4 sc to 1 in, 48 stitches is 48 ÷ 4 = 12 inches around. A circle's width is that circumference divided by π, about 12 ÷ 3.14 = 3.8 inches, not 4. Each increase round adds 6 stitches: round 3 is (sc, increase) six times, 6 × 3 = 18, and round 8 is 6 + (6 × 7) = 48. That is arithmetic, not a measured swatch. Set a mug on the disc before you fasten off and add or skip a round. The stem is ch 7, then slip stitch back along 6 chains.
 
 **Stem.** With green, ch 7. Sl st in the 2nd ch from the hook and in each ch back. Fasten off, leaving a tail. Sew the tail end to the edge of the disc so the chain sticks out like a stem. One stem is enough for the coaster to read as a pumpkin.
 

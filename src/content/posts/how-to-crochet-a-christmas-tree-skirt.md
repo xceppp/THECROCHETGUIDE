@@ -90,7 +90,9 @@ Do not join the slit.
 
 Each row should be 12 stitches more than the row before it. If a checkpoint is off, fix it before the next row. A missed edge stitch makes the hem ride up.
 
-**Example stop:** around row 24, when the piece is about **36 inches** across. The hole is about 4 inches, so the fabric from hole to hem needs about 16 inches. At 3 rows to 2 inches, that is about 24 rows. Spread the skirt on the floor and measure. Stop at the diameter that fits your corner, even if that is not row 24.
+**Example stop:** row 24 has **312 stitches**. At 3 dc to the inch, that edge is 312 ÷ 3 = 104 inches around. 104 ÷ 3.14 is about **33 inches** across.
+
+The row-height estimate is not the same number. Twenty-four rows at 3 rows to 2 inches is 16 inches of fabric from the hole to the hem. A hole a little under 4 inches, plus 16 inches of fabric on each side, is about **36 inches** across. Use the tape on the floor. Stop at the diameter that fits your corner, even if that is not row 24.
 
 Join new yarn at a slit edge, not in the middle of a row.
 

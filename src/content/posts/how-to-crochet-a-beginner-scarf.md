@@ -38,6 +38,8 @@ A useful beginner scarf is about 7 to 8 in wide and 60 to 70 in long. The patter
 
 About 3 hdc and 2.5 rows to 1 in in worsted with a US H hook. If your swatch is tighter, the scarf will be narrower and you will need more rows for the same length. [How to measure gauge](/crochet-gauge/).
 
+Use your own swatch for the width. Measure 10 half double crochet in the middle of a few rows. If those 10 stitches are 4 inches, each stitch is 0.4 inch, and an 8-inch scarf needs 8 ÷ 0.4 = 20 stitches. Chain 22, because this stitch starts in the third chain (20 + 2). The 24-stitch pattern below only matches the planning gauge of 3 stitches per inch: 24 ÷ 8 = 3. At 0.4 inch per stitch, those same 24 stitches would be 9.6 inches wide.
+
 ## Abbreviations
 
 ch, hdc, st. The turning chain does **not** count as a stitch. That choice keeps the edge from gaining a stitch every row. [Turning chain](/crochet-turning-chain/).

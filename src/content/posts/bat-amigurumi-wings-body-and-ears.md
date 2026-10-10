@@ -22,6 +22,8 @@ Bats look complicated because of the wings. The body is a small oval. The ears a
 
 You should already be comfortable [working in the round](/crochet-in-the-round/) and sewing pieces with a yarn needle.
 
+Make the second wing from the same written count as the first, then lay the two wings wrong sides together before you sew. If one wing has more rows, the bat tilts. Do not stretch the shorter wing to match. Redo it. The photos are illustrations. This page does not record a stuffed sample.
+
 ![A finished black crochet bat with matching wings and small triangular ears](../../assets/articles/bat-amigurumi-wings-body-and-ears-result.jpg "Illustration. The finished look these steps build toward.")
 
 ## What you need

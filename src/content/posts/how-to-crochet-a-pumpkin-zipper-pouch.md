@@ -20,7 +20,7 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 A flat circle becomes a cup. The cup is the pouch. A short zipper closes the top, and a few green stitches sit on the outside as a stem. It is not a stuffed pumpkin. If you want a solid round pumpkin, use the [pumpkin pattern](/how-to-crochet-a-pumpkin-step-by-step/) instead. A drawstring version, with no zipper, is the [pumpkin treat bag](/how-to-crochet-a-pumpkin-treat-bag/).
 
-The example is about **3.5 inches across and 3 inches tall**, at the gauge below. That holds a handful of wrapped candy or a lip balm and a few coins. It will not hold a phone.
+The example is about **3.8 inches across and 3 inches tall**, at the gauge below. The width is 48 stitches at 4 single crochet to the inch, which is 12 inches around, and 12 ÷ 3.14 is about 3.8. The height is 15 even rounds at 5 rounds to the inch. That holds a handful of wrapped candy or a lip balm and a few coins. It will not hold a phone.
 
 ## Materials
 

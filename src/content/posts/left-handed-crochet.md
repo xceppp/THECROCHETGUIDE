@@ -18,7 +18,7 @@ You can do considerably better than that. Here is how to follow any pattern, dia
 ![A left hand crocheting a cream swatch with an aluminum hook](../../assets/articles/left-handed-crochet-result.jpg "Illustration. Same stitches, opposite direction of travel.")
 ## The good news first
 
-**Crochet is not a handed craft the way writing is.** Both hands work the whole time: one holds the hook and one manages the tension and the fabric. Left-handed crochet is a genuine mirror image of right-handed crochet, and every stitch, every pattern, and every technique works identically. Nothing is off limits and nothing is harder.
+**Crochet is not a handed craft the way writing is.** Both hands work the whole time: one holds the hook and one manages the tension and the fabric. Left-handed crochet is a genuine mirror image of right-handed crochet, and every stitch works the same way. Nothing is off limits. The stitches are not harder. Following a right-handed video without flipping it is harder, and that is covered below.
 
 There are only three real differences, and they are all mechanical.
 

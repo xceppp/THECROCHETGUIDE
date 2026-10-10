@@ -18,7 +18,7 @@ tags:
   ]
 ---
 
-A crochet scrunchie is the rare beginner project that people actually wear. It finishes in one evening, uses scrap yarn, and shows up constantly on Pinterest and reels — which is why it earns a spot here beside the seasonal amigurumi.
+A crochet scrunchie is a fabric tube gathered on a hair elastic. It uses scrap yarn. The picture is an illustration, not a worn sample.
 
 You are not inventing a new stitch. You crochet a flat strip, sew it into a tube around a regular elastic hair tie, and bury the ends. If you can [single crochet](/basic-crochet-stitches/) in rows, you can make one tonight.
 
@@ -38,7 +38,7 @@ US abbreviations throughout. Open the [abbreviations chart](/crochet-abbreviatio
 
 ## Finished size
 
-Aim for a fabric strip about **14–16 in long × 2.5–3 in wide** before you seam it around the elastic. Soft acrylic or cotton both work. Fuzzy yarn hides stitches on camera but eats elastic stretch — save it for a second make.
+Measure the elastic the way it sits, not stretched open. The crochet strip has to be longer than that loop or there is nothing to gather. A starting length is about twice the elastic's circumference. If the elastic measures 7 inches around, twice that is 14 inches. The **14–16 in long × 2.5–3 in wide** range below is that method for a common covered hair tie. It is not a tape measurement of a finished scrunchie. If your elastic is a different length, double that length instead of copying 14. Soft acrylic or cotton both work. Fuzzy yarn eats elastic stretch. Save it for a second make.
 
 ## Step 1: chain the length
 

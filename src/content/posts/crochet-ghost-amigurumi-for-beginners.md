@@ -22,6 +22,8 @@ A crochet ghost is one of the friendliest Halloween projects because the silhoue
 
 If magic rings still feel shaky, skim [crochet in the round](/crochet-in-the-round/) first. This page assumes you can work continuous rounds of single crochet.
 
+On an even round, the count must match the round before it. If it grew, an increase was worked by accident, usually two stitches in the last stitch. The hem can look ragged on purpose. The stitch count cannot. The photos are illustrations.
+
 ![A finished white crochet ghost with a wavy hem and two simple embroidered eyes](../../assets/articles/crochet-ghost-amigurumi-for-beginners-result.jpg "Illustration. The finished look these steps build toward.")
 
 ## What you need

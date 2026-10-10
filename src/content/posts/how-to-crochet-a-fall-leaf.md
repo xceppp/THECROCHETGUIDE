@@ -42,7 +42,7 @@ Work into the chain, then back along the other side so the piece is a pointed ov
 
 **Foundation.** Ch 9.
 
-**First side.** Starting in the 2nd chain from the hook: sc, hdc, dc in each of the next 4 chains, hdc, sc. That is 8 chains used and 8 stitches. The last of those stitches is the tip. (8)
+**First side.** Starting in the 2nd chain from the hook: sc, hdc, dc in each of the next 4 chains, hdc, sc. Add that as 1 + 1 + 4 + 1 + 1 = 8 stitches on 8 chains (the 2nd chain through the 9th). The last of those stitches is the tip. (8)
 
 **Tip.** Work 2 more sc into that same tip chain, so the tip chain holds 3 sc. (10 stitches so far)
 
