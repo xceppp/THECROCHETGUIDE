@@ -1,7 +1,8 @@
 ---
 import { Image } from "astro:assets";
+import { getCollection } from "astro:content";
 import mark from "../assets/mark.png";
-import { SITE, NAV, SOCIALS } from "../config";
+import { SITE, NAV, SOCIALS, CATEGORIES } from "../config";
 import HalloweenIcon from "./HalloweenIcon.astro";
 import ThemeToggle from "./ThemeToggle.astro";
 
@@ -31,6 +32,21 @@ const links = NAV.filter((item) => item.href !== "/start-here/");
 
 /** Subtle seasonal accent on a few browse links — not a nav redesign. */
 const halloweenNavHrefs = new Set(["/tutorials/", "/free-patterns/"]);
+const searchIndex = (
+  await getCollection("posts", ({ data }) => !data.draft)
+).map((post) => ({
+  title: post.data.title,
+  href: `/${post.id}/`,
+  category: CATEGORIES[post.data.category].label,
+  text: [
+    post.data.title,
+    post.data.description,
+    CATEGORIES[post.data.category].label,
+    ...post.data.tags,
+  ]
+    .join(" ")
+    .toLowerCase(),
+}));
 ---
 
 <header class="no-print border-b border-rule bg-paper">
@@ -98,26 +114,48 @@ const halloweenNavHrefs = new Set(["/tutorials/", "/free-patterns/"]);
         </ul>
       </nav>
 
-      <a
-        href="/articles/#all-articles"
-        class="rounded p-1.5 text-ink-soft no-underline transition-colors hover:text-terracotta-deep"
-        aria-label="Search articles"
-        data-header-search
-      >
-        <svg
-          class="h-[1.35rem] w-[1.35rem]"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="1.6"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          aria-hidden="true"
+      <div class="relative" data-header-search>
+        <button
+          type="button"
+          class="rounded p-1.5 text-ink-soft transition-colors hover:text-terracotta-deep"
+          aria-label="Search articles"
+          aria-expanded="false"
+          aria-controls="header-suggest"
+          data-search-open
         >
-          <circle cx="11" cy="11" r="6.5"></circle>
-          <path d="M16 16.5L20 20.5"></path>
-        </svg>
-      </a>
+          <svg
+            class="h-[1.35rem] w-[1.35rem]"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.6"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+            <circle cx="11" cy="11" r="6.5"></circle>
+            <path d="M16 16.5L20 20.5"></path>
+          </svg>
+        </button>
+        <div
+          id="header-suggest"
+          class="absolute right-0 z-40 mt-2 w-[min(20rem,calc(100vw-2rem))] rounded-lg border border-rule bg-paper p-3 shadow-lg"
+          data-search-panel
+          hidden
+        >
+          <label class="sr-only" for="header-suggest-input">Search articles</label>
+          <input
+            id="header-suggest-input"
+            type="search"
+            autocomplete="off"
+            placeholder="Search articles"
+            class="w-full appearance-none rounded-md border border-rule bg-paper px-3 py-2 text-base text-ink"
+            data-search-input
+          />
+          <ul class="mt-2 max-h-72 overflow-y-auto" data-search-results></ul>
+        </div>
+        <script type="application/json" id="header-search-index" set:html={JSON.stringify(searchIndex)}></script>
+      </div>
 
       <ThemeToggle />
 
@@ -268,6 +306,89 @@ const halloweenNavHrefs = new Set(["/tutorials/", "/free-patterns/"]);
 </div>
 
 <script>
+  import { articleMatchesQuery } from "../lib/articleSort";
+
+  type SearchHit = { title: string; href: string; category: string; text: string };
+
+  const searchRoot = document.querySelector<HTMLElement>("[data-header-search]");
+  const searchIndex = JSON.parse(
+    document.getElementById("header-search-index")?.textContent || "[]",
+  ) as SearchHit[];
+  const searchButton = searchRoot?.querySelector<HTMLButtonElement>("[data-search-open]");
+  const searchPanel = searchRoot?.querySelector<HTMLElement>("[data-search-panel]");
+  const searchInput = searchRoot?.querySelector<HTMLInputElement>("[data-search-input]");
+  const searchResults = searchRoot?.querySelector<HTMLElement>("[data-search-results]");
+
+  const paintResults = () => {
+    if (!searchInput || !searchResults) return;
+    const query = searchInput.value.trim();
+    searchResults.replaceChildren();
+    if (!query) return;
+    const hits = searchIndex
+      .filter((item) => articleMatchesQuery(item.text, query))
+      .slice(0, 8);
+    if (hits.length === 0) {
+      const empty = document.createElement("li");
+      empty.className = "px-2 py-2 text-sm text-ink-soft";
+      empty.textContent = "No articles match.";
+      searchResults.append(empty);
+      return;
+    }
+    for (const hit of hits) {
+      const item = document.createElement("li");
+      const link = document.createElement("a");
+      link.href = hit.href;
+      link.className =
+        "block rounded-md px-2 py-2 no-underline hover:bg-paper-deep";
+      const title = document.createElement("span");
+      title.className = "block text-sm text-ink";
+      title.textContent = hit.title;
+      const category = document.createElement("span");
+      category.className = "block text-xs text-ink-faint";
+      category.textContent = hit.category;
+      link.append(title, category);
+      item.append(link);
+      searchResults.append(item);
+    }
+  };
+
+  const setSearchOpen = (next: boolean) => {
+    if (!searchButton || !searchPanel || !searchInput) return;
+    searchPanel.hidden = !next;
+    searchButton.setAttribute("aria-expanded", String(next));
+    if (next) searchInput.focus();
+  };
+
+  searchButton?.addEventListener("click", () => {
+    setSearchOpen(searchPanel?.hidden !== false);
+  });
+  searchInput?.addEventListener("input", paintResults);
+  searchInput?.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      setSearchOpen(false);
+      searchButton?.focus();
+      return;
+    }
+    if (event.key !== "Enter") return;
+    const first = searchResults?.querySelector<HTMLAnchorElement>("a[href]");
+    if (!first) {
+      event.preventDefault();
+      return;
+    }
+    event.preventDefault();
+    window.location.href = first.href;
+  });
+  document.addEventListener("click", (event) => {
+    if (!searchRoot || searchPanel?.hidden) return;
+    if (event.target instanceof Node && searchRoot.contains(event.target)) return;
+    setSearchOpen(false);
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && searchPanel && !searchPanel.hidden) {
+      setSearchOpen(false);
+    }
+  });
+
   const menu = document.querySelector<HTMLElement>("[data-menu]");
   const open = document.querySelector<HTMLButtonElement>("[data-menu-open]");
 
@@ -284,18 +405,6 @@ const halloweenNavHrefs = new Set(["/tutorials/", "/free-patterns/"]);
       document.body.style.overflow = next ? "hidden" : "";
       (next ? close : open).focus();
     };
-
-    const search = document.querySelector<HTMLAnchorElement>("[data-header-search]");
-    const focusSearch = () => {
-      const field = document.querySelector<HTMLInputElement>("[data-article-query]");
-      if (!field) return false;
-      field.focus();
-      return true;
-    };
-    search?.addEventListener("click", (event) => {
-      if (focusSearch()) event.preventDefault();
-    });
-    if (window.location.hash === "#all-articles") focusSearch();
 
     open.addEventListener("click", () => setOpen(true));
     close.addEventListener("click", () => setOpen(false));

@@ -194,6 +194,13 @@ import { ADSENSE_CLIENT, GA_MEASUREMENT_ID, SITE } from "../config";
         if (params.get("cookies") === "1") reopenGoogleConsent();
         return;
       }
+      // A saved choice stays dismissed. "unavailable" means Google did not
+      // answer in time, not that the visitor has to choose again.
+      if (saved?.decided && !forceOpen) {
+        applyConsent(saved, options());
+        hide();
+        return;
+      }
       if (!shouldApplySavedConsent(outcome, saved, forceOpen)) {
         region = saved?.region ?? detectRegion();
         show();
