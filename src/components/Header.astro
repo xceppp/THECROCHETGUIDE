@@ -31,7 +31,6 @@ const links = NAV.filter((item) => item.href !== "/start-here/");
 
 /** Subtle seasonal accent on a few browse links — not a nav redesign. */
 const halloweenNavHrefs = new Set(["/tutorials/", "/free-patterns/"]);
-const headerQuery = Astro.url.searchParams.get("q") ?? "";
 ---
 
 <header class="no-print border-b border-rule bg-paper">
@@ -99,6 +98,27 @@ const headerQuery = Astro.url.searchParams.get("q") ?? "";
         </ul>
       </nav>
 
+      <a
+        href="/articles/#all-articles"
+        class="rounded p-1.5 text-ink-soft no-underline transition-colors hover:text-terracotta-deep"
+        aria-label="Search articles"
+        data-header-search
+      >
+        <svg
+          class="h-[1.35rem] w-[1.35rem]"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.6"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <circle cx="11" cy="11" r="6.5"></circle>
+          <path d="M16 16.5L20 20.5"></path>
+        </svg>
+      </a>
+
       <ThemeToggle />
 
       <button
@@ -124,31 +144,6 @@ const headerQuery = Astro.url.searchParams.get("q") ?? "";
       </button>
     </div>
   </div>
-
-  <form
-    class="border-t border-rule"
-    action="/articles/"
-    method="get"
-    role="search"
-  >
-    <div class="mx-auto flex w-full min-w-0 max-w-5xl flex-col gap-2 px-6 py-2.5 sm:flex-row sm:items-center sm:px-8">
-      <label class="sr-only" for="header-search">Search articles</label>
-      <input
-        id="header-search"
-        type="search"
-        name="q"
-        value={headerQuery}
-        placeholder="Search articles"
-        class="min-w-0 w-full appearance-none rounded-md border border-rule bg-paper px-3 py-2 text-base text-ink sm:flex-1"
-      />
-      <button
-        type="submit"
-        class="w-full shrink-0 rounded-full bg-terracotta px-4 py-2 text-sm font-medium text-paper transition-colors hover:bg-terracotta-deep sm:w-auto"
-      >
-        Search
-      </button>
-    </div>
-  </form>
 </header>
 
 {/* Closed state is `invisible`, not `hidden`, so the panel can slide rather
@@ -203,25 +198,6 @@ const headerQuery = Astro.url.searchParams.get("q") ?? "";
       aria-label="Site"
       class="flex-1 overflow-y-auto overscroll-contain px-3 py-4"
     >
-      <form class="px-2 pb-4" action="/articles/" method="get" role="search">
-        <label class="sr-only" for="menu-search">Search articles</label>
-        <div class="flex flex-col gap-2">
-          <input
-            id="menu-search"
-            type="search"
-            name="q"
-            value={headerQuery}
-            placeholder="Search articles"
-            class="min-w-0 w-full appearance-none rounded-md border border-rule bg-paper px-3 py-2 text-base text-ink"
-          />
-          <button
-            type="submit"
-            class="w-full rounded-full bg-terracotta px-4 py-2 text-sm font-medium text-paper"
-          >
-            Search
-          </button>
-        </div>
-      </form>
       {
         cta && (
           <a
@@ -308,6 +284,18 @@ const headerQuery = Astro.url.searchParams.get("q") ?? "";
       document.body.style.overflow = next ? "hidden" : "";
       (next ? close : open).focus();
     };
+
+    const search = document.querySelector<HTMLAnchorElement>("[data-header-search]");
+    const focusSearch = () => {
+      const field = document.querySelector<HTMLInputElement>("[data-article-query]");
+      if (!field) return false;
+      field.focus();
+      return true;
+    };
+    search?.addEventListener("click", (event) => {
+      if (focusSearch()) event.preventDefault();
+    });
+    if (window.location.hash === "#all-articles") focusSearch();
 
     open.addEventListener("click", () => setOpen(true));
     close.addEventListener("click", () => setOpen(false));
