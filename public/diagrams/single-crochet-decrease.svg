@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Single crochet decrease</title>
+<desc>Work a single crochet decrease by pulling up a loop in two stitches, then yarn over and pull through all three loops. Two stitches become one.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 26px; fill: #2f2a26; }
+  .soft { font-size: 22px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="24" width="196" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="32" y="60">1. First stitch</text>
+     <text class="soft" x="32" y="120">Pull up a loop</text>
+     <text class="label" x="32" y="180">2 loops</text>
+     <text class="soft" x="32" y="240">on the hook</text>
+     <rect x="222" y="24" width="196" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="238" y="60">2. Next stitch</text>
+     <text class="soft" x="238" y="120">Pull up a loop</text>
+     <text class="label" x="238" y="180">3 loops</text>
+     <text class="soft" x="238" y="240">on the hook</text>
+     <rect x="428" y="24" width="196" height="370" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+  <text class="label" x="444" y="60">3. Close</text>
+     <text class="soft" x="444" y="120">Yarn over</text>
+     <text class="label" x="444" y="180">Pull through 3</text>
+     <text class="soft" x="444" y="250">Count drops by 1</text>
+</svg>

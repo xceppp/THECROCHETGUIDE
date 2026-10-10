@@ -40,6 +40,11 @@ Patterns write `sc2tog`, `hdc2tog`, `dc2tog`. `dc3tog` turns three stitches into
 2. Insert the hook into the next stitch, yarn over, pull up a loop. Three loops on the hook.
 3. Yarn over and pull through all three.
 
+<figure class="diagram">
+<img src="/diagrams/single-crochet-decrease.svg" alt="Diagram of a single crochet decrease. Pull up a loop in the first stitch, pull up a loop in the next, then yarn over and pull through all three loops. The count drops by one." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. sc2tog uses two stitches and leaves one. The count falls by one.</figcaption>
+</figure>
+
 ### Half double (`hdc2tog`)
 
 1. Yarn over, insert the hook, yarn over, pull up a loop. Three loops.

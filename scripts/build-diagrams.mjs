@@ -263,6 +263,22 @@ const files = {
      <text class="label" x="356" y="270">Try a smaller hook</text>
      <text class="soft" x="356" y="330">Then measure again</text>`,
   ),
+  "single-crochet-decrease.svg": svg(
+    "Single crochet decrease",
+    "Work a single crochet decrease by pulling up a loop in two stitches, then yarn over and pull through all three loops. Two stitches become one.",
+    `${panel(16, 24, 196, 370, "1. First stitch")}
+     <text class="soft" x="32" y="120">Pull up a loop</text>
+     <text class="label" x="32" y="180">2 loops</text>
+     <text class="soft" x="32" y="240">on the hook</text>
+     ${panel(222, 24, 196, 370, "2. Next stitch")}
+     <text class="soft" x="238" y="120">Pull up a loop</text>
+     <text class="label" x="238" y="180">3 loops</text>
+     <text class="soft" x="238" y="240">on the hook</text>
+     ${panel(428, 24, 196, 370, "3. Close")}
+     <text class="soft" x="444" y="120">Yarn over</text>
+     <text class="label" x="444" y="180">Pull through 3</text>
+     <text class="soft" x="444" y="250">Count drops by 1</text>`,
+  ),
 };
 
 for (const [name, contents] of Object.entries(files)) {
