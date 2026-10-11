@@ -7,7 +7,6 @@ import AdSlot from "../components/AdSlot.astro";
 import { getPathStages } from "../lib/learningPath";
 import { getPostThumbnail } from "../lib/postThumbnails";
 import { SITE, CATEGORIES } from "../config";
-import { resolveSeasonalOccasion } from "../lib/seasonalTheme";
 
 const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
@@ -24,21 +23,67 @@ const stages = await getPathStages();
 const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
 
 /**
- * Featured projects. In season the timely picks come first so the home page
- * matches the seasonal skin; the rest are evergreen beginner projects. Every
- * entry is filtered to ones that actually have a cover image, and the list is
- * capped at six so the home never turns back into an archive.
+ * Which set of projects the home page leads with is driven by an explicit
+ * editorial calendar, deliberately independent of the site's seasonal skin:
+ * the featured picks can switch over without recoloring the whole site.
+ *
+ *   Halloween picks:  Sep 15 – Oct 31
+ *   Christmas picks:  Nov 1  – Dec 25
+ *   Evergreen:        the rest of the year
+ *
+ * The date is read in the site's editorial timezone (US Eastern) so the
+ * switch happens on the same calendar day for the US audience regardless of
+ * where the build runs.
  */
-const occasion = resolveSeasonalOccasion();
-const seasonalTag = occasion?.contentTag?.toLowerCase();
+const EDITORIAL_TZ = "America/New_York";
 
-const seasonalFeatured = seasonalTag
-  ? posts
-      .filter((post) =>
-        post.data.tags.some((tag) => tag.toLowerCase() === seasonalTag),
-      )
-      .sort((a, b) => Number(b.data.featured) - Number(a.data.featured))
-      .filter((post) => getPostThumbnail(post.id))
+function editorialMonthDay(now = new Date()): number {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: EDITORIAL_TZ,
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(now);
+  const month = Number(parts.find((p) => p.type === "month")?.value ?? "0");
+  const day = Number(parts.find((p) => p.type === "day")?.value ?? "0");
+  return month * 100 + day;
+}
+
+function featuredSeasonTag(now = new Date()): "halloween" | "christmas" | null {
+  const md = editorialMonthDay(now);
+  if (md >= 915 && md <= 1031) return "halloween";
+  if (md >= 1101 && md <= 1225) return "christmas";
+  return null;
+}
+
+const seasonTag = featuredSeasonTag();
+
+/**
+ * Hand-picked seasonal line-ups so the featured grid reads as a varied
+ * editorial selection (an amigurumi, a wallet, a motif…) rather than six
+ * near-identical cards. Each slug is filtered to ones that actually have a
+ * cover image, and evergreen projects fill any gap.
+ */
+const seasonalSlugs: Record<"halloween" | "christmas", string[]> = {
+  halloween: [
+    "crochet-ghost-amigurumi-for-beginners",
+    "how-to-crochet-a-pumpkin-step-by-step",
+    "how-to-crochet-a-spider-and-web",
+    "bat-amigurumi-wings-body-and-ears",
+    "halloween-crochet-card-wallet",
+    "witch-hat-crochet-wallet",
+  ],
+  christmas: [
+    "how-to-crochet-a-snowflake",
+    "how-to-crochet-a-christmas-tree",
+    "how-to-crochet-a-gnome",
+    "crochet-santa-amigurumi-for-beginners",
+    "easy-crochet-christmas-ornaments",
+    "how-to-crochet-a-christmas-gift-card-holder",
+  ],
+};
+
+const seasonalFeatured = seasonTag
+  ? seasonalSlugs[seasonTag].map(withThumb).filter((post) => post != null)
   : [];
 
 const evergreenSlugs = [
@@ -59,19 +104,22 @@ const featured = [...seasonalFeatured, ...evergreenFeatured]
   )
   .slice(0, 6);
 
-const seasonalName =
-  seasonalTag === "halloween"
-    ? "Halloween"
-    : seasonalTag === "christmas"
-      ? "Christmas"
-      : occasion?.name ?? "";
 const featuredHeading =
-  seasonalFeatured.length > 0 && seasonalName
-    ? `${seasonalName} projects to make`
-    : "Projects worth making";
+  seasonalFeatured.length > 0 && seasonTag === "halloween"
+    ? "Halloween projects to make"
+    : seasonalFeatured.length > 0 && seasonTag === "christmas"
+      ? "Christmas projects to make"
+      : "Projects worth making";
 
-/** Newest six, shown as a simple list — no archive pager on the home page. */
-const latest = posts.slice(0, 6);
+/**
+ * Newest six — but never repeat a card that is already in the featured grid,
+ * so the two sections stay distinct. With 69 articles there is always a next
+ * newest to promote in its place.
+ */
+const featuredIds = new Set(featured.map((post) => post.id));
+const latest = posts
+  .filter((post) => !featuredIds.has(post.id))
+  .slice(0, 6);
 
 /** Interactive helpers plus the printable reference charts, in one place. */
 const tools = [
