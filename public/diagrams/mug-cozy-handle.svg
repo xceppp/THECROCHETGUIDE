@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Where the mug cozy closes around the handle</title>
+<desc>A mug seen from above. The cozy wraps the wall and stops on either side of the handle. The body length is the distance around the mug minus the width of the handle where it meets the wall: 10 minus 1 is 9 inches. A strap from one end passes between the handle and the wall to a button on the other end. A seamed tube cannot pass the handle, which is attached to the wall at the top and the bottom.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .mug { fill: #fdfaf6; stroke: #2f2a26; stroke-width: 3; }
+  .cozy { fill: none; stroke: #6b4428; stroke-width: 14; }
+  .handle { fill: none; stroke: #2f2a26; stroke-width: 10; stroke-linecap: round; }
+  .strap { fill: none; stroke: #b0604a; stroke-width: 5; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50">Seen from above</text>
+<circle class="mug" cx="180" cy="200" r="100"/>
+<path class="cozy" d="M290 215 A110 110 0 1 1 290 185"/>
+<rect x="280" y="192" width="70" height="16" rx="6" fill="#2f2a26"/>
+<path class="strap" d="M294 216 V184" stroke-dasharray="5 4"/>
+<circle cx="294" cy="178" r="7" fill="#7d8b72"/>
+<text class="soft" x="366" y="190">handle</text>
+<text class="soft" x="366" y="240">dashed: the strap passes</text>
+<text class="soft" x="366" y="262">under the handle, against</text>
+<text class="soft" x="366" y="284">the wall, to the button</text>
+<text class="soft" x="32" y="342">Body = around the mug - handle base: 10 - 1 = 9 in.</text>
+<text class="soft" x="32" y="366">A sewn tube cannot get past the handle.</text>
+<text class="soft" x="32" y="390">The handle is fixed to the wall at top and bottom.</text>
+</svg>

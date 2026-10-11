@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Single-crochet count along one granny square edge</title>
+<desc>One side of a 4-round granny square, from corner to corner: a corner chain-2 space, four 3-double-crochet clusters with three chain-1 spaces between them, and the next corner space. Two single crochet in each corner space, one in each of the 12 double crochet, and one in each of the 3 chain-1 spaces is 19. For a square of n rounds the edge is 4n plus 3.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .cl { fill: #f3e6d4; stroke: #6b4428; stroke-width: 3; }
+  .corner { fill: #b0604a; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50">One edge of a 4-round square</text>
+<rect class="corner" x="40" y="96" width="28" height="14" rx="3"/>
+<rect class="cl" x="76" y="84" width="96" height="38" rx="6"/><text class="soft" x="102" y="109">3 dc</text>
+<circle cx="190" cy="103" r="7" fill="#7d8b72"/>
+<rect class="cl" x="208" y="84" width="96" height="38" rx="6"/><text class="soft" x="234" y="109">3 dc</text>
+<circle cx="322" cy="103" r="7" fill="#7d8b72"/>
+<rect class="cl" x="340" y="84" width="96" height="38" rx="6"/><text class="soft" x="366" y="109">3 dc</text>
+<circle cx="454" cy="103" r="7" fill="#7d8b72"/>
+<rect class="cl" x="472" y="84" width="96" height="38" rx="6"/><text class="soft" x="498" y="109">3 dc</text>
+<rect class="corner" x="576" y="96" width="28" height="14" rx="3"/>
+<text class="soft" x="40" y="152">corner sp: 2 sc each</text>
+<text class="soft" x="40" y="174">each dc: 1 sc. each ch-1 sp: 1 sc</text>
+<text class="label" x="40" y="222">2 + 12 + 3 + 2 = 19 sc</text>
+<text class="soft" x="40" y="262">Round n has n clusters on each side</text>
+<text class="soft" x="40" y="284">(the two corner halves count) and n - 1 spaces.</text>
+<text class="label" x="40" y="330">Seam edge = 4n + 3</text>
+<text class="soft" x="40" y="362">4 rounds: 19. 5 rounds: 23. 6 rounds: 27.</text>
+<text class="soft" x="40" y="386">Whole square: 12n dc. Round 4 has 48.</text>
+</svg>

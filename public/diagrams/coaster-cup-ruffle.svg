@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Reading a circle from the side: flat, cupped, or ruffled</title>
+<desc>Three side views of a crochet circle on a table. Flat: the increases keep pace with the height of the stitches. Cupped: the edge lifts into a bowl because there are too few increases for the stitch height. Ruffled: the edge waves because there are too many increases or the stitches are loose and wide.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .table { stroke: #9a9088; stroke-width: 2; }
+  .fab { fill: none; stroke: #6b4428; stroke-width: 6; stroke-linecap: round; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">Flat</text>
+<line class="table" x1="236" y1="88" x2="600" y2="88"/>
+<path class="fab" d="M240 84 H560"/>
+<text class="soft" x="32" y="80">Increases match</text>
+<text class="soft" x="32" y="100">the stitch height.</text>
+<text class="label" x="32" y="172">Cups</text>
+<line class="table" x1="236" y1="214" x2="600" y2="214"/>
+<path class="fab" d="M240 170 C260 210, 300 210, 400 210 C500 210, 540 210, 560 170"/>
+<text class="soft" x="32" y="200">Too few increases,</text>
+<text class="soft" x="32" y="220">or tall, tight stitches.</text>
+<text class="label" x="32" y="292">Ruffles</text>
+<line class="table" x1="236" y1="334" x2="600" y2="334"/>
+<path class="fab" d="M240 330 C260 300, 280 300, 300 330 C320 356, 340 356, 360 330 C380 300, 400 300, 420 330 C440 356, 460 356, 480 330 C500 300, 520 300, 540 330 L560 330"/>
+<text class="soft" x="32" y="320">Too many increases,</text>
+<text class="soft" x="32" y="340">or a loose, wide stitch.</text>
+<text class="soft" x="32" y="388">Count the round first. A missed increase also cups.</text>
+</svg>

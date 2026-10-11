@@ -35,7 +35,7 @@ The [ornament ideas](/easy-crochet-christmas-ornaments/) page lists fifteen shap
 
 - [Chunky beanie](/how-to-crochet-a-chunky-beanie/). Bulky yarn finishes faster than worsted. Measure the head.
 - [Ear warmer](/how-to-crochet-an-ear-warmer/). A good gift when you do not know the hat size.
-- [Fingerless gloves](/how-to-crochet-fingerless-gloves/). Make the second glove as a mirror of the first.
+- [Fingerless gloves](/how-to-crochet-fingerless-gloves/). Measure the hand first. With the thumb gap opposite the round join, both gloves are worked the same.
 - [Book sleeve](/how-to-crochet-a-book-sleeve/). Measure the book. The same shape fits many e-readers if you measure the device instead of guessing a brand size.
 - [Wine bottle bag](/how-to-crochet-a-wine-bottle-bag/). The bottle is the form. Crochet to that bottle.
 

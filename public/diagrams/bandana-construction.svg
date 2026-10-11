@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>How a granny-triangle bandana grows</title>
+<desc>The work starts at the middle of the long edge. Each row is a V whose two ends land on the long edge and whose corner points away from it. The corners stack into the point. If the point blocks to a right angle, the depth is about half the long edge.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .row { fill: none; stroke: #6b4428; stroke-width: 4; stroke-linejoin: round; }
+  .edge { fill: none; stroke: #2f2a26; stroke-width: 3; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<path class="edge" d="M90 90 H550"/>
+<path class="row" d="M290 90 L320 120 L350 90"/>
+<path class="row" d="M250 90 L320 160 L390 90"/>
+<path class="row" d="M200 90 L320 210 L440 90"/>
+<path class="row" d="M145 90 L320 265 L495 90"/>
+<path class="row" d="M90 90 L320 320 L550 90"/>
+<circle cx="320" cy="90" r="8" fill="#b0604a"/>
+<text class="label" x="232" y="62">Start: middle of long edge</text>
+<path class="mark" d="M320 98 V320"/>
+<text class="soft" x="410" y="270">Corners stack</text>
+<text class="soft" x="410" y="290">into the point</text>
+<text class="soft" x="40" y="130">Row ends</text>
+<text class="soft" x="40" y="150">make the</text>
+<text class="soft" x="40" y="170">long edge</text>
+<text class="soft" x="32" y="362">Each row adds a shell at both ends and at the corner.</text>
+<text class="soft" x="32" y="388">Square point: depth = half the long edge. 16 in -> 8 in.</text>
+</svg>

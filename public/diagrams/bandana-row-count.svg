@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Stitch counts for each bandana row</title>
+<desc>Row 2 laid out in order: a 3 double crochet shell, chain 1, the corner of 3 double crochet, chain 2, 3 double crochet, then chain 1 and a final shell. That is 12 double crochet and two chain-1 spaces. Row n has n shells on each side of the corner, 6 times n double crochet, and 2 times n minus 1 chain-1 spaces.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .shell { fill: #f3e6d4; stroke: #6b4428; stroke-width: 3; }
+  .corner { fill: #b0604a; }
+  .rule { stroke: #e6ddd1; stroke-width: 2; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50">Row 2, in the order you work it</text>
+<rect class="shell" x="40" y="70" width="80" height="40" rx="6"/>
+<text class="soft" x="58" y="96">3 dc</text>
+<circle cx="140" cy="90" r="6" fill="#7d8b72"/>
+<rect class="shell" x="160" y="70" width="80" height="40" rx="6"/>
+<text class="soft" x="178" y="96">3 dc</text>
+<rect class="corner" x="248" y="84" width="24" height="12" rx="3"/>
+<rect class="shell" x="280" y="70" width="80" height="40" rx="6"/>
+<text class="soft" x="298" y="96">3 dc</text>
+<circle cx="380" cy="90" r="6" fill="#7d8b72"/>
+<rect class="shell" x="400" y="70" width="80" height="40" rx="6"/>
+<text class="soft" x="418" y="96">3 dc</text>
+<text class="soft" x="40" y="136">sage dot = ch 1, terracotta bar = ch-2 corner</text>
+<text class="soft" x="40" y="160">3 + 3 + 3 + 3 = 12 dc, 2 ch-1 spaces</text>
+<line class="rule" x1="40" y1="180" x2="600" y2="180"/>
+<text class="label" x="40" y="212">Row</text>
+<text class="label" x="140" y="212">Shells per side</text>
+<text class="label" x="340" y="212">dc</text>
+<text class="label" x="440" y="212">ch-1</text>
+<text class="soft" x="40" y="244">1</text><text class="soft" x="140" y="244">1</text><text class="soft" x="340" y="244">6</text><text class="soft" x="440" y="244">0</text>
+<text class="soft" x="40" y="272">2</text><text class="soft" x="140" y="272">2</text><text class="soft" x="340" y="272">12</text><text class="soft" x="440" y="272">2</text>
+<text class="soft" x="40" y="300">3</text><text class="soft" x="140" y="300">3</text><text class="soft" x="340" y="300">18</text><text class="soft" x="440" y="300">4</text>
+<text class="soft" x="40" y="328">4</text><text class="soft" x="140" y="328">4</text><text class="soft" x="340" y="328">24</text><text class="soft" x="440" y="328">6</text>
+<text class="soft" x="40" y="356">n</text><text class="soft" x="140" y="356">n</text><text class="soft" x="340" y="356">6n</text><text class="soft" x="440" y="356">2(n - 1)</text>
+<text class="soft" x="40" y="388">Every row has one ch-2 corner.</text>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Increase plan for a flat single-crochet circle</title>
+<desc>A circle divided into six wedges. Each round adds one increase in every wedge, so round n has 6 times n stitches, up to 48 at round 8. Round 9 is worked even. At 4 stitches per inch, 48 stitches are 12 inches around, which is about 3.8 inches across.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .ring { fill: none; stroke: #c9a988; stroke-width: 2; }
+  .outer { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .wedge { stroke: #b0604a; stroke-width: 2; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<circle class="outer" cx="160" cy="190" r="128"/>
+<circle class="ring" cx="160" cy="190" r="16"/><circle class="ring" cx="160" cy="190" r="32"/>
+<circle class="ring" cx="160" cy="190" r="48"/><circle class="ring" cx="160" cy="190" r="64"/>
+<circle class="ring" cx="160" cy="190" r="80"/><circle class="ring" cx="160" cy="190" r="96"/>
+<circle class="ring" cx="160" cy="190" r="112"/>
+<line class="wedge" x1="160" y1="190" x2="160" y2="62"/>
+<line class="wedge" x1="160" y1="190" x2="271" y2="126"/>
+<line class="wedge" x1="160" y1="190" x2="271" y2="254"/>
+<line class="wedge" x1="160" y1="190" x2="160" y2="318"/>
+<line class="wedge" x1="160" y1="190" x2="49" y2="254"/>
+<line class="wedge" x1="160" y1="190" x2="49" y2="126"/>
+<text class="label" x="320" y="54">Round: stitches (sc between)</text>
+<text class="soft" x="320" y="86">1: 6 in the ring</text>
+<text class="soft" x="320" y="110">2: 12 (2 sc in each)</text>
+<text class="soft" x="320" y="134">3: 18 (1)</text>
+<text class="soft" x="320" y="158">4: 24 (2)</text>
+<text class="soft" x="320" y="182">5: 30 (3)</text>
+<text class="soft" x="320" y="206">6: 36 (4)</text>
+<text class="soft" x="320" y="230">7: 42 (5)</text>
+<text class="soft" x="320" y="254">8: 48 (6)</text>
+<text class="soft" x="320" y="278">9: 48, no increases</text>
+<text class="soft" x="320" y="310">Round n = 6n. One increase</text>
+<text class="soft" x="320" y="332">per wedge, every round.</text>
+<text class="soft" x="32" y="364">48 sts at 4 per in = 12 in around.</text>
+<text class="soft" x="32" y="388">12 / 3.14 = about 3.8 in across. Arithmetic, not a sample.</text>
+</svg>

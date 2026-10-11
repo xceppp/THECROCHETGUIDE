@@ -1,7 +1,8 @@
 ---
 title: "Crochet Mug Cozy for Beginners (Button Closure)"
-description: "Size a single-crochet mug cozy from the mug in front of you: measure, work a rectangle, add a button flap, and check the handle gap."
+description: "Size a single-crochet mug cozy from your mug: a strip worked sideways, a loop that passes inside the handle, and one button. US terms. Not a fitted sample."
 pubDate: 2026-10-01
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -16,127 +17,163 @@ tags:
     "beginner",
     "how to",
   ]
+glance:
+  time: "One strip, one loop, one button"
+  size: "From your mug: around, height, and handle width"
+  yarn: "Worsted cotton"
+  hook: "The hook that matches your swatch"
+  yardage: "Not weighed. A cozy is small. Weigh a swatch if you need a number."
 ---
 
-A mug cozy is a rectangle sized from one mug. Measure that mug. A cozy made for a different cup will gap or buckle, and the photo on this page is an illustration, not a fitted sample.
+A mug cozy is a strip of single crochet that wraps the mug from one side of the handle to the other. A chain loop on one end passes inside the handle and closes over a button on the other end. The stitches are the easiest on the site. Three things trip beginners up: which gauge sets the length, what the handle does to the shape, and mugs that are not straight.
 
-You crochet a rectangle that wraps the mug, seam or button it closed, and stop. If your [single crochet](/basic-crochet-stitches/) is even, you are ready.
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). If your [single crochet](/basic-crochet-stitches/) is even, you are ready. The pictures are illustrations. No cozy for this page was crocheted or fitted on a mug. The 10 inch mug below is an example for the arithmetic.
 
-Work the strip **sideways** — foundation chain is the height, rows travel around the mug — so you can wrap and check fit without ripping out a tall piece that came out wrong. That one habit saves more frogging than any stitch tip on this page.
+![A handmade crochet mug cozy in cream and sage wrapped around a ceramic mug with a wood-button closure](../../assets/articles/crochet-mug-cozy-for-beginners-result.jpg "Illustration. It draws a textured stripe and a round button tab. This page makes plain single crochet with a chain loop. Not a fitted sample.")
 
-![A handmade crochet mug cozy in cream and sage wrapped around a ceramic mug with a wood-button closure](../../assets/articles/crochet-mug-cozy-for-beginners-result.jpg "Illustration. The finished look: a snug sleeve with a simple button closure.")
+## What is a technique, and what is only a plan
 
-## What you need
-
-- Worsted-weight yarn. Cotton holds its shape on a mug better than a fluffy acrylic. About **60–80 yd** is a shopping guess for a diner mug, not yarn weighed off a finished cozy. A taller mug uses more. [Yarn weight chart](/yarn-weight-chart/)
-- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart/)
-- **One button**, about **⅝–¾ in** across
-- Yarn needle
-- **The mug** you are wrapping — measure it, do not guess
-
-US abbreviations. See the [abbreviations chart](/crochet-abbreviations-chart/) if needed.
-
-## Finished size (design target)
-
-| Measure on your mug | How to use it |
+| Piece of this page | What it is |
 | --- | --- |
-| Circumference under the handle | Cozy length before button overlap |
-| Height from table to below the rim | Cozy height (leave the lip free) |
+| Single-crochet rows worked sideways, ch 1 not counted | The construction. |
+| Body length = around the mug minus the handle base | A planning model taken from the mug. |
+| 4 sc and 5 rows to the inch | An unverified gauge, used only so the example has numbers. |
+| A chain loop inside the handle to a button | A closure choice. Check it on your mug. |
+| About 60 to 80 yards | An old shopping guess. Withdrawn. |
+| Keeping a drink warm | Not tested. |
 
-Most diner-style mugs want a cozy about **3–3.5 in tall** and a wrap length about **1 in less than the full circumference**, plus a short flap for the button. That height is a common mug, not a measurement from a cozy made for this page.
+## How the cozy is built
 
-Worked example of the method. The mug is 10 inches around under the handle. The body of the cozy aims near 9 inches, so the fabric can stretch closed without buckling. If your swatch is 4 single crochet to the inch, 9 × 4 = 36 rows for the body. The flap is extra rows on top of that. If your swatch is 5 stitches to the inch, the same 9 inches is 45 rows. Do not keep 36.
+The foundation chain is the cozy's height. The rows travel around the mug. You wrap the strip as it grows and stop when the two short ends sit on either side of the handle. That is why it is worked sideways: the height is decided once, by the chain, and the length is decided at the mug, by adding rows.
 
-![A tape measure around a ceramic mug beside a crochet cozy rectangle](../../assets/articles/crochet-mug-cozy-for-beginners-1.jpg "Illustration. Step prep — the mug is the pattern. Measure before you chain.")
+<figure class="diagram">
+<img src="/diagrams/mug-cozy-strip.svg" alt="A long horizontal strip. An arrow on the left edge marks the chain as the height. An arrow along the bottom says the rows travel around the mug. Notes say 12 single crochet at 4 per inch is 3 inches tall from a chain of 13, and 9 inches at 5 rows per inch is 45 rows, not 9 times 4, which uses the stitch gauge in the row direction." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Stitches set the height. Rows set the length around the mug. Each uses its own gauge.</figcaption>
+</figure>
 
-## Step 1: measure, then chain the height
+The direction has a consequence. Because rows go around the mug, the length comes from your **row** gauge, not your stitch gauge. The earlier version of this page multiplied 9 inches by 4 stitches per inch and called it 36 rows. At 5 rows per inch, 9 inches is 45 rows. Nine extra rows is more than an inch and a half of cozy.
 
-![Hands chaining the foundation for a mug cozy height](../../assets/articles/crochet-mug-cozy-for-beginners-2.jpg "Illustration. Step 1 — chain the cozy height, not the mug circumference.")
+It also changes stripes. A color change at the start of a row makes a stripe that runs up the mug, not around it.
 
-Hold the mug. Decide how tall the cozy should sit (usually stops **½ in below the rim** so lips never touch yarn).
+## Measure the mug
 
-Chain that height as your foundation (often **ch 12–16**). Turn. Sc in the second chain from the hook and across. That stitch count is every row’s height.
+![A tape measure around a ceramic mug beside a crochet cozy rectangle](../../assets/articles/crochet-mug-cozy-for-beginners-1.jpg "Illustration. The mug is the pattern. Measure before you chain.")
 
-<div class="tip">
+Write down four things:
 
-**Work sideways.** Rows run around the mug; the foundation chain is the height. That way you can try the strip against the mug as you go and stop at the right length.
+1. **Around the mug** at the height where the cozy will sit. If the mug flares, measure near the top and near the bottom of that band.
+2. **Cozy height:** from just above where the base curves in, to about half an inch below the rim, so lips never touch yarn. The half inch is a choice.
+3. **Handle base:** the width of the handle where it meets the wall, side to side.
+4. **Handle gap:** the space between the handle and the wall at mid-height. The loop has to pass through it.
 
-</div>
+The example mug is **10 inches** around with a **1 inch** handle base, and the cozy is **3 inches** tall. The body is 10 − 1 = **9 inches**, because the cozy stops on either side of the handle instead of covering it.
 
-## Step 2: work the wrap
+If the top and bottom measurements differ, a straight strip can only match one of them. Sized to the top, it slides down. Sized to the bottom, it gaps at the top. Shaping the strip is a different construction, not covered here. For a tapered tumbler, see the [tumbler sleeve](/how-to-crochet-a-tumbler-sleeve/).
 
-![A growing single-crochet rectangle for a mug cozy held against a mug](../../assets/articles/crochet-mug-cozy-for-beginners-3.jpg "Illustration. Step 2 — keep wrapping the mug as you add rows until the ends almost meet under the handle.")
+## Yarn and tools
 
-Work rows of **single crochet**, ch 1 and turn. Keep going until the strip wraps the mug and the short ends sit under the handle with about **½–¾ in overlap** for the button area — or meet cleanly if you plan to seam and leave the handle gap open.
+- **Worsted cotton.** It is the usual choice next to hot drinks, it washes well, and it holds its shape on a mug. Acrylic can soften or melt with high heat. If you give an acrylic cozy, say so. [Yarn weight chart](/yarn-weight-chart/).
+- **A hook matched to the yarn**, often US G/6 (4.0 mm) or H/8 (5.0 mm). [Hook size chart](/crochet-hook-size-conversion-chart/).
+- **One button**, about 5/8 to 3/4 inch across. That size is a choice. The loop is made to fit whichever button you pick.
+- Yarn needle, scissors, and the mug.
 
-Leave a vertical gap for the handle: when you wrap, the cozy should open under the handle, not climb over it. Mark the handle gap with stitch markers on the mug if that helps you visualize.
+## Gauge and the worked example
 
-For a Christmas reel, switch to a second color for the last 2–3 rows using a clean [color change](/changing-yarn-color-crochet/).
+Swatch in single crochet and measure both directions. [Gauge](/crochet-gauge/) shows how. The example uses 4 stitches and 5 rows per inch. Neither number came from a finished cozy.
 
-## Step 3: button flap and seam choice
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Height | 3 in × 4 sts per inch | 12 sts, chain 13 |
+| Length | (10 − 1) in × 5 rows per inch | 45 rows |
+| Same length at 4 rows per inch | 9 × 4 | 36 rows |
 
-![Sewing a wood button onto the flap of a crochet mug cozy](../../assets/articles/crochet-mug-cozy-for-beginners-4.jpg "Illustration. Step 3 — sew the button on one end; make a chain loop on the other.")
+## Stage 1: chain the height
 
-**Button version (best for gifts):** On one short end, sew the button centered. On the opposite end, join yarn at the center, chain enough to slip over the button (**ch 6–10** — test it), slip stitch back into the join, fasten off.
+![Hands chaining the foundation for a mug cozy height](../../assets/articles/crochet-mug-cozy-for-beginners-2.jpg "Illustration. Chain the cozy height, not the mug circumference.")
 
-**Seamed version:** Whipstitch the short ends together only below and above the handle gap, leaving the handle free. No button needed.
+Chain 13.
 
-Weave ends on the inside. Steam-block cotton lightly if the edges curl — see [blocking](/weaving-in-ends-and-blocking/).
+**Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (12)
 
-## Step 4: fit check
+**Checkpoint:** hold the row upright against the mug. It should reach from just above the base curve to about half an inch below the rim. If it does not, change the chain now. This is the only point where the height is cheap to fix.
 
-![A finished crochet mug cozy buttoned onto a warm ceramic mug](../../assets/articles/crochet-mug-cozy-for-beginners-fit.jpg "Illustration. Pass/fail: snug when buttoned, handle free, rim clear of yarn.")
+## Stage 2: rows around the mug
 
-1. Slide the cozy on.
-2. Close the button (or check the seam gap).
-3. Hold a warm (not boiling-hot) mug — fabric should feel secure, not sliding.
+![A growing single-crochet rectangle for a mug cozy held against a mug](../../assets/articles/crochet-mug-cozy-for-beginners-3.jpg "Illustration. Wrap the strip as it grows until the ends reach the sides of the handle.")
 
-**Too loose:** fewer ease stitches next time, or a tighter button loop.  
-**Too tight:** add 2–4 rows before seaming.  
-**Handle trapped:** open the gap taller; you seamed too far.
+**Row 2 and on:** Sc in each stitch. Ch 1, turn. (12)
+
+Count the stitches every 10 rows. A gained stitch makes one long edge longer than the other, and the ends will not line up beside the handle.
+
+Wrap the strip around the mug every 10 rows. Stop when the two short ends sit against the two sides of the handle base. That is 45 rows in the example. Your row count is whatever reaches.
+
+**Checkpoint:** both short ends sit beside the handle, not on top of it, and the strip lies flat against the wall all the way round.
+
+## Stage 3: the loop and the button
+
+<figure class="diagram">
+<img src="/diagrams/mug-cozy-handle.svg" alt="A mug seen from above. The cozy wraps the wall and stops on either side of the handle, which sticks straight out. A dashed line shows the strap passing under the handle, against the wall, to a button on the other end. Notes say the body is around the mug minus the handle base, 10 minus 1 is 9 inches, and that a sewn tube cannot get past the handle because it is fixed to the wall at top and bottom." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The loop goes through the gap between the handle and the wall. That is the only way across.</figcaption>
+</figure>
+
+![Sewing a wood button onto the flap of a crochet mug cozy](../../assets/articles/crochet-mug-cozy-for-beginners-4.jpg "Illustration. The button goes on the first-row end. The chain loop goes on the last row.")
+
+1. **Button.** On the foundation-chain end, sew the button at mid-height, about half an inch in from the edge. Go through several stitches of the cozy, not through a single strand.
+2. **Loop.** Wrap the cozy on the mug. On the last-row end, join yarn at mid-height, between stitches 6 and 7 of the 12. Chain until the chain passes through the handle gap and reaches around the button. Slip stitch back into the same place to close the loop, and fasten off.
+3. **Test it before you weave the ends.** Pass the loop through the handle and over the button. It should close with a slight stretch. A loop that slides off easily is too long. Pull it out and chain fewer.
+
+Do not sew the ends into a tube on a mug with a handle. The handle is fixed to the wall at the top and at the bottom, so a closed tube cannot slide past it. You would have to sew the cozy onto the mug and cut it off to wash it. The earlier version of this page suggested seaming "below and above the handle", which is where the handle is attached. For a cup with no handle and straight sides, a seamed tube works.
+
+## Finish and fit check
+
+Weave the ends in on the inside. If the long edges curl, steam cotton lightly. See [blocking](/weaving-in-ends-and-blocking/).
+
+1. Slide the cozy on and close the loop over the button.
+2. The ends sit beside the handle, and the rim is clear of yarn.
+3. Hold a warm mug, not one straight off the boil. The cozy should stay put, not slide.
+
+**Too loose:** take the loop off, pull out rows from the last-row end, and make the loop again. **Too tight:** take the loop off and add rows. That is why the loop goes on the last row. **Ends over the handle:** too many rows.
 
 <div class="warning">
 
-**Do not microwave a mug while the cozy is on.** Remove the cozy first. Yarn and buttons do not belong in a microwave.
+**Do not microwave a mug with the cozy on.** Take the cozy off first. Yarn and buttons do not belong in a microwave.
+
+A button is a small part that can come loose. Check its thread before you give the cozy, and keep it away from small children.
 
 </div>
 
-## Yarn choice for kitchen use
+## Troubleshooting
 
-Cotton is the honest answer for anything that lives next to coffee. It washes, it does not melt against a warm ceramic the way some novelty yarns feel like they might, and it photographs with clear stitch definition. Acrylic works for a photo prop or a mug that never sees a dishwasher. If you gift acrylic, tell the recipient to hand-wash the cozy and keep it off boiling-hot mugs straight from the kettle.
+**The cozy is an inch short.** You worked the length from the stitch gauge. Count your rows per inch and add the difference.
 
-A small wood or coconut button reads warmer in Christmas flat lays than a plastic one. Sew it on firmly — gift recipients will yank the loop.
+**One long edge is longer than the other.** Gained or lost stitches. Count back to the row where you still had 12.
 
-## Mistakes that ruin a mug cozy
+**There is a gap at the top or the bottom.** The mug tapers. A straight strip only fits one circumference.
 
-**Guessing the mug size.** Blog inches will not match your cup. Measure.
+**The cozy slides down.** It is loose, or the mug narrows toward the base.
 
-**Covering the rim.** People drink there. Stop short.
+**The loop slips off the button.** The loop is too long or the button too small. Chain fewer.
 
-**Acrylic that pills into coffee.** Cotton or a tight worsted acrylic is safer for kitchen use.
-
-**Button sewn through both layers of a thick seam.** Sew through the outer fabric only so the loop can close flat.
-
-**Ignoring the handle gap.** A cozy that has to stretch over the handle will climb and twist. Leave the gap on purpose.
+**The button pulls through.** It was sewn through one strand. Sew it through several stitches.
 
 ## Frequently asked
 
 ### How long does this take?
 
-One evening. Good reel beats: measure, mid-wrap try-on, button close, finished mug shot.
+The example is 45 rows of 12, about 540 single crochet. Time your first 10 rows and multiply by 4.5.
 
-### Can I make a set for Christmas?
+### Can I make a set?
 
-Yes. Same stitch count, three colors. Pin them as a set with gift tags. Pair with [yarn for Christmas crochet](/yarn-for-christmas-crochet/) if you are buying one skein for a batch.
+Yes, if the mugs are identical. For different mugs, measure each one. Mugs that look the same often are not.
 
 ### Does it work on tumblers?
 
-Yes if the walls are straight. Tapered travel mugs need try-ons every few rows.
+On a straight-sided tumbler with no handle, yes, and you can seam it into a tube. On a tapered one, see the [tumbler sleeve](/how-to-crochet-a-tumbler-sleeve/).
 
 ### Can I add a pocket for a tea bag?
 
-Yes — crochet a second smaller rectangle and sew three sides onto the outside before you add the button. Keep it flat so the mug still sits stable.
+Yes. Crochet a second, smaller rectangle and sew three sides of it onto the outside before you add the button. Keep it flat so the mug still sits steady.
 
 ### What should I make next?
 
-A [scrunchie](/how-to-crochet-a-scrunchie/) for a stocking stuffer, a [snowflake](/how-to-crochet-a-snowflake/) for the tree, or a [simple flower](/how-to-crochet-a-simple-flower/) sewn onto the cozy flap.
+A [scrunchie](/how-to-crochet-a-scrunchie/) as a small gift, a [snowflake](/how-to-crochet-a-snowflake/) for the tree, or [coasters](/free-pattern-halloween-coasters/) for under the same mug.

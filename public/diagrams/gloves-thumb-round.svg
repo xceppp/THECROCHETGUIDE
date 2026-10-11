@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Thumb round stitch count</title>
+<desc>Round 8 drawn as 28 stitches in a line: 11 single crochet, 5 skipped stitches bridged by a chain of 5, then 12 single crochet. The skipped stitches are centered on stitch 14, opposite the round join. The next round is 11 plus 5 plus 12, still 28. A chain of 6 over 4 skipped stitches would make 30.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .st { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2; }
+  .skip { fill: #fdfaf6; stroke: #9a9088; stroke-width: 2; stroke-dasharray: 4 3; }
+  .chain { fill: none; stroke: #b0604a; stroke-width: 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50">Round 8, opened flat: 28 stitches</text>
+<g>
+<rect class="st" x="40" y="130" width="20" height="30"/><rect class="st" x="60" y="130" width="20" height="30"/>
+<rect class="st" x="80" y="130" width="20" height="30"/><rect class="st" x="100" y="130" width="20" height="30"/>
+<rect class="st" x="120" y="130" width="20" height="30"/><rect class="st" x="140" y="130" width="20" height="30"/>
+<rect class="st" x="160" y="130" width="20" height="30"/><rect class="st" x="180" y="130" width="20" height="30"/>
+<rect class="st" x="200" y="130" width="20" height="30"/><rect class="st" x="220" y="130" width="20" height="30"/>
+<rect class="st" x="240" y="130" width="20" height="30"/>
+<rect class="skip" x="260" y="130" width="20" height="30"/><rect class="skip" x="280" y="130" width="20" height="30"/>
+<rect class="skip" x="300" y="130" width="20" height="30"/><rect class="skip" x="320" y="130" width="20" height="30"/>
+<rect class="skip" x="340" y="130" width="20" height="30"/>
+<rect class="st" x="360" y="130" width="20" height="30"/><rect class="st" x="380" y="130" width="20" height="30"/>
+<rect class="st" x="400" y="130" width="20" height="30"/><rect class="st" x="420" y="130" width="20" height="30"/>
+<rect class="st" x="440" y="130" width="20" height="30"/><rect class="st" x="460" y="130" width="20" height="30"/>
+<rect class="st" x="480" y="130" width="20" height="30"/><rect class="st" x="500" y="130" width="20" height="30"/>
+<rect class="st" x="520" y="130" width="20" height="30"/><rect class="st" x="540" y="130" width="20" height="30"/>
+<rect class="st" x="560" y="130" width="20" height="30"/><rect class="st" x="580" y="130" width="20" height="30"/>
+</g>
+<path class="chain" d="M260 126 C280 92, 340 92, 360 126"/>
+<text class="soft" x="272" y="88">ch 5</text>
+<text class="soft" x="110" y="190">sc 11</text>
+<text class="soft" x="262" y="190">skip 5</text>
+<text class="soft" x="450" y="190">sc 12</text>
+<text class="soft" x="40" y="118">join</text>
+<text class="soft" x="40" y="236">The gap is centered on stitch 14, opposite the join.</text>
+<text class="soft" x="40" y="258">Then the left and right glove are the same.</text>
+<text class="label" x="40" y="306">Next round: 11 + 5 + 12 = 28</text>
+<text class="soft" x="40" y="344">Chain 6 over 4 skipped: 28 - 4 + 6 = 30.</text>
+<text class="soft" x="40" y="366">Two extra stitches appear, and the hand gets wider.</text>
+</svg>

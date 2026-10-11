@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>How a fingerless glove is built</title>
+<desc>First, a flat cuff strip: the 9-stitch chain is the cuff depth and the rows go around the wrist. Second, the short ends are sewn into a ring. Third, the hand is worked in rounds from the row-end edge of the cuff, picking up 4 stitches for every 5 row ends, with a thumb opening opposite the round join.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .fab { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .rib { stroke: #c9a988; stroke-width: 2; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50">1. Cuff, flat</text>
+<rect class="fab" x="36" y="80" width="160" height="50"/>
+<line class="rib" x1="56" y1="80" x2="56" y2="130"/><line class="rib" x1="76" y1="80" x2="76" y2="130"/>
+<line class="rib" x1="96" y1="80" x2="96" y2="130"/><line class="rib" x1="116" y1="80" x2="116" y2="130"/>
+<line class="rib" x1="136" y1="80" x2="136" y2="130"/><line class="rib" x1="156" y1="80" x2="156" y2="130"/>
+<line class="rib" x1="176" y1="80" x2="176" y2="130"/>
+<text class="soft" x="36" y="154">rows go around</text>
+<text class="soft" x="36" y="176">chain 9 = depth</text>
+<text class="label" x="232" y="50">2. Sew the ends</text>
+<ellipse class="fab" cx="300" cy="120" rx="60" ry="24"/>
+<ellipse cx="300" cy="114" rx="44" ry="12" fill="#f6efe6"/>
+<path class="mark" d="M300 140 V96"/>
+<text class="soft" x="232" y="176">seam = round join</text>
+<text class="label" x="420" y="50">3. Hand in rounds</text>
+<rect class="fab" x="450" y="80" width="110" height="170"/>
+<rect class="fab" x="450" y="250" width="110" height="40"/>
+<rect x="548" y="150" width="16" height="34" fill="#f6efe6"/>
+<text class="soft" x="436" y="316">cuff</text>
+<text class="soft" x="572" y="172">thumb</text>
+<text class="soft" x="32" y="232">Round 1 comes from the cuff's</text>
+<text class="soft" x="32" y="254">row ends, not from a chain.</text>
+<text class="soft" x="32" y="300">Rows are 5 per inch, stitches 4.</text>
+<text class="soft" x="32" y="322">So pick up 4 stitches per 5 row ends.</text>
+<text class="soft" x="32" y="364">Example: 30 rows -> 24 stitches -> 28 by round 2.</text>
+<text class="soft" x="32" y="388">Gauge here is a paper example. Measure yours.</text>
+</svg>

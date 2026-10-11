@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Mug cozy strip worked sideways</title>
+<desc>The foundation chain is the height of the cozy: 12 single crochet at 4 per inch is 3 inches, from a chain of 13. The rows travel around the mug, so the length comes from the row gauge: 9 inches at 5 rows per inch is 45 rows. Multiplying 9 by the stitch gauge of 4 would give 36, which is the wrong gauge for this direction.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .fab { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .rowline { stroke: #c9a988; stroke-width: 2; }
+  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">The strip, before it wraps the mug</text>
+<rect class="fab" x="80" y="90" width="500" height="110"/>
+<line class="rowline" x1="120" y1="90" x2="120" y2="200"/><line class="rowline" x1="160" y1="90" x2="160" y2="200"/>
+<line class="rowline" x1="200" y1="90" x2="200" y2="200"/><line class="rowline" x1="240" y1="90" x2="240" y2="200"/>
+<line class="rowline" x1="280" y1="90" x2="280" y2="200"/><line class="rowline" x1="320" y1="90" x2="320" y2="200"/>
+<line class="rowline" x1="360" y1="90" x2="360" y2="200"/><line class="rowline" x1="400" y1="90" x2="400" y2="200"/>
+<line class="rowline" x1="440" y1="90" x2="440" y2="200"/><line class="rowline" x1="480" y1="90" x2="480" y2="200"/>
+<line class="rowline" x1="520" y1="90" x2="520" y2="200"/><line class="rowline" x1="560" y1="90" x2="560" y2="200"/>
+<path class="arrow" d="M60 92 V198 M54 100 L60 92 L66 100 M54 190 L60 198 L66 190"/>
+<text class="soft" x="88" y="80">chain = height (left edge)</text>
+<path class="arrow" d="M82 222 H578 M570 216 L578 222 L570 228"/>
+<text class="soft" x="250" y="250">rows travel around the mug</text>
+<text class="soft" x="32" y="292">Height: 12 sc at 4 per in = 3 in. Chain 13.</text>
+<text class="soft" x="32" y="318">Length: 9 in x 5 rows per in = 45 rows.</text>
+<text class="label" x="32" y="358">Not 9 x 4 = 36.</text>
+<text class="soft" x="32" y="384">That uses the stitch gauge in the row direction.</text>
+</svg>
