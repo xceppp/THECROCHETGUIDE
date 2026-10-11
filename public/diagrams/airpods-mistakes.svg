@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 470" role="img">
+<title>What goes wrong</title>
+<desc>Four common mistakes. A twisted first round, a ruffled base from too many increases, a flap that blocks the lid unless folded back, and a covered charging port that needs the case removed to charge.</desc>
+<rect width="480" height="470" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker></defs>
+<circle cx="36" cy="36" r="20" fill="#b0604a"/><text x="36" y="44" font-size="22" fill="#fff" text-anchor="middle" font-weight="bold">8</text><text x="66" y="44" font-size="24" fill="#2f2a26" font-weight="bold">What goes wrong</text><circle cx="34" cy="100" r="9" fill="#b0604a"/><text x="56" y="106" font-size="22" fill="#2f2a26" font-weight="bold">Twisted first round</text><text x="56" y="132" font-size="20" fill="#6d635a">Keep all stitches facing out before you join.</text><circle cx="34" cy="182" r="9" fill="#b0604a"/><text x="56" y="188" font-size="22" fill="#2f2a26" font-weight="bold">Ruffled, wavy base</text><text x="56" y="214" font-size="20" fill="#6d635a">Too many increases; add 6, ends only.</text><circle cx="34" cy="264" r="9" fill="#b0604a"/><text x="56" y="270" font-size="22" fill="#2f2a26" font-weight="bold">Flap jams the lid</text><text x="56" y="296" font-size="20" fill="#6d635a">Fold the flap back before opening.</text><circle cx="34" cy="346" r="9" fill="#b0604a"/><text x="56" y="352" font-size="22" fill="#2f2a26" font-weight="bold">Port covered</text><text x="56" y="378" font-size="20" fill="#6d635a">Slide the case out to charge.</text>
+</svg>
