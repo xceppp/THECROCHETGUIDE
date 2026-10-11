@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Black cat wallet: ear triangles and where they go</title>
+<desc>Left: each ear is three rows. Row 1 is 5 single crochet, row 2 decreases at both ends to 3, row 3 is a three-together decrease to 1. Right: the top fold of the closed wallet is 16 stitches. Each ear base covers 5 stitches, with 1 stitch outside each ear and 4 between them: 1 plus 5 plus 4 plus 5 plus 1 equals 16.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+  .st { fill: #4a4440; stroke: #9a9088; stroke-width: 1; }
+  .ear { fill: #3b3532; stroke: #2f2a26; stroke-width: 2; }
+</style>
+<rect class="panel" x="16" y="16" width="296" height="388" rx="10"/>
+<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
+<text class="label" x="32" y="48">One ear, 3 rows</text>
+<text class="label" x="344" y="48">Placement on the fold</text>
+<rect class="st" x="90" y="200" width="30" height="24"/><rect class="st" x="120" y="200" width="30" height="24"/>
+<rect class="st" x="150" y="200" width="30" height="24"/><rect class="st" x="180" y="200" width="30" height="24"/>
+<rect class="st" x="210" y="200" width="30" height="24"/>
+<rect class="st" x="120" y="176" width="30" height="24"/><rect class="st" x="150" y="176" width="30" height="24"/>
+<rect class="st" x="180" y="176" width="30" height="24"/>
+<rect class="st" x="150" y="152" width="30" height="24"/>
+<text class="small" x="40" y="217">row 1</text>
+<text class="small" x="40" y="193">row 2</text>
+<text class="small" x="40" y="169">row 3</text>
+<text class="soft" x="32" y="262">Row 1: ch 6, sc in 2nd ch</text>
+<text class="soft" x="32" y="282">and across. (5)</text>
+<text class="soft" x="32" y="308">Row 2: ch 1, turn, sc2tog,</text>
+<text class="soft" x="32" y="328">sc, sc2tog. (3)</text>
+<text class="soft" x="32" y="354">Row 3: ch 1, turn, sc3tog. (1)</text>
+<text class="soft" x="32" y="380">About 1.25 in wide, 0.6 in tall.</text>
+<g>
+  <rect class="st" x="350" y="220" width="16" height="20"/><rect class="st" x="366" y="220" width="16" height="20"/>
+  <rect class="st" x="382" y="220" width="16" height="20"/><rect class="st" x="398" y="220" width="16" height="20"/>
+  <rect class="st" x="414" y="220" width="16" height="20"/><rect class="st" x="430" y="220" width="16" height="20"/>
+  <rect class="st" x="446" y="220" width="16" height="20"/><rect class="st" x="462" y="220" width="16" height="20"/>
+  <rect class="st" x="478" y="220" width="16" height="20"/><rect class="st" x="494" y="220" width="16" height="20"/>
+  <rect class="st" x="510" y="220" width="16" height="20"/><rect class="st" x="526" y="220" width="16" height="20"/>
+  <rect class="st" x="542" y="220" width="16" height="20"/><rect class="st" x="558" y="220" width="16" height="20"/>
+  <rect class="st" x="574" y="220" width="16" height="20"/><rect class="st" x="590" y="220" width="16" height="20"/>
+</g>
+<path class="ear" d="M366 220 L406 168 L446 220 Z"/>
+<path class="ear" d="M510 220 L550 168 L590 220 Z"/>
+<line x1="350" y1="244" x2="606" y2="244" stroke="#b0604a" stroke-width="2.5" stroke-dasharray="8 5"/>
+<text class="small" x="352" y="262">1</text>
+<text class="small" x="400" y="262">5</text>
+<text class="small" x="472" y="262">4</text>
+<text class="small" x="544" y="262">5</text>
+<text class="small" x="594" y="262">1</text>
+<text class="label" x="344" y="300">1 + 5 + 4 + 5 + 1 = 16</text>
+<text class="soft" x="344" y="328">Sew each ear's row 1 edge</text>
+<text class="soft" x="344" y="348">along the fold (dashed),</text>
+<text class="soft" x="344" y="368">so the whole ear stands</text>
+<text class="soft" x="344" y="388">above the closed wallet.</text>
+</svg>

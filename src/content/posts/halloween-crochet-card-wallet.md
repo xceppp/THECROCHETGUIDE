@@ -187,4 +187,4 @@ No. The body is flat rows. The ghost is one round and three rows.
 
 ## Next
 
-A fixed-count version with a deeper pocket that also takes a folded bill is the [ghost mini wallet](/ghost-crochet-mini-wallet/). A pocket with no flap is the [Christmas gift card holder](/how-to-crochet-a-christmas-gift-card-holder/).
+A fixed-count version with a deeper pocket that also takes a folded bill is the [ghost mini wallet](/ghost-crochet-mini-wallet/). A pocket with no flap is the [Christmas gift card holder](/how-to-crochet-a-christmas-gift-card-holder/). Five fixed-count designs, a black cat, ghost, pumpkin, witch hat, and spiderweb, are in the [Halloween crochet wallet collection](/halloween-crochet-wallets/).

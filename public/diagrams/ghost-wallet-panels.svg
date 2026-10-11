@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Ghost wallet: back and front panels, row by row</title>
+<desc>Both panels start from a chain of 18 at the hem and are 17 single crochet wide. The back panel works 18 straight rows, then decreases at both ends of rows 19 to 22 for a rounded head: 15, 13, 11, 9 stitches. The front panel is 14 straight rows. The top of the front panel's row 14 becomes the pocket opening across the ghost's middle. Each grid square is one stitch.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+</style>
+<defs>
+  <pattern id="gg" x="45" y="10" width="14" height="12" patternUnits="userSpaceOnUse">
+    <rect width="14" height="12" fill="#fbf7ef" stroke="#c9bfb3" stroke-width="1"/>
+  </pattern>
+  <pattern id="gf" x="360" y="10" width="14" height="12" patternUnits="userSpaceOnUse">
+    <rect width="14" height="12" fill="#fbf7ef" stroke="#c9bfb3" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect class="panel" x="16" y="16" width="304" height="388" rx="10"/>
+<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
+<text class="label" x="32" y="48">Back panel</text>
+<text class="label" x="344" y="48">Front panel</text>
+<path d="M45 370 H283 V154 H269 V142 H255 V130 H241 V118 H227 V106 H101 V118 H87 V130 H73 V142 H59 V154 H45 Z" fill="url(#gg)" stroke="#6b4428" stroke-width="2"/>
+<line x1="38" y1="202" x2="290" y2="202" stroke="#b0604a" stroke-width="2.5" stroke-dasharray="8 5"/>
+<text class="small" x="22" y="368">r1</text>
+<text class="small" x="18" y="212">r14</text>
+<text class="small" x="18" y="164">r18</text>
+<text class="small" x="62" y="100">r22: 9</text>
+<text class="small" x="244" y="116">r21: 11</text>
+<text class="small" x="258" y="128">r20: 13</text>
+<text class="small" x="272" y="140">r19: 15</text>
+<text class="small" x="120" y="392">17 sts, about 4.25 in</text>
+<text class="small" x="140" y="196">front ends here</text>
+<rect x="360" y="202" width="238" height="168" fill="url(#gf)" stroke="#6b4428" stroke-width="2"/>
+<line x1="352" y1="202" x2="606" y2="202" stroke="#b0604a" stroke-width="2.5" stroke-dasharray="8 5"/>
+<text class="small" x="434" y="392">17 sts x 14 rows</text>
+<text class="soft" x="344" y="80">Both: ch 18, sc in 2nd ch</text>
+<text class="soft" x="344" y="100">and across. (17)</text>
+<text class="soft" x="344" y="124">Ch 1 to turn, not a stitch.</text>
+<text class="soft" x="344" y="148">Back: rows 2-18 even, then</text>
+<text class="soft" x="344" y="168">sc2tog at both ends of rows</text>
+<text class="soft" x="344" y="188">19-22. Front: rows 2-14 even.</text>
+</svg>

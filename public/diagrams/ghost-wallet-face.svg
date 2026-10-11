@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Ghost wallet: face placement on the head</title>
+<desc>A stitch grid of the back panel from row 14 to row 22, 17 stitches across with stitch 9 at the center. The front panel's top edge sits at the top of row 14, which is the pocket opening. Black oval eyes cover rows 17 and 18 at stitches 6 and 12. A small black mouth sits on row 16 at stitch 9. Pink cheeks sit on row 16 at stitches 5 and 13.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+</style>
+<defs>
+  <pattern id="gh" x="40" y="0" width="25" height="20" patternUnits="userSpaceOnUse">
+    <rect width="25" height="20" fill="#fbf7ef" stroke="#c9bfb3" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect class="panel" x="16" y="16" width="608" height="388" rx="10"/>
+<text class="label" x="32" y="48">Back panel head, rows 14 to 22</text>
+<path d="M40 260 H465 V160 H440 V140 H415 V120 H390 V100 H365 V80 H140 V100 H115 V120 H90 V140 H65 V160 H40 Z" fill="url(#gh)" stroke="#6b4428" stroke-width="2"/>
+<rect x="40" y="240" width="425" height="20" fill="#e6ddd1" fill-opacity="0.7"/>
+<line x1="32" y1="240" x2="473" y2="240" stroke="#b0604a" stroke-width="3" stroke-dasharray="8 5"/>
+<ellipse cx="177.5" cy="180" rx="9" ry="17" fill="#2f2a26"/>
+<ellipse cx="327.5" cy="180" rx="9" ry="17" fill="#2f2a26"/>
+<ellipse cx="252.5" cy="210" rx="6" ry="5" fill="#2f2a26"/>
+<ellipse cx="152.5" cy="210" rx="11" ry="7" fill="#e79aa8"/>
+<ellipse cx="352.5" cy="210" rx="11" ry="7" fill="#e79aa8"/>
+<text class="small" x="48" y="276">1</text>
+<text class="small" x="246" y="276">9</text>
+<text class="small" x="448" y="276">17</text>
+<text class="small" x="12" y="256">r14</text>
+<text class="small" x="12" y="216">r16</text>
+<text class="small" x="12" y="176">r18</text>
+<text class="small" x="12" y="96">r22</text>
+<text class="soft" x="480" y="100">Eyes, black:</text>
+<text class="soft" x="480" y="120">rows 17-18,</text>
+<text class="soft" x="480" y="140">sts 6 and 12</text>
+<text class="soft" x="480" y="172">Mouth: row 16,</text>
+<text class="soft" x="480" y="192">st 9</text>
+<text class="soft" x="480" y="224">Cheeks, pink:</text>
+<text class="soft" x="480" y="244">row 16, sts 5, 13</text>
+<text class="soft" x="40" y="310">Dashed line: the top of the front panel, the pocket opening. Row 14 is</text>
+<text class="soft" x="40" y="332">shaded because the front panel covers it. Mirror rule: stitch k matches</text>
+<text class="soft" x="40" y="354">stitch 18 - k, so 6 matches 12 and 5 matches 13. Embroider the face</text>
+<text class="soft" x="40" y="376">before joining, through the back panel only, while it is still flat.</text>
+</svg>

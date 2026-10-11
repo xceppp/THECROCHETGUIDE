@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Spiderweb wallet: purple spider assembly</title>
+<desc>Left: the abdomen is a tiny ball. Magic ring with 6 single crochet, round 2 increases in every stitch to 12, round 3 is 12 even, round 4 decreases all around to 6. Stuff with yarn scraps and close. The head is a magic ring of 6 single crochet and one even round of 6, closed. Right: sew the head to the abdomen, then sew the pair to the flap. Each of the 8 legs is two straight stitches in purple, an upper segment out from the body and a shorter lower segment bent down, four on each side.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+  .leg { fill: none; stroke: #8a5bb8; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+<rect class="panel" x="16" y="16" width="296" height="388" rx="10"/>
+<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
+<text class="label" x="32" y="48">Abdomen and head</text>
+<text class="label" x="344" y="48">Assembly and legs</text>
+<text class="soft" x="32" y="86">Abdomen, purple:</text>
+<text class="soft" x="32" y="110">Rnd 1: magic ring, 6 sc. (6)</text>
+<text class="soft" x="32" y="132">Rnd 2: 2 sc in each st. (12)</text>
+<text class="soft" x="32" y="154">Rnd 3: sc in each st. (12)</text>
+<text class="soft" x="32" y="176">Rnd 4: sc2tog 6 times. (6)</text>
+<text class="soft" x="32" y="198">Stuff with yarn scraps, then</text>
+<text class="soft" x="32" y="220">close the hole with the tail.</text>
+<text class="soft" x="32" y="256">Head, purple:</text>
+<text class="soft" x="32" y="280">Rnd 1: magic ring, 6 sc. (6)</text>
+<text class="soft" x="32" y="302">Rnd 2: sc in each st. (6)</text>
+<text class="soft" x="32" y="324">Close; it cups into a bead.</text>
+<circle cx="200" cy="370" r="20" fill="#8a5bb8"/>
+<circle cx="160" cy="370" r="11" fill="#8a5bb8"/>
+<text class="small" x="40" y="374">about 0.5 in</text>
+<circle cx="476" cy="236" r="34" fill="#8a5bb8"/>
+<circle cx="476" cy="182" r="20" fill="#8a5bb8"/>
+<path class="leg" d="M500 196 L548 168 L566 184 M506 210 L560 202 L578 220 M506 226 L556 236 L566 262 M500 240 L540 264 L544 292"/>
+<path class="leg" d="M452 196 L404 168 L386 184 M446 210 L392 202 L374 220 M446 226 L396 236 L386 262 M452 240 L412 264 L408 292"/>
+<text class="soft" x="344" y="322">Sew the head to the abdomen,</text>
+<text class="soft" x="344" y="342">then both to the flap. Legs:</text>
+<text class="soft" x="344" y="362">2 straight stitches each, 4 per</text>
+<text class="soft" x="344" y="382">side, bent at the knee.</text>
+</svg>

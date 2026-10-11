@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Black cat wallet: face embroidery map on the flap</title>
+<desc>A grid of the flap seen closed, 16 stitches across, row 1 at the top fold and row 9 at the bottom. Gold eyes cover stitches 4 to 5 and 12 to 13 on rows 3 and 4, each with a black vertical pupil. A pink nose covers stitches 8 and 9 on rows 5 and 6. Three white whiskers run outward from each side of the nose across rows 5 to 7. The snap sits under row 8 at the center.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+  .whisker { fill: none; stroke: #ffffff; stroke-width: 2.5; stroke-linecap: round; }
+</style>
+<defs>
+  <pattern id="catgrid" x="40" y="70" width="25" height="20" patternUnits="userSpaceOnUse">
+    <rect width="25" height="20" fill="#3b3532" stroke="#6d635a" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect class="panel" x="16" y="16" width="608" height="388" rx="10"/>
+<text class="label" x="32" y="48">Flap seen closed: row 1 is the top fold</text>
+<path d="M40 70 H440 V210 H415 V230 H390 V250 H90 V230 H65 V210 H40 Z" fill="url(#catgrid)" stroke="#2f2a26" stroke-width="2"/>
+<text class="small" x="48" y="66">1</text>
+<text class="small" x="218" y="66">8</text>
+<text class="small" x="243" y="66">9</text>
+<text class="small" x="420" y="66">16</text>
+<text class="small" x="22" y="85">r1</text>
+<text class="small" x="22" y="125">r3</text>
+<text class="small" x="22" y="165">r5</text>
+<text class="small" x="22" y="205">r7</text>
+<text class="small" x="22" y="245">r9</text>
+<ellipse cx="140" cy="130" rx="23" ry="18" fill="#d9a521"/>
+<ellipse cx="340" cy="130" rx="23" ry="18" fill="#d9a521"/>
+<line x1="140" y1="115" x2="140" y2="145" stroke="#1f1b19" stroke-width="5" stroke-linecap="round"/>
+<line x1="340" y1="115" x2="340" y2="145" stroke="#1f1b19" stroke-width="5" stroke-linecap="round"/>
+<path d="M224 154 H256 L240 176 Z" fill="#e79aa8"/>
+<path class="whisker" d="M195 162 L70 150 M195 170 L68 172 M195 178 L74 194"/>
+<path class="whisker" d="M285 162 L410 150 M285 170 L412 172 M285 178 L406 194"/>
+<circle cx="240" cy="220" r="7" fill="none" stroke="#7d8b72" stroke-width="3" stroke-dasharray="3 3"/>
+<text class="soft" x="460" y="100">Eyes, gold:</text>
+<text class="soft" x="460" y="120">rows 3-4,</text>
+<text class="soft" x="460" y="140">sts 4-5, 12-13</text>
+<text class="soft" x="460" y="172">Nose, pink:</text>
+<text class="soft" x="460" y="192">rows 5-6, sts 8-9</text>
+<text class="soft" x="460" y="224">Whiskers, white:</text>
+<text class="soft" x="460" y="244">rows 5-7</text>
+<text class="soft" x="40" y="290">Mirror rule: stitch k on the left matches stitch 17 - k on the right,</text>
+<text class="soft" x="40" y="312">so 4 matches 13 and 5 matches 12. The nose straddles 8 and 9.</text>
+<text class="soft" x="40" y="344">Embroider with the flap folded shut, or turn the wallet upside</text>
+<text class="soft" x="40" y="366">down while it is open. Worked upright, the face ends up upside</text>
+<text class="soft" x="40" y="388">down. Dashed circle: snap under row 8.</text>
+</svg>

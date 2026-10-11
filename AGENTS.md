@@ -66,9 +66,12 @@ before publishing it. If a source cannot be verified, name it without linking.
 
 **3. Never present a computer-generated image as a real finished object.** The
 `/disclosures` page promises this publicly. AI illustrations and diagrams are
-allowed and must be labeled in the caption. AI images of finished crochet items
-presented as makeable are not, and no article may describe a pattern for an
-object nobody has physically made.
+allowed and must be labeled in the caption. An AI image of a finished crochet
+item may show the intended look of a pattern only when its caption says it is
+an illustration and not a photograph of a made sample. A pattern nobody has
+physically made may be published only if every count has been checked on paper
+and the page states plainly, near the top, that it is technically checked and
+not test-crocheted, matching the wording on `/disclosures`.
 
 **4. Never ship an empty ad container.** `AdSlot.astro` renders nothing while
 `ADSENSE_CLIENT` is empty. Keep it that way until AdSense approves the site —

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Witch hat wallet: one rectangle in three zones</title>
+<desc>A rectangle 17 single crochet wide, drawn one grid square per stitch. Rows 1 to 12 are the front, which folds up. Rows 13 to 24 are the back. Rows 25 to 33 are the flap. Row 31 has a buttonhole: 7 single crochet, chain 3 over 3 skipped stitches, 7 single crochet. Row 33 decreases at both ends to 15 stitches. Dashed lines mark the two folds.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+  .fold { stroke: #b0604a; stroke-width: 2.5; stroke-dasharray: 8 5; }
+</style>
+<defs>
+  <pattern id="wg" x="50" y="1" width="12" height="9" patternUnits="userSpaceOnUse">
+    <rect width="12" height="9" fill="#8a6aa8" stroke="#6e5289" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect class="panel" x="16" y="16" width="608" height="388" rx="10"/>
+<text class="label" x="32" y="48">Rows 1-33, one square per stitch</text>
+<path d="M50 370 H254 V82 H242 V73 H62 V82 H50 Z" fill="url(#wg)" stroke="#4b3a5e" stroke-width="2"/>
+<rect x="134" y="91" width="36" height="9" fill="#f6efe6"/>
+<line class="fold" x1="40" y1="262" x2="264" y2="262"/>
+<line class="fold" x1="40" y1="154" x2="264" y2="154"/>
+<text class="small" x="22" y="368">r1</text>
+<text class="small" x="18" y="266">r12</text>
+<text class="small" x="18" y="158">r24</text>
+<text class="small" x="18" y="98">r31</text>
+<text class="small" x="18" y="80">r33</text>
+<text class="soft" x="276" y="84">Rows 25-33: flap, 9 rows</text>
+<text class="soft" x="276" y="104">r31: sc 7, ch 3, sk 3, sc 7</text>
+<text class="soft" x="276" y="124">r33: sc2tog, sc 13, sc2tog (15)</text>
+<text class="soft" x="276" y="200">Rows 13-24: back, 12 rows</text>
+<text class="soft" x="276" y="220">= about 2.4 in</text>
+<text class="soft" x="276" y="310">Rows 1-12: front, folds up so</text>
+<text class="soft" x="276" y="330">the chain edge becomes the rim</text>
+<text class="soft" x="276" y="364">Ch 18. Row 1: sc in 2nd ch and</text>
+<text class="soft" x="276" y="384">across. (17) Ch 1 does not count.</text>
+<text class="small" x="74" y="392">17 sts, about 4.25 in</text>
+</svg>

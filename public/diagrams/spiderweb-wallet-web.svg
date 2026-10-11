@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Spiderweb wallet: web embroidery paths on the flap</title>
+<desc>The flap seen closed, row 27 at the top fold and the point at row 34. Five white spokes run in straight lines from the point to row 27 at stitches 2, 5, 8, 11, and 14. Three rings of thread connect neighboring spokes, crossing near rows 29, 31, and 33, each segment dipping slightly toward the point. Every segment starts and ends on a spoke, so the web is one connected net. A purple spider sits between the outer two rings on the fourth spoke.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+  .web { fill: none; stroke: #ffffff; stroke-width: 3; stroke-linecap: round; }
+  .leg { fill: none; stroke: #8a5bb8; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+<rect class="panel" x="16" y="16" width="608" height="388" rx="10"/>
+<text class="label" x="32" y="52">Flap seen closed</text>
+<path d="M112.5 70 H487.5 V92 H462.5 V114 H437.5 V136 H412.5 V158 H387.5 V180 H362.5 V202 H337.5 V224 H312.5 V246 H287.5 V224 H262.5 V202 H237.5 V180 H212.5 V158 H187.5 V136 H162.5 V114 H137.5 V92 H112.5 Z" fill="#3b3532" stroke="#2f2a26" stroke-width="2"/>
+<path class="web" d="M300 240 L150 74 M300 240 L225 74 M300 240 L300 74 M300 240 L375 74 M300 240 L450 74"/>
+<path class="web" d="M196.1 125 Q222 134 248 125 Q274 134 300 125 Q326 134 352 125 Q378 134 403.9 125"/>
+<path class="web" d="M235.8 169 Q252 175 267.9 169 Q284 175 300 169 Q316 175 332.1 169 Q348 175 364.2 169"/>
+<path class="web" d="M275.6 213 Q282 217 287.8 213 Q294 217 300 213 Q306 217 312.2 213 Q318 217 324.4 213"/>
+<path class="leg" d="M352 140 L370 128 L380 134 M352 145 L374 140 L384 148 M352 152 L372 156 L378 166 M350 157 L364 168 L366 178 M334 140 L318 128 L310 134 M334 145 L314 142 L304 150 M334 150 L316 158 L312 168 M336 156 L326 168 L326 178"/>
+<circle cx="343" cy="158" r="13" fill="#8a5bb8"/>
+<circle cx="343" cy="139" r="8" fill="#8a5bb8"/>
+<text class="small" x="138" y="66">2</text>
+<text class="small" x="219" y="66">5</text>
+<text class="small" x="294" y="66">8</text>
+<text class="small" x="364" y="66">11</text>
+<text class="small" x="440" y="66">14</text>
+<text class="small" x="500" y="88">row 27</text>
+<text class="small" x="446" y="130">ring at r29</text>
+<text class="small" x="396" y="176">ring at r31</text>
+<text class="small" x="346" y="218">ring at r33</text>
+<text class="small" x="250" y="262">point, r34</text>
+<text class="soft" x="40" y="296">1. Spokes first: backstitch each from the point to row 27, ending at</text>
+<text class="soft" x="40" y="318">stitches 2, 5, 8, 11, and 14 of that row. The middle one runs up stitch 8.</text>
+<text class="soft" x="40" y="344">2. Rings next, inner ring first: one stitch from spoke to spoke, pulled</text>
+<text class="soft" x="40" y="366">only until it dips a little toward the point. Each ring has 4 segments.</text>
+<text class="soft" x="40" y="392">3. Spider last, so its legs lie over the web.</text>
+</svg>

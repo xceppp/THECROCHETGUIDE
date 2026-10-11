@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Pumpkin wallet: jack-o-lantern embroidery map</title>
+<desc>A grid of the front half: rows 1 to 22 run left to right, and stitches 1 to 10 run down from the rim. The green leaf tab covers rows 10 to 13 on stitches 1 to 5. Triangle eyes span rows 5 to 7 and 16 to 18 on stitches 3 to 5. The nose triangle covers rows 11 and 12 on stitches 6 and 7, just below the tab. A zigzag mouth runs across rows 6 to 17 on stitches 8 and 9.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+</style>
+<defs>
+  <pattern id="pg" x="40" y="70" width="18" height="22" patternUnits="userSpaceOnUse">
+    <rect width="18" height="22" fill="#e08a3c" stroke="#b86a2a" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect class="panel" x="16" y="16" width="608" height="388" rx="10"/>
+<text class="label" x="32" y="48">Front half, embroidered before folding</text>
+<rect x="40" y="70" width="396" height="220" fill="url(#pg)" stroke="#6b4428" stroke-width="2"/>
+<rect x="202" y="70" width="72" height="110" fill="#7d8b72" fill-opacity="0.45" stroke="#56634c" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M112 180 L166 180 L139 114 Z" fill="#2f2a26"/>
+<path d="M310 180 L364 180 L337 114 Z" fill="#2f2a26"/>
+<path d="M220 224 L256 224 L238 184 Z" fill="#2f2a26"/>
+<path d="M130 236 L148 262 L166 236 L184 262 L202 236 L220 262 L238 236 L256 262 L274 236 L292 262 L310 236 L328 262 L346 236" fill="none" stroke="#2f2a26" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<text class="small" x="44" y="66">r1</text>
+<text class="small" x="230" y="66">r11-12</text>
+<text class="small" x="410" y="66">r22</text>
+<text class="small" x="18" y="86">st1</text>
+<text class="small" x="14" y="286">st10</text>
+<text class="small" x="210" y="98">tab</text>
+<text class="soft" x="452" y="96">Tab: rows 10-13,</text>
+<text class="soft" x="452" y="116">sts 1-5</text>
+<text class="soft" x="452" y="148">Eyes: rows 5-7</text>
+<text class="soft" x="452" y="168">and 16-18, sts 3-5</text>
+<text class="soft" x="452" y="200">Nose: rows 11-12,</text>
+<text class="soft" x="452" y="220">sts 6-7</text>
+<text class="soft" x="452" y="252">Mouth: rows 6-17,</text>
+<text class="soft" x="452" y="272">sts 8-9</text>
+<text class="soft" x="40" y="322">Rows run left to right because the piece is worked sideways. Count</text>
+<text class="soft" x="40" y="344">stitches down from the rim: st 1 at the rim, st 10 at the fold. Mirror</text>
+<text class="soft" x="40" y="366">rule: row k matches row 23 - k, so 5 matches 18. Work through the</text>
+<text class="soft" x="40" y="388">front half only, and keep the eyes clear of the tab.</text>
+</svg>

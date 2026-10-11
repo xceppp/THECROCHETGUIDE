@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Pumpkin wallet: rims, fold, side seams, and card fit</title>
+<desc>Left: before folding, each long edge made of row ends gets a rim row of 22 single crochet, one per row end. Fold between stitches 10 and 11 with the right side out. Seam the foundation-chain edge and the last-row edge, each folded on itself, 10 stitches to 10. Right: the folded pouch to scale, about 4.25 inches wide and 2.5 inches tall, with an ID-1 card inside. On paper the inside is about 3.9 inches wide and 2.4 inches deep.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+  .seam { fill: none; stroke: #7d8b72; stroke-width: 5; stroke-dasharray: 1 7; stroke-linecap: round; }
+  .card { fill: #fdfaf6; fill-opacity: 0.85; stroke: #7d8b72; stroke-width: 2.5; stroke-dasharray: 6 4; }
+</style>
+<defs>
+  <pattern id="rib2" x="40" y="0" width="16" height="400" patternUnits="userSpaceOnUse">
+    <rect width="8" height="400" fill="#e08a3c"/>
+    <rect x="8" width="8" height="400" fill="#c9702a"/>
+  </pattern>
+  <pattern id="rib3" x="348" y="0" width="20" height="400" patternUnits="userSpaceOnUse">
+    <rect width="10" height="400" fill="#e08a3c"/>
+    <rect x="10" width="10" height="400" fill="#c9702a"/>
+  </pattern>
+</defs>
+<rect class="panel" x="16" y="16" width="296" height="388" rx="10"/>
+<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
+<text class="label" x="32" y="48">Rims, fold, seams</text>
+<text class="label" x="344" y="48">Folded, to scale</text>
+<rect x="40" y="90" width="176" height="200" fill="url(#rib2)" stroke="#6b4428" stroke-width="2"/>
+<rect x="40" y="84" width="176" height="6" fill="#a85a1f"/>
+<rect x="40" y="290" width="176" height="6" fill="#a85a1f"/>
+<line x1="30" y1="190" x2="226" y2="190" stroke="#b0604a" stroke-width="2.5" stroke-dasharray="8 5"/>
+<line class="seam" x1="36" y1="92" x2="36" y2="288"/>
+<line class="seam" x1="220" y1="92" x2="220" y2="288"/>
+<text class="small" x="230" y="90">rim: 22 sc</text>
+<text class="small" x="230" y="300">rim: 22 sc</text>
+<text class="small" x="230" y="194">fold</text>
+<text class="soft" x="32" y="328">1. Rim each row-end edge.</text>
+<text class="soft" x="32" y="348">2. Embroider the face.</text>
+<text class="soft" x="32" y="368">3. Fold, right side out.</text>
+<text class="soft" x="32" y="388">4. Seam both sides (green).</text>
+<rect x="348" y="140" width="212" height="125" fill="url(#rib3)" stroke="#6b4428" stroke-width="2"/>
+<rect class="card" x="370" y="152" width="168" height="106"/>
+<line x1="348" y1="140" x2="560" y2="140" stroke="#2f2a26" stroke-width="3"/>
+<text class="small" x="392" y="212">ID-1 card</text>
+<text class="small" x="392" y="230">3.37 x 2.125 in</text>
+<text class="soft" x="344" y="300">Outside: about 4.25 x 2.5 in.</text>
+<text class="soft" x="344" y="322">Inside on paper: about 3.9 in</text>
+<text class="soft" x="344" y="344">wide and 2.4 in deep.</text>
+<text class="soft" x="344" y="372">Black line: the opening.</text>
+<text class="small" x="344" y="392">Paper geometry, not test-crocheted.</text>
+</svg>

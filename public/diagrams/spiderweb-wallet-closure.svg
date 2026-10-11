@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Spiderweb wallet: point loop, button, and card fit</title>
+<desc>Left: at the flap point, after the three-together decrease, chain 8 and slip stitch into the same stitch to make a loop. Right: the closed wallet to scale, about 4.25 by 2.6 inches. The flap reaches about 1.6 inches below the fold and the loop hangs about 0.4 inch more, so the button sits near row 10 of the front at stitch 9, roughly 2 inches below the top. An ID-1 card, 3.37 by 2.125 inches, fits in the pocket on paper.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+  .card { fill: none; stroke: #7d8b72; stroke-width: 2.5; stroke-dasharray: 6 4; }
+  .ch { fill: none; stroke: #2f2a26; stroke-width: 3; }
+</style>
+<rect class="panel" x="16" y="16" width="296" height="388" rx="10"/>
+<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
+<text class="label" x="32" y="48">Loop at the point</text>
+<text class="label" x="344" y="48">Closed, to scale</text>
+<path d="M100 120 H220 L160 220 Z" fill="#3b3532"/>
+<ellipse class="ch" cx="160" cy="232" rx="5" ry="7"/><ellipse class="ch" cx="152" cy="246" rx="5" ry="7"/>
+<ellipse class="ch" cx="148" cy="262" rx="5" ry="7"/><ellipse class="ch" cx="152" cy="278" rx="5" ry="7"/>
+<ellipse class="ch" cx="168" cy="278" rx="5" ry="7"/><ellipse class="ch" cx="172" cy="262" rx="5" ry="7"/>
+<ellipse class="ch" cx="168" cy="246" rx="5" ry="7"/><ellipse class="ch" cx="160" cy="292" rx="7" ry="5"/>
+<text class="soft" x="32" y="330">After row 34 (1 st): ch 8,</text>
+<text class="soft" x="32" y="350">sl st in the same st. Test it</text>
+<text class="soft" x="32" y="370">over the button before you</text>
+<text class="soft" x="32" y="390">fasten off. Adjust 7 to 10 ch.</text>
+<rect x="364" y="90" width="212" height="130" rx="4" fill="#4a4440" stroke="#2f2a26" stroke-width="2"/>
+<rect class="card" x="386" y="111" width="168" height="106"/>
+<path d="M364 90 H576 L470 170 Z" fill="#3b3532" stroke="#2f2a26" stroke-width="2"/>
+<path d="M470 170 Q462 182 470 190 Q478 182 470 170" fill="none" stroke="#2f2a26" stroke-width="3"/>
+<circle cx="470" cy="190" r="15" fill="#2f2a26" stroke="#9a9088" stroke-width="2"/>
+<text class="soft" x="344" y="256">Flap: about 1.6 in below the fold.</text>
+<text class="soft" x="344" y="278">Loop: about 0.4 in more.</text>
+<text class="soft" x="344" y="300">Button: near row 10 of the</text>
+<text class="soft" x="344" y="322">front, st 9, about 2 in down.</text>
+<text class="soft" x="344" y="350">Dashed: an ID-1 card inside.</text>
+<text class="small" x="344" y="378">Paper geometry, not test-crocheted.</text>
+</svg>

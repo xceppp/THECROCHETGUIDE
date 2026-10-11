@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Ghost wallet: snap placement and card fit</title>
+<desc>Left: side view. The back panel is tall, the front panel shorter, joined at the hem and sides. The two halves of a sew-on snap face each other inside the pocket at row 13, the socket on the back panel and the ball on the inside of the front panel, both at stitch 9. Right: the wallet drawn to scale with an ID-1 card, 3.37 by 2.125 inches, in the pocket. On paper the pocket is about 3.9 inches wide and 2.7 inches deep, so the snap sits above the top of the card.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .small { font-size: 13px; fill: #6d635a; }
+  .panel { fill: #f6efe6; stroke: #e6ddd1; }
+  .wall { fill: none; stroke: #c9bfb3; stroke-width: 8; stroke-linecap: round; }
+  .card { fill: #fdfaf6; fill-opacity: 0.9; stroke: #7d8b72; stroke-width: 2.5; stroke-dasharray: 6 4; }
+</style>
+<rect class="panel" x="16" y="16" width="250" height="388" rx="10"/>
+<rect class="panel" x="282" y="16" width="342" height="388" rx="10"/>
+<text class="label" x="32" y="48">Side view</text>
+<text class="label" x="298" y="48">Front, to scale</text>
+<path class="wall" d="M150 110 Q150 86 140 78"/>
+<line class="wall" x1="150" y1="110" x2="150" y2="330"/>
+<line class="wall" x1="110" y1="190" x2="110" y2="330"/>
+<path d="M110 330 Q130 350 150 330" fill="none" stroke="#c9bfb3" stroke-width="8"/>
+<rect x="142" y="196" width="6" height="14" fill="#6d635a"/>
+<rect x="114" y="196" width="6" height="14" fill="#6d635a"/>
+<line x1="130" y1="232" x2="130" y2="326" stroke="#7d8b72" stroke-width="3" stroke-dasharray="5 4"/>
+<text class="small" x="160" y="140">back</text>
+<text class="small" x="62" y="290">front</text>
+<text class="small" x="160" y="208">snap, row 13</text>
+<text class="small" x="160" y="290">card</text>
+<text class="soft" x="32" y="368">Sew both halves on</text>
+<text class="soft" x="32" y="388">before joining.</text>
+<path d="M325 330 H537 V150 H524 V140 H512 V130 H500 V120 H487 V110 H375 V120 H363 V130 H350 V140 H338 V150 H325 Z" fill="#fbf7ef" stroke="#6b4428" stroke-width="2"/>
+<rect class="card" x="347" y="219" width="168" height="106"/>
+<rect x="325" y="190" width="212" height="140" fill="#efe6d8" fill-opacity="0.55" stroke="#6b4428" stroke-width="2"/>
+<line x1="325" y1="190" x2="537" y2="190" stroke="#b0604a" stroke-width="3"/>
+<circle cx="431" cy="205" r="5" fill="#6d635a"/>
+<text class="small" x="372" y="276">ID-1 card 3.37 x 2.125 in</text>
+<text class="soft" x="298" y="360">Pocket on paper: about 3.9 in</text>
+<text class="soft" x="298" y="380">wide inside, 2.7 in deep.</text>
+<text class="small" x="300" y="398">Orange line: the opening. Not test-crocheted.</text>
+</svg>
