@@ -20,7 +20,7 @@ A black cat is the Halloween wallet people recognize from across the room, and t
 
 This page is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The skill it teaches is working into both sides of a foundation chain, which is also how many pencil cases and amigurumi bodies start.
 
-![Concept illustration of the closed black cat wallet: ears on the fold, a flap that narrows at the last two rows, gold eyes, a pink nose, and three whiskers on each side](../../assets/articles/black-cat-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
+![A black crochet wallet with two ears, gold eyes, a pink nose, and white whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
 
 ## What is checked, and what is not
 
@@ -83,6 +83,8 @@ If 16 stitches measure less than 3.75 inches, the card will be tight. Go up a ho
 <figcaption>Diagram. Both sides of the chain make round 1. The chain becomes the bottom fold.</figcaption>
 </figure>
 
+![The black pocket with a card started inside, before the ears and face](../../assets/articles/black-cat-crochet-wallet-pocket.jpg "Illustration, not a photograph of a made wallet.")
+
 With black:
 
 **Rnd 1:** Ch 17. Sc in the 2nd ch from the hook and in each ch across. (16 sc) Rotate the work. Sc in the free loop on the other side of each ch across, starting in the same ch as the last stitch. (16 sc) Join with a sl st to the first sc. (32)
@@ -123,6 +125,8 @@ Fold the flap over the opening. It should cover the front from the rim down abou
 <figcaption>Diagram. 1 + 5 + 4 + 5 + 1 = 16, so the ears sit symmetrically.</figcaption>
 </figure>
 
+![Two small black ears on the top fold of the wallet](../../assets/articles/black-cat-crochet-wallet-ears.jpg "Illustration, not a photograph of a made wallet.")
+
 Make 2, in black, leaving a 10 inch tail at the start of each.
 
 **Row 1:** Ch 6. Sc in the 2nd ch from the hook and in each ch across. Turn. (5)
@@ -139,6 +143,8 @@ Fasten off. Each ear is about 1.25 inches across the base and 0.6 inch tall.
 <img src="/diagrams/cat-wallet-face.svg" alt="Diagram. The closed flap as a grid 16 stitches across and 9 rows tall, row 1 at the top fold. Gold eyes on rows 3 and 4 over stitches 4 to 5 and 12 to 13, with black vertical pupils. A pink nose on rows 5 and 6 over stitches 8 and 9. Three white whiskers on each side across rows 5 to 7. The snap is under row 8 at the center." width="640" height="420" loading="lazy" decoding="async" />
 <figcaption>Diagram. Count stitches and rows on the flap before the first stitch of embroidery.</figcaption>
 </figure>
+
+![Close view of the gold eyes, pink nose, and three whiskers on each side](../../assets/articles/black-cat-crochet-wallet-face.jpg "Illustration, not a photograph of a made wallet.")
 
 Close the flap first. Row 1 is now at the top fold. If you embroider with the flap standing up, the face ends up upside down.
 

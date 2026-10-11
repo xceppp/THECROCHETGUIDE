@@ -20,7 +20,7 @@ A spiderweb on a crochet wallet usually means a lot of fiddly white color change
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the one that teaches surface embroidery and a button loop.
 
-![Concept illustration of the spiderweb wallet: five spokes, three rings, a spider on the stitch-11 spoke, and a loop at the point](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
+![A black crochet wallet with a pointed flap, a white web, a purple spider, and a loop over a button](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet. The pattern's web has five spokes.")
 
 ## What is checked, and what is not
 
@@ -78,6 +78,8 @@ Seventeen stitches are 4.25 inches; after the side seams, the pocket is about 3.
 <figcaption>Diagram. The flap loses one stitch at each end of every row until it comes to a point.</figcaption>
 </figure>
 
+![The black pointed flap before any embroidery](../../assets/articles/spiderweb-crochet-wallet-flap.jpg "Illustration, not a photograph of a made wallet.")
+
 With black:
 
 **Row 1:** Ch 18. Sc in the 2nd ch from the hook and in each ch across. (17)
@@ -131,6 +133,8 @@ Work through the flap only. If a line comes out crooked, unpick it; backstitch c
 <img src="/diagrams/spider-applique.svg" alt="Diagram. Left, the abdomen: magic ring of 6, round 2 increases to 12, round 3 even, round 4 decreases to 6. The head: magic ring of 6 and one even round. Right, the head sewn to the abdomen with eight two-segment legs, four per side, bent at the knee." width="640" height="420" loading="lazy" decoding="async" />
 <figcaption>Diagram. Two tiny balls and eight stitched legs.</figcaption>
 </figure>
+
+![The purple spider on the right side of the web, with the loop and button at the point](../../assets/articles/spiderweb-crochet-wallet-spider.jpg "Illustration, not a photograph of a made wallet. The pattern uses five spokes.")
 
 With purple, on the smaller hook if you have one:
 

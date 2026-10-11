@@ -229,6 +229,7 @@ const drawings = {
   "spiderweb-crochet-wallet": spider(),
 };
 
+if (process.env.WALLET_SVG === "1") {
 for (const [slug, svg] of Object.entries(drawings)) {
   await sharp(Buffer.from(svg)).jpeg({ quality: 82 }).toFile(path.join(assets, `${slug}-result.jpg`));
   console.log("hero", slug);
@@ -269,6 +270,7 @@ for (const [slug, svg] of Object.entries(drawings)) {
     .jpeg({ quality: 82 })
     .toFile(path.join(assets, "halloween-crochet-wallets-result.jpg"));
   console.log("hero halloween-crochet-wallets");
+}
 }
 
 const processSets = {

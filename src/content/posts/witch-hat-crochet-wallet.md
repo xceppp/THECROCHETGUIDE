@@ -20,7 +20,7 @@ A wallet with one pocket fills up fast, and the card you want is always at the b
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The new skills here are a worked buttonhole and seaming through three layers.
 
-![Concept illustration of the witch hat wallet: a hat about 1.25 inches wide at the band, with the button showing through the buttonhole under the brim](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
+![A purple crochet wallet with a small black witch hat, an orange band, and a button under the brim](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
 
 ## What is checked, and what is not
 
@@ -75,6 +75,8 @@ Seventeen stitches make 4.25 inches; after the side seams, each pocket is about 
 <figcaption>Diagram. Three zones in one piece. The chain edge becomes the front rim.</figcaption>
 </figure>
 
+![The purple rectangle before it is folded, with the buttonhole worked into the row](../../assets/articles/witch-hat-crochet-wallet-rectangle.jpg "Illustration, not a photograph of a made wallet. In the pattern the hole is centered.")
+
 With purple:
 
 **Row 1:** Ch 18. Sc in the 2nd ch from the hook and in each ch across. (17)
@@ -112,6 +114,8 @@ Fasten off. The divider is 11 rows, about 2.2 inches, one row shorter than the f
 <img src="/diagrams/witch-hat-applique.svg" alt="Diagram. The cone in 5 rows: row 1 in orange, 5 stitches, then black, 5, 3, 3, and 1. A separate black brim strip of 8 stitches. On the closed flap, the brim lies on row 30 centered on stitch 9, the tip reaches row 25 at the top fold, and the buttonhole on row 31 sits just below the brim." width="640" height="420" loading="lazy" decoding="async" />
 <figcaption>Diagram. Hat band in orange, the rest in black. Keep row 31 clear.</figcaption>
 </figure>
+
+![The small black hat with an orange band, beside a ball of purple yarn](../../assets/articles/witch-hat-crochet-wallet-hat.jpg "Illustration, not a photograph of a made wallet.")
 
 **Cone:**
 

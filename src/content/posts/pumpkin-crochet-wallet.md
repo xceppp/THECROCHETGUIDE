@@ -20,7 +20,7 @@ Most crochet pumpkins are round, which is a poor shape for cards. This one is a 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the most forgiving one for a first project.
 
-![Concept illustration of the pumpkin wallet: vertical ribs, the stem standing behind the back rim, and a leaf tab folded over the front](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
+![An orange ribbed crochet wallet with a jack-o'-lantern face, a green leaf tab, and a stem at the top](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet. In the pattern the stem stands on the back rim, behind the tab.")
 
 ## What is checked, and what is not
 
@@ -75,6 +75,8 @@ The piece is worked sideways. The 20 stitches in each row set the height before 
 <img src="/diagrams/pumpkin-wallet-ribbing.svg" alt="Diagram. A close-up of the top of a single crochet, with the hook in the back loop and the front loop left as a ridge. Three swatch options: back loop every row for 11 ribs over 22 rows, both loops for a flat face, or two shades of orange changing every 2 rows." width="640" height="420" loading="lazy" decoding="async" />
 <figcaption>Diagram. One raised rib for every two rows, on one face of the fabric.</figcaption>
 </figure>
+
+![The orange piece laid flat, with the ribs running vertically, before the face or the fold](../../assets/articles/pumpkin-crochet-wallet-ribs.jpg "Illustration, not a photograph of a made wallet.")
 
 With orange:
 
@@ -137,6 +139,8 @@ Keep rows 10 to 13 on stitches 1 to 5 clear; the leaf tab covers that spot. Neve
 <img src="/diagrams/pumpkin-wallet-stem-tab.svg" alt="Diagram. The stem, a green strip 6 single crochet by 3 rows rolled into a small cylinder. The leaf tab, 3 stitches wide for 6 rows with a point on row 7. A side view of the tab sewn inside the back rim, rising over both rims and down the front, with a snap under the tip and the stem standing on the back rim." width="640" height="420" loading="lazy" decoding="async" />
 <figcaption>Diagram. The tab is the closure. The stem only decorates.</figcaption>
 </figure>
+
+![The closed orange wallet. The leaf tab folds over the front; sew the stem on the back rim, behind that tab](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet. The stem in the picture sits on the tab. The pattern puts it on the back rim.")
 
 **Stem**, green: Ch 7. Sc in the 2nd ch from the hook and across. (6) Rows 2–3: ch 1, turn, sc in each st. (6) Fasten off with a 10 inch tail. Roll from one short end into a cylinder about 0.6 inch tall and sew the edge down.
 

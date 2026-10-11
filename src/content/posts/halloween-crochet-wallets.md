@@ -28,25 +28,25 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 **[Black cat crochet wallet](/black-cat-crochet-wallet/).** Beginner. A seamless pocket worked in rounds around both sides of a chain, a 9-row flap with gold eyes, two triangle ears, and a snap.
 
-![Concept illustration of the closed black cat wallet: two ears on the fold, a narrowed flap, gold eyes, a pink nose, and whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
+![Concept illustration of the closed black cat wallet: two ears on the fold, a narrowed flap, gold eyes, a pink nose, and whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
 
 **[Ghost crochet wallet](/ghost-crochet-wallet/).** Intermediate. Two shaped panels, a soft embroidered face with pink cheeks, and one edging round that joins the layers and scallops the hem. The snap hides inside.
 
-![Concept illustration of the ghost wallet: a stepped head, four hem scallops, and the face above the pocket opening](../../assets/articles/ghost-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
+![Concept illustration of the ghost wallet: a stepped head, four hem scallops, and the face above the pocket opening](../../assets/articles/ghost-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
 
 **[Pumpkin crochet wallet](/pumpkin-crochet-wallet/).** Beginner. One sideways piece in back-loop ribs, folded and seamed, with a jack-o'-lantern face, a rolled stem, and a green leaf tab that snaps shut.
 
-![Concept illustration of the pumpkin wallet: vertical ribs, the stem behind the back rim, and a leaf tab over the front](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
+![Concept illustration of the pumpkin wallet: vertical ribs, the stem behind the back rim, and a leaf tab over the front](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
 
 **[Witch hat crochet wallet](/witch-hat-crochet-wallet/).** Intermediate. One purple rectangle with a worked buttonhole, an inner divider for two pockets, and a black and orange hat appliqué.
 
-![Concept illustration of the witch hat wallet: a small hat on the flap, with the button showing through the buttonhole](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
+![Concept illustration of the witch hat wallet: a small hat on the flap, with the button showing through the buttonhole](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
 
 **[Spiderweb crochet wallet](/spiderweb-crochet-wallet/).** Intermediate. A black wallet with a pointed flap, a backstitched white web, a tiny purple spider, and a button loop.
 
-![Concept illustration of the spiderweb wallet: five spokes, a spider on the right-hand spoke, and a loop at the point](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
+![Concept illustration of the spiderweb wallet: five spokes, a spider on the right-hand spoke, and a loop at the point](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
 
-All five pictures are crochet concept illustrations drawn from the pattern counts. None is a photograph of a wallet made from these patterns.
+All five pictures are illustrations of the intended look. None is a photograph of a wallet made from these patterns. The diagrams further down are the counted construction.
 
 ## How they compare
 

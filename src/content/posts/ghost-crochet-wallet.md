@@ -20,7 +20,7 @@ A ghost wallet only works if it still looks like a ghost with cards in it. This 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). If you want a smaller, simpler ghost with a fold-over flap, the [ghost mini wallet](/ghost-crochet-mini-wallet/) is a different design worth a look. This one teaches shaping with decreases and joining two layers with an edging.
 
-![Concept illustration of the ghost wallet: a stepped head, four hem scallops, and the face above the pocket opening](../../assets/articles/ghost-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
+![A cream crochet ghost wallet with the face above a pocket and four scallops on the hem](../../assets/articles/ghost-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
 
 ## What is checked, and what is not
 
@@ -76,6 +76,8 @@ Each panel is 17 stitches, 4.25 inches wide. The side edging takes a little from
 <figcaption>Diagram. Both panels start the same way. The back keeps going and rounds off.</figcaption>
 </figure>
 
+![The two cream panels before joining: a taller back with a stepped top, and a shorter front](../../assets/articles/ghost-crochet-wallet-panels.jpg "Illustration, not a photograph of a made wallet.")
+
 **Back panel**, cream:
 
 **Row 1:** Ch 18. Sc in the 2nd ch from the hook and in each ch across. (17)
@@ -109,6 +111,8 @@ Lay the front on the back with the hems matched. The front should end with 8 row
 <figcaption>Diagram. Stitch k mirrors stitch 18 minus k, so the face stays centered.</figcaption>
 </figure>
 
+![Black oval eyes, a small mouth, and pink cheeks on cream crochet, above the pocket opening](../../assets/articles/ghost-crochet-wallet-face.jpg "Illustration, not a photograph of a made wallet.")
+
 Pick the side of the back panel you like better. That is its right side, and it faces forward, above the front panel. Count stitches from the right-hand edge with row 1 at the bottom.
 
 1. **Eyes.** With black, a vertical oval over rows 17 and 18 at stitch 6: three or four close straight stitches, side by side. Repeat at stitch 12.
@@ -136,6 +140,8 @@ Sew with doubled thread, four or five passes per hole, catching only the panel y
 <img src="/diagrams/ghost-wallet-join.svg" alt="Diagram. The front panel on the back panel with one edging round. Along the hem through both layers: slip stitch in stitch 1, then skip 1, 5 half double crochet in the next, skip 1, slip stitch in the next, four times. Up the first side 14 single crochet through both layers, 4 through the back only, 5 along the head slope. 9 across the top. 23 down the other side." width="640" height="420" loading="lazy" decoding="async" />
 <figcaption>Diagram. One round joins the panels, scallops the hem, and leaves the front's top edge open.</figcaption>
 </figure>
+
+![The hem edging, four scallops across the bottom](../../assets/articles/ghost-crochet-wallet-hem.jpg "Illustration, not a photograph of a made wallet. The pattern's repeat makes four scallops.")
 
 Place the front panel on the right side of the back panel, wrong side of the front against the face side of the back, hems and side edges matched. Clip the sides with markers. Join cream yarn at a bottom corner in stitch 1 of the hem, working through both layers.
 
