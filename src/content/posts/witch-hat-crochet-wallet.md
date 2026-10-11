@@ -20,7 +20,7 @@ A wallet with one pocket fills up fast, and the card you want is always at the b
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The new skills here are a worked buttonhole and seaming through three layers.
 
-![A purple crochet wallet with a small black witch hat, an orange band, and a button under the brim](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
+![A purple and black crochet wallet with a witch hat, stars, and a moon on the flap](../../assets/articles/witch-hat-crochet-wallet-thumb.png "Illustration.")
 
 The pocket sizes and the 5/8 inch button fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and test with a real bank card and your button before you sew up. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
 

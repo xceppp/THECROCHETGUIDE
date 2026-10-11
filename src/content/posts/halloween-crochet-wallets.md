@@ -17,6 +17,8 @@ glance:
 
 A Halloween wallet is a quick project, a good gift, and a reason to use up the scraps of black, orange, and purple you bought last October. The trouble with most "wallet" patterns is that nobody checked whether a card goes in. These five were sized on paper against a standard bank card, and each one uses a different construction, so making all five teaches you five techniques rather than one rectangle five times.
 
+![Five Halloween crochet wallets: a black cat, a ghost, a jack-o'-lantern, a witch hat, and a spiderweb](../../assets/articles/halloween-crochet-wallets-thumb.png "Illustration.")
+
 All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single-crochet swatch checks the gauge the cat, ghost, witch hat, and spiderweb assume. It does not prove a card will fit, and it does not measure the pumpkin, which is worked in the back loop only. Each pattern names the row where you slide a real card in.
 
 <figure class="diagram">
@@ -28,23 +30,23 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 **[Black cat crochet wallet](/black-cat-crochet-wallet/).** Beginner. A seamless pocket worked in rounds around both sides of a chain, a 9-row flap with gold eyes, two triangle ears, and a snap.
 
-![Concept illustration of the closed black cat wallet: two ears on the fold, a narrowed flap, gold eyes, a pink nose, and whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
+![A black crochet cat wallet with pink inner ears, gold eyes, and a paw-print button](../../assets/articles/black-cat-crochet-wallet-thumb.png "Illustration.")
 
 **[Ghost crochet wallet](/ghost-crochet-wallet/).** Intermediate. Two shaped panels, a soft embroidered face with pink cheeks, and one edging round that joins the layers and scallops the hem. The snap hides inside.
 
-![Concept illustration of the ghost wallet: a stepped head, four hem scallops, and the face above the pocket opening](../../assets/articles/ghost-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
+![A cream crochet ghost wallet with a zipper, black eyes, and an orange heart button](../../assets/articles/ghost-crochet-wallet-thumb.png "Illustration.")
 
 **[Pumpkin crochet wallet](/pumpkin-crochet-wallet/).** Beginner. One sideways piece in back-loop ribs, folded and seamed, with a jack-o'-lantern face, a rolled stem, and a green leaf tab that snaps shut.
 
-![Concept illustration of the pumpkin wallet: vertical ribs, the stem behind the back rim, and a leaf tab over the front](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
+![An orange ribbed crochet pumpkin wallet with a green stem, a leaf, and a wood button](../../assets/articles/pumpkin-crochet-wallet-thumb.png "Illustration.")
 
 **[Witch hat crochet wallet](/witch-hat-crochet-wallet/).** Intermediate. One purple rectangle with a worked buttonhole, an inner divider for two pockets, and a black and orange hat appliqué.
 
-![Concept illustration of the witch hat wallet: a small hat on the flap, with the button showing through the buttonhole](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
+![A purple and black crochet wallet with a witch hat, stars, and a moon on the flap](../../assets/articles/witch-hat-crochet-wallet-thumb.png "Illustration.")
 
 **[Spiderweb crochet wallet](/spiderweb-crochet-wallet/).** Intermediate. A black wallet with a pointed flap, a backstitched white web, a tiny purple spider, and a button loop.
 
-![Concept illustration of the spiderweb wallet: five spokes, a spider on the right-hand spoke, and a loop at the point](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
+![A black crochet wallet with a white spiderweb on the flap and a small spider charm](../../assets/articles/spiderweb-crochet-wallet-thumb.png "Illustration.")
 
 All five pictures are illustrations of the intended look. None is a photograph of a wallet made from these patterns. The diagrams further down are the counted construction.
 

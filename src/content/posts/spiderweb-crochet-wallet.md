@@ -20,7 +20,7 @@ A spiderweb on a crochet wallet usually means a lot of fiddly white color change
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the one that teaches surface embroidery and a button loop.
 
-![A black crochet wallet with a pointed flap, a white web, a purple spider, and a loop over a button](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Concept illustration of the finished wallet. The pattern's web has five spokes.")
+![A black crochet wallet with a white spiderweb on the flap and a small spider charm](../../assets/articles/spiderweb-crochet-wallet-thumb.png "Illustration. The pattern's web has five spokes.")
 
 The pocket size, flap drop, and loop length here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and slip a real bank card in before you join. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
 

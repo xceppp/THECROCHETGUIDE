@@ -21,7 +21,7 @@ A baby blanket on this page is a rectangle of [half double crochet](/basic-croch
 
 US terms. The chain-2 does not count. [Abbreviations](/crochet-abbreviations-chart/). The picture is an illustration. No blanket for this page was crocheted, washed, or measured.
 
-![A folded cream crochet blanket on a wood chair](../../assets/articles/how-to-crochet-a-baby-blanket-result.jpg "Illustration. A plain half double rectangle. Not a tested blanket.")
+![A folded crochet baby blanket with cream, sage, blush, and blue stripes and a scalloped edge](../../assets/articles/how-to-crochet-a-baby-blanket-thumb.png "Illustration. Not a tested blanket.")
 
 <div class="warning">
 

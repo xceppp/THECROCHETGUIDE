@@ -22,7 +22,7 @@ Most AirPods case patterns hand you one stitch count and hope your case fits it.
 
 US crochet terms throughout. US single crochet is UK double crochet; see the [abbreviations chart](/crochet-abbreviations-chart/). The case dimensions here are Apple's own published figures, linked below. This is an independent accessory. It is not made, sold, or endorsed by Apple, and "AirPods" is used only to say which case it fits.
 
-![A black crochet cat cozy for an AirPods case, with triangular ears, an embroidered face, and a small pumpkin accent](../../assets/articles/halloween-crochet-airpods-case-result.jpg "Concept illustration. A black cat cozy with ears on the top corners, an embroidered face, and a pumpkin by the hem.")
+![A black crochet cat cozy for an AirPods case, with pink inner ears, a paw-print button, and a pumpkin charm](../../assets/articles/halloween-crochet-airpods-case-thumb.png "Illustration.")
 
 ## What you are making
 

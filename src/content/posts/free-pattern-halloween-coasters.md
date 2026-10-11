@@ -36,7 +36,7 @@ A coaster has one job: lie flat under a mug. The pumpkin coaster on this page is
 
 US terms. US single crochet is UK double crochet. US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/).
 
-![A round orange crochet coaster with a short green stem beside a mug](../../assets/articles/free-pattern-halloween-coasters-pumpkin.jpg "Illustration. The drawn stem stands up and is thicker than the slip-stitch chain this page makes.")
+![An orange crochet pumpkin coaster beside a black, orange, and cream granny square](../../assets/articles/free-pattern-halloween-coasters-thumb.png "Illustration. The drawn stem stands up and is thicker than the slip-stitch chain this page makes.")
 
 ## What is a technique, and what is only a plan
 

@@ -21,7 +21,7 @@ A first scarf is a rectangle of [half double crochet](/basic-crochet-stitches/).
 
 US terms. US half double crochet is not the UK half treble. [Abbreviations](/crochet-abbreviations-chart/). The picture is an illustration. No scarf for this page was crocheted and measured.
 
-![A folded oatmeal crochet scarf on a wood bench](../../assets/articles/how-to-crochet-a-beginner-scarf-result.jpg "Illustration. A plain half double crochet rectangle. Not a tested scarf.")
+![An oatmeal crochet scarf with fringe, looped on a wood bench among autumn leaves](../../assets/articles/how-to-crochet-a-beginner-scarf-thumb.png "Illustration. A plain half double crochet rectangle. Not a tested scarf.")
 
 ## What is a technique, and what is only a plan
 

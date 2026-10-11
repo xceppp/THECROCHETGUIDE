@@ -20,7 +20,7 @@ Most crochet pumpkins are round, which is a poor shape for cards. This one is a 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the most forgiving one for a first project.
 
-![An orange ribbed crochet wallet with a jack-o'-lantern face, a green leaf tab, and a stem at the top](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Concept illustration of the finished wallet. In the pattern the stem stands on the back rim, behind the tab.")
+![An orange ribbed crochet pumpkin wallet with a green stem, a leaf, and a wood button](../../assets/articles/pumpkin-crochet-wallet-thumb.png "Illustration. In the pattern the stem stands on the back rim, behind the tab.")
 
 The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch in back loops (those rows run shorter) and slip a real bank card in before you fold. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
 

@@ -19,7 +19,7 @@ This is a guide to existing tutorials rather than a new pattern, and the picture
 
 </div>
 
-![Crochet stocking, beanie, and small gift pocket on a wood table](../../assets/articles/crochet-christmas-gift-ideas-result.jpg "Illustration. A stocking, a beanie, and a gift-card pocket. Follow the linked tutorials for the instructions.")
+![A table of crochet holiday gifts: a green scarf, a tree, a snowflake, a reindeer, hearts, a mug cozy, and a gift pocket](../../assets/articles/crochet-christmas-gift-ideas-thumb.png "Illustration. Follow the linked tutorials for the instructions.")
 
 ## If you have one evening
 
