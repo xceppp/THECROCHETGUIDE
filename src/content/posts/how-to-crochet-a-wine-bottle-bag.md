@@ -1,141 +1,156 @@
 ---
 title: "How to Crochet a Wine Bottle Bag"
-description: "A drawstring tube for a bottle you measure yourself. A common 750 ml size is only a reason to measure. Not a guaranteed fit, and not yarn-tested."
+description: "A drawstring tube for a bottle you measure, with the base, sides, and cord point worked out, and a handle so you never lift it by the cord. Not yarn-tested."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["wine bottle bag", "beginner", "drawstring"]
+glance:
+  time: "A flat base, a tall tube, an eyelet round"
+  size: "From the bottle's widest point and the height to its shoulder"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh 10 side rounds and multiply."
 ---
 
-A bottle in a grocery sack knocks against everything else, and the paper handle is gone before you reach the car. A crochet wine bottle bag is a drawstring tube: a flat base, straight sides, and a cord near the top so the neck can gather. It is a soft carry sleeve. It will not keep glass from breaking if you drop it on a hard floor.
+A bottle in a grocery sack knocks against everything, and a paper bag's handle tears before you reach the car. A crochet bottle bag is a drawstring tube: a flat base, straight sides, and a cord that gathers around the neck. It is a carrying sleeve and a gift wrap. It will not stop glass breaking on a hard floor.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations. This bag has not been yarn-tested. The inches and the yardage are estimates from the gauge below. Measure the bottle you will carry. The stitch counts are one worked example, not a size chart.
+The pattern is simple, but it is tall, and two things in it are easy to get wrong. The flat base adds no height, so the side rounds have to be counted from where the base ends. And a drawstring is not a handle. A bottle lifted by its cord hangs its whole weight on the small chain loops of one round.
 
-![A sage crochet drawstring bag around a plain wine bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-result.jpg "Illustration. Intended look: a tube and a drawstring. Not a tested fit on a real bottle.")
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bag for this page was crocheted or put on a bottle. The bottle measurements below are an invented example.
 
-<div class="warning">
+![A sage crochet drawstring bag around a plain wine bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-result.jpg "Illustration. A tube and a drawstring. Not a tested fit on a real bottle.")
 
-Many 750 ml bottles are near 3 inches across and 11 to 12 inches tall. That is a reason to measure, not a guaranteed fit. Bottles differ at the shoulder, the neck, and the base. Use a tape on the bottle in your hand.
+## What is a technique, and what is only a plan
 
-</div>
+| Piece of this page | What it is |
+| --- | --- |
+| Flat circle, then even rounds | Standard construction. |
+| (Sc, ch 1, skip 1) eyelet round | Standard drawstring round. Needs an even count. |
+| A 9.4 in bottle, cord point 9 in up | Invented examples. Bottles vary at the shoulder and base. |
+| 4 sc and 5 rounds to the inch | An unverified example gauge. |
+| About 160 yards; "50 rounds, base included" | Old lines. The yardage was not weighed. The flat base does not add height. |
 
 ## Measure the bottle
 
-![A tape around the widest part of a plain bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-2.jpg "Illustration. Measure the widest part and the height to the cord. Ignore any label text.")
+- **Around the widest part.** Usually the body, sometimes the shoulder. Example: 9.4 inches, about 3 inches across.
+- **Height to the cord point.** From the table to a little above the shoulder, where the neck begins to narrow. Example: 9 inches.
 
-You need two numbers, in inches:
+Add about half an inch of ease to the circumference. Glass that has to be forced through crochet is glass that slips.
 
-- Around the **widest** part of the bottle, not around the neck and not around the punt if the punt is narrower.
-- From the bottom up to where you want the cord. That spot is often just past the shoulder, so the neck can gather and the glass still slides out.
+## How the bag is built
 
-Add about **1/2 inch** of ease to the circumference. A tube with no ease feels tidy and then sticks on the shoulder. Forcing glass through a tight round is how a bottle slips and hits the counter. If the bottle will not enter, the bag is small. Add stitches. Do not pull harder.
+<figure class="diagram">
+<img src="/diagrams/bottle-bag-plan.svg" alt="A bottle in a straight tube. The flat base of 40 stitches sits under the bottle and adds no height. The sides rise from round 8 for 9 inches, 45 rounds, to just above the shoulder, where the eyelet round and two more rounds gather around the neck. An optional handle is sewn to solid rounds below the eyelets." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Count side rounds from the end of the base. The base lies under the bottle.</figcaption>
+</figure>
 
-The example below is a tube of **40 stitches**, about **10 inches** around at the gauge, which is a little over 3 inches across. The side is planned to about **10 inches** of fabric before the eyelet rounds. Those figures are the gauge applied to the counts. They are not a 750 ml bottle that was bagged. A bottle near 3 inches across and 11 to 12 inches tall may need a different count once you include ease and the shoulder. A taller bottle needs more rounds. A wider shoulder needs more stitches. Write your two numbers on a card and keep the card with the yarn.
+**Base.** A flat circle that stops growing at the circumference you need. It lies under the bottle. The old version of this page counted its rounds as part of the height, which made the bag about an inch and a half short at the example gauge.
 
-## Materials
+**Sides.** Even rounds. Because the count never changes, the tube's width at the eyelets is the same as at the base, so the bottle's widest part passes through without stretching.
 
-![Sage cotton yarn, a hook, and a plain bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-1.jpg "Illustration. About 160 yards is a planning estimate for the example tube, not a weighed bag.")
+**Eyelets.** A round of holes just above the shoulder, then two more rounds. The cord gathers the top around the neck.
 
-- Worsted cotton. About **160 yards** for the example tube and cord. A taller or wider bottle needs more. The number is a planning estimate from the stitch count, not a weighed bag. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the hook that hits gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle, scissors, a stitch marker.
+## Yarn and hook
 
-Cotton. A sweating bottle will wet it. Beginner, if you can single crochet in joined rounds. [Working in the round](/crochet-in-the-round/) is the setup.
+![Sage cotton yarn, a hook, and a plain bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-1.jpg "Illustration. Yarn and a hook. Not a weighed amount.")
 
-## Gauge (estimate)
+- **Smooth worsted cotton.** A cold bottle sweats; cotton handles that better than acrylic. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Stitch marker, yarn needle, scissors.
 
-**4 sc = 1 inch. 5 rounds = 1 inch.**
+Your base is your swatch. At 4 stitches per inch, 40 stitches should measure 10 inches around the edge of the flat circle.
 
-Swatch in the round if you can, because a flat swatch sometimes lies about a tube. [Gauge](/crochet-gauge/) decides whether the shoulder passes. These numbers were not taken from a finished bag. If you are off, change the stitch count. Do not swap in double crochet and keep 40 stitches. The holes get larger and the diameter changes.
+## The worked example
 
-Ch 1 at the start of a round does not count as a stitch. Counts are for joined rounds. If you prefer a spiral, mark the start and skip the join, and still count 40 when the side begins.
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Around | 9.4 + 0.5 ease | 9.9 in, 40 sts (10 in) |
+| Base across | 10 ÷ 3.14 | about 3.2 in, a little wider than the bottle |
+| Side rounds | 9 in × 5 | 45 rounds, rounds 8–52 |
+| Eyelets | 40 ÷ 2 | 20 holes |
+| Cord | 10 in around + 2 tails of 8 in | 26 in |
 
-## Base
+## Stage 1: the base
 
-The base should cover the bottom of the bottle and reach the widest circumference before the sides go straight. Slip the bottle onto the base as soon as the circle looks close. The bottle is the ruler.
+Joined rounds: slip stitch to the first stitch and ch 1 (does not count) at the start of each round. To spiral instead, skip both and use a marker.
 
-**Round 1:** 6 sc in a magic ring. Join. (6)
+**Round 1:** 6 sc in a magic ring. (6)
 
-**Round 2:** 2 sc in each stitch. Join. (12)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Round 3:** *2 sc in the next stitch, sc in the next.* Repeat. Join. (18)
+**Round 3:** (2 sc in next, sc in next) 6 times. (18)
 
-**Round 4:** *2 sc in the next stitch, sc in the next 2.* Repeat. Join. (24)
+**Round 4:** (2 sc in next, sc 2) 6 times. (24)
 
-**Round 5:** *2 sc in the next stitch, sc in the next 3.* Repeat. Join. (30)
+**Round 5:** (2 sc in next, sc 3) 6 times. (30)
 
-**Round 6:** *2 sc in the next stitch, sc in the next 4.* Repeat. Join. (36)
+**Round 6:** (2 sc in next, sc 4) 6 times. (36)
 
-**Round 7:** *2 sc in the next stitch, sc in the next 8.* Repeat. Join. (40)
+**Round 7:** (2 sc in next, sc 8) 4 times. (40)
 
-Forty stitches at 4 sc to the inch are about 10 inches around, a bit over 3 inches across. If your bottle's widest point, plus half an inch, is not 10 inches, stop at your own stitch count. Add only the increases you still need, spaced evenly. An extra increase round makes a base wider than the bottle, and the bottle will rock.
+Round 7 adds only four stitches, to land on 40. Stand the bottle on the circle. The base should be a little wider than the bottle. If your bottle needs a different count, stop increasing when you reach it, keeping the count even for the eyelets.
 
-![A small flat crochet circle beside a bottle base](../../assets/articles/how-to-crochet-a-wine-bottle-bag-3.jpg "Illustration. The base should cover the bottom. Set the bottle on it before the sides get tall.")
+## Stage 2: the sides
 
-## Sides
+**Rounds 8–52:** Sc in each stitch. (40)
 
-**Next rounds:** Sc in each stitch. Join. (40)
+Slide the bottle in every 10 rounds. Stop when the fabric reaches the cord point you chose, just above the shoulder. Forty-five rounds is the example. Count the stitches now and then. A gained stitch turns the tube into a slow cone.
 
-Repeat until the side reaches the height you wrote down. The example of about 10 inches is about 50 rounds from round 1 if 5 rounds make an inch, base included. Slip the bottle in as you go. Stop when the fabric reaches the shoulder point you chose.
+## Stage 3: eyelets and top
 
-Keep the same count. An accidental increase turns the tube into a cone, and the cord will not gather evenly.
+**Eyelet round:** (Sc in next, ch 1, skip 1) 20 times. (20 sc, 20 ch-1 spaces)
 
-## Drawstring
+**Next round:** Sc in each sc and in each ch-1 space. (40)
 
-![Eyelet stitches and a cord near the top of the tube](../../assets/articles/how-to-crochet-a-wine-bottle-bag-4.jpg "Illustration. The cord runs through a round of chain spaces. Weave it after the bottle fits.")
+**Last round:** Sc in each stitch. (40) Fasten off.
 
-**Eyelet round:** *Sc in the next stitch, ch 1, skip 1.* Repeat. Join. (20 sc, 20 ch-1 spaces)
+**Cord:** chain to 26 inches, then slip stitch back along the chain so it does not stretch. Thread it in and out of the eyelets, starting and ending at the front. Knot each end.
 
-**Next round:** Sc in each sc and sc in each ch-1 space. Join. (40)
+**Checkpoint:** with the cord loose, the bottle should slide in and out. With the cord pulled, the top should close around the neck.
 
-**Next round:** Sc in each stitch. Join. (40) Fasten off.
+## Stage 4: a carry handle
 
-**Cord:** Chain until the cord goes around the eyelet round and leaves about 8 inches free on each side for tying. Chain 80 is a starting guess from a firm chain, not a measured cord. Weave it through the eyelets and tie. The shoulder has to pass the eyelet round with the cord loose. If it will not, add stitches at the base. Do not drag the glass through.
+Do not lift the bag by the cord. The cord passes through 20 chain-1 loops in a single round, and lifting by it hangs the full bottle from those loops. They stretch, and the eyelet round can tear.
 
-![The cord pulled closed above the shoulder of a plain bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-5.jpg "Illustration. The gather sits past the shoulder. Your bottle may need a taller or wider tube.")
+For a handle, chain 6 and work 5-stitch rows of single crochet to about 12 inches. Sew one end to each side of the bag, opposite each other, over the two or three solid rounds just below the eyelet round. Overlap about an inch and sew a box with an X through it, through both layers.
 
-## A different bottle
+## Troubleshooting
 
-1. Widest circumference, plus 1/2 inch, times your stitches per inch. That is the side count.
-2. Grow the base until you reach that count. Then stop increasing.
-3. Height to the cord, times your rounds per inch. That is how tall the side is, checked with the bottle inside.
-4. Chain a cord that goes around the real opening and still ties.
+**The bottle will not go in.** The count is too small for the widest point. Add stitches at the base.
 
-Many 750 ml bottles are near 3 inches across and 11 to 12 inches tall. That fact is why you measure. It is not a promise that 40 stitches and 10 inches of fabric will fit the bottle on your table.
+**The bag is short of the shoulder.** The base rounds were counted as height. Add side rounds.
 
-## Mistakes
+**The bottle rocks inside.** The base is much wider than the bottle. Stop increasing sooner next time.
 
-**Measuring the neck.** The neck is the narrow part. The shoulder is what gets stuck. Measure the widest part.
+**The tube flares toward the top.** Gained stitches. Count back.
 
-**No ease.** Half an inch disappears once the cotton is thick. If the shoulder sticks, add stitches.
+**The top will not close.** The eyelets are below the shoulder, where the bottle is still wide. Move the eyelet round higher.
 
-**A cord that is too short.** It weaves in and will not tie. Chain extra. You can pull a long cord. You cannot tie a short one.
-
-**Closing the top with stitches.** The bottle has to come back out. The only closure is the cord.
-
-**Double crochet sides.** The fabric gets lacier and the diameter changes. Stay with single crochet if you are following these counts.
+**The eyelet round stretched.** It was used as a handle. Add a handle.
 
 ## Care
 
-Take the bottle out. Hand wash cool. Dry flat, with the cord loose so the eyelets do not dry pinched shut. A wet bag left on a bottle can mark a paper label and can smell. Put the bottle back only when the cotton is dry.
+Take the bottle out. Hand wash cool. Dry flat with the cord loose.
 
 ## Frequently asked
 
-**Will this fit a 750 ml bottle?**
+**Will this fit a standard 750 ml bottle?**
 
-Not as a promise. Many of those bottles are near 3 inches across and 11 to 12 inches tall, and many are not, once you count the shoulder. Measure the one you have.
-
-**Can I carry any tall bottle in it?**
-
-Only after you measure that bottle and match the stitch count. A vinegar bottle, a water bottle, and a wine bottle can share a cupboard and not share a circumference.
+Bottles of that volume come in different shapes. Measure the one you have.
 
 **Is it safe to drop?**
 
-No. The bag is yarn. Glass still breaks. Carry it as you would carry the bottle in your hand, and do not treat the stitches as padding.
+No. Crochet is not padding.
+
+**Will it fit other bottles?**
+
+Any bottle you measure. Redo the table from its widest point and its height.
 
 ## Next
 
-Joined rounds, increases, and a marker are the skills in [crochet in the round](/crochet-in-the-round/). A cotton wrap for a handled cup, measured the same way, is the [tumbler sleeve](/how-to-crochet-a-tumbler-sleeve/).
+The same base and eyelet round, smaller, is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/). A sleeve for a cup is the [tumbler sleeve](/how-to-crochet-a-tumbler-sleeve/).

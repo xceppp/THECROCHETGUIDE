@@ -1,7 +1,8 @@
 ---
 title: "How to Crochet a Spider (and Web)"
-description: "Crochet a spider in five pictured steps: body, eight matched legs, eyes, flat web, then sew the pair together for hanging."
+description: "A two-part crochet spider with eight matched legs on the front body, where real spiders have them, and a flat web whose loops grow each round. Counts given."
 pubDate: 2026-09-16
+updatedDate: 2026-10-11
 category: skills
 level: intermediate
 howTo: true
@@ -16,114 +17,147 @@ tags:
     "intermediate",
     "how to",
   ]
+glance:
+  time: "Two small balls, eight legs, a five-round web"
+  size: "Depends on yarn and hook"
+  yarn: "Worsted: black for the spider, white or gray for the web"
+  hook: "Smaller than the label for the body; the label size for the web"
+  yardage: "Not weighed. Small amounts."
 ---
 
-A crochet spider fails for one of two reasons: the body is a featureless blob, or the legs are all different lengths. The stitches are not hard. The proportions are.
+A crochet spider usually fails in one of two ways: the body is a featureless blob, or the legs are different lengths and stick out at random. The stitches are easy. The anatomy and the consistency are the skill.
 
-Comfort with [magic rings and spirals](/crochet-in-the-round/) is expected. Legs take patience more than new stitches. Chain all eight legs to the same count, and pair them before you sew: two short, or eight the same, but not eight different numbers. A leg that is two chains longer sticks out as a mistake. The photos are illustrations.
+Two facts fix most of it. A spider's body is in two parts, a larger rear section (the abdomen) and a smaller front section (the cephalothorax). **All eight legs come from the smaller front section**, four on each side. Many crochet spiders put the legs around a single ball, which reads as a starfish or a sun. Put them on the front section and it reads as a spider from across a room.
 
-![A finished black crochet spider beside a pale grey flat crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-result.jpg "Illustration. The finished look these steps build toward.")
+The web has its own rule: it is a flat mesh worked in rounds, and each round's chain loops have to be longer than the last, because each round goes around a bigger circle. Get that wrong and the web cups or ruffles.
+
+You should be comfortable with [magic rings and spirals](/crochet-in-the-round/). US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No spider or web for this page was made and measured.
+
+![A finished black crochet spider beside a pale gray flat crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-result.jpg "Illustration. The intended look. Not a measured sample.")
+
+## The plan
+
+<figure class="diagram">
+<img src="/diagrams/spider-web-plan.svg" alt="A spider from above with a larger rear body and a smaller front body. All eight legs attach to the front body, four on each side, front pairs angled forward and back pairs angled back, with eyes at the front. A web in rounds: a ring of 8 single crochet, then 8 loops of chain 5, 7, 9, and 11." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Legs belong on the smaller front body. Web loops grow by two chains a round.</figcaption>
+</figure>
 
 ## What you need
 
-- Black or dark brown worsted yarn for the spider; white or gray for the web
-- Matching hook ([hook size chart](/crochet-hook-size-conversion-chart/)); [yarn weights](/yarn-weight-chart/)
-- Stuffing (spider body only)
-- Yarn needle, stitch markers
-- Optional: tiny bit of red or white for eyes
+- **Worsted-weight yarn**: black or dark brown for the spider, white or gray for the web. Smooth cotton gives the crispest web. [Yarn weights](/yarn-weight-chart/).
+- **A hook one or two sizes smaller than the label** for the body, and the label size for the web. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Stuffing, a yarn needle, stitch markers, a scrap of white or red for eyes.
 
-Abbreviations: [chart](/crochet-abbreviations-chart/).
+## Step 1: the rear body (abdomen)
 
-## Step 1: crochet the body
+![Hands crocheting a small black sphere in the round](../../assets/articles/how-to-crochet-a-spider-and-web-1.jpg "Illustration. Each body section is a small ball.")
 
-![Hands crocheting a small black sphere in the round](../../assets/articles/how-to-crochet-a-spider-and-web-1.jpg "Illustration. Step 1 — the body is a small sphere. The legs come next.")
+Black. Work in a spiral and mark the first stitch of each round.
 
-Make one sphere (stronger for a soft toy) or two flat circles sewn together (flatter for a brooch).
+**Round 1:** 6 sc in a magic ring. (6)
 
-**Sphere version (brief).**
+**Round 2:** 2 sc in each stitch. (12)
 
-**Rnd 1.** Magic ring, 6 sc.
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Rnd 2.** Inc around. (12)
+**Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
-**Rnd 3.** *Sc, inc; repeat from * around. (18)
+**Rounds 5–7:** Sc in each stitch. (24)
 
-**Rnd 4.** *Sc in next 2, inc; repeat from * around. (24)
+**Round 8:** (Sc 2, sc2tog) 6 times. (18)
 
-Work 2–3 rounds even. Decrease symmetrically back to 6, stuffing firmly before closing.
+**Round 9:** (Sc, sc2tog) 6 times. (12) Stuff firmly.
 
-For a two-part body, make a second, smaller sphere (stop increasing at 18) and sew it to the front of the larger one as a head.
+**Round 10:** Sc2tog 6 times. (6) Fasten off and pull closed.
 
-## Step 2: make eight legs in pairs
+## Step 2: the front body (cephalothorax)
 
-![Eight thin black crocheted cords laid out in four matched pairs](../../assets/articles/how-to-crochet-a-spider-and-web-2.jpg "Illustration. Step 2 — eight legs as four matching pairs so they hang evenly.")
+**Rounds 1–3:** As the rear body. (18)
 
-Spiders have eight legs, attached in two rows of four along the sides — not radiating like a starfish.
+**Rounds 4–5:** Sc in each stitch. (18)
 
-**Fast legs (chains).** For each leg: join yarn at the side of the body, ch 12–16, slip stitch back along the chain, fasten off and weave into the body. Keep every chain the same count.
+**Round 6:** (Sc, sc2tog) 6 times. (12) Stuff firmly.
 
-**Sturdier legs (tubes).** Magic ring 4 sc, work even for 8–12 rounds, fasten off with a long tail, sew on. Hollow tubes bend better than stuffed ones at this size.
+**Round 7:** Sc2tog 6 times. (6) Fasten off with a long tail.
 
-Pin or baste all eight positions first. From above: four legs left, four right, clustered toward the front half of the abdomen.
+Sew the front body to one end of the rear body, with the seam hidden underneath. Sew all the way round the joint, not at one point, or the front body nods.
+
+## Step 3: eight matched legs
+
+![Eight thin black crocheted cords laid out in four matched pairs](../../assets/articles/how-to-crochet-a-spider-and-web-2.jpg "Illustration. Eight legs, all the same length.")
+
+Pick one leg length and use it for all eight. Write the number down.
+
+**Chain legs (fast).** Join black at the side of the front body. Ch 14. Slip stitch in the 2nd chain from the hook and in each chain back to the body. Fasten off and weave the end into the body. That leg is 13 slip stitches long. Make every leg 13.
+
+**Tube legs (sturdier).** 4 sc in a magic ring. Work even for 10 rounds. Fasten off with a long tail and sew on. Every leg 10 rounds.
+
+**Placement.** Four on each side of the front body, in a short row from front to back. Angle the front two pairs forward and the back two pairs backward. Pin all eight before attaching any, then look from above. The two sides should mirror each other.
 
 <div class="warning">
 
-**Attach legs before you embroider a face you love.** Sewing eight legs means a lot of needle traffic through the body.
+Some makers slide a chenille stem (pipe cleaner) into tube legs so they can be posed. The wire ends can poke through. That is fine for a shelf decoration, and not for anything a child will handle.
 
 </div>
 
-## Step 3: add the eyes
+Attach the legs before embroidering the face. Eight legs means a lot of needle traffic through the front body.
 
-![A tapestry needle stitching two small black eyes onto a crochet spider body](../../assets/articles/how-to-crochet-a-spider-and-web-4.jpg "Illustration. Step 3 — two French knots or satin dots near the front of the head are enough.")
+## Step 4: eyes
 
-Two small French knots or satin-stitch dots near the front of the head section are enough. Real spiders have more eyes; crochet spiders look wrong when you embroider all of them unless you are going for scientific accuracy on a large model.
+![A tapestry needle stitching two small black eyes onto a crochet spider body](../../assets/articles/how-to-crochet-a-spider-and-web-4.jpg "Illustration. Two eyes near the front of the head section.")
 
-## Step 4: crochet the flat web
+Most spiders have eight eyes, but at this size two French knots in white or red, close together at the front of the front body, read better. Embroidering all eight on a small spider looks like a texture rather than a face.
 
-![A pale grey crochet web being worked flat, with the hook still in the work](../../assets/articles/how-to-crochet-a-spider-and-web-3.jpg "Illustration. Step 4 — the web is worked flat in rounds of long spokes and chain loops.")
+## Step 5: the web
 
-**Center.** Magic ring, 8 sc, join. Or ch 4, join into a ring, 8 sc into ring.
+![A pale gray crochet web being worked flat, with the hook still in the work](../../assets/articles/how-to-crochet-a-spider-and-web-3.jpg "Illustration. The web is worked flat in rounds of chain loops.")
 
-**Round of spokes.** *Ch 5, sl st in next sc; repeat from * around. (8 loops)
+White or gray, label-size hook.
 
-**Next round.** Into each ch-5 loop work: sc, hdc, dc, hdc, sc (or *ch 6, sl st into next loop*). Build outward with longer chains each round until the web is the diameter you want.
+**Round 1:** 8 sc in a magic ring. Join with a slip stitch to the first sc. (8)
 
-**Optional radial threads.** With a yarn needle, run straight lines from the outer edge to the center and tack them at each ring.
+**Round 2:** (Ch 5, sl st in next sc) 8 times. (8 loops)
 
-Block lightly if the chains curl — same idea as in [blocking basics](/weaving-in-ends-and-blocking/).
+**Round 3:** Sl st into the first loop. (Ch 7, sc in next loop) 8 times. (8 loops)
 
-## Step 5: sew the spider to the web
+**Round 4:** Sl st into the first loop. (Ch 9, sc in next loop) 8 times. (8 loops)
 
-![A black crochet spider being sewn slightly off-center onto a pale grey crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-5.jpg "Illustration. Step 5 — sew the spider off-center so it looks placed, not stamped in the middle.")
+**Round 5:** Sl st into the first loop. (Ch 11, sc in next loop) 8 times. (8 loops) Fasten off.
 
-Sew the spider slightly off-center on the web. Add a hanging loop at the top of the web only; do not hang from a leg.
+**Why two more chains each round.** Each round sits further from the center, so it has a longer distance to cover around. Adding two chains a round is a starting point, not a rule. Lay the web flat after each round. If it cups into a bowl, the loops are too short: add a chain. If it ruffles, they are too long: take one away. Your yarn and tension decide.
 
-You can skip this step and use the spider alone as a toy or appliqué.
+**Radial threads (optional).** With a yarn needle, run a strand from the center straight out to the edge, tacking it at each round. Four lines crossing the center, like the diagram, make it read as a web.
 
-## Mistakes that read as “not a spider”
+Block it flat if the chains curl. [Blocking](/weaving-in-ends-and-blocking/).
 
-**Legs of mixed lengths.** Count chains. Write the number down.
+## Step 6: put them together
 
-**Body under-stuffed.** Floppy abdomen makes the legs look wrong.
+![A black crochet spider being sewn slightly off-center onto a pale gray crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-5.jpg "Illustration. Off-center looks placed. Dead center looks stamped.")
 
-**Web worked too tight.** Chain spaces should be loose.
+Sew the spider off-center on the web through the underside of the rear body. Add a hanging loop at the top edge of the web. Do not hang it from a leg.
 
-**Using fluffy yarn for legs.** Novelty yarn sheds and hides structure.
+## Troubleshooting
+
+**It looks like a starfish.** Legs around one ball, or on the rear body. Move them to the front section.
+
+**Legs of different lengths.** Count every leg against the number you wrote down.
+
+**The front body droops.** Sewn at one point. Sew around the whole joint.
+
+**The web cups.** Loops too short. **The web ruffles.** Loops too long.
+
+**Floppy abdomen.** Under-stuffed.
 
 ## Frequently asked
 
 ### Is this beginner-friendly?
 
-The body is beginner work. Eight identical legs push it to intermediate because consistency is the skill.
+The bodies are beginner work. Eight identical legs and a flat web push it to intermediate, because consistency is the skill.
 
 ### Can I skip the web?
 
-Yes. The spider stands alone.
+Yes. The spider stands alone as an ornament or appliqué.
 
-### What yarn holds a web shape best?
+### What should I make next?
 
-Smooth cotton or cotton-blend worsted blocks crisply.
-
-### What to make next
-
-A [bat](/bat-amigurumi-wings-body-and-ears/), a [ghost](/crochet-ghost-amigurumi-for-beginners/), [Halloween granny squares](/halloween-granny-square-variations/), or the [Halloween card wallet](/halloween-crochet-card-wallet/).
+Another small stuffed body with flat sewn parts is the [bat](/bat-amigurumi-wings-body-and-ears/). A flat lacy motif blocked stiff is the [snowflake](/how-to-crochet-a-snowflake/).

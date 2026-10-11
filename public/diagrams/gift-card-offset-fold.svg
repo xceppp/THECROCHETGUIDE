@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Offset fold for a gift card pocket</title>
+<desc>Left: the rectangle flat, 16 stitches wide and 24 rows tall, with a fold line after row 9. Right: folded, the 9-row front is 1.8 inches tall and the 15-row back is 3.0 inches. A 2.125 inch card stands in the pocket with about a third of an inch showing above the front, so it can be pulled out. A pocket folded in the middle at 12 rows would be 2.4 inches deep and the card would sink below the opening.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .fab { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .front { fill: #e9d6bd; stroke: #6b4428; stroke-width: 4; }
+  .card { fill: #ffffff; stroke: #2f2a26; stroke-width: 3; }
+  .fold { stroke: #b0604a; stroke-width: 3; stroke-dasharray: 8 5; }
+  .red { stroke: #b0604a; stroke-width: 6; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Fold after row 9, not row 12</text>
+<rect class="fab" x="60" y="80" width="160" height="240"/>
+<line class="fold" x1="48" y1="230" x2="232" y2="230"/>
+<text class="soft" x="76" y="160">rows 10-24</text>
+<text class="soft" x="76" y="182">back, 15 rows</text>
+<text class="soft" x="76" y="270">rows 1-9</text>
+<text class="soft" x="76" y="292">front, 9 rows</text>
+<text class="soft" x="64" y="344">16 sc wide</text>
+<text class="soft" x="238" y="236">fold</text>
+<rect class="fab" x="370" y="80" width="160" height="150"/>
+<rect class="card" x="386" y="105" width="128" height="106"/>
+<rect class="front" x="370" y="140" width="160" height="90"/>
+<line class="red" x1="370" y1="140" x2="530" y2="140"/>
+<text class="soft" x="540" y="128">card shows</text>
+<text class="soft" x="540" y="150">0.33 in</text>
+<text class="soft" x="540" y="190">front</text>
+<text class="soft" x="540" y="212">1.8 in</text>
+<text class="soft" x="540" y="94">back 3.0 in</text>
+<text class="soft" x="300" y="272">Card 2.125 in tall. Front 9 rows = 1.8 in.</text>
+<text class="soft" x="300" y="298">2.125 - 1.8 = about 0.33 in to grip.</text>
+<text class="soft" x="32" y="356">Folded in the middle, each side is 12 rows = 2.4 in.</text>
+<text class="soft" x="32" y="382">The card sits 0.27 in below the opening and is hard to get out.</text>
+</svg>

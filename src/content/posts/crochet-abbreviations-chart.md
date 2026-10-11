@@ -2,6 +2,7 @@
 title: "Crochet Abbreviations Chart: Every Term Explained (US & UK)"
 description: "A complete crochet abbreviations chart in plain English, plus the US-to-UK conversion table that explains why your stitches came out wrong."
 pubDate: 2026-09-10
+updatedDate: 2026-10-11
 category: charts
 level: beginner
 printable: true
@@ -32,7 +33,7 @@ A line like `2 hdc in next st, sk 1, rep from *` is ordinary pattern shorthand. 
 | `dc` | double crochet | The tall workhorse stitch. Fast and slightly open. |
 | `tr` or `trc` | treble (triple) crochet | Taller than `dc`, noticeably lacy. |
 | `dtr` | double treble crochet | Taller again. Mostly seen in lace and shawls. |
-| `ttr` | triple treble crochet | Very tall. Rare outside decorative work. |
+| `trtr` (sometimes `ttr`) | triple treble crochet | Very tall. Rare outside decorative work. The Craft Yarn Council writes it `trtr` and uses `ttr` for Tunisian treble, so check the pattern's key. |
 
 ## Where to put the stitch
 
@@ -98,7 +99,7 @@ The names are shifted by one. What the US calls a single crochet, the UK calls a
 
 | US term | UK term |
 | --- | --- |
-| slip stitch (`sl st`) | slip stitch (`sl st`) |
+| slip stitch (`sl st`) | slip stitch (`ss` or `sl st`) |
 | single crochet (`sc`) | double crochet (`dc`) |
 | half double crochet (`hdc`) | half treble (`htr`) |
 | double crochet (`dc`) | treble (`tr`) |
@@ -110,11 +111,11 @@ The names are shifted by one. What the US calls a single crochet, the UK calls a
 <figcaption>Diagram. The letters move one stitch taller in UK terms. A UK dc is the short stitch.</figcaption>
 </figure>
 
-**`sc` means US terms.** UK terminology has no single crochet. **`htr` means UK terms.** "Colour", "tension" instead of "gauge", and grams instead of yards point to a UK or Australian designer. If you cannot tell, assume US terms.
+**`sc` means US terms.** UK terminology has no single crochet. **`htr` means UK terms.** So do `ss` for slip stitch and `yoh` for yarn over hook. "Colour", "tension" instead of "gauge", and grams instead of yards point to a UK or Australian designer. If you still cannot tell, work a small swatch both ways and compare it with the photo. A fabric half as tall as the picture is the giveaway.
 
 ## Reading the punctuation
 
-Parentheses put stitches in one place: `(2 dc, ch 1, 2 dc) in next st`. At the end of a row they are the count, `(12 sts)`. Brackets repeat: `[sc, ch 1] x 6`. An asterisk starts a repeat that runs to the end. A number before a stitch is how many to make (`3 dc` is three double crochets). A number inside the name is how many stitches one decrease uses (`dc3tog` is one stitch made from three). If the previous row has 24 stitches, `*2 dc in next st, sk 1 st, rep from * to end (24 sts)` finishes at 24: each repeat uses 2 stitches and makes 2.
+Parentheses put stitches in one place: `(2 dc, ch 1, 2 dc) in next st`. At the end of a row they are the count, `(12 sts)`. Some patterns also use them for a repeat, `(sc, inc) 6 times`, so read what follows the closing parenthesis. Brackets repeat: `[sc, ch 1] x 6`. An asterisk starts a repeat that runs to the end. A number before a stitch is how many to make (`3 dc` is three double crochets). A number inside the name is how many stitches one decrease uses (`dc3tog` is one stitch made from three). If the previous row has 24 stitches, `*2 dc in next st, sk 1 st, rep from * to end (24 sts)` finishes at 24: each repeat uses 2 stitches and makes 2.
 
 ## Mistakes
 
@@ -122,7 +123,7 @@ Some designers count the starting `ch 3` on a double-crochet row as the first st
 
 ## Frequently asked
 
-**Is there an official list?** The Craft Yarn Council publishes the standard US abbreviations. This chart also includes common ones it does not cover, such as `MR` and `FO`.
+**Is there an official list?** The Craft Yarn Council publishes a master list of US abbreviations, which this chart was checked against. This chart also includes common ones that list does not cover, such as `MR`, `FO`, and `inv dec`. A pattern's own special-stitches key overrides both.
 
 **Why symbols instead of words?** Stitch diagrams, common in Japanese patterns and lace, draw the motif.
 

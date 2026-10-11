@@ -1,143 +1,171 @@
 ---
 title: "How to Crochet a Market Bag"
-description: "A cotton market bag with a solid single-crochet base, mesh sides, and handles. Yardage is an estimate. Not yarn-tested and not a load rating."
+description: "A cotton market bag with a solid single-crochet base, mesh sides, a firm band, and handles placed by count. US terms. Not yarn-tested and not load-rated."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: intermediate
 howTo: true
 printable: true
 draft: false
 tags: ["market bag", "intermediate", "cotton"]
+glance:
+  time: "A flat base, mesh rounds, a band, two handles"
+  size: "Base about 7.6 in across at the example gauge"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh the base, then weigh after 4 mesh rounds."
 ---
 
-A plastic sack splits at the handle, and a cloth tote with no structure falls over in the cart. A crochet market bag on this page has a solid single-crochet base, a mesh body of double crochet and chain spaces, and two handles sewn to a firm top band. The mesh is the point. It is lighter than a solid bag, and it will not hold a small loose item the way a solid bag would.
+A plastic sack splits at the handle. A cloth tote with no base falls over in the cart. A crochet market bag sits between the two: a solid base that holds its shape, open mesh sides that weigh almost nothing and expand around what you put in, and a firm band at the top where the handles attach.
 
-US terms. US single crochet is UK double crochet. US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations. This bag has not been yarn-tested. The inches and the yardage are estimates from the gauges below. Measure the base against something you actually carry, and measure the side against that same load, before you call the height done.
+Three things decide whether it works. The base has to stop increasing at the right moment, or the bag turns into a cone. The mesh has to keep its count, or the sides flare. And the handles have to go into the solid band, spaced evenly, or one side carries all the weight. This page covers each.
 
-![A natural cotton market bag with mesh sides and two handles](../../assets/articles/how-to-crochet-a-market-bag-result.jpg "Illustration. Intended look: solid base, open mesh, two handles. Not a load test.")
+US terms. US single crochet is UK double crochet. US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bag for this page was crocheted, filled, or carried. Inches are estimates from the example gauge.
+
+![A natural cotton market bag with mesh sides and two handles](../../assets/articles/how-to-crochet-a-market-bag-result.jpg "Illustration. Solid base, open mesh, two handles. Not a load test.")
 
 <div class="warning">
 
-There is no load rating for this bag, and this page does not give a weight limit. Cotton mesh stretches. If the handles pull thin, if the holes grow, or if the base pulls into a cone, take items out.
+There is no load rating for this bag, and this page gives no weight limit. Cotton mesh stretches. If the handles pull thin, the holes grow long, or the base pulls into a cone, take items out.
 
 </div>
 
-## What you are making
+## What is a technique, and what is only a plan
 
-A flat circle in single crochet, then rounds that stop increasing so the side can rise. The side is mesh: a double crochet, a chain, skip a stitch, repeated. A few rounds of solid single crochet at the top give the handles something to sew into. The handles are separate strips, sewn through many stitches.
+| Piece of this page | What it is |
+| --- | --- |
+| Flat circle, one even round, then straight sides | Standard construction for a round-based bag. |
+| (Dc, ch 1, skip 1) mesh | A standard filet-style mesh. Needs an even count. |
+| Handles sewn to a solid band | Standard practice. Not a load rating. |
+| 4 sc and 5 rounds to the inch; about 2 mesh rounds to the inch | Unverified example gauges. The mesh figure is for planning only. |
+| About 350 yards; base "near 8 inches" | Old lines. The yardage was not weighed. The base is 7.6 inches by the page's own arithmetic. |
 
-Keep the mesh at the same count or the bag flares. If the base circle is new, [basic stitches](/basic-crochet-stitches/) and [crochet in the round](/crochet-in-the-round/) cover the joins. A bag built from squares is the [granny square tote](/how-to-crochet-a-granny-square-tote/).
+## How the bag is built
 
-## Materials
+<figure class="diagram">
+<img src="/diagrams/market-bag-profile.svg" alt="The bag in profile: a flat base of 96 single crochet, about 7.6 inches across, one even round, mesh rounds of 48 double crochet and 48 chain-1 spaces, and a top band of 96 single crochet. Beside it, half the band, 48 stitches, split 10, handle end 8, 12, handle end 8, 10, repeated on the other half." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Solid where it needs strength, open where it needs to be light. The handles go only into the solid band.</figcaption>
+</figure>
 
-![Natural cotton yarn, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-market-bag-1.jpg "Illustration. About 350 yards is a planning estimate for the example, not a weighed bag.")
+**Base.** A flat circle grows by six stitches a round. Each round adds one stitch height to the radius, and a circle's edge is 2 × 3.14 times its radius, so the edge gains about 6.28 stitch heights. In single crochet that comes out near six stitches. The exact figure depends on how tall your stitches are for their width, which is why one person's circle lies flat and another's cups or ruffles slightly. The [coaster page](/free-pattern-halloween-coasters/) shows how to correct either. Sixteen rounds give 96 stitches. At 4 per inch that is 24 inches around and 24 ÷ 3.14 ≈ **7.6 inches** across.
 
-- Worsted cotton. About **350 yards** for the example. That is a shopping estimate from the stitch count at the gauges below, not a weighed bag. A taller side or a longer handle needs more. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the hook that hits the base gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle, scissors, stitch markers.
+**Turn.** One round with no increases. That is where the flat base starts to become a wall. Keep increasing into the mesh and the sides lean outward and the bag becomes a cone.
 
-Cotton. Acrylic mesh stretches and stays stretched. The cotton stretches too, which is why the handles are sewn through many stitches and why this page has no weight number. Try the handles on before you weave the ends.
+**Mesh.** Each repeat is a double crochet and a chain 1 over two stitches of the round below: 96 stitches make 48 mesh units. Double crochet posts are tall and thin, and the chain spaces between them open sideways under load. That is why the bag expands around a melon and why it stretches.
 
-## Gauge (estimate)
+**Band.** Back to solid single crochet for three rounds. It stops the top from stretching and gives the handles something solid to hold.
 
-**Base: 4 sc = 1 inch. 5 rounds = 1 inch.**
+## Yarn and hook
 
-**Mesh, for planning only: about 2 mesh rounds = 1 inch of height.**
+![Natural cotton yarn, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-market-bag-1.jpg "Illustration. Yarn, hook, and needle. Not a weighed amount.")
 
-Swatch the single crochet and measure it. [Gauge](/crochet-gauge/) sets the base diameter. The mesh figure is only for planning yarn. Measure the real mesh as you work. These numbers were not taken from a finished bag. If the rim grows much wider than the base, use a hook one size smaller for the mesh only, and use that hook for every mesh round after the switch.
+- **Smooth worsted cotton.** Every fiber stretches under a load. Acrylic mesh tends to stay stretched once it has gone. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives the base gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Stitch markers, yarn needle, scissors.
 
-Ch 1 does not count as a stitch. On mesh rounds, the ch 3 counts as a double crochet. Pick that rule and keep it. If you also work a double crochet into the same spot as a ch 3 you meant as the stitch, you gain a mesh every round.
+Swatch the single crochet and measure. [Gauge](/crochet-gauge/) sets the base diameter. Measure the real mesh as you go; the 2 rounds per inch figure is a planning number, not a measurement.
 
-## Base
+## The worked example
 
-The example base is **96 single crochet** around, about **8 inches** across. Ninety-six divided by 4 is 24 inches around, and 24 divided by about 3.14 is near 8 inches. That is arithmetic from the gauge, not a base that was set in a cart. Measure yours on the table. A very small base under a tall mesh bag tips.
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Base | 6 × 16 rounds | 96 sc |
+| Around | 96 ÷ 4 | 24 in |
+| Across | 24 ÷ 3.14 | about 7.6 in |
+| Mesh | 96 ÷ 2 | 48 dc and 48 ch-1 |
+| Mesh height | about 12 in × 2 rounds per in | about 24 rounds, measured as you go |
+| Band | 48 dc + 48 spaces | 96 sc |
+| Handle placement, per half | 10 + 8 + 12 + 8 + 10 | 48 |
 
-**Round 1:** 6 sc in a magic ring. Join. (6)
+## Stage 1: the base
 
-**Round 2:** 2 sc in each stitch. Join. (12)
+Joined rounds: slip stitch to the first stitch, ch 1 (does not count), then work the round.
 
-**Round 3:** *2 sc in the next stitch, sc in the next.* Repeat. Join. (18)
+**Round 1:** 6 sc in a magic ring. (6)
 
-**Round 4:** *2 sc in the next stitch, sc in the next 2.* Repeat. Join. (24)
+**Round 2:** 2 sc in each stitch. (12)
 
-Keep adding one more plain single crochet between increases every round. Each round gains 6 stitches.
+**Round 3:** (2 sc in next, sc in next) 6 times. (18)
 
-Checkpoints: round 8 is 48. Round 12 is 72. Round 16 is 96.
+**Round 4:** (2 sc in next, sc 2) 6 times. (24)
 
-**Round 17:** Sc in each stitch, no increases. Join. (96)
+Keep going, with one more plain stitch between increases each round. Round 8 is 48. Round 12 is 72. **Round 16 is 96.**
 
-That even round locks the edge. If you keep increasing into the mesh, the bag becomes a cone. Put a marker in the last stitch of round 17 so you can find the base later when you measure height.
+**Checkpoint:** lay the base flat. It should be flat, not cupped or ruffled, and about 7.6 inches across. Set your usual shopping on it. If the footprint is bigger, keep increasing by six a round. The final count must be even.
+
+To keep the edge round rather than hexagonal, move the increases: in alternate rounds, start the repeat with half the plain stitches, put the increase in the middle, and end with the rest. [Increase and decrease](/crochet-increase-decrease/) explains staggering.
+
+## Stage 2: the turn
+
+**Round 17:** Sc in each stitch. (96)
+
+Put a marker in this round. Measure the side height from here.
 
 ![A flat cotton circle in single crochet](../../assets/articles/how-to-crochet-a-market-bag-2.jpg "Illustration. The base is solid single crochet. Measure it before the mesh starts.")
 
-Set what you mean to carry on the circle. If the base is smaller than that footprint, add increase rounds until it is close. The mesh skips every other stitch, so the final count must be even. If you stop at 90, increase to 96 or decrease to 84 on the even round.
+## Stage 3: the mesh
 
-## Mesh body
+Decide now whether the starting ch 3 counts as a double crochet. On this page it does. If you count the ch 3 and then also work a dc into the same place, you add a mesh unit every round.
 
-![Open mesh rounds rising from the solid base](../../assets/articles/how-to-crochet-a-market-bag-3.jpg "Illustration. Each mesh is a double crochet and a chain space. The count stays even.")
+**Mesh round 1:** Ch 3 (counts as dc), ch 1, skip the next stitch. (Dc in the next stitch, ch 1, skip the next stitch) around. Slip stitch to the top of the ch 3. (48 dc, 48 ch-1 spaces)
 
-**Mesh round 1:** Ch 3 (counts as dc), ch 1, skip the next sc, *dc in the next sc, ch 1, skip the next sc.* Repeat around. Join with a slip stitch to the top of the ch 3. (48 dc, 48 ch-1 spaces)
+**Mesh round 2:** Slip stitch into the first ch-1 space. Ch 3 (counts as dc), ch 1. (Dc in the next ch-1 space, ch 1) around. Slip stitch to the top of the ch 3. (48 dc, 48 ch-1 spaces)
 
-**Mesh round 2:** Slip stitch into the first ch-1 space. Ch 3 (counts as dc), ch 1, *dc in the next ch-1 space, ch 1.* Repeat around. Join to the top of the ch 3. (48 dc, 48 ch-1 spaces)
+Repeat mesh round 2 until the side, measured from the marker, is the height you want. The example is about 12 inches. Count the double crochet every few rounds. 47 or 49 means a unit was dropped or added, and the bag will twist or flare.
 
-Repeat mesh round 2 until the side, measured from round 17, is the height you need. The example is about **12 inches** of mesh, about 24 rounds if 2 rounds make an inch. Use a tape. Twelve inches is an estimate, not a bag that was filled. Stop shorter for a small load. Add rounds if a tall item still sticks out. Do not increase on the mesh.
+If the mesh rim comes out much wider than the base, switch to a hook one size smaller for every remaining mesh round.
 
-A key or a loose berry will find a mesh hole. The solid base is the part that keeps things from falling out the bottom. Pack small items inside a larger one.
+A key or a loose berry will find a hole. Put small things inside something larger.
 
-## Top band
+## Stage 4: the band
 
-**Next round:** Ch 1, *sc in the next dc, sc in the next ch-1 space.* Repeat. Join. (96)
+**Round 1:** Ch 1, (sc in the next dc, sc in the next ch-1 space) around. Slip stitch to the first sc. (96)
 
-**Next 2 rounds:** Sc in each stitch. Join. (96)
+**Rounds 2–3:** Ch 1, sc in each stitch. Slip stitch to the first sc. (96)
 
-The band is where the handles attach. Three rounds is the example. Add one more single-crochet round if the band feels floppy. The empty bag should still collapse.
+## Stage 5: the handles
 
-## Handles
+Make 2. Chain 8.
 
-Make 2.
-
-Chain 8.
-
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (7)
+**Row 1:** Sc in the second chain from the hook and across. Ch 1, turn. (7)
 
 **Next rows:** Sc in each stitch. Ch 1, turn. (7)
 
-Work until the strip measures about **18 inches**. That length is about 90 rows at 5 rows to the inch, an estimate from the gauge, not a handle that was carried. Pin it on and try it in your hand and on your shoulder, with a stand-in for the groceries inside, before you sew the second end.
+Work to about 18 inches, about 90 rows at 5 rows per inch. Pin one handle on, put some weight in the bag, and try it in your hand and on your shoulder before you decide the length.
 
-Sew each end to the inside of the top band. Place the two handles opposite each other. Each end should cover about **2 inches** of the band, about 8 single crochet at the base gauge. Sew through every one of those stitches, then sew back the other way. One stitch is a tear waiting for a jar. This sewing advice is construction. It is not a tested load, and it is not a weight limit.
+**Placement.** Put a marker at the start of the band round and another at stitch 49. Each half has 48 stitches. On each half: skip 10, sew a handle end over 8, skip 12, sew the other end over 8, skip 10. The two handles sit opposite each other, and the four ends are spaced the same way on both sides, so neither handle pulls the band crooked.
+
+Overlap each handle end on the inside of the band and sew through every one of its 8 stitches across both band rounds, then back the other way. Keep the sewing out of the mesh. A handle sewn into a chain space pulls that space into a long tear.
 
 ![Handle ends sewn across the solid top band](../../assets/articles/how-to-crochet-a-market-bag-4.jpg "Illustration. Each handle end spans many stitches. There is no weight number on this bag.")
 
-Leave the mesh out of the sewing. The band is the solid part. A handle sewn into a chain space will pull that space into a long hole.
+## Troubleshooting
 
-![The bag standing with the handles up and the mesh relaxed](../../assets/articles/how-to-crochet-a-market-bag-5.jpg "Illustration. Empty fabric. Stretch under a real load is something you have to watch.")
+**The bag is a cone.** Increases continued past the base, or the mesh grew. Stop increasing at round 16 and count the mesh.
 
-## Mistakes
+**The bag twists as it grows.** That is common in joined mesh rounds, because each round starts a little to one side. Count the units. If the count is right, a slight lean is cosmetic.
 
-**Increasing through the mesh.** The rim ends up much wider than the base and the bag slumps. Stop increases on the even single-crochet round before mesh round 1.
+**The base is a hexagon.** Increases stacked in the same place. Stagger them.
 
-**Handles on the mesh.** The chain spaces rip longer. Sew to the solid band only.
+**One handle sits lower.** Placement counts differ between the halves. Recount from the markers.
 
-**A one-stitch attachment.** It holds the empty bag. It fails when the bag is picked up full. Sew across about 2 inches, twice.
-
-**An odd stitch count.** The mesh repeat needs pairs. Fix the count on the last solid round.
-
-**Looking for a weight number.** This page does not have one. If the base cones, the handles thin, or the holes grow, take items out.
+**The handles thinned.** Cotton stretched under weight. Carry less, or make the handles wider.
 
 ## Care
 
-Empty the bag. Hand wash cool. Dry flat, handles straight, on a towel. Drying it by one handle stretches that handle. Use it again only when it is dry.
+Empty it. Hand wash cool. Dry flat on a towel with the handles straight. Drying it hanging by a handle stretches that handle.
 
 ## Frequently asked
 
-**How much weight will it hold?**
+**How much will it hold?**
 
-This page does not say. There is no tested load rating and no weight limit. Watch the fabric and remove items if it distorts.
+This page does not say. There is no tested load rating. Watch the fabric and take items out if it distorts.
 
 **Can I use acrylic?**
 
-This pattern is cotton. Acrylic mesh stretches and stays stretched.
+It will make a bag. Acrylic mesh stretches and tends to stay stretched, so cotton is the page's choice.
 
 ## Next
 
-A larger patched-together bag is the [granny square tote](/how-to-crochet-a-granny-square-tote/). The joins and increases under the base are practiced in [crochet in the round](/crochet-in-the-round/).
+A flat bag made of squares is the [granny square tote](/how-to-crochet-a-granny-square-tote/). The rounds under the base are practiced in [crochet in the round](/crochet-in-the-round/).

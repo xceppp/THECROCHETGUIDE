@@ -2,6 +2,7 @@
 title: "Christmas Granny Square Variations"
 description: "Four color layouts for a classic granny square in Christmas colors, how to join them into a blanket or set, and why red and green so often turn muddy."
 pubDate: 2026-09-18
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -27,11 +28,20 @@ US abbreviations throughout.
 
 ![Hook working a granny cluster in seasonal yarn](../../assets/articles/christmas-granny-square-variations-1.jpg "Illustration. Clusters go into the gaps, never into the stitch tops.")
 
-**Center.** Magic ring, then ch 3 (counts as the first dc), 2 dc into the ring, ch 2. *3 dc into the ring, ch 2; repeat from * three times total. Join to the top of the beginning ch-3. Four clusters, four ch-2 corners.
+**Round 1.** Magic ring, then ch 3 (counts as the first dc), 2 dc into the ring, ch 2. (3 dc into the ring, ch 2) three times. Join to the top of the beginning ch-3. Four clusters, four ch-2 corners.
 
-**Every round after.** In each corner space work (3 dc, ch 2, 3 dc). Along each side, work 3 dc into each ch-space between clusters. Join at the end of the round.
+**Round 2.** Slip stitch across to the first corner space. In each corner space work (3 dc, ch 2, 3 dc), with ch 1 between corners. Join.
 
-Each round adds one cluster per side. The square grows without a stitch count.
+**Every round after.** In each corner space work (3 dc, ch 2, 3 dc). In each ch-1 space along the sides, work 3 dc. Put ch 1 between every pair of groups. Join at the end of the round.
+
+Some granny patterns skip the ch 1 and put the clusters straight into the gaps between groups. Both are standard. Pick one and use it for every square in a set, or the squares will not match.
+
+<figure class="diagram">
+<img src="/diagrams/granny-square-anatomy.svg" alt="A granny square in three rounds. Corners are 3 double crochet, chain 2, 3 double crochet in the chain-2 space. Sides are 3 double crochet in each chain-1 space with chain 1 between groups. Round 1 has 1 cluster per side, round 2 has 2, round 3 has 3." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Round N has N clusters along each side, counting the corner halves. That is the count to check.</figcaption>
+</figure>
+
+There is a count, and it is easy to check. Count the clusters along one side, including the half of each corner on that side. Round 3 has three, round 7 has seven. A side that comes up short has a missed corner or a skipped space.
 
 <div class="tip">
 
@@ -53,11 +63,17 @@ Work the first two rounds in gold or white, then the rest in a single deep green
 
 If the center is metallic, hold it with a strand of ordinary worsted rather than working it alone.
 
-## Variation 3: the quartered square
+## Variation 3: the half-and-half square
 
-Two colors split the square, half red and half green. The carried-yarn way uses two balls and a swap at the corner. The shortcut is to work each color only to the halfway point across two sides, then join the halves. Most people find the carried-yarn version easier after doing it twice.
+Two colors split the square on the diagonal, red on two adjacent sides and green on the other two. The split runs through two opposite corners, so each round starts in one of them:
 
-Do not carry the unused color loosely across the back. Long floats snag. Catch the float every few stitches, or use a separate small ball for each section.
+1. In the starting corner, with red: ch 3, 2 dc. That is the second half of the corner.
+2. Work the next two sides and the corner between them in red.
+3. In the opposite corner, work 3 dc in red, changing to green on the last yarn-over. Then ch 2, 3 dc in green.
+4. Work the next two sides and the corner between them in green.
+5. Back in the starting corner, work 3 dc, ch 2 in green. Join to the top of the ch 3, changing to red on the join.
+
+Carry the color you are not using inside the stitches. Lay it along the top of the round below and work the double crochets over it, so it is hidden inside the clusters. Do not let it float across an open chain space, because a float on the front snags. If carrying feels clumsy, use a separate small ball for each half and twist the two yarns at each change.
 
 Complete the last yarn-over of the stitch before the change with the new color. That step is covered in [changing yarn color](/changing-yarn-color-crochet/).
 
@@ -81,7 +97,7 @@ Weave ends when you finish each square. Saving them for the end of a blanket is 
 
 **Too many colors, or a dark outer round on every square.** Four colors is the ceiling, and three is better. Dark green edges make the whole blanket read as dark green.
 
-**Squares that do not match, or a missed corner.** Metallics often work up tighter than the other yarns in the same brand. Check one square of each colorway before you make a stack. Every corner needs (3 dc, ch 2, 3 dc). Miss one and the square goes off-square on the next round.
+**Squares that do not match, or a missed corner.** A metallic or a different brand can work up at a different size from the rest. Check one square of each colorway before you make a stack. Every corner needs (3 dc, ch 2, 3 dc). Miss one and the square goes off-square on the next round.
 
 ## Frequently asked
 

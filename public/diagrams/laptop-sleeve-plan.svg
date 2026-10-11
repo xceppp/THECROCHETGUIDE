@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Laptop sleeve plan</title>
+<desc>Left: a long rectangle 53 stitches wide and 90 rows long, with a fold line after row 45. Right: the arithmetic for a closed laptop 12 by 8.5 by 0.6 inches in the example. Width is 12 plus 0.6 thickness plus 0.25 for seams plus about 0.25 ease, 13.1 inches, 53 stitches at 4 per inch. Depth per side is 8.5 plus 0.3 at the fold plus 0.2 ease, 9 inches, so 90 rows at 5 per inch. A note says to measure the rectangle lying flat, because a long cotton piece grows when it hangs.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .fab { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .fold { stroke: #b0604a; stroke-width: 3; stroke-dasharray: 8 5; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">One long rectangle, folded at row 45</text>
+<rect class="fab" x="60" y="70" width="150" height="300"/>
+<line class="fold" x1="48" y1="220" x2="222" y2="220"/>
+<text class="soft" x="76" y="150">rows 46-90</text>
+<text class="soft" x="76" y="300">rows 1-45</text>
+<text class="soft" x="226" y="226">fold</text>
+<text class="soft" x="64" y="394">53 sc wide</text>
+<text class="soft" x="280" y="96">Closed laptop (example): 12 x 8.5 x 0.6 in</text>
+<text class="soft" x="280" y="136">Width:</text>
+<text class="soft" x="280" y="160">12 + 0.6 thick + 0.25 seams + 0.25 ease</text>
+<text class="label" x="280" y="188">= 13.1 in = 53 sc</text>
+<text class="soft" x="280" y="228">Depth per side:</text>
+<text class="soft" x="280" y="252">8.5 + 0.3 at the fold + 0.2 ease = 9 in</text>
+<text class="label" x="280" y="280">9 x 2 x 5 = 90 rows</text>
+<text class="soft" x="280" y="330">Measure it lying flat. A long cotton</text>
+<text class="soft" x="280" y="354">piece grows when it hangs.</text>
+</svg>

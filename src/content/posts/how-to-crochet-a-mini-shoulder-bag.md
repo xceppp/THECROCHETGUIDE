@@ -1,133 +1,150 @@
 ---
 title: "How to Crochet a Mini Shoulder Bag"
-description: "A small single-crochet bag from a folded rectangle, with a short strap. Size and yardage are gauge estimates, and it is not yarn-tested."
+description: "A small single-crochet bag sized from what you carry, with a short strap attached so it holds. US terms. Size and strap are estimates, not yarn-tested."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["shoulder bag", "beginner", "how to"]
+glance:
+  time: "A folded rectangle, a top round, a strap"
+  size: "From the stack of things you carry"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh the body and the strap separately."
 ---
 
-A phone, a slim wallet, and keys disappear into a tote and turn up under the groceries. A mini shoulder bag is a small single-crochet rectangle, folded and seamed, with a short strap so the bag sits at your side. It is a pocket you wear. It is not a backpack, and the strap on this page is not long enough to cross the body.
+A phone, a slim wallet, and keys vanish into a tote. A mini shoulder bag keeps them at your side. The body is a folded rectangle of single crochet. The strap is a narrow strip that sits on the shoulder, so the bag hangs at about hip height on the same side.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations. This bag has not been yarn-tested. The inches and the yardage are estimates from the gauge below. Measure the objects you will actually carry, and try the strap on your own shoulder, before you sew the second end.
+Most of the work is the strap. A strap carries the weight of everything in the bag at two small points. Sewn through one stitch, it tears out. Made to the length that looked right on the table, it ends up longer once the bag is full, because cotton stretches under load and does not recover. This page shows how to size the body from what goes in it, how to attach the strap so it holds, and how to set the strap length after it has stretched.
 
-![A small oatmeal crochet bag with a short strap](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-result.jpg "Illustration. Intended look: a small rectangle bag and a short strap. Not a fitted sample.")
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bag for this page was crocheted, filled, or worn. The item sizes are an invented example.
 
-## What goes inside
+![A small oatmeal crochet bag with a short strap](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-result.jpg "Illustration. A small rectangle bag and a short strap. Not a fitted sample.")
 
-![A phone, keys, and a slim wallet next to a tape measure](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-2.jpg "Illustration. Measure your objects. The example size is not their size.")
+## What is a technique, and what is only a plan
 
-Lay the phone, the wallet, and the keys on a table. Measure the tallest one and the widest one, in inches. Add about **1 inch** to each number so they slide in without bending a phone.
+| Piece of this page | What it is |
+| --- | --- |
+| Rectangle folded at the bottom, sides seamed | Standard construction. |
+| Width covers the widest item plus the whole stack's thickness | Geometry. |
+| Strap sewn through an inch of both layers | Standard construction practice. Not a load rating. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| About 200 yards, 26 in strap | Old lines. The yardage was not weighed and is withdrawn. The strap is now fitted. |
 
-The worked example is a bag about **7 inches wide and 6 inches tall**, from a rectangle about **7 inches wide and 12 inches long** before folding. At the gauge below, that is 28 stitches and 60 rows. If your phone is taller than about 6 inches, or wider than about 6 inches, those counts are the wrong counts. Use the resize steps near the end.
+## Measure what goes in
 
-A longer strap that crosses the body is a different plan. The idea of a small bag worn across the torso is the [phone crossbody](/how-to-crochet-a-phone-crossbody/). This page keeps the strap short on purpose.
+Stack the things you carry the way they will sit in the bag, side by side front to back. Measure:
 
-## Materials
+- **The widest item.** Example: a wallet, 4.5 inches.
+- **The whole stack's thickness.** Example: phone, wallet, and keys together, 1.5 inches.
+- **The tallest item.** Example: a phone, 6 inches.
 
-![Oatmeal worsted cotton, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-1.jpg "Illustration. About 200 yards is a planning estimate for the example, not a weighed bag.")
+The width is widest + stack + half an inch of ease + about a quarter inch for the seams. The height is the tallest item plus about half an inch, so the top edge does not sit on the phone. This bag has an open top, so it needs no gather allowance. A drawstring pouch does: see the [makeup pouch](/how-to-crochet-a-makeup-pouch/).
 
-- Worsted cotton, oatmeal or any solid color. About **200 yards** for the example bag and the example strap. That figure is a planning estimate from the stitch count, not a weighed bag. A longer strap needs more. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the hook that hits gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle, scissors, a stitch marker.
+## The worked example
 
-Cotton holds a rectangle better than a fuzzy yarn. Beginner, if you can keep a single-crochet row the same width. One evening for the example.
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Width | 4.5 + 1.5 + 0.5 + 0.25 | 6.75 in, 27 sc, chain 28 |
+| Height per side | 6 + 0.5 | 6.5 in |
+| Rows | 6.5 × 2 × 5 | 65 rows |
+| Top round | 27 + 27 | 54 sc |
+| Strap | 4 sc wide, length fitted | starts near 26 in |
 
-## Gauge (estimate)
+## Yarn and hook
 
-**4 sc = 1 inch. 5 rows = 1 inch.**
+![Oatmeal worsted cotton, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-1.jpg "Illustration. Yarn and a hook. Not a weighed amount.")
 
-Swatch and measure. [Gauge](/crochet-gauge/) is the whole fit. These numbers were not taken from a finished bag. If your swatch is 3.5 sc to the inch, 28 stitches will be wider than 7 inches. Use your stitches per inch, not the example count, when the swatch disagrees.
+- **Smooth worsted cotton.** It holds the rectangle's shape. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Stitch markers, safety pins, yarn needle, scissors.
 
-Ch 1 at the end of a row does not count as a stitch.
+Swatch and measure. [Gauge](/crochet-gauge/) decides the width.
 
-## Rectangle
+## Stage 1: the body
 
-![An oatmeal single-crochet rectangle on the hook](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-3.jpg "Illustration. The width stays the same on every row. The length folds in half.")
+Chain 28.
 
-Chain 29.
+**Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (27)
 
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (28)
+**Rows 2–65:** Sc in each stitch. Ch 1, turn. (27)
 
-**Rows 2–60:** Sc in each stitch. Ch 1, turn. (28)
+The ch 1 does not count as a stitch. Count every 10 rows.
 
-Count every 10 rows. Mark the edge so you do not lose your place. A row that gains a stitch makes a wedge, and a wedge will not fold into a straight bottom.
+**Checkpoint:** fold the rectangle in half around the stacked items. The side edges should meet without strain, and the fabric should come half an inch above the tallest item.
 
-At the gauge above, 28 stitches are about 7 inches and 60 rows are about 12 inches. Hold the rectangle up before you seam it. The width should clear your widest object with room to spare. The length, folded, should clear your tallest object. If it does not, add rows or start a wider chain. Seaming will not add an inch.
+Fold with right sides together so row 1 meets row 65. Single crochet through both layers along each side from the fold to the top. Turn it right side out.
 
-## Seam
+## Stage 2: the top round
 
-Fold so row 1 meets row 60. The fold is the bottom. The opening is those two rows, left unseamed. Sew each side edge through both layers, from the fold up to the opening. Keep the stitches even. A side seam that pulls tight makes the bag bow.
+Join yarn at one side seam on the opening. Ch 1, sc in each stitch around both edges: 27 along row 65 and 27 along the foundation chain. Slip stitch to the first sc. (54) Fasten off.
 
-Do not sew across the opening.
+This round firms the opening so it does not stretch out of shape when you reach in. It also gives the strap something solid to be sewn to.
 
-Turn the bag right side out if you seamed on the inside. The bottom fold should sit flat on a table. If the bottom pulls up into a curve, the side seams are too tight. Redo them looser before you add the strap.
-
-## Strap
-
-The example strap is **4 stitches wide** and about **26 inches** long. Twenty-six inches is 130 rows at 5 rows to the inch. That length is an estimate from the gauge, not a strap that was worn. A short shoulder strap should let the bag hang at your side, around the hip or a little higher, without crossing to the opposite hip.
+## Stage 3: the strap
 
 Chain 5.
 
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (4)
+**Row 1:** Sc in the second chain from the hook and across. Ch 1, turn. (4)
 
 **Next rows:** Sc in each stitch. Ch 1, turn. (4)
 
-Stop when the strap, held from your shoulder down to where you want the bag, looks right. Put the phone in, pin both ends, and check the length on your body. A tall person often needs more than 26 inches. The bag itself adds height, so a strap that feels short in your hand can feel long once it is filled.
+Stop near 26 inches (about 130 rows at 5 rows per inch) and try it. Hold the strap on your shoulder and let it hang to where you want the top of the bag, usually around the hip on the same side. Add rows or stop sooner.
 
-Sew each end to the inside of the bag at a side seam, at the top. Catch about an inch of the strap and about an inch of the seam, and sew through those stitches twice. One lonely stitch will rip the first week. The strap should not twist between the two ends. Check that before the second end is sewn.
+## Stage 4: attach and test
 
-## Opening
+<figure class="diagram">
+<img src="/diagrams/strap-attachment.svg" alt="The strap end overlapping the inside of the bag by about an inch at the side seam, sewn with a box and an X through strap and wall. A single corner stitch is marked as the version that tears out. A test list: fill the bag, pin the second end, hang it for a day, remeasure, then sew." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The strap's length is decided after it has carried weight, not before.</figcaption>
+</figure>
+
+1. **Sew the first end.** Lay one strap end inside the bag at a side seam, overlapping by about an inch. With a yarn needle, sew a box around the overlap and an X across it, through the strap, the top round, and the bag wall. A strap held by one stitch at the corner pulls that stitch out.
+2. **Pin the second end.** Check that the strap is not twisted. Pin the other end inside the opposite side seam with two safety pins.
+3. **Hang it loaded.** Put in what the bag will carry and hang it by the strap for a day.
+4. **Remeasure.** If the bag now hangs lower than you wanted, move the pins or pull out rows. Then sew the second end the same way as the first.
+
+Why: every row of a single crochet strap can give slightly under a steady load, and over 130 rows that adds up. Cotton does not spring back. Setting the length after the stretch means the bag hangs where you want on the second day as well as the first.
 
 ![A short strap sewn inside the top of the bag](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-4.jpg "Illustration. Each strap end is sewn through many stitches at the side seam.")
 
-Join yarn at one side seam on the opening. Sc around the mouth, one single crochet in each stitch of row 1 and row 60. Join. (56)
+## Optional closure
 
-That round keeps the opening from stretching. It does not close the bag. If you want a closure, chain 12 at the center front, slip stitch back to the same spot to make a loop, and sew a button on the back only after the bag is full, so the loop reaches. Skip the button if the fit is already snug.
+Chain 12 at the center of the back's top edge, slip stitch back into the same stitch to make a loop, and sew a button on the front where the loop reaches with the bag full.
 
-![The bag on a shoulder with the strap lying flat](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-5.jpg "Illustration. A short strap sits on the shoulder. Try the length on your body.")
+## Troubleshooting
 
-## A different size
+**The bag bulges and the seams strain.** The width left out the stack thickness.
 
-1. Width you need, in inches, times your stitches per inch. That is the stitch count. Chain one more than that.
-2. Height you need, times 2, times your rows per inch. That is the row count, because the rectangle folds in half.
-3. Strap: work the 4-stitch strip until it fits your shoulder with the bag filled. The 26 inch example is only a starting point.
+**The phone sits above the top edge.** Too few rows.
 
-Write the three numbers down. A count you keep in your head drifts.
+**The strap got longer after a week.** It was sewn before the hanging test. Unpick one end, take out rows, and resew.
 
-## Mistakes
+**A strap end tore out.** It was sewn through too few stitches. Resew with the box-and-X through both layers.
 
-**Seaming the top.** The phone cannot go in. The opening is row 1 and row 60. The seams are only the side edges.
-
-**No ease.** A 6 inch phone in a 6 inch bag, with thick cotton seams, does not slide. The extra inch in the plan is there for the seams and your hands.
-
-**A strap sewn through one stitch.** It holds on the table and fails on the sidewalk. Sew through an inch of fabric, twice.
-
-**A twisted strap.** You will not notice until it is sewn. Lay the strip flat, ends pointing the same way, and pin it before the needle comes out.
-
-**Fuzzy yarn for a pale phone.** The fibers migrate. Cotton single crochet still has small gaps. A pen in the same bag can mark a light case. This bag is a cover for dry days in a larger tote, or for wearing on its own. It is not a rain shell.
+**The strap twists on the shoulder.** It was sewn with a twist. Unpick one end and lay it flat.
 
 ## Care
 
-Empty the bag. Hand wash cool. Dry flat, with the strap stretched in a straight line so it does not dry in a curl. Put the phone back only when the cotton is dry. Damp cotton against a phone is a bad trade for a clean bag.
+Empty the bag. Hand wash cool. Dry flat with the strap laid straight. Hanging it wet by the strap stretches it.
 
 ## Frequently asked
 
-**Is 7 by 6 inches the right mini bag?**
+**Can I make the strap long enough to cross the body?**
 
-It is the example at this gauge. Your phone decides the rectangle. Measure it.
+A crossbody strap goes all the way round the torso, so it is sized differently. See the [phone crossbody](/how-to-crochet-a-phone-crossbody/).
 
-**Can I make the strap a crossbody?**
+**Is the bag waterproof?**
 
-Not by guessing a longer number from this page. A strap that crosses the body needs its own length, tried on, and the bag sits in a different place. Start from the [phone crossbody](/how-to-crochet-a-phone-crossbody/) if that is the bag you wanted.
+No. Single crochet lets water through.
 
 **Can I sell finished bags?**
 
-Finished bags, yes. Do not republish these rows as your pattern.
+Yes. Do not republish the rows as your pattern.
 
 ## Next
 
-A bag built to be worn across the body is the [phone crossbody](/how-to-crochet-a-phone-crossbody/). A larger carry bag, with a different stitch plan, is the [granny square tote](/how-to-crochet-a-granny-square-tote/).
+A crossbody version, with the strap measured around the body, is the [phone crossbody](/how-to-crochet-a-phone-crossbody/). A larger open carry is the [granny square tote](/how-to-crochet-a-granny-square-tote/).

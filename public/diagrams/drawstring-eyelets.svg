@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Drawstring eyelet round</title>
+<desc>The eyelet round opened into a line: a repeat of one single crochet and one chain-1 space, 15 times over 30 stitches, making 15 holes. A cord weaves out through one hole and back in through the next. A second strip shows an accidental 31st stitch: the last repeat leaves a single crochet next to the first, so two solid stitches sit side by side and the spacing breaks. Cord length is the opening, 7.5 inches, plus two 4 inch tails, 15.5 inches.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .st { fill: #f3e6d4; stroke: #6b4428; stroke-width: 3; }
+  .gap { fill: none; stroke: #6b4428; stroke-width: 3; }
+  .cord { fill: none; stroke: #b0604a; stroke-width: 4; stroke-linecap: round; }
+  .bad { fill: #f7d9cf; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">(Sc, ch 1, skip 1) 15 times = 15 holes</text>
+<g>
+<rect class="st" x="40" y="80" width="28" height="40"/><path class="gap" d="M68 84 q14 -10 28 0"/>
+<rect class="st" x="96" y="80" width="28" height="40"/><path class="gap" d="M124 84 q14 -10 28 0"/>
+<rect class="st" x="152" y="80" width="28" height="40"/><path class="gap" d="M180 84 q14 -10 28 0"/>
+<rect class="st" x="208" y="80" width="28" height="40"/><path class="gap" d="M236 84 q14 -10 28 0"/>
+<rect class="st" x="264" y="80" width="28" height="40"/><path class="gap" d="M292 84 q14 -10 28 0"/>
+<rect class="st" x="320" y="80" width="28" height="40"/><path class="gap" d="M348 84 q14 -10 28 0"/>
+<text class="soft" x="392" y="106">... 15 repeats in all</text>
+</g>
+<path class="cord" d="M30 140 C60 140 70 100 82 100 C94 100 100 140 120 140 C150 140 126 100 138 100 C150 100 160 140 180 140 C210 140 182 100 194 100 C206 100 216 140 236 140 C266 140 238 100 250 100 C262 100 272 140 292 140 C322 140 294 100 306 100 C318 100 330 140 360 140"/>
+<text class="soft" x="40" y="172">The cord goes out through one hole and back in through the next.</text>
+<text class="label" x="32" y="218">Count 30 first. One extra stitch breaks the end:</text>
+<rect class="st" x="40" y="236" width="28" height="40"/><path class="gap" d="M68 240 q14 -10 28 0"/>
+<rect class="st" x="96" y="236" width="28" height="40"/>
+<rect class="bad" x="124" y="236" width="28" height="40"/>
+<text class="soft" x="166" y="262">31 sts: the last repeat ends on a solid stitch</text>
+<text class="soft" x="166" y="284">beside the first one. No hole there.</text>
+<text class="soft" x="32" y="330">Cord: 7.5 in around the opening + 2 tails of 4 in = 15.5 in.</text>
+<text class="soft" x="32" y="356">Chain to 15.5 in, then slip stitch back along the chain</text>
+<text class="soft" x="32" y="382">so the cord does not stretch.</text>
+</svg>

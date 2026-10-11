@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Why a flat phone sleeve is wider than the phone</title>
+<desc>A cross-section of a phone inside a flat sleeve. The fabric has to go all the way around the phone: 2 times (3.07 plus 0.34) is 6.82 inches. Folded flat, each face of the sleeve is half of that, 3.41 inches, before seams and ease. Adding about a stitch for the side seams and a little ease gives about 3.9 inches, or 16 single crochet at 4 per inch. A sleeve chained to the phone's 3.07 inch width is too narrow.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .phone { fill: #ffffff; stroke: #2f2a26; stroke-width: 3; }
+  .fab { fill: none; stroke: #6b4428; stroke-width: 6; stroke-linejoin: round; }
+  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; }
+  .seam { fill: #7d8b72; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Looking down into the sleeve, phone inside</text>
+<rect class="phone" x="150" y="110" width="340" height="40" rx="10"/>
+<rect class="fab" x="138" y="98" width="364" height="64" rx="16"/>
+<circle class="seam" cx="138" cy="130" r="7"/><circle class="seam" cx="502" cy="130" r="7"/>
+<text class="soft" x="250" y="136">phone 3.07 in wide</text>
+<path class="arrow" d="M520 112 V148 M514 118 L520 112 L526 118 M514 142 L520 148 L526 142"/>
+<text class="soft" x="532" y="136">0.34 in</text>
+<text class="soft" x="104" y="196">side seams (green) take about 1 sc</text>
+<text class="soft" x="32" y="240">Fabric all the way round: 2 x (3.07 + 0.34) = 6.82 in</text>
+<text class="soft" x="32" y="266">Each flat face is half of that: 3.41 in, before seams</text>
+<text class="soft" x="32" y="292">Plus seams and a little ease: about 3.9 in</text>
+<text class="label" x="32" y="330">At 4 sc per inch: 16 sc wide, not 13.</text>
+<text class="soft" x="32" y="362">Chained to 3.07 in, the inside is about 3.0 in. The phone</text>
+<text class="soft" x="32" y="386">needs 3.41 in because the fabric also covers its edges.</text>
+</svg>

@@ -1,138 +1,147 @@
 ---
 title: "How to Crochet a Ghost Coin Pouch"
-description: "A beginner white ghost coin pouch in single crochet, with a drawstring and stitch counts you can check. US terms. Size estimates, not a yarn-tested sample."
+description: "A small white ghost coin pouch in single crochet with a drawstring, and an explanation of how the eyelet round works. US terms. Not a yarn-tested sample."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["halloween", "ghost", "coin pouch", "beginner", "how to"]
+glance:
+  time: "A flat circle, a tube, an eyelet round, a cord"
+  size: "About 7.5 in around at the example gauge"
+  yarn: "Smooth worsted cotton, white, plus black scrap"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh the base and multiply."
 ---
 
-Loose change in a coat pocket ends up in the wash. A small ghost pouch keeps the coins in one place and still fits in that pocket.
+Loose change in a coat pocket ends up in the washing machine. A small drawstring pouch keeps it together. This one is a white single-crochet tube with a flat base and an embroidered ghost face. The construction is the same one most small pouches use. What this page adds is the drawstring: how the eyelet round makes its holes, why it needs an even stitch count, and how long the cord should be.
 
-This is a white single-crochet tube with a flat base, a drawstring near the top, and a simple embroidered face. It is a coin purse, not a wallet. US terms throughout. US single crochet is UK double crochet. Names are on the [abbreviations chart](/crochet-abbreviations-chart/).
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pouch for this page was crocheted or measured. The inches are estimates from the example gauge.
 
-The photos are illustrations of the intended pouch. This pattern has not been stitched and measured in yarn, so the inch sizes are estimates from the gauge below. Drop a few coins in before you weave the ends, and add rounds if the pouch is too short.
+![A small white crochet ghost coin pouch with a drawstring and coins beside it](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-result.jpg "Illustration. A white pouch with a face and a drawstring. Not a measured sample.")
 
-![A small white crochet ghost coin pouch with a drawstring and coins beside it](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-result.jpg "Illustration. Intended finished look: white pouch, simple face, drawstring, coins.")
+## What is a technique, and what is only a plan
 
-## What you need
+| Piece of this page | What it is |
+| --- | --- |
+| Flat circle increasing by 6, then even rounds | Standard construction. |
+| (Sc, ch 1, skip 1) eyelet round | A standard drawstring round. Needs an even count. |
+| A US quarter is about 0.955 in across | The US Mint specification, 24.26 mm. |
+| 4 sc and 5 rounds to the inch | An unverified example gauge. |
+| About 40 yards | An old line. Not weighed. Withdrawn. |
 
-![White yarn, a hook, a needle, scissors, and a few quarters](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-1.jpg "Illustration. Materials. Yardage is an estimate, not a weighed amount.")
+## How the pouch is built
 
-- Worsted-weight cotton, white, about **40 yards**. A scrap of black for the face. Cotton holds a small pouch better than a fuzzy yarn. [Yarn weight chart](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the size that matches the gauge. [Hook size chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle, scissors, stitch marker.
-- A few coins to test the opening.
+Rounds 1 to 5 make a flat circle of 30 stitches, about 2.4 inches across at the example gauge. Rounds 6 to 15 are even, so the edge turns up into a tube about 2 inches tall. Round 16 is the eyelet round. Rounds 17 and 18 add a short frill above the holes, which keeps the cord from riding up over the top edge when you pull it. A chain cord goes in and out of the holes, and pulling both ends gathers the top shut.
 
-Beginner, if you can single crochet and increase. About 1 to 2 hours.
+The [earbud pouch](/how-to-crochet-an-earbud-pouch/) is the same tube with a flap instead of a drawstring.
 
-## Gauge and size (estimates)
+## How the eyelet round makes holes
 
-Aim for **4 sc = 1 inch** and **5 rounds = 1 inch**.
+The eyelet round repeats three moves: single crochet in one stitch, chain 1, skip the next stitch. The chain bridges the skipped stitch, so the round keeps its length, but nothing is worked into that stitch. The gap under each chain is a hole.
 
-At that gauge, 30 stitches around is about **7.5 inches** in circumference, so the flat base is about **2.4 inches** across. Ten even rounds are about **2 inches** of wall. That holds a small handful of coins. It will not hold a roll of quarters.
+Each repeat uses two stitches of the round below. Thirty stitches make fifteen repeats and fifteen holes. With 31 stitches, the fifteenth repeat ends one stitch short of the start. You get a solid stitch beside the first single crochet, a missing hole, and a cord that bunches at that spot. That is why you count before you start the round.
 
-<div class="warning">
+<figure class="diagram">
+<img src="/diagrams/drawstring-eyelets.svg" alt="The eyelet round opened into a line of single crochet blocks with chain arches between them, 15 repeats over 30 stitches. A cord weaves out through one hole and in through the next. A second strip shows 31 stitches, where the last repeat ends on a solid stitch next to the first and the hole is missing. Cord length: 7.5 inches around plus two 4 inch tails, 15.5 inches." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Every repeat uses two stitches. An odd count leaves one over, and that stitch closes a hole.</figcaption>
+</figure>
 
-If your base cups into a bowl, the increases are too tight. Redo them before you build the wall. A curled base tips over and the coins sit in a lump.
+## Yarn, hook, and gauge
 
-</div>
+![White yarn, a hook, a needle, scissors, and a few quarters](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-1.jpg "Illustration. Materials. Not a weighed amount of yarn.")
 
-## Body
+- **Smooth worsted cotton**, white, and a scrap of black. Fuzzy yarn pills inside the pouch, and coins wear through soft fibers faster. [Yarn weight chart](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook size chart](/crochet-hook-size-conversion-chart/).
+- Stitch marker, yarn needle, scissors, and a few coins to test with.
 
-Work in a spiral. Do not join rounds. Mark the first stitch. The method is the same one in [crochet in the round](/crochet-in-the-round/).
+Your first five rounds are a swatch. Measure across the flat circle. At 4 stitches per inch, 30 stitches make a circle about 2.4 inches across, because 30 ÷ 4 = 7.5 inches around and 7.5 ÷ 3.14 ≈ 2.4.
 
-![Hands starting a white circle in a magic ring](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-2.jpg "Illustration. Six single crochets in a magic ring.")
+## Stage 1: the base
+
+Work in a spiral. Do not join. Mark the first stitch of each round. See [crochet in the round](/crochet-in-the-round/).
 
 **Round 1:** 6 sc in a magic ring. (6)
 
-**Round 2:** inc in each stitch. (12)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Round 3:** (sc, inc) 6 times. (18)
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Round 4:** (2 sc, inc) 6 times. (24)
+**Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
-**Round 5:** (3 sc, inc) 6 times. (30)
+**Round 5:** (Sc 3, 2 sc in next) 6 times. (30)
 
-The circle should lie flat. Lay it on the table. If it ruffles, you increased too often. If it bowls, the ring or the increases are tight.
+**Checkpoint:** lay the circle on the table. Flat is right. Ruffled means extra increases. A bowl means the ring or the increases are tight. A cupped base tips over and the coins slide to one side.
 
-**Rounds 6–15:** sc in each stitch. (30)
+## Stage 2: the tube
 
-That is 10 rounds with no increases. The stitch count stays 30 because you are building a tube, not a ball.
+**Rounds 6–15:** Sc in each stitch. (30)
 
-![A short white crochet tube still on the hook](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-3.jpg "Illustration. Even rounds. No more increases until the drawstring.")
+No increases. The edge turns up on its own once you stop adding stitches. Ten rounds is about 2 inches. For a taller pouch, add rounds here and keep the count at 30.
 
-## Drawstring round
+**Count round 15 before you go on.** It must be 30.
 
-The next round makes the holes. It only works if the stitch count is even. 30 is even.
+## Stage 3: the eyelets and the frill
 
-**Round 16:** (sc, ch 1, skip 1) 15 times. (15 sc and 15 chain spaces)
+**Round 16:** (Sc, ch 1, skip 1) 15 times. (15 sc and 15 ch-1 spaces)
 
-Each repeat uses 2 stitches of Round 15: one sc, one skipped. Fifteen repeats use all 30.
+**Round 17:** Sc in each sc and 1 sc in each ch-1 space. (30)
 
-**Rounds 17–18:** sc in each sc and in each chain space. (30)
+**Round 18:** Sc in each stitch. (30)
 
-Fasten off.
+Slip stitch into the next stitch to smooth the end of the spiral. Fasten off and weave in the end.
 
-## Cord
+In round 17, work the stitch over each chain into the space, around the chain, rather than into the chain itself. Either way the hole underneath stays open, but working into the space keeps the edge of the hole neater.
 
-Chain 70 in the same white yarn. That is a cord long enough to go around a 7.5-inch opening and still leave two tails to tie. If your pouch came out wider, chain more until the cord goes around with about 4 inches left over.
+## Stage 4: the cord
 
-Weave the cord through the chain spaces of Round 16 with the yarn needle. Start and end at the front, so the tie sits under the face, not at the back of your hand.
+A cord has to go once around the opening and leave two tails long enough to tie: 7.5 + 4 + 4 = **15.5 inches**.
 
-![A yarn drawstring woven through the top of a white pouch](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-4.jpg "Illustration. The cord goes through the chain spaces, not through the solid rounds above them.")
+Chain until the chain measures 15.5 inches without stretching. Then slip stitch in the back bump of each chain back along it. A bare chain stretches every time you pull it. The slip stitches lock it.
 
-Pull both ends. The top should gather. If a stitch seals shut, you worked Round 17 into the chain instead of into the space, and the cord has nowhere to go. Redo Rounds 17–18.
+Thread the cord through the holes with a yarn needle, out through one and in through the next. Start and finish at the same hole, on the front, so the bow sits under the face. Knot each end.
 
-## Face
+![A yarn drawstring woven through the top of a white pouch](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-4.jpg "Illustration. The cord goes through the eyelet round, not through the solid rounds above it.")
 
-Close the drawstring once so you can see the front. Embroider two short black eyes about 4 stitches apart, and a small wide V under them. Keep the stitches shallow. Deep stitches make a bump the coins catch on.
+**Checkpoint:** drop in a few coins and pull the cord tight. The gathered top should close smaller than a quarter, which is just under an inch across.
 
-Do not put the face on the drawstring round. Put it on the tube, a few rounds below the holes, so the gather does not fold the eyes in half.
+## Stage 5: the face
 
-![The finished pouch open beside a small dish of coins](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-5.jpg "Illustration. Same pouch, drawstring open, coins beside it. The face stays on the body.")
+Pull the drawstring closed once so you can see which side is the front. Embroider two short black eyes about 4 stitches apart, three or four rounds below the eyelets, and a small wide V under them for a mouth. Keep the stitches shallow so they do not form lumps the coins catch on. Do not stitch the face on the eyelet round. The gathers would fold it in half.
 
-## Fit
+## Troubleshooting
 
-Drop in the coins you actually carry. The gathered top should close over them without a gap big enough for a quarter to slip through. A US quarter is just under 1 inch across. If the opening stays wider than that when pulled tight, the cord is too short to cinch, or Round 16 has fewer holes than 15 because a repeat was skipped.
+**One spot will not gather.** A missing hole. The count was odd before round 16, or a repeat was skipped. Count the holes. There should be 15.
 
-## Three changes
+**The top will not close past a gap.** The cord is too short to cinch, or the frill is pulling the holes apart. Make the cord longer, or work only one round above the eyelets.
 
-**Taller pouch.** Add even rounds before Round 16. Keep the count at 30. Do not increase.
+**The cord slides out over the top.** No frill. Add round 17 and 18.
 
-**A second color on the last two rounds.** Change color on the last yarn-over of Round 16, using the method in [changing yarn color](/changing-yarn-color-crochet/).
+**The cord stretches and the top reopens.** A bare chain. Slip stitch back along it.
 
-**No face.** A plain white pouch still works. The drawstring is the part that holds the coins.
-
-## Mistakes
-
-**Joining every round.** This is a spiral. A slip-stitch join adds a jog and can change the count if you also chain. One marker is enough.
-
-**An odd stitch count at the eyelets.** (sc, ch 1, skip 1) needs an even number. If you added a stitch by accident, the last skip lands wrong and the cord holes do not line up. Count Round 15 before you start Round 16.
-
-**A fuzzy yarn.** It looks soft and then pills inside the pouch. Coins need a smooth cotton.
+**The pouch leans.** A cupped base. Rework rounds 1 to 5 more loosely.
 
 ## Care
 
-Hand wash cool. Dry flat. Do not machine dry. Cotton can shrink enough to make the opening stubborn. Empty the coins first.
+Empty the coins first. Hand wash cool and dry flat. Do not machine dry. Cotton can shrink enough to make the drawstring stiff.
 
 ## Frequently asked
 
 **Will it hold bills?**
 
-A bill folded very small may fit. The pouch is planned for coins. A stack of bills needs a wider piece, like the [Halloween card wallet](/halloween-crochet-card-wallet/).
+A bill folded very small may fit. The pouch is sized for coins. For bills, a card-sized pocket like the [ghost mini wallet](/ghost-crochet-mini-wallet/) works better.
+
+**Can I use DK yarn?**
+
+Yes, with a smaller hook. The round numbers still describe the shape. The inch figures will be smaller, so recalculate the cord.
 
 **Can I sell finished pouches?**
 
-Yes, pouches you make. Do not copy this page onto another site.
-
-**What if I only have DK yarn?**
-
-Use a smaller hook and stop the even rounds when the tube is about 2 inches tall. The round numbers still describe the shape. The inch estimates will not match.
+Yes. Do not republish the pattern.
 
 ## Next
 
-The same spiral starts the [bat earbuds pouch](/gothic-bat-earbuds-pouch/), which is a flap instead of a drawstring. If the circle still feels new, stay with [crochet in the round](/crochet-in-the-round/) before you add the cord.
+A drawstring bag for candy, using the same eyelet round on a bigger tube, is the [ghost candy bag](/how-to-crochet-a-ghost-candy-bag/). If spirals still feel new, start with [crochet in the round](/crochet-in-the-round/).

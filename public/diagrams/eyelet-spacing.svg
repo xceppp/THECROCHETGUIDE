@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Small eyelets versus large eyelets</title>
+<desc>Two eyelet rounds compared. Top: single crochet, chain 1, skip 1, which on 54 stitches would make 27 small holes for a thin chain cord, with many small gathers. Bottom: single crochet 4, chain 2, skip 2, repeated 9 times on 54 stitches, making 9 larger holes 1.5 inches apart for a thicker twisted cord, with fewer, deeper folds. The next round works 2 single crochet in each chain-2 space to get back to 54.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .st { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2; }
+  .arch { fill: none; stroke: #6b4428; stroke-width: 2; }
+  .thin { fill: none; stroke: #b0604a; stroke-width: 2; }
+  .thick { fill: none; stroke: #b0604a; stroke-width: 6; stroke-linecap: round; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Many small holes or a few large ones</text>
+<text class="soft" x="32" y="84">(sc, ch 1, skip 1): 27 holes on 54 sts, thin chain cord</text>
+<g>
+<rect class="st" x="40" y="100" width="16" height="30"/><path class="arch" d="M56 104 q8 -8 16 0"/>
+<rect class="st" x="72" y="100" width="16" height="30"/><path class="arch" d="M88 104 q8 -8 16 0"/>
+<rect class="st" x="104" y="100" width="16" height="30"/><path class="arch" d="M120 104 q8 -8 16 0"/>
+<rect class="st" x="136" y="100" width="16" height="30"/><path class="arch" d="M152 104 q8 -8 16 0"/>
+<rect class="st" x="168" y="100" width="16" height="30"/><path class="arch" d="M184 104 q8 -8 16 0"/>
+<rect class="st" x="200" y="100" width="16" height="30"/><path class="arch" d="M216 104 q8 -8 16 0"/>
+<rect class="st" x="232" y="100" width="16" height="30"/><path class="arch" d="M248 104 q8 -8 16 0"/>
+<rect class="st" x="264" y="100" width="16" height="30"/>
+</g>
+<path class="thin" d="M36 140 C50 140 56 112 64 112 C72 112 80 140 96 140 C112 140 120 112 128 112 C136 112 144 140 160 140 C176 140 184 112 192 112 C200 112 208 140 224 140 C240 140 248 112 256 112 C264 112 272 140 290 140"/>
+<text class="soft" x="320" y="124">Closes tight, many small gathers.</text>
+<text class="soft" x="32" y="200">(sc 4, ch 2, skip 2) 9 times: 9 holes, 1.5 in apart</text>
+<g>
+<rect class="st" x="40" y="216" width="64" height="30"/><path class="arch" d="M104 220 q16 -14 32 0"/>
+<rect class="st" x="136" y="216" width="64" height="30"/><path class="arch" d="M200 220 q16 -14 32 0"/>
+<rect class="st" x="232" y="216" width="64" height="30"/>
+</g>
+<path class="thick" d="M36 258 C80 258 104 228 120 228 C136 228 160 258 216 258 C260 258 200 228 216 228"/>
+<text class="soft" x="320" y="240">Takes a thicker cord.</text>
+<text class="soft" x="320" y="262">Fewer, deeper folds.</text>
+<text class="soft" x="32" y="316">Next round: sc in each sc, 2 sc in each ch-2 space.</text>
+<text class="soft" x="32" y="342">36 + 9 x 2 = 54. Back to the full count.</text>
+<text class="soft" x="32" y="376">Both need a count that the repeat divides: 54 / 2 = 27, 54 / 6 = 9.</text>
+</svg>

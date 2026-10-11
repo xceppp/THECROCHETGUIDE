@@ -2,6 +2,7 @@
 title: "Halloween Granny Square Variations"
 description: "Halloween granny squares in four pictured steps: the classic cluster, candy-corn rings, a spooky dark center, then joining squares into a set."
 pubDate: 2026-09-16
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -40,7 +41,14 @@ Abbreviations: [chart](/crochet-abbreviations-chart/). Classic granny uses dc cl
 
 **Rnd 2.** Slip to next corner space (or start with a standing dc). *(3 dc, ch 2, 3 dc) in corner, ch 1; repeat from * around, join. (24 dc, 4 ch-2 corners, 4 ch-1)
 
-**Later rounds.** Corners always get `(3 dc, ch 2, 3 dc)`. Side spaces get `3 dc`. Pick one chain style between side groups and stay consistent so squares match when you join them.
+**Later rounds.** Corners always get (3 dc, ch 2, 3 dc). Each ch-1 space along the sides gets 3 dc, with ch 1 between groups. Some patterns leave out the ch 1. Either works, but use the same style on every square, or they will not match when you join them.
+
+<figure class="diagram">
+<img src="/diagrams/granny-square-anatomy.svg" alt="A granny square in three rounds. Corners are 3 double crochet, chain 2, 3 double crochet in the chain-2 space. Sides are 3 double crochet in each chain-1 space with chain 1 between groups. Round 1 has 1 cluster per side, round 2 has 2, round 3 has 3." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Round N has N clusters along each side, counting the corner halves. Check it before each color change.</figcaption>
+</figure>
+
+Count before you change colors. A side with too few clusters is much easier to fix before the next color covers it.
 
 ## Step 2: candy-corn rings
 
@@ -56,6 +64,18 @@ Change color on the join: finish the last yarn-over of the joining slip stitch (
 
 </div>
 
+## Changing color at the join, step by step
+
+Every variation on this page changes color between rounds, and the join is where a square either looks clean or shows a lump of the wrong color.
+
+1. Work the round to the end in the old color, finishing with the last cluster.
+2. Insert the hook into the top of the beginning ch 3 to join. Drop the old color to the back.
+3. Pick up the new color and pull it through both loops on the hook. That slip stitch is now in the new color, so no old color shows above the join.
+4. Slip stitch across to the next corner space in the new color, or cut the yarn and start with a standing double crochet in a corner. A standing start leaves no slip stitches across the top of the cluster, so the join is almost invisible.
+5. Leave tails of about 6 inches on both colors. Weave each one into the round of its own color, so a black tail never crosses orange.
+
+If the joins form a diagonal line up the square, start each new color in a different corner. That spreads them out.
+
 ## Step 3: spooky center, quiet border
 
 ![A granny square with a dark black center and bright pumpkin-orange outer rounds](../../assets/articles/halloween-granny-square-variations-4.jpg "Illustration. Step 3 — dark center, bright border. The outer rounds hide scrap yarn.")
@@ -64,7 +84,7 @@ Keep rounds 1–2 in black, then switch to orange or purple for outer rounds. Th
 
 This variation is forgiving with scrap yarn because the outer rounds use the most yardage.
 
-**Optional harder variation (no extra photo):** change color at a corner so two adjacent sides of a round are orange and the other two are black. Change in the corner space, twist yarns at the switch, and do not carry unused yarn across an open ch space on the front.
+**Optional harder variation:** split each round on the diagonal, two sides orange and two black. The color changes happen halfway through two opposite corners. The step-by-step version is the half-and-half square in [Christmas granny square variations](/christmas-granny-square-variations/). Swap the colors and it works the same way.
 
 **Optional denser coaster:** work dc in every stitch and chain-space around, still placing `(2 dc, ch 2, 2 dc)` or `(3 dc, ch 2, 3 dc)` in corners.
 
@@ -75,6 +95,10 @@ This variation is forgiving with scrap yarn because the outer rounds use the mos
 Block each square to the same measurement before joining — see [weaving in ends and blocking](/weaving-in-ends-and-blocking/). Join with slip stitch or whip stitch in black so the seams disappear into the darkest color.
 
 For a small wall hanging, join three squares in a column with purple joins and add a black border round around the whole piece.
+
+**How many squares.** Finish and block one square, measure it, and divide the size you want by that measurement. Four squares across and four down make a 16-square cushion front. A blanket is the same arithmetic with bigger numbers. Decide the count after the first square, not before, or the finished piece comes out an awkward rectangle.
+
+**Mixing the variations.** Candy-corn, dark-center, and plain orange squares sit together as one set if they all finish on the same outer color. Edge them all in black, and the different centers read as a pattern rather than leftovers.
 
 ## Mistakes that muddy Halloween colorwork
 
@@ -102,4 +126,4 @@ Large enough for the mug base plus a little margin. Make one square, set the mug
 
 ### What to make next
 
-A [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/), a [ghost](/crochet-ghost-amigurumi-for-beginners/), or the reel-friendly [Halloween card wallet](/halloween-crochet-card-wallet/).
+A [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/), a [ghost](/crochet-ghost-amigurumi-for-beginners/), or the [Halloween card wallet](/halloween-crochet-card-wallet/).

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Picking up body stitches from a sideways brim</title>
+<desc>The ribbed brim is worked sideways, so its length around the head is counted in rows. The body is counted in stitches. The example brim is 60 rows for 20 inches at 3 rows per inch. The body needs 50 stitches at 2.5 stitches per inch. So work 5 single crochet over every 6 row ends, skipping one row end in each group. One stitch per row would give 60 stitches, a 24 inch body that flares.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .rib { fill: #f3e6d4; stroke: #6b4428; stroke-width: 1.5; }
+  .st { fill: #f6efe6; stroke: #7d8b72; stroke-width: 2; }
+  .skip { stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Brim rows are not body stitches</text>
+<text class="soft" x="32" y="80">Brim, worked sideways: 6 row ends shown</text>
+<g>
+<rect class="rib" x="60" y="190" width="40" height="80"/>
+<rect class="rib" x="100" y="190" width="40" height="80"/>
+<rect class="rib" x="140" y="190" width="40" height="80"/>
+<rect class="rib" x="180" y="190" width="40" height="80"/>
+<rect class="rib" x="220" y="190" width="40" height="80"/>
+<rect class="rib" x="260" y="190" width="40" height="80"/>
+</g>
+<g>
+<rect class="st" x="62" y="130" width="44" height="56"/>
+<rect class="st" x="110" y="130" width="44" height="56"/>
+<rect class="st" x="158" y="130" width="44" height="56"/>
+<rect class="st" x="206" y="130" width="44" height="56"/>
+<rect class="st" x="254" y="130" width="44" height="56"/>
+</g>
+<line class="skip" x1="270" y1="196" x2="290" y2="216"/>
+<line class="skip" x1="290" y1="196" x2="270" y2="216"/>
+<text class="soft" x="60" y="122">5 body stitches</text>
+<text class="soft" x="60" y="294">over 6 row ends; skip 1</text>
+<text class="soft" x="340" y="150">Brim: 20 in x 3 rows/in</text>
+<text class="soft" x="340" y="172">= 60 rows</text>
+<text class="soft" x="340" y="214">Body: 20 in x 2.5 sts/in</text>
+<text class="soft" x="340" y="236">= 50 stitches</text>
+<text class="soft" x="340" y="278">60 / 50 = 6 rows for 5 sts</text>
+<text class="soft" x="32" y="340">One stitch per row would give 60 stitches:</text>
+<text class="soft" x="32" y="364">60 / 2.5 = 24 in. A body 4 in wider than the brim flares.</text>
+<text class="soft" x="32" y="390">Example gauges, invented. Use your own swatch.</text>
+</svg>

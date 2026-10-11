@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Changing color on the last yarn-over</title>
+<desc>Work the last stitch in the old color until two loops remain on the hook. Yarn over with the new color and pull through both loops. The stitch is the old color and the loop on the hook is the new color.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; }
+  .old { fill: none; stroke: #6b4428; stroke-width: 6; stroke-linecap: round; }
+  .new { fill: none; stroke: #7d8b72; stroke-width: 6; stroke-linecap: round; }
+</style>
+<rect x="16" y="20" width="192" height="300" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<rect x="224" y="20" width="192" height="300" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<rect x="432" y="20" width="192" height="300" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">1. Stop early</text>
+<text class="label" x="240" y="52">2. New color</text>
+<text class="label" x="448" y="52">3. Pull through</text>
+<path class="hook" d="M40 120 H184 M40 120 q-12 0 -12 -12"/>
+<ellipse cx="90" cy="120" rx="12" ry="22" class="old"/>
+<ellipse cx="130" cy="120" rx="12" ry="22" class="old"/>
+<text class="soft" x="32" y="190">Two loops on the hook,</text>
+<text class="soft" x="32" y="212">both the old color.</text>
+<path class="hook" d="M248 120 H392 M248 120 q-12 0 -12 -12"/>
+<ellipse cx="298" cy="120" rx="12" ry="22" class="old"/>
+<ellipse cx="338" cy="120" rx="12" ry="22" class="old"/>
+<path class="new" d="M236 96 q20 -30 60 -20 q40 10 80 -10"/>
+<text class="soft" x="240" y="190">Drop the old yarn.</text>
+<text class="soft" x="240" y="212">Yarn over with the new.</text>
+<path class="hook" d="M456 120 H600 M456 120 q-12 0 -12 -12"/>
+<ellipse cx="500" cy="120" rx="12" ry="22" class="new"/>
+<rect x="530" y="150" width="40" height="70" rx="6" fill="#f3e6d4" stroke="#6b4428" stroke-width="3"/>
+<text class="soft" x="448" y="250">Stitch: old color.</text>
+<text class="soft" x="448" y="272">Hook loop: new color.</text>
+<text class="soft" x="32" y="360">Brown is the old color. Green is the new color.</text>
+<text class="soft" x="32" y="390">The next stitch, or the turning chain, starts in the new color.</text>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Placing a face by counting stitches</title>
+<desc>A grid of stitches on the head, seen from the front. A marker sits at the center front stitch. The eyes sit on the same round, about two thirds of the way down the head, each 2 stitches out from the marker, so 4 stitches apart with the marker between them. The nose sits on the marker one round below the eyes. The beard starts under the nose and covers the bottom of the face.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .cell { fill: #f3e6d4; stroke: #e6ddd1; stroke-width: 1.5; }
+  .mark { fill: none; stroke: #b0604a; stroke-width: 3; }
+  .eye { fill: #2f2a26; }
+  .nose { fill: #b0604a; }
+  .beard { fill: #fdfaf6; stroke: #7d8b72; stroke-width: 2.5; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Count out from one center stitch</text>
+<g>
+<rect class="cell" x="60" y="80" width="300" height="270"/>
+<path d="M60 110 H360 M60 140 H360 M60 170 H360 M60 200 H360 M60 230 H360 M60 260 H360 M60 290 H360 M60 320 H360" stroke="#e6ddd1" stroke-width="1.5"/>
+<path d="M90 80 V350 M120 80 V350 M150 80 V350 M180 80 V350 M210 80 V350 M240 80 V350 M270 80 V350 M300 80 V350 M330 80 V350" stroke="#e6ddd1" stroke-width="1.5"/>
+</g>
+<rect class="mark" x="180" y="80" width="30" height="270"/>
+<circle class="eye" cx="135" cy="245" r="9"/>
+<circle class="eye" cx="255" cy="245" r="9"/>
+<circle class="nose" cx="195" cy="275" r="12"/>
+<path class="beard" d="M100 290 Q195 300 290 290 L290 330 Q195 380 100 330 Z"/>
+<text class="soft" x="380" y="100">Marker: center front stitch</text>
+<text class="soft" x="380" y="150">Eyes: same round,</text>
+<text class="soft" x="380" y="172">2 stitches out each side</text>
+<text class="soft" x="380" y="194">(4 apart, marker between)</text>
+<text class="soft" x="380" y="244">About 2/3 of the way</text>
+<text class="soft" x="380" y="266">down the head</text>
+<text class="soft" x="380" y="310">Nose: on the marker,</text>
+<text class="soft" x="380" y="332">one round lower</text>
+<text class="soft" x="32" y="384">Pin all of it, step back, then sew. Beard last, under the nose.</text>
+</svg>

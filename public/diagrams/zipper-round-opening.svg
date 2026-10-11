@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Fitting a straight zipper into a round opening</title>
+<desc>Left: the rim seen from above as a circle of 48 stitches, 12 inches around. Right: the rim pinched flat into a straight opening 6 inches long, half the circumference, with front and back edges meeting. A 5 inch zipper sits along it, leaving about half an inch at each end, which is closed with a few whipstitches joining front to back. The zipper tape sits behind the crochet with the teeth just below the edge.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .rim { fill: none; stroke: #6b4428; stroke-width: 6; }
+  .tape { fill: #e6ddd1; stroke: #6d635a; stroke-width: 2; }
+  .teeth { stroke: #2f2a26; stroke-width: 4; stroke-dasharray: 3 3; }
+  .close { stroke: #b0604a; stroke-width: 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">A round rim, pinched flat, is half its circumference long</text>
+<circle class="rim" cx="140" cy="170" r="76"/>
+<text class="soft" x="64" y="282">rim from above:</text>
+<text class="soft" x="64" y="304">48 sts = 12 in around</text>
+<path class="rim" d="M300 150 Q450 128 600 150 Q450 172 300 150 Z"/>
+<rect class="tape" x="330" y="182" width="240" height="22" rx="4"/>
+<line class="teeth" x1="340" y1="193" x2="560" y2="193"/>
+<line class="close" x1="300" y1="150" x2="330" y2="150"/>
+<line class="close" x1="570" y1="150" x2="600" y2="150"/>
+<text class="soft" x="300" y="122">pinched flat: 12 / 2 = 6 in</text>
+<text class="soft" x="350" y="230">5 in zipper (teeth)</text>
+<text class="soft" x="300" y="268">about 0.5 in at each end:</text>
+<text class="soft" x="300" y="290">whipstitch front to back (red)</text>
+<text class="soft" x="32" y="350">Sew the tape behind the crochet, teeth just below the top edge.</text>
+<text class="soft" x="32" y="376">Zipper length: up to half the rim, ideally a little less.</text>
+</svg>

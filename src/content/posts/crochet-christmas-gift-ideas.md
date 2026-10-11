@@ -2,6 +2,7 @@
 title: "Crochet Christmas Gift Ideas"
 description: "Christmas gifts you can crochet from tutorials already on this site, sorted by how long they take and who they are for."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: false
@@ -24,7 +25,8 @@ This is a guide to existing tutorials. It is not a new pattern, and the photo is
 
 - [Christmas gift card holder](/how-to-crochet-a-christmas-gift-card-holder/). A flat pocket. One of the few gifts that is finished when the sewing is done.
 - [Mug cozy](/crochet-mug-cozy-for-beginners/). Measure the mug first or it will not close.
-- [Snowflake](/how-to-crochet-a-snowflake/). Flat ornaments. The hanging loop matters more than the lace.
+- [Snowflake](/how-to-crochet-a-snowflake/). Three rounds, then stiffening. Allow a day for it to dry hard.
+- [Scrunchie](/how-to-crochet-a-scrunchie/). Sized from a hair elastic, so you do not need the person's measurements.
 - [Simple flower](/how-to-crochet-a-simple-flower/). Sew it to a plain gift or to the mug cozy.
 - [Fall leaf](/how-to-crochet-a-fall-leaf/). A small appliqué. The stitch count is on paper, not from a finished leaf.
 - [Halloween coasters](/free-pattern-halloween-coasters/). A flat pumpkin disc, plus a granny set. Not a hot pad.
@@ -54,6 +56,27 @@ The [ornament ideas](/easy-crochet-christmas-ornaments/) page lists fifteen shap
 - [Laptop sleeve](/how-to-crochet-a-laptop-sleeve/) or [phone case](/how-to-crochet-a-phone-case/) only if you can measure the device. A guessed phone size is a gift that does not fit. A phone with a strap is the [phone crossbody](/how-to-crochet-a-phone-crossbody/).
 - [Market bag](/how-to-crochet-a-market-bag/) for someone who actually carries one.
 - [Bowl cozy](/how-to-crochet-a-bowl-cozy/) only if you read the heat section first. It is cotton, it is not a hot pad, and it does not claim to be microwave-safe.
+
+## Sizing a gift without asking
+
+Half the projects above need a measurement, and asking spoils the surprise. Measure something the person already owns instead.
+
+- **A hat they wear.** Lay it flat, measure across the brim, and double it. That is the hat's relaxed size, which already includes the ease they like. Use it as the target in the [chunky beanie](/how-to-crochet-a-chunky-beanie/).
+- **A phone or e-reader.** Measure the device in the case they use, because that is what has to fit. The [phone case](/how-to-crochet-a-phone-case/) explains why thickness matters as much as width.
+- **Gloves.** Measure around the palm of a glove that fits them, lying flat, and double it.
+- **Slippers or shoes.** Measure the inside length of a shoe they wear, heel to toe. That is close to the foot length, though a shoe usually has a little extra room. [Slippers](/how-to-crochet-slippers/) also need a measurement over the top of the foot, which only the foot can give, so they are hard to make as a surprise.
+
+If you cannot measure anything, pick a project that does not need it: the scrunchie, an ornament, the gift card holder, or the ear warmer, which has some stretch.
+
+## Put a care card in the box
+
+A crochet gift is easy to ruin in its first wash. Write a small card with three facts and tuck it in:
+
+- **The fiber**, copied from the yarn label: acrylic, cotton, wool, or a blend.
+- **How to wash it.** Copy the label's symbols or write them out. Hand wash and dry flat is the safe default for anything with stuffing or stiffener.
+- **What it is not.** A cotton cozy is not a hot pad. Slippers slide on hard floors. A stiffened ornament dissolves if it gets wet. Say so on the card, because the person opening it did not read the tutorial.
+
+Keep the ball band yourself, pinned to a leftover length of yarn, so you can repair the gift later in the same yarn.
 
 ## What not to promise
 

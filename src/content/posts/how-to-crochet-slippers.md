@@ -1,145 +1,173 @@
 ---
 title: "How to Crochet Slippers"
-description: "House slippers from your foot length, with a simple upper. US terms. Crochet soles are slippery on hard floors and not yarn-tested."
+description: "Indoor slippers sized from your foot: a sole, a toe cap wide enough to go over the toes, and a heel wall. US terms. Crochet soles slide on hard floors."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["slippers", "beginner", "worsted", "how to"]
+glance:
+  time: "Two soles, two caps, two heel walls, sewing"
+  size: "Sized from the foot; example 9 x 3.5 in foot"
+  yarn: "Worsted, wool blend or cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh one sole and multiply by about 4 for the pair."
 ---
 
-Socks slide on a wood floor, and a bought slipper is often a size you do not have. A crochet sole can follow the foot you measured. It will still slide on tile, wood, and any hard floor. These are indoor slippers for a rug or a carpet. They are not shoes, and they are not safe on stairs.
+Socks slide on a wood floor, and a bought slipper is often a size you do not have. A crochet slipper can follow the foot you measured. It will still slide on tile, wood, and any hard floor. These are indoor slippers for a rug or carpet. They are not shoes, and they are not safe on stairs.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations of a shape, not a pair that was worn. This pair has not been worn or measured in yarn. The inches and the yardage are estimates from the gauge, not a promise of fit. A crochet sole is slippery. These are not safe on stairs, tile, or wood. Measure your own foot before you chain.
+The shape is a clog: a flat sole, a cap over the toes, and a low wall around the heel. Each part is a rectangle. The part most simple slipper patterns get wrong is the cap. A foot has height. If the cap is the same width as the sole and is sewn down flat on top of it, there is no room for toes inside. The cap has to be as wide as the distance from one edge of the sole, **over** the foot, to the other edge. This page shows how to measure that.
 
-![A pair of simple crochet slippers with a toe cap and a heel tab](../../assets/articles/how-to-crochet-slippers-result.jpg "Illustration. Intended look: a flat sole, a toe cap, a short heel tab. Not a worn pair.")
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pair for this page was crocheted or worn. The example measurements are invented to show the arithmetic.
 
-## Measure
+![A pair of simple crochet slippers with a toe cap and a heel tab](../../assets/articles/how-to-crochet-slippers-result.jpg "Illustration. A flat sole, a toe cap, and a heel. Not a worn pair.")
 
-Stand on a piece of paper if you can, and measure:
+<div class="warning">
 
-- Length, from the back of the heel to the longest toe.
-- Width, across the widest part of the foot.
+Crochet soles are slippery on hard floors. Tile, wood, laminate, and a wet bathroom floor are all a fall risk, and stairs are worse. Wear these on carpet or a rug. A sock underneath does not add grip. This page does not include a non-slip sole.
 
-The example sole is planned for a foot about **9 inches** long and about **3.5 inches** wide. The sole is a little longer than the foot, about **9.6 inches**, so the toes are not curled over the end. A stretchy yarn may need less ease. Check the sole against the foot before you sew the upper on.
+</div>
 
-At the gauge below:
+## What is a technique, and what is only a plan
 
-- Width in inches times 4, rounded to a whole number, is the stitch count. The example is 3.5 times 4, which is **14 stitches**.
-- Length you want for the sole, in inches, times 5, rounded, is the row count. The example is about 9.6 inches, which is 9.6 × 5 = **48 rows**. Both products were checked as multiplication. They are not measurements from a worn pair.
+| Piece of this page | What it is |
+| --- | --- |
+| Rectangles of single crochet, sewn together | Standard construction. |
+| A cap measured over the foot, gathered at the toe | Standard fitting logic. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| 9 × 3.5 in foot, 6 in over the toes | Invented examples. Measure yours. |
+| About 200 yards for the pair | Old line. Not weighed. Withdrawn. |
 
-Chain one more than the stitch count. A 10 inch foot that wants a sole near 10.5 inches is about **53 rows**. A 4 inch width is **16 stitches**. The upper uses the same stitch count as the sole.
+## How it is built
 
-This shape is a clog: a sole, a cap over the toes, and a short tab at the heel. The instep stays open. It will not stay on a foot that is much narrower than the sole.
+<figure class="diagram">
+<img src="/diagrams/slipper-plan.svg" alt="Top view of a sole 14 stitches wide and 48 rows long. A toe cap 24 stitches wide and 16 rows deep is sewn to the first 16 rows of each side and gathered onto the 14 toe stitches. A heel wall 26 stitches long and 8 rows high wraps the heel end and 8 rows up each side. 24 rows of each side stay open. An inset shows a tape from one edge of the sole, over the foot, to the other edge: about 6 inches." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The cap's width is the over-the-top measurement, not the sole width. Its extra stitches gather at the toe.</figcaption>
+</figure>
 
-## Materials
+## Measure the foot
 
-![Worsted yarn, a hook, and a tape measure](../../assets/articles/how-to-crochet-slippers-1.jpg "Illustration. Yardage is an estimate for the example pair. The sole is still slippery.")
+Stand on paper and measure three things:
 
-- Worsted yarn. About **200 yards** for the example pair. A longer foot needs more. This was not weighed off a finished pair. [Yarn weights](/yarn-weight-chart/). Wool or a wool blend is warmer. Cotton washes and feels cooler. Either one slides on a hard floor.
-- US G/6 (4.0 mm) hook, or the hook that hits gauge. A larger hook makes a looser, floppier sole. [Hook chart](/crochet-hook-size-conversion-chart/).
+1. **Length**, heel to longest toe.
+2. **Width**, across the widest part.
+3. **Over the top.** About 3 inches back from the tip of the longest toe, run a tape from the floor on one side of the foot, over the top, to the floor on the other side. That is the width the cap needs.
+
+The example foot is 9 inches long, 3.5 inches wide, and 6 inches over the top.
+
+## Yarn and hook
+
+![Worsted yarn, a hook, and a tape measure](../../assets/articles/how-to-crochet-slippers-1.jpg "Illustration. Yarn and tools. The sole is still slippery.")
+
+- **Worsted yarn.** Wool or a wool blend is warmer. Cotton washes more easily and feels cooler. Both slide on hard floors. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that makes dense fabric. A larger hook makes a floppy sole. [Hook chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors, a scrap of yarn to mark the toe.
 
-Beginner. Make one sole and check it on the foot before you make the second.
+Single crochet is used throughout because it is the densest of the [basic stitches](/basic-crochet-stitches/). Swatch 14 sc for 20 rows. In the example it would be 3.5 inches wide and 4 inches tall. [Gauge](/crochet-gauge/).
 
-## Gauge (estimate)
+## The worked example
 
-**4 sc = 1 inch. 5 rows = 1 inch.**
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Sole width | 3.5 in × 4 | 14 sts |
+| Sole length | 9 in + about 0.6 in, × 5 | 48 rows (9.6 in) |
+| Cap width | 6 in over the top × 4 | 24 sts |
+| Cap depth | about 3.2 in × 5 | 16 rows |
+| Heel wall | 3.5 in across + 1.6 in up each side | about 6.5 in, 26 sts |
+| Heel height | 1.6 in × 5 | 8 rows |
+| Opening each side | 48 − 16 − 8 | 24 rows, about 4.8 in |
 
-This is a planning number, not a swatch from this page. [Gauge](/crochet-gauge/) is the size of the sole. Work 14 sc for 20 rows. If that piece is not about 3.5 inches wide and 4 inches tall, change the hook or change the stitch count. Do not follow 48 rows and hope.
+The sole is a little longer than the foot so the toes do not press against the end.
 
-Single crochet is the fabric because it is the densest of the [basic stitches](/basic-crochet-stitches/). A taller stitch makes a sole that stretches wider the first time you stand up.
+## Stage 1: the soles (make 2)
 
-## Sole
+Ch 1 does not count as a stitch.
 
-Make 2. Ch 1 does not count as a stitch.
-
-Chain 15 for the example width.
+Chain 15.
 
 **Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (14)
 
 **Rows 2–48:** Sc in each stitch. Ch 1, turn. (14)
 
-The written slipper is a rectangle sole, a short toe cap, and a short heel tab, with the instep left open. These sole rows do not narrow, and they do not cup under the heel. The heel is a separate rectangle sewn on later. If a drawing looks more closed than that, follow the row counts. Fourteen stitches at 4 sc to the inch is about **3.5 inches**. Lay it on the foot. The longest toe should sit inside the far end, with a little fabric left. If the toes hang off, add rows. If the width is tight, start over with more stitches. Do not stretch a narrow sole and sew the upper on.
+**Checkpoint:** Stand on it. The longest toe should sit just inside the far end. Add rows if not. If the width is tight, restart with more stitches.
 
-Mark one short end with a scrap of yarn. That end is the toe. You need the mark because the two ends look the same, and sewing both pieces to one end is a common way to ruin the pair.
+Mark one short end with yarn as the toe. Both ends look alike. Make the second sole and count its rows. The two must match.
 
-Count the rows on the second sole. Hold the two soles together. They should match. A sole that is four rows short is a different size, even if it looked close on the table.
+## Stage 2: the toe caps (make 2)
 
-## Toe cap
+Chain 25.
 
-The cap uses the same stitch count as the sole. The example is 14.
+**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (24)
 
-Chain 15.
+**Rows 2–16:** Sc in each stitch. Ch 1, turn. (24)
 
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (14)
+**Sewing:**
 
-**Rows 2–16:** Sc in each stitch. Ch 1, turn. (14)
-
-Sixteen rows at 5 rows to the inch is about **3.2 inches** over the toes. It should stop before the instep bends. If you cannot flex, stop earlier and make the second cap to that same row count.
-
-Sew row 1 of the cap to the 14 stitches of the marked toe end. Sew each side of the cap to the sole edge for the depth of the cap, about 16 row-ends on the example. The last row of the cap stays open. That opening is where the foot enters toward the toe.
+1. Sew the side edges of the cap to the first 16 rows of each side of the sole, row end to row end, starting at the toe. Both use 5 rows per inch, so they match.
+2. Run a length of yarn through the cap's chain edge. Gather it until it fits the 14 stitches of the toe end, then sew it down. The gathers make room for the toes.
+3. The last row of the cap stays open. That is the instep edge.
 
 ![A toe cap sewn to one end of a rectangular sole](../../assets/articles/how-to-crochet-slippers-3.jpg "Illustration. The marked end is the toe. The last row of the cap stays open.")
 
-Use the same yarn and a yarn needle. Sew through both layers without pulling so hard that the sole cups. A cupped sole will rock when you stand.
+**Checkpoint:** Put the foot in. The toes should fit under the cap without pressing it tight. If they do not, the cap needs more stitches. If the cap gapes loosely, it has too many.
 
-## Heel tab
+## Stage 3: the heel walls (make 2)
 
-Chain 15.
+Chain 27.
 
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (14)
+**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (26)
 
-**Rows 2–8:** Sc in each stitch. Ch 1, turn. (14)
+**Rows 2–8:** Sc in each stitch. Ch 1, turn. (26)
 
-Eight rows is about **1.6 inches**. Sew row 1 to the short end that is not the toe. Sew the sides of the tab down about 8 row-ends on each side of the sole. The top of the tab stays open. It is there to catch the heel, not to wrap the ankle.
+**Sewing:** Find the middle of the chain edge. Pin it to the middle of the heel end. Sew 14 stitches across the heel end, then 6 stitches up each side over the last 8 rows of the sole. The wall stands up around the heel. The top edge stays open.
 
-On a 48-row sole, the cap and the tab leave about **24 rows** of each side unsewn, about **4.8 inches** of opening. If the foot will not go in, you sewed the cap too far down the sides. If the heel walks out, the tab is too short or it is on the toe end.
+![A short heel tab on the unmarked end of the sole](../../assets/articles/how-to-crochet-slippers-4.jpg "Illustration. The heel is the unmarked end.")
 
-![A short heel tab on the unmarked end of the sole](../../assets/articles/how-to-crochet-slippers-4.jpg "Illustration. The tab is the heel. The instep stays open.")
+## Stage 4: finishing
 
-Make the second slipper to the same counts. These rectangles are the same for a left and a right foot. If you later add a strap on one side only, mirror it on the other slipper.
+Weave the ends in on the inside. [Weaving in ends](/weaving-in-ends-and-blocking/). Sew without pulling hard, because a puckered seam cups the sole and makes it rock when you stand.
 
-![The pair on a rug, soles down](../../assets/articles/how-to-crochet-slippers-5.jpg "Illustration. Wear them on a rug. A crochet sole slides on a hard floor.")
+Left and right slippers are identical, so the second is made to the same counts.
 
-<div class="warning">
+## Troubleshooting
 
-Crochet soles are slippery on hard floors. Tile, wood, laminate, and a wet bathroom floor are all a fall risk. Stairs are worse. Wear these on carpet or a rug. A sock underneath does not add grip. If you need grip, that is a separate sole material meant for slippers, sewn on by you and tested on your floor. This pattern does not include one.
+**Toes will not fit under the cap.** The cap is too narrow. Measure over the top again and add stitches.
 
-</div>
+**The foot will not go in.** The cap is sewn too far down the sides. Sew fewer rows.
 
-## Mistakes
+**The heel walks out.** The heel wall is too low or too loose. Add rows, or ease it in.
 
-**Measuring a shoe instead of the foot.** Shoe sizes hide the length you need. Use a tape on the foot.
+**The sole rocks.** A seam was pulled tight and cupped the sole.
 
-**Skipping the toe marker.** Both ends of the rectangle look alike. Two caps on one end and a bare heel means you start the sewing over.
+**The pair do not match.** Different row counts. Count, do not compare by eye.
 
-**A different count on the second sole.** Count rows. Do not trust that they look like a pair.
-
-**Wearing them in the kitchen.** The sole feels textured in your hand and still slides on a hard floor. Keep them on the rug.
+**It slides.** It is a crochet sole. Keep it on a rug.
 
 ## Care
 
-Hand wash cool. Dry flat. Do not hang them by the heel tab. If the dry sole is suddenly longer than the foot, the next pair needs fewer rows.
-
-Do not wear them wet. A damp sole is slicker, and it can mark a pale floor.
+Hand wash cool. Dry flat. A damp sole is slicker. Do not wear them wet.
 
 ## Frequently asked
 
 **Will this fit every foot?**
 
-No. Fourteen stitches and 48 rows are the example at the gauge above, for a foot near 9 inches long and 3.5 inches wide. Measure, then change the counts.
+Only if you measure. The example counts suit only the example foot.
+
+**Can I add a non-slip sole?**
+
+People do, using products sold for that purpose. This page has not tested any, and grip depends on the product and your floor. Follow the product's instructions and test it carefully on a rug first.
 
 **Can I sell them?**
 
-Finished slippers, yes. Do not republish the rows as your pattern. Tell the buyer they slide on hard floors. A slipper sold without that warning is a bad product, even if the stitches are right.
+Finished slippers, yes. Do not republish the pattern. Tell the buyer they slide on hard floors.
 
-**Are they warm enough for a cold floor?**
+**Are they warm enough?**
 
-On a rug, a wool worsted sole is warmer than cotton. Neither one replaces a shoe outside, and neither one is safe on a bare hard floor just because the room is cold. A different winter project that does not touch the floor is the [chunky beanie](/how-to-crochet-a-chunky-beanie/) or the [fingerless gloves](/how-to-crochet-fingerless-gloves/).
+Wool is warmer than cotton. Neither replaces a shoe outdoors.
 
 ## Next
 
-For a cold evening that does not need a sole, the [ear warmer](/how-to-crochet-an-ear-warmer/) and the [hooded scarf](/how-to-crochet-a-hooded-scarf/) stay off the floor entirely.
+A winter project that stays off the floor is the [chunky beanie](/how-to-crochet-a-chunky-beanie/). The same measure-then-calculate approach to a hand is the [fingerless gloves](/how-to-crochet-fingerless-gloves/).

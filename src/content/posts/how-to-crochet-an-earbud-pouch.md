@@ -1,134 +1,155 @@
 ---
 title: "How to Crochet an Earbud Pouch"
-description: "A small sage crochet pouch with a button flap for a wireless earbud case. Measure the case first. US terms. Not drop-proof, waterproof, or yarn-tested."
+description: "A small crochet pouch with a button flap, sized from your charging case's perimeter, not its width. US terms. Not drop-proof, waterproof, or yarn-tested."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["earbud pouch", "beginner", "how to", "button"]
+glance:
+  time: "A flat circle, a short tube, a flap"
+  size: "From the case's width, depth, and height"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. A pouch this size is a scrap project."
 ---
 
-A charging case in a bag picks up lint and then the lid sticks. A small crochet pouch keeps the case in one place. It does not make the case waterproof, and it does not stop a drop onto concrete. Yarn is a cover, not a case.
+A charging case loose in a bag collects lint in the hinge, and then the lid stops closing cleanly. A small pouch fixes that. It does not cushion a drop, and it does not keep out a spilled drink. It is a cover.
 
-This version is sage cotton with a wood button. A Halloween bat version of the same tube is already on the site: [gothic bat earbuds pouch](/gothic-bat-earbuds-pouch/). Do not mix the two. This page has no ears and no wings.
+Most earbud pouch patterns give one stitch count and hope your case fits it. This page sizes the pouch from the case instead. The one measurement that matters is the distance around the case, its perimeter. Width alone tells you almost nothing about whether it will go in.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pouch for this page was crocheted or fitted on a case. The case measurements below are an invented example so the arithmetic has numbers.
 
-Photos are illustrations. Inches are estimates. This pouch has not been fitted on a specific charging case. Measure yours before you fasten off.
+![A sage crochet pouch with a wood button and a white earbud case](../../assets/articles/how-to-crochet-an-earbud-pouch-result.jpg "Illustration. A sage pouch with a button flap. Not a pouch fitted to a measured case.")
 
-![A sage crochet pouch with a wood button and a white earbud case](../../assets/articles/how-to-crochet-an-earbud-pouch-result.jpg "Illustration. Intended look: sage pouch, wood button, plain white case, no logo.")
+## What is a technique, and what is only a plan
 
-## Measure first
+| Piece of this page | What it is |
+| --- | --- |
+| Flat circle, then even rounds | Standard construction for a round-bottomed tube. |
+| A flap worked in rows on part of the last round | Standard. |
+| Tube must go around the case perimeter plus ease | Geometry. |
+| 1.9 × 0.9 × 2.4 in case | An invented example. Measure yours. |
+| 4 sc and 5 rounds to the inch | An unverified example gauge. |
+| About 45 yards | An old line. It was not weighed and is withdrawn. |
 
-A common charging case is a little taller than it is wide, and under an inch thick. Yours may not be. Put a tape on the case: width, height, depth. Write the numbers down. The pouch has to clear the height plus a flap, and the opening has to clear the width.
+## How the pouch is built
 
-If the case is wider than about 2.2 inches, use the larger stitch count at the end. Do not force a tight pouch. A tight single-crochet tube will not stretch enough to be useful, and it can stress the case hinge.
+Six stitches in a magic ring become a flat circle. Increases stop once the circle's edge is long enough to go around the case. From there, even rounds build a straight tube. When the tube is tall enough, a flap is worked in rows on a third of the stitches, and a chain loop on its last row fastens over a button.
 
-## Materials
+The [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) uses the same base and tube, closed with a drawstring instead. The [bat earbuds pouch](/gothic-bat-earbuds-pouch/) is this pouch with ears and wings sewn on.
 
-![Sage yarn, a hook, a wood button, and a white charging case](../../assets/articles/how-to-crochet-an-earbud-pouch-1.jpg "Illustration. The case is a size guide. Yardage is an estimate.")
+## Measure the case
 
-- Worsted cotton, sage, about **45 yards**. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
-- One button about 1/2 inch across.
-- Yarn needle, scissors, stitch marker.
+Measure three things with the lid closed: width, depth (thickness), and height. In the example, the case is 1.9 inches wide, 0.9 inch deep, and 2.4 inches tall.
 
-Beginner. About 1 to 2 hours.
+The perimeter of the footprint is 2 × (1.9 + 0.9) = **5.6 inches**. That is how far the tube has to stretch around the case. Add ease, around half an inch to an inch, so the case drops in without scraping the lid.
 
-## Gauge (estimate)
+<figure class="diagram">
+<img src="/diagrams/earbud-pouch-sizing.svg" alt="A case footprint of 1.9 by 0.9 inches with a perimeter of 5.6 inches, shown inside a round pouch tube. A table at 4 single crochet per inch: 24 stitches is 6.0 inches around and snug, 27 is 6.75 inches and the example choice, 30 is 7.5 inches and roomy." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Choose the stitch count from the perimeter. A round tube around an oblong case leaves space at the sides, which is fine in soft fabric.</figcaption>
+</figure>
 
-**4 sc = 1 inch. 5 rounds = 1 inch.**
+## Yarn, hook, and gauge
 
-At 30 stitches, the opening is about **2.4 inches** across the flat base, and the wall of 10 even rounds is about **2 inches**. That fits many small cases. It will not fit a large over-ear headphone case.
+![Sage yarn, a hook, a wood button, and a white charging case](../../assets/articles/how-to-crochet-an-earbud-pouch-1.jpg "Illustration. The case is the size guide. Not a weighed amount of yarn.")
 
-## Body
+- **Smooth worsted cotton.** Fuzzy yarn sheds into the speaker mesh and the charging port. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
+- **One button**, about 1/2 inch across.
+- Stitch marker, yarn needle, scissors.
 
-Spiral. Marker. No join. [Crochet in the round](/crochet-in-the-round/).
+Crochet a small flat circle to 24 stitches and measure around its edge. That is your gauge for this project, and it is faster than a square swatch. In the example, 24 stitches measure 6 inches around: 4 stitches per inch.
 
-![A sage circle starting in a magic ring](../../assets/articles/how-to-crochet-an-earbud-pouch-2.jpg "Illustration. Six single crochets in a ring.")
+## The worked example
+
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Case perimeter | 2 × (1.9 + 0.9) | 5.6 in |
+| Target around | 5.6 + about 1 in ease | about 6.6 in |
+| Stitches | 6.6 × 4, nearest workable | 27 |
+| Wall height | 2.4 in case + 0.2 in ease, × 5 rounds | 13 rounds |
+| Flap | a third of 27 | 9 stitches |
+
+## Stage 1: the base
+
+Work in a spiral without joining. Put a marker in the first stitch of each round. [Crochet in the round](/crochet-in-the-round/) explains spirals.
 
 **Round 1:** 6 sc in a magic ring. (6)
 
-**Round 2:** inc in each. (12)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Round 3:** (sc, inc) 6 times. (18)
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Round 4:** (2 sc, inc) 6 times. (24)
+**Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
-**Round 5:** (3 sc, inc) 6 times. (30)
+**Round 5, for 27:** (Sc 7, 2 sc in next) 3 times. (27)
 
-**Rounds 6–15:** sc in each stitch. (30)
+A flat circle adds six stitches a round. Round 5 adds only three, which keeps the base nearly flat while landing on a count between 24 and 30. For 30, work (sc 3, 2 sc in next) 6 times instead. For 24, skip round 5.
 
-Slip the case in. The lid should sit below the rim. If the case sticks out, add even rounds at 30 stitches until it does not. Then continue.
+**Checkpoint:** lay the base flat. A slight cup is fine, because it will turn into the wall. A ruffle means extra stitches.
 
-![A short sage crochet tube on the hook](../../assets/articles/how-to-crochet-an-earbud-pouch-3.jpg "Illustration. Even rounds. Try the case before you make the flap.")
+## Stage 2: the wall
 
-## Flap
+**Rounds 6–18:** Sc in each stitch. (27)
 
-The flap is worked in rows on 10 of the 30 stitches. Leave the other 20 unworked. Turn at the end of each row.
+The wall turns up on its own once increases stop. Stand the case in the pouch every few rounds. Stop when the top of the lid sits just below the rim. Thirteen rounds is the example. Your count is whatever covers your case.
 
-**Row 1:** sc in the next 10 stitches. Ch 1, turn. (10)
+## Stage 3: the flap and the loop
 
-**Rows 2–5:** sc in each stitch. Ch 1, turn. (10)
+The flap is worked in rows over 9 of the 27 stitches. The other 18 stay unworked as the open front. Ch 1 at the end of each row does not count as a stitch.
 
-**Row 6:** sc in the next 4 stitches, ch 4, skip 2, sc in the last 4. (8 sc and a 4-chain loop)
+**Row 1:** Sc in the next 9 stitches. Ch 1, turn. (9)
 
-The loop uses the 2 skipped stitches as its gap. 4 + 2 + 4 = 10, so the row still sits on the same width.
+**Rows 2–5:** Sc in each stitch. Ch 1, turn. (9)
 
-Fasten off. Sew the button on the front of the tube, about 4 rounds down from the rim, centered under the loop. Button it with the case inside. The loop should reach without pulling the flap into a point. If it does not reach, chain 5 or 6 on Row 6 instead of 4, and skip the same 2 stitches.
+**Row 6:** Sc 3, ch 4, skip 3, sc 3. (6 sc and a ch-4 loop)
+
+Three stitches, three skipped, three stitches: 3 + 3 + 3 = 9, so the loop sits centered across the flap. Fasten off.
 
 ![The buttoned flap with the case inside](../../assets/articles/how-to-crochet-an-earbud-pouch-4.jpg "Illustration. The loop is chain stitches. The button is sewn, not crocheted.")
 
-## Optional loop
+With the case inside, fold the flap down and mark where the loop lands on the front, about four rounds below the rim. Sew the button there, through several stitches. Close it. The loop should reach without pulling the flap into a point. If it does not, rework row 6 with a ch 5 or ch 6 over the same 3 skipped stitches.
 
-If you want it on a bag, chain 16, join with a slip stitch to the first chain, and sew that ring to the back of the rim, opposite the flap. A split ring from a key shop can go through that loop. Do not sew the loop through the buttonhole row.
+For a 30-stitch pouch, work the flap on 10 stitches and make row 6: sc 4, ch 4, skip 2, sc 4. For 24, use 8 stitches: sc 3, ch 4, skip 2, sc 3.
 
-![The sage pouch hanging from a bag strap](../../assets/articles/how-to-crochet-an-earbud-pouch-5.jpg "Illustration. The loop is optional. The pouch is still not a hard case.")
+## Optional hanging loop
 
-## Larger case
+Chain 16, join into a ring with a slip stitch, and sew it to the back just below the rim, behind the flap. A split ring goes through that loop. On a bag strap it will knock against your hip. On a belt loop, keep the chain short.
 
-After Round 5, work (4 sc, inc) 6 times. (36)
+## Troubleshooting
 
-Work the even rounds on 36 until the case fits.
+**The case will not go in.** The stitch count is below the perimeter. Go up a size from the table.
 
-Flap: 12 stitches instead of 10. Row 6 becomes sc 5, ch 4, skip 2, sc 5.
+**The case rattles and falls out when the flap is open.** Too much ease. Go down a size, or use a smaller hook at the same count.
 
-## In a bag
+**The base bowls into a cup before the wall.** The ring or the increases are tight. Loosen up, or work round 5 with six increases and see whether it flattens.
 
-The pouch keeps lint off the case. It does not cushion a drop from a counter, and it does not seal out a spilled drink. If the bag has a wet pocket, do not store the case there and expect the cotton to help.
+**The flap pulls into a point.** The loop is too short, or the button is too low. Lengthen the chain before moving the button.
 
-Leave the charging port reachable or take the case out to charge. Sewing the flap shut so the case cannot fall out also means you cannot plug it in. The button is the closure. Use it.
+**The flap sits off center.** The flap stitches started somewhere other than where you wanted the back. Plan which stitches will be the back before row 1.
 
-A keychain loop is optional and it changes how the pouch hangs. On a bag strap it will knock against your hip. On a belt loop it sits better if the loop is the short chain from the pattern, not a long strap you added because the photo looked cute.
+## Use and care
 
-## Mistakes
-
-**A flap on the full round.** That is a lid with no opening. Stop after 10 stitches on Row 1.
-
-**Counting the turning chain as a stitch.** It is not. The count stays 10.
-
-**Fuzzy yarn inside.** It sheds into the speaker mesh. Use smooth cotton.
-
-## Care
-
-Empty the case. Hand wash cool. Dry flat. The pouch can get damp. The electronics should not. Take the case out before any wash.
+Leave the port reachable, or take the case out to charge. A flap sewn shut also locks out the charger. Take the case out before washing. Hand wash cool and dry flat. Cotton can shrink, and a pouch that was snug becomes too small.
 
 ## Frequently asked
 
 **Will it fit every brand?**
 
-No. Measure. The 30-stitch tube is a starting size, not a universal one.
+No. That is why it is sized from your case. Two cases can share a width and differ by half an inch around.
 
-**Can I skip the button?**
+**Can I use a drawstring instead of a flap?**
 
-A drawstring works if you would rather not sew. Use the eyelet round from the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) on an even stitch count.
+Yes. The eyelet round from the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) needs an even count, so use 24 or 30, not 27.
 
 **Is it safe in the rain?**
 
-No. Single crochet has gaps. Do not put the case in a wet pouch and call it protected.
+No. Single crochet has gaps. Water goes through.
 
 ## Next
 
-Cords that live next to the case are a separate scrap project once you want them tidy. A flat phone sleeve, sized to a measured phone, is [how to crochet a phone case](/how-to-crochet-a-phone-case/).
+A flat sleeve has the same around-not-across rule: [how to crochet a phone case](/how-to-crochet-a-phone-case/). For a smaller tube with no flap, see the [lip balm holder](/how-to-crochet-a-lip-balm-holder/).

@@ -1,7 +1,8 @@
 ---
 title: "How to Crochet a Scrunchie (Beginner, One Evening)"
-description: "Crochet a strip, seam it around a hair elastic, and gather it. US terms. The picture is an illustration, not a worn sample."
+description: "Crochet a strip about twice the length of a hair elastic, seam it around the elastic, and gather it. US terms. Sized from your own elastic."
 pubDate: 2026-10-01
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -16,106 +17,130 @@ tags:
     "gift",
     "accessory",
   ]
+glance:
+  time: "A strip, a seam, and a join"
+  size: "Strip about 2 x the elastic, 2.5 to 3 in wide"
+  yarn: "Smooth worsted scrap"
+  hook: "US G/6 (4.0 mm) or H/8 (5.0 mm)"
+  yardage: "Not weighed. A small scrap ball."
 ---
 
-A crochet scrunchie is a fabric tube gathered on a hair elastic. It uses scrap yarn. The picture is an illustration, not a worn sample.
+A crochet scrunchie is a fabric tube gathered on a hair elastic. It uses scrap yarn, and the only measurement that matters is the elastic you already own.
 
-You are not inventing a new stitch. You crochet a flat strip, sew it into a tube around a regular elastic hair tie, and bury the ends. If you can [single crochet](/basic-crochet-stitches/) in rows, you can make one tonight.
+You crochet a flat strip, fold it around a covered hair tie, seam it into a tube, and join the ends. If you can [single crochet](/basic-crochet-stitches/) in rows, you can make one. The picture is an illustration, not a worn sample.
 
-The version below is the strip method, not crochet worked directly onto the elastic. Working onto the elastic is faster for some people and tighter for others. The strip is easier to photograph, easier to frog, and easier to size when your first try comes out wrong.
+There is a second method, working single crochet directly over the elastic. It is faster for some people. The strip method is easier to size, easier to undo, and gives a fuller scrunchie, so it is the one written out here. The other is described at the end.
 
-![A soft yarn crochet scrunchie in warm terracotta on a wooden vanity beside a hairbrush](../../assets/articles/how-to-crochet-a-scrunchie-result.jpg "Illustration. The finished look: a gathered crochet tube pulled over a regular hair elastic.")
+![A soft yarn crochet scrunchie in warm terracotta on a wooden vanity beside a hairbrush](../../assets/articles/how-to-crochet-a-scrunchie-result.jpg "Illustration. A gathered crochet tube on a regular hair elastic. Not a worn sample.")
 
 ## What you need
 
-- Worsted-weight yarn, about **30–40 yd** — [yarn weight chart](/yarn-weight-chart/)
-- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart/)
-- **One elastic hair tie** (the thin covered kind, not a bare rubber band)
-- Yarn needle
-- Scissors
+- Smooth worsted-weight yarn, cotton or acrylic. A small scrap ball is enough. [Yarn weights](/yarn-weight-chart/).
+- A hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm). [Hook chart](/crochet-hook-size-conversion-chart/).
+- **One covered elastic hair tie**, the soft fabric-wrapped kind, not a bare rubber band.
+- Yarn needle and scissors.
 
-US abbreviations throughout. Open the [abbreviations chart](/crochet-abbreviations-chart/) if any look unfamiliar.
+US abbreviations throughout. [Abbreviations chart](/crochet-abbreviations-chart/).
 
-## Finished size
+## Which yarn behaves best
 
-Measure the elastic the way it sits, not stretched open. The crochet strip has to be longer than that loop or there is nothing to gather. A starting length is about twice the elastic's circumference. If the elastic measures 7 inches around, twice that is 14 inches. The **14–16 in long × 2.5–3 in wide** range below is that method for a common covered hair tie. It is not a tape measurement of a finished scrunchie. If your elastic is a different length, double that length instead of copying 14. Soft acrylic or cotton both work. Fuzzy yarn eats elastic stretch. Save it for a second make.
+Cotton gives crisp stitches and a firm scrunchie that holds its gathers, but it is heavier and grips hair more. Acrylic is lighter and softer and slides more easily. A cotton-acrylic blend sits between them. Very fuzzy or bouclé yarn hides the stitches, which makes it hard to see where to seam, so save it for your second or third. Whatever you pick, a thinner yarn makes a lighter scrunchie, and lighter is easier to wear all day.
+
+## Size it from your elastic
+
+<figure class="diagram">
+<img src="/diagrams/scrunchie-gather.svg" alt="An elastic hair tie measuring 7 inches around, beside a crochet strip twice as long, 14 inches, and 2.5 to 3 inches wide. The strip folds lengthwise around the elastic and is seamed along the long edge, then the short ends are joined. At about 5 single crochet rows per inch, 2.5 to 3 inches is 12 to 15 rows." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Length comes from the elastic. Width comes from the rows.</figcaption>
+</figure>
+
+Measure around the elastic as it sits, not stretched. The strip has to be longer than that loop or there is nothing to gather. **About twice the elastic** is a sensible starting point. A longer strip makes a fuller, bulkier scrunchie. A shorter one gives thin gathers.
+
+The width is the number of rows. It folds in half around the elastic, so a 2.5 to 3 inch strip makes a tube a bit over an inch across.
+
+| Your numbers | Example |
+| --- | --- |
+| Elastic, relaxed | 7 in |
+| Strip length, 2 × elastic | 14 in |
+| Chains at about 4 per inch | about 56 |
+| Strip width | 2.5 to 3 in |
+| Rows at about 5 per inch | 12 to 15 |
+
+The example numbers are typical for worsted single crochet. They are not from a measured swatch. Measure your own after a few rows.
 
 ## Step 1: chain the length
 
-![Hands chaining a long foundation for a crochet scrunchie strip](../../assets/articles/how-to-crochet-a-scrunchie-1.jpg "Illustration. Step 1 — the chain is the length of the strip. Write the count down.")
+![Hands chaining a long foundation for a crochet scrunchie strip](../../assets/articles/how-to-crochet-a-scrunchie-1.jpg "Illustration. The chain is the length of the strip.")
 
-Chain until the chain measures about **14–16 in** when held relaxed (often **ch 50–60** in worsted). Do not stretch the chain to measure it.
+Chain until the chain, held relaxed, is about twice the elastic. Do not stretch it to measure. Write the count down so the next one matches.
 
-Turn. Sc in the second chain from the hook and in each chain across. That stitch count is your width for every row.
+Sc in the second chain from the hook and in each chain across. That stitch count stays the same every row.
 
 <div class="tip">
 
-**Too short and the gathers look stingy.** Too long and the scrunchie gets bulky and hard to twist twice. Start near 15 in and adjust after your first one.
+A foundation chain is usually tighter than the rows above it, which makes the strip cup. If yours does, chain with a hook one size larger, then switch back.
 
 </div>
 
 ## Step 2: work the rectangle
 
-![A flat crochet rectangle in progress for a hair scrunchie](../../assets/articles/how-to-crochet-a-scrunchie-2.jpg "Illustration. Step 2 — rows of single crochet until the strip is wide enough to wrap the elastic with ease.")
+![A flat crochet rectangle in progress for a hair scrunchie](../../assets/articles/how-to-crochet-a-scrunchie-2.jpg "Illustration. Rows of single crochet until the strip is wide enough.")
 
-Work rows of **single crochet**, ch 1 and turn at the end of every row (turning chain does not count as a stitch). Keep the stitch count identical every row.
+Ch 1 and turn at the end of each row. The ch 1 does not count as a stitch. Keep the count identical.
 
-Stop when the strip is about **2.5–3 in** tall — usually **8–12 rows**. The fabric should feel soft, not stiff. If it cups, your chains are tight; frog and chain looser, or go up a hook size for the foundation only.
+Stop when the strip is 2.5 to 3 inches wide. In worsted that is usually 12 to 15 rows. The fabric should be soft. If it feels stiff, go up a hook size on the next one.
 
-Optional: work the last two rows in a contrast color for a stripe that reads cleanly in a reel.
+For a stripe, work the last two rows in a second color. [Changing yarn color](/changing-yarn-color-crochet/).
 
-## Step 3: seam into a tube around the elastic
+## Step 3: seam around the elastic
 
-![A tapestry needle seaming a crochet strip into a tube around a hair elastic](../../assets/articles/how-to-crochet-a-scrunchie-3.jpg "Illustration. Step 3 — fold the long edges together around the elastic and whipstitch closed.")
+![A tapestry needle seaming a crochet strip into a tube around a hair elastic](../../assets/articles/how-to-crochet-a-scrunchie-3.jpg "Illustration. Fold the long edges together around the elastic and whipstitch closed.")
 
-Lay the elastic along the long center of the wrong side of the strip. Fold the long edges together so they meet, with the elastic trapped inside. Whipstitch or mattress-stitch the long edges closed along the full length, catching both edges and keeping the elastic free to slide inside the tube.
+Lay the elastic along the middle of the wrong side. Fold the long edges together over it. Whipstitch the long edges closed along the full length, catching both edges but not the elastic. Push the fabric along the elastic as you go, because the strip is twice as long.
 
-Do not sew through the elastic. If you catch it, the scrunchie will not stretch.
+Do not sew through the elastic. If you catch it, it will not stretch.
 
-Join the two short ends of the tube with a few firm stitches so you have one continuous ring. Weave ends into the seam — [weaving in ends](/weaving-in-ends-and-blocking/) covers the clean method.
+Join the two short ends with a few firm stitches to close the ring. Bury the tails in the seam. [Weaving in ends](/weaving-in-ends-and-blocking/).
 
 ## Step 4: even the gathers
 
-![Hands sliding and evening gathers on a finished crochet scrunchie](../../assets/articles/how-to-crochet-a-scrunchie-4.jpg "Illustration. Step 4 — slide the fabric around the elastic until the gathers look even.")
+![Hands sliding and evening gathers on a finished crochet scrunchie](../../assets/articles/how-to-crochet-a-scrunchie-4.jpg "Illustration. Slide the fabric around until the gathers are even.")
 
-Slide the crochet fabric around the elastic until the gathers look even all the way around. Twist once in your hands the way you would a store-bought scrunchie. If the fabric fights you, the strip was too short or the seam too tight — note it for the next one.
+Slide the fabric around the elastic until the gathers are even. Twist it twice, as you would a store-bought scrunchie. If it fights you, the strip was too short or the seam too tight.
 
-## Color ideas that pin well
+## The other method: crochet over the elastic
 
-Solid bright yarn on a plain background wins on phone cameras. Black yarn hides every stitch and looks like a blob in a reel thumbnail. Pastels work if the light is clean. A thin contrast stripe on the last two rows gives the eye a line to follow without a second project’s worth of colorwork — same join used in [changing yarn color](/changing-yarn-color-crochet/).
+Join yarn to the elastic with a slip stitch around it. Work single crochet around the elastic itself, packing the stitches tightly, until it is covered. Join with a slip stitch. Then work two or three rounds of increases into those stitches (for example 3 dc in each stitch) to make a ruffle. It is quick, but the ruffle grows fast, and too many stitches on the base round stretch the elastic so it never fully relaxes. Pack them firmly, but stop before the elastic is stretched.
 
-If you are batching for gifts, pick three colors and make three in one sitting. The second and third go faster than the first because the seam is the only part that needs attention.
+## Troubleshooting
 
-## Mistakes that make a sad scrunchie
+**No stretch.** The seam caught the elastic. Unpick and resew.
 
-**Sewing through the elastic.** Instant dead stretch. Seam fabric only.
+**A skinny yarn doughnut.** The strip is too narrow. Use at least 2.5 inches.
 
-**Strip too narrow.** It looks like a skinny yarn doughnut and photographs poorly. Give yourself at least 2.5 in of width.
+**Stiff and bulky.** Too tight, or too thick a yarn. Go up a hook size, or use a thinner yarn.
 
-**Giant stiff gauge.** Go up a hook size. Scrunchies need drape.
+**Tails catching in hair.** Bury them in the seam, not on the outside.
 
-**Leaving yarn tails outside.** They catch in hair. Bury them in the seam.
-
-**Using a brittle dollar-store elastic.** It snaps after a week and the crochet looks guilty. Use a soft covered hair tie you would actually wear bare.
+**The elastic snaps quickly.** A thin, cheap elastic. Use a soft covered tie you would wear on its own.
 
 ## Frequently asked
 
-### How long does this take?
+### How long does it take?
 
-Under an hour once you know single crochet. Film-friendly checkpoints: finished rectangle, elastic inside, even gathers, hair twist test.
+That depends on your speed, so there is no honest single number. Time ten rows of your strip and multiply by the number of rows you need, then add the seam.
 
 ### Can I use velvet or fur yarn?
 
-Yes for looks, harder for first makes. The stitches disappear and seaming gets guessy. Make one in smooth worsted first.
+Yes, but not for a first one. Stitches are hard to see and seaming becomes guesswork. Make one in smooth worsted first.
 
 ### Will it damage hair?
 
-No more than a normal fabric scrunchie if the elastic is soft and the seam has no knots on the outside. Skip metal hair ties.
+A soft covered elastic with no knots on the outside is the same idea as any fabric scrunchie. Avoid metal-joined hair ties.
 
 ### Can kids make these?
 
-If they can keep an even single crochet for ten rows, yes — with help on the seam so the needle does not go through the elastic. It is a better first wearable than a hat.
+If they can keep an even single crochet for a dozen rows, yes, with help on the seam so the needle stays off the elastic.
 
 ### What should I make next?
 
-A [simple flower](/how-to-crochet-a-simple-flower/) sewn onto a second scrunchie, a [mug cozy](/crochet-mug-cozy-for-beginners/) for gifts, or stay seasonal with the [Halloween card wallet](/halloween-crochet-card-wallet/).
+A [simple flower](/how-to-crochet-a-simple-flower/) sewn onto a second scrunchie, or a [mug cozy](/crochet-mug-cozy-for-beginners/) for a gift.

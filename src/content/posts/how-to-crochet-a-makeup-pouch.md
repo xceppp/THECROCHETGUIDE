@@ -1,141 +1,157 @@
 ---
 title: "How to Crochet a Makeup Pouch"
-description: "A cotton drawstring makeup pouch sized from what you carry. US terms. Inches are gauge estimates, and it is not yarn-tested."
+description: "A cotton drawstring makeup pouch sized from the widest, thickest, and tallest things you carry. US terms. Gauge estimates, not a yarn-tested pouch."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["makeup pouch", "drawstring", "cotton", "beginner"]
+glance:
+  time: "One rectangle, two seams, an eyelet round, a cord"
+  size: "From three measurements of what goes inside"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh 10 rows and multiply by 5."
 ---
 
-Makeup at the bottom of a bag picks up crumbs, and an open tube leaves a mark on a book. A small pouch keeps the tubes in one place and lets you pull the whole set out at once. Cotton will stain. It will not hold a spill. Treat it as a dry organizer, not a wash bag.
+Makeup at the bottom of a bag picks up crumbs, and an open tube leaves a mark on whatever it touches. A small drawstring pouch keeps everything together so you can lift it out in one go. This one is a single-crochet rectangle, folded and seamed, with an eyelet round and a cord at the top.
 
-Measure what you carry. The numbers below are one example. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations. This pouch has not been packed or measured in yarn. Inches and yardage are estimates from the gauge.
+The construction is simple. The sizing is where most pouches go wrong, in two ways. A flat pouch has to be wider than the widest item, because thick items take up width too. And a drawstring needs spare fabric above the contents to gather. A pouch cut to the exact height of the tallest tube will not close over it.
 
-![A small cotton drawstring pouch](../../assets/articles/how-to-crochet-a-makeup-pouch-result.jpg "Illustration. Intended look: a closed rectangle with a tie at the top. Not a tested pouch.")
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pouch for this page was crocheted or packed. The item sizes below are an invented example.
 
-## Measure
+![A small cotton drawstring pouch](../../assets/articles/how-to-crochet-a-makeup-pouch-result.jpg "Illustration. A closed rectangle with a tie at the top. Not a tested pouch.")
 
-![A tape next to a few plain makeup tubes](../../assets/articles/how-to-crochet-a-makeup-pouch-2.jpg "Illustration. Measure the items you carry. The 7 by 5 inch example is not those items.")
+## What is a technique, and what is only a plan
 
-Lay out the items you want in the pouch. You need two numbers:
+| Piece of this page | What it is |
+| --- | --- |
+| Rectangle folded at the bottom, sides seamed | Standard construction. |
+| Width covers the item's width and its thickness | Geometry. The fabric goes around the item. |
+| 1.5 in above the tallest item for the gather | A starting allowance. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| About 100 yards, a 110-chain tie | Old lines, not measured. Withdrawn. The cord is now measured. |
 
-- The width of the widest item, plus a little room so it is not scraped in.
-- The height of the tallest item, plus room to close the top above it.
+## How the pouch is built
 
-Example, not a packing list: a pouch about **7 inches** wide and **5 inches** tall, for a few short tubes and a small compact. At the gauge below, that is a rectangle **28 stitches** wide and **50 rows** long. The 50 rows are the front and the back together. Folded, 50 rows is about **10 inches**, which makes a pouch about **5 inches** tall. If you stop at 5 inches of rows, the finished pouch is about 2.5 inches tall and your tubes will stick out of the top.
+Crochet a rectangle twice as long as the pouch is tall. Fold it in half so the fold is the bottom. Seam both sides with single crochet through both layers, on the wrong side. Turn it right side out. Around the opening, work an eyelet round and a round above it. Thread a cord through the eyelets and pull.
 
-Write your own counts before you chain:
+Seaming on the wrong side matters. A single crochet seam leaves a ridge. Turned inside, the ridge is hidden, and the outside shows only a neat fold line at each side.
 
-1. Width in inches, plus about 1/2 inch, times your stitches per inch. That is the stitch count.
-2. Twice the height you want, times your rows per inch. That is the row count.
+## Measure what goes in
 
-A stack of palettes needs more width. A long pencil needs more height. Measure the pencil. Do not guess from the photo.
+Lay out what you will carry and find three numbers:
 
-## Materials
+1. **The widest item**, lying flat. Example: a palette, 5.75 inches.
+2. **The thickest item.** Example: a compact, 0.75 inch.
+3. **The tallest item**, standing. Example: a brush or tube, 3.5 inches.
 
-![Worsted cotton, a hook, and a short crochet chain for a tie](../../assets/articles/how-to-crochet-a-makeup-pouch-1.jpg "Illustration. Cotton. The tie is a chain. Yardage is an estimate.")
+<figure class="diagram">
+<img src="/diagrams/pouch-item-sizing.svg" alt="A folded pouch, 28 stitches wide and 25 rows tall per side, with items inside and a drawstring near the top. Width: 5.75 widest plus 0.75 thickest plus 0.5 ease is 7 inches, 28 stitches. Height: 3.5 tallest plus 1.5 for the gather is 5 inches per side, 50 rows in all." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Thickness counts as width. Gathering needs height. Both come from the contents.</figcaption>
+</figure>
 
-- Worsted cotton. About **100 yards** for the example, including the tie. A larger pouch needs more. This was not weighed off a finished pouch. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the hook that hits gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
+**Width.** Widest item + thickest item + about half an inch of ease. A flat pouch with a 0.75 inch compact inside bulges, and the bulge takes fabric from the width. The same rule sizes the [phone case](/how-to-crochet-a-phone-case/).
+
+**Height.** Tallest item + about 1.5 inches. The eyelets sit near the top, and gathering pulls the fabric above the contents into the middle. Without that spare height, the cord closes on top of the tallest tube and leaves a gap.
+
+## Yarn, hook, and gauge
+
+![Worsted cotton, a hook, and a short crochet chain for a tie](../../assets/articles/how-to-crochet-a-makeup-pouch-1.jpg "Illustration. Cotton. The tie is a chain. Not a weighed amount.")
+
+- **Smooth worsted cotton.** It washes. It also stains: makeup oil and dark lipstick will not come out of pale cotton just because it is cotton. Pick a color that can wear a mark. Fuzzy yarn grabs powder and pills. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the hook that gives dense fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors.
 
-Cotton washes. Makeup oils still stain it, and a dark lipstick will not come out of a pale yarn just because the yarn is cotton. If you care about stains, use a color that can show a mark without looking ruined. Fuzzy yarn grabs product and pills inside the pouch. Skip it.
+Single crochet is the whole fabric. Taller stitches leave holes, and a pressed powder will dust through them. Swatch and measure; [gauge](/crochet-gauge/) turns inches into stitches. The example uses 4 stitches and 5 rows per inch.
 
-Beginner. One sitting after you have the measurements. The only easy mistake that ruins the size is forgetting that the rectangle is both the front and the back.
+## The worked example
 
-## Gauge (estimate)
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Width | 5.75 + 0.75 + 0.5 | 7.0 in, 28 sc, chain 29 |
+| Height per side | 3.5 + 1.5 | 5.0 in |
+| Rows | 5.0 × 2 sides × 5 rows | 50 rows |
+| Opening | 28 + 28 | 56 sts, even |
+| Cord | 14 in around + 2 tails of 5 in | 24 in |
 
-**4 sc = 1 inch. 5 rows = 1 inch.**
+## Stage 1: the rectangle
 
-Unverified on a pouch. Swatch. [Gauge](/crochet-gauge/) is how you turn 7 inches into 28 stitches. If your swatch is 3.5 sc to the inch, 28 stitches is 8 inches, and the pouch is a different object. Divide again. Do not follow 28 and 50 unless you are close to this gauge and you want this example size.
+Chain 29. Keep the chain loose. The foundation edge becomes half of the opening, and a tight chain draws it in.
 
-The [basic single crochet](/basic-crochet-stitches/) is the whole fabric. A taller stitch makes holes, and a powdered compact will dust through them.
-
-## Rectangle
-
-Ch 1 does not count as a stitch.
-
-![A cotton single-crochet rectangle, wider than it will be tall once folded](../../assets/articles/how-to-crochet-a-makeup-pouch-3.jpg "Illustration. The row count covers the front and the back. The fold is the bottom.")
-
-For the example, chain 29.
-
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (28)
+**Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (28)
 
 **Rows 2–50:** Sc in each stitch. Ch 1, turn. (28)
 
-Twenty-eight stitches at 4 sc to the inch is about **7 inches**. Fifty rows at 5 rows to the inch is about **10 inches**. Keep the starting chain looser than the rows so the bottom edge, which is the fold, does not cup.
+The ch 1 does not count as a stitch. Count every 10 rows. An extra stitch makes one side seam longer than the other, and the pouch twists.
 
-Count the rows in tens. If you lose count, measure. Ten inches of fabric is the example. Your tape overrules the number 50.
+**Checkpoint:** fold the rectangle in half and set the contents on it. The fabric should close around them with the edges meeting and about an inch and a half above the tallest item. If not, add rows now.
 
-## Seam
+## Stage 2: seam
 
-Fold so the fold is the bottom, at the middle of the length. Row 1 and row 50 meet at the top. They are the opening. Do not sew them together.
+Fold so row 1 meets row 50, right sides together. The fold is the bottom. Join yarn at the fold on one side and single crochet through both layers, one stitch in each row end, up to the opening. Fasten off. Repeat on the other side. Start each seam in the fold itself, not one row above it, or powder leaks out of the corner. Turn the pouch right side out.
 
-Hold the side edges with right sides together. Single crochet through both layers from the fold up to the top row. Fasten off. Repeat on the other side. Turn the pouch right side out.
+## Stage 3: eyelets and the top round
 
-The side seams should stop at the opening. If you seam across the top, nothing can go in. If you leave a gap at the bottom corner, powder will leave through it. Start the seam in the fold, not one row above it.
+Join yarn at one side seam at the opening. You will work around both top edges: 28 stitches along row 50 and 28 along the foundation chain, 56 in all.
 
-## Drawstring
+**Eyelet round:** Ch 1, (sc in the next stitch, ch 1, skip 1) 28 times. Slip stitch to the first sc. (28 sc, 28 ch-1 spaces)
 
-Join yarn at one side seam, on the opening. You are working around both top edges. The example has 28 stitches on each edge, **56** around. If your seams used the end stitches, count what is left and add or skip a stitch so the total is even. The eyelet round needs an even number.
+**Top round:** Ch 1, sc in each sc and in each ch-1 space. Slip stitch to the first sc. (56) Fasten off.
 
-**Eyelet round:** Ch 1, *sc in the next stitch, ch 1, skip 1* around. Join with a slip stitch to the first sc. (28 sc and 28 chain-spaces on a 56-stitch opening)
+The eyelet round needs an even count, because each repeat uses two stitches. If the seams took a stitch at the corners and you have 55, work 2 sc in one corner stitch before you start. The [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) shows what an odd count does to the last hole.
 
-**Next round:** Ch 1, sc in each sc and in each chain-space around. Join. Fasten off. (56)
+## Stage 4: the cord
 
-The chain-spaces are the holes the tie runs through. The second round sits above them so the tie has a little tunnel and the top edge does not roll into a ruffle.
+The cord goes once around the opening, 14 inches, and leaves two tails to knot, about 5 inches each: 24 inches. Chain to 24 inches without stretching, then slip stitch back along the chain so it does not stretch in use.
 
-**Tie:** Chain **110**. Test it around the pouch before you weave. You want the chain to go all the way around and still leave two tails you can knot. If the tails are short, pull the chain out and add chains. Do not guess an inch length from 110 chains. Chain gauge is not the single-crochet gauge.
+Thread it in and out of the eyelets, starting and finishing at the center front. Knot each tail so it cannot pull back through.
 
-Weave the chain through the eyelets, in and out, starting and ending at the center front. Knot each tail so the chain cannot pull back through a hole. Pull the two tails to close the pouch.
+![A chain woven through eyelets at the top of the pouch](../../assets/articles/how-to-crochet-a-makeup-pouch-4.jpg "Illustration. The tie starts and ends at the front.")
 
-![A chain woven through eyelets at the top of the pouch](../../assets/articles/how-to-crochet-a-makeup-pouch-4.jpg "Illustration. The tie starts at the front. Both tails stay long enough to knot.")
+**Checkpoint:** pack the pouch and pull the cord. The top should close above the tallest item with no gap you can see into.
 
 <div class="warning">
 
-Do not put nail polish, a leaking bottle, or a wet brush in this pouch. Cotton will hold the stain and pass the liquid to whatever it touches. Dry tubes and a compact are the use. If you need a wet bag, this is the wrong fabric.
+Do not put nail polish, a leaking bottle, or a wet brush in this pouch. Cotton holds the stain and passes the liquid on to whatever it touches. This is a dry organizer, not a wash bag.
 
 </div>
 
-![The pouch closed, with the tie knotted in front](../../assets/articles/how-to-crochet-a-makeup-pouch-5.jpg "Illustration. Closed top. Not a waterproof lining.")
+## Troubleshooting
 
-## A different set of items
+**The top will not close over the items.** Not enough height for the gather. Add rows, or carry fewer tall things.
 
-A lipstick does not need a 7 inch pouch. Use the two-line formula above, and keep the eyelet round on an even stitch count. If the top is much under 8 inches around, the chain is harder to weave. Still skip 1, not 2, or a tube can slip through a loose tie.
+**It bulges and the seams strain.** The width did not include the thickness of the thickest item.
 
-A wide palette needs more stitches, not a second rectangle sewn on. One rectangle folds. Two rectangles make a lump, and the drawstring will not close.
+**The pouch twists.** The rows gained or lost stitches, so one side seam is longer.
 
-## Mistakes
+**One spot will not gather.** An odd count on the eyelet round left a missing hole.
 
-**A rectangle that is only the front.** Fifty rows feels long on the hook. Folded, it is the example height. Stop at 25 rows and the pouch is half as tall as you planned.
+**The cord stretches and the top reopens.** Slip stitch back along the chain.
 
-**Sewing the top shut.** The drawstring then decorates a bag you cannot open. Seam the sides only.
-
-**A short tie.** It goes around once and the tails disappear into the eyelets. Test 110 chains, or whatever you chained, before you weave.
-
-**Uneven eyelets.** If you forget a skip, the tie bunches on one side and the pouch closes in a twist. The count is sc, chain 1, skip 1, all the way around, on an even number.
+**Powder escapes at a bottom corner.** A seam started above the fold. Close the corner with a few stitches.
 
 ## Care
 
-Empty it. Hand wash cool. A stained spot from makeup may not leave. Dry flat, with the tie pulled free so the eyelets do not dry crushed. Put products back only when the cotton is dry. Damp cotton in a purse smells, and it will mark a book sleeve sitting next to it.
+Empty it. Hand wash cool. A makeup stain may not come out. Dry flat with the cord pulled loose so the eyelets do not dry crushed. Refill only when dry.
 
 ## Frequently asked
 
-**Will it fit a full makeup bag's worth?**
+**Can I line it?**
 
-Not the example. Seven by five inches is a small pouch. Measure the pile you mean, and change the stitch count and the row count. Do not stuff the example and hope the seams give.
+A cloth lining stops crumbs and some stains. Cut it from the finished pouch, not from these numbers. This page does not include a lining pattern.
+
+**What about a bigger pouch?**
+
+Redo the table from your own three measurements. The method does not change.
 
 **Can I sell pouches?**
 
 Finished pouches, yes. Do not republish the rows as your pattern.
 
-**Can I line it?**
-
-A cloth lining stops small crumbs and some stains. Cut it from the pouch you finished, not from these estimates, because your gauge may not be 7 by 5. This page does not include a lining pattern. Unlined cotton is the project as written.
-
 ## Next
 
-The same rectangle, sized to a phone and given a long strap, is the [phone crossbody](/how-to-crochet-a-phone-crossbody/). A flat cover for a book is the [book sleeve](/how-to-crochet-a-book-sleeve/). If the pouch is only one thing inside a larger bag, the open carry is the [granny square tote](/how-to-crochet-a-granny-square-tote/), which will drop anything smaller than its holes.
+A pouch with a zipper instead of a cord is the [pumpkin zipper pouch](/how-to-crochet-a-pumpkin-zipper-pouch/). The same rectangle with a strap is the [mini shoulder bag](/how-to-crochet-a-mini-shoulder-bag/).

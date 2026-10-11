@@ -1,7 +1,8 @@
 ---
 title: "Halloween Crochet Card Wallet with Ghost (Easy Flap + Button)"
-description: "A single-crochet card wallet sized from the card you will carry: one rectangle, a folded pocket, a flap, and a button. The photo is an illustration."
+description: "Size a single-crochet card wallet from the cards you carry: one rectangle folded into a pocket and flap, a button, and a flat ghost. Photos are illustrations."
 pubDate: 2026-09-30
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -17,128 +18,173 @@ tags:
     "how to",
     "gift",
   ]
+glance:
+  time: "One rectangle in three zones, two seams, a small appliqué"
+  size: "Worked out from your cards"
+  yarn: "Worsted in orange, with white and black scraps"
+  hook: "The hook that gives firm fabric"
+  yardage: "Not weighed. Weigh 10 rows and multiply."
 ---
 
-One tall single-crochet rectangle becomes a pumpkin-orange card wallet: fold a pocket, leave a flap, sew on a black button, and add a tiny ghost. The same pocket later takes a spider, bat, pumpkin, or cat appliqué.
+A card wallet is one rectangle with three jobs. The bottom part folds up to become the front of the pocket. The middle is the back. The top is a flap that folds over and buttons. Once you see the rectangle as those three zones, you can size it for any card, and the same method works for a gift-card pocket, a transit-card holder, or a slim wallet for two cards and a license.
 
-![A close-up of a pumpkin-orange crochet card wallet with a black button closure and a small white ghost applique, held in front of warm Halloween candles and pumpkins](../../assets/articles/halloween-crochet-card-wallet-result.jpg "Illustration. Intended look: flap, black button, and a tiny ghost. Not a photograph of a fitted wallet.")
+This page works the method through one example in pumpkin orange, with a black button and a small flat ghost on the flap. The ghost is decoration. The pocket is the skill.
+
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/), and [basic stitches](/basic-crochet-stitches/) if rows are new. The pictures are illustrations. No wallet for this page was crocheted or fitted to a card.
+
+![A close-up of a pumpkin-orange crochet card wallet with a black button closure and a small white ghost applique, held in front of warm Halloween candles and pumpkins](../../assets/articles/halloween-crochet-card-wallet-result.jpg "Illustration. A flap wallet with a button and a ghost. Not a photograph of a fitted wallet.")
+
+## What is fact, and what is only a plan
+
+| Piece of this page | What it is |
+| --- | --- |
+| 3.370 × 2.125 in, 0.030 in thick | The ISO/IEC 7810 ID-1 card size. Most US bank cards and licenses. |
+| Width covers the card, the stack, ease, and seams | Geometry, plus a starting allowance. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| "Three cards is the maximum" | An old line that was never tested. Withdrawn. Your stack is the test. |
+
+## How the rectangle becomes a wallet
+
+<figure class="diagram">
+<img src="/diagrams/card-wallet-layout.svg" alt="A rectangle 16 stitches wide in three zones: rows 1 to 12 are the front, folded up; rows 13 to 24 are the back; rows 25 to 31 are the flap, with a loop on row 31 and a ghost on the flap. Width is the card plus stack, ease, and seams, about 3.9 inches. The pocket is 12 rows, 2.4 inches deep." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Fold on the first dashed line to make the pocket. Fold on the second to close the flap.</figcaption>
+</figure>
+
+The foundation chain sets the width, and it does not change. The rows build the three zones one after another. After the last row, fold the front up against the back, seam the sides of the pocket only, and leave the flap free.
+
+## Size it from your cards
+
+Stack every card the wallet will hold and measure the stack. An ID-1 card is 0.030 inch thick, so two cards are about 0.06 inch and a license plus two cards about 0.09.
+
+**Width.** The fabric has to cover the card's width and its stack thickness, plus some ease so the cards slide, plus the side seams, which take up about one stitch.
+
+**Pocket depth.** The card's height plus a little ease. The flap covers the top, so the card can sit fully inside.
+
+**Flap.** It has to fold over the top of the back, past the opening, and reach a button on the front. About 1.4 inches suits a 2.4 inch pocket.
+
+## The worked example
+
+Two ID-1 cards, at 4 stitches and 5 rows per inch.
+
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Width | 3.37 + 0.06 stack + 0.25 ease + 0.25 seams | 3.93 in, 16 sc, chain 17 |
+| Pocket depth | 2.125 + 0.03 + about 0.25 ease | about 2.4 in, 12 rows |
+| Front | same as the pocket | rows 1–12 |
+| Back | same as the pocket | rows 13–24 |
+| Flap | about 1.4 in | rows 25–31 |
+| Loop row | 6 + 4 + 6 | sc 6, ch 4, skip 4, sc 6 |
 
 ## What you need
 
-- Worsted yarn in **pumpkin orange**, plus scrap **white** and scrap **black**
-- A hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm)
-- **One black button**, about **⅝–¾ in (15–20 mm)** across
-- A yarn needle, and stitch markers or clips
-- **The card the wallet must hold.** Do not guess the size
+- Worsted yarn in **pumpkin orange**, plus scraps of **white** and **black**.
+- A hook that gives firm fabric, often US G/6 (4.0 mm). A soft pocket lets cards slip.
+- **One black button**, about 3/4 inch (20 mm) across.
+- Yarn needle, clips or stitch markers.
+- **The cards the wallet will hold.**
 
-US terms. The body is almost only single crochet. If rows are new, skim [basic crochet stitches](/basic-crochet-stitches/) first.
+## Stage 1: chain and check
 
-## Finished size
+Chain 17. Sc in the second chain from the hook and in each chain across. Ch 1, turn. (16)
 
-A standard ID-1 card, the size used for most US credit and debit cards, is **3.370 in × 2.125 in** (85.60 mm × 53.98 mm) under ISO/IEC 7810. Gift cards are sometimes shorter. Measure the card this wallet has to hold. The crochet rectangle on this page has not been fitted to a card, and the photos are illustrations.
-
-| Piece | Target size |
-| --- | --- |
-| Pocket (inside, after seaming) | about **3.75 in wide × 2.5 in tall** |
-| Flap (extra fabric above the pocket) | about **1.25–1.5 in** deep when folded down |
-| Full rectangle before folding | about **3.75 in wide × 6.5–7 in tall** (back + front + flap) |
-
-Tension moves the inches. The card is the measure.
-
-![A flat orange crochet wallet rectangle beside a standard plastic card used as a size check](../../assets/articles/halloween-crochet-card-wallet-size.jpg "Illustration. Size check: lay your real card on the fabric before you seam or add the button.")
-
-## Step 1: measure, then chain
-
-Chain in orange until it sits about **¼ in wider** than the card's long edge, relaxed. Often that is **ch 16–20**. Write it down. Single crochet in the second chain from the hook and across. That count is every later row.
+Lay a card on the first row. The fabric should be wider than the card by about the width of two stitches. If it is not, start again with more stitches or a larger hook. Measuring now saves seaming a pocket the card cannot enter.
 
 <div class="tip">
 
-**If the first row cups,** the chain was too tight. Redo it looser, or use one larger hook for the chain only.
+**If the first row cups,** the chain was too tight. Redo it looser, or work the chain on a hook one size larger.
 
 </div>
 
-## Step 2: the tall rectangle
+## Stage 2: the front and back
 
-![Hands crocheting a flat orange single-crochet rectangle that will become the card wallet body and flap](../../assets/articles/halloween-crochet-card-wallet-1.jpg "Illustration. Step 2 — one tall orange rectangle: pocket panels plus flap in one piece.")
+**Rows 2–24:** Sc in each stitch. Ch 1, turn. (16)
 
-**Rows of single crochet.** Chain 1 and turn. The turning chain does not count. Keep the same stitch count.
+The ch 1 does not count as a stitch. Count every few rows.
 
-Stop at about **two card heights**, back plus front, **plus 1.25–1.5 in** of flap. Lay the card on the fabric twice from the bottom and leave the flap above that. If it drapes like a dishcloth, go down a hook size. Soft pockets drop cards.
+**Checkpoint at row 24:** fold the first 12 rows up against the next 12. Slide the cards in. They should go in flat and sit just inside the opening. If the top of a card shows, add rows to both the front and back zones. Unfold and carry on.
 
-## Step 3: a black edge stripe
+![Hands crocheting a flat orange single-crochet rectangle that will become the card wallet body and flap](../../assets/articles/halloween-crochet-card-wallet-1.jpg "Illustration. One tall rectangle. The pocket and flap are both in it.")
 
-Optional: work the **last 2 rows** in black so the flap edge has a thin stripe.
+## Stage 3: the flap
 
-![A crochet hook changing from pumpkin-orange yarn to black for a thin edge stripe on the wallet rectangle](../../assets/articles/halloween-crochet-card-wallet-2.jpg "Illustration. Step 3 — optional black edge: change color on the last yarn-over for a crisp line.")
+**Rows 25–30:** Sc in each stitch. Ch 1, turn. (16)
 
-Change color on the last yarn-over of the final orange stitch, so the black loop is already on the hook. The same join is in [changing yarn color](/changing-yarn-color-crochet/). Weave the tails on the wrong side later.
+For a black stripe at the flap edge, [change color](/changing-yarn-color-crochet/) on the last yarn-over of row 29 and work rows 30 and 31 in black.
 
-## Step 4: fold the pocket
+**Row 31:** Sc 6, ch 4, skip 4, sc 6. (12 sc and a ch-4 loop)
 
-![The orange wallet rectangle folded so the pocket sits at the bottom and a short flap extends above the opening](../../assets/articles/halloween-crochet-card-wallet-3.jpg "Illustration. Step 4 — fold for the pocket only. The extra rows above the opening become the flap.")
+Fasten off. Six, four skipped, and six is sixteen, so the loop sits centered and the edge stays the same width. Four skipped stitches span about an inch, which suits a 3/4 inch button. For a 1/2 inch button, work sc 7, ch 3, skip 2, sc 7.
 
-Fold the bottom up to about the card's height, plus a little ease. The rows left on top are the flap, and they stay free. Clip the long sides of the **pocket only**. Where the card sits is pocket. Everything above it is flap.
+## Stage 4: fold and seam
 
-## Step 5: seam the sides
+Fold rows 1 to 12 up against rows 13 to 24. Clip the sides. Whipstitch both sides from the fold to the opening, through the outer loop of each edge stitch. **Stop at the opening.** Sewing into the flap makes a closed pouch. Add an extra stitch at the top of each seam, where cards pull. Weave the ends inside the seams, not loose in the pocket.
 
-![A tapestry needle whipstitching one side seam of the folded orange card wallet, stopping below the flap](../../assets/articles/halloween-crochet-card-wallet-4.jpg "Illustration. Step 5 — seam both long sides of the pocket only. Stop before the flap.")
+![A tapestry needle whipstitching one side seam of the folded orange card wallet, stopping below the flap](../../assets/articles/halloween-crochet-card-wallet-4.jpg "Illustration. Seam the pocket sides only. Stop before the flap.")
 
-Whipstitch or mattress-stitch both long sides in orange, from the fold to the opening. **Stop there.** Sewing the flap shut makes a pouch. Add a stitch at each top corner. Weave ends on the inside so they do not catch the card.
+## Stage 5: the button
 
-## Step 6: button and loop
+Put the cards in. Fold the flap down and mark where the loop lands on the front. Sew the button there, **through the front wall only**. If the needle goes through both layers, the pocket is sewn shut at that point, and the cards hit the button's shank.
 
-![Hands sewing a glossy black button onto the flap of an orange crochet card wallet](../../assets/articles/halloween-crochet-card-wallet-5.jpg "Illustration. Step 6 — sew the black button, then test the chain loop on the real button.")
+## Stage 6: a flat ghost
 
-Sew the **black button** on the pocket front, centered, where the flap covers it. Sew through the **front wall only**, or the card hits the shank.
+A ghost worked as a little tube flattens to about an inch and a half wide, which crowds a 4 inch flap. This one is flat and about an inch tall.
 
-Chain a loop at the center of the flap, often **ch 6–10**, tested on the real button. Slip stitch back into the join. Too tight yanks the flap. Too loose falls open. Or skip 2–3 stitches under a short chain on the last flap row, and single crochet into that chain next row.
+With white:
 
-## Step 7: the ghost
+**Round 1:** 6 sc in a magic ring. Slip stitch to the first sc. (6) This is the head, about half an inch across.
 
-Keep the ghost about **1–1.25 in tall** so the flap still closes flat.
+**Row 1:** Ch 1, sc in the next 3 stitches. Turn. (3)
 
-![Hands sewing a tiny white crochet ghost with black eyes and smile onto the front of an orange card wallet](../../assets/articles/halloween-crochet-card-wallet-6.jpg "Illustration. Step 7 — keep the ghost small so the flap still closes flat.")
+**Row 2:** Ch 1, sc in each stitch. Turn. (3)
 
-1. With white, magic ring, 6 sc. (6)
-2. Increase around. (12)
-3. Single crochet around for 2 rounds.
-4. Soft hem: *sc, hdc, dc, hdc, sc in next 5 sts* (or similar), so the bottom ripples. Same idea as a [beginner ghost](/crochet-ghost-amigurumi-for-beginners/), much smaller.
-5. Flatten. Fasten off with a tail for sewing.
+**Row 3:** Sl st in the first stitch, 3 hdc in the next, sl st in the last. (A wavy hem)
 
-French-knot eyes and a small curved mouth in black. Sew it to the **lower front corner**, knots inside. Wider than a third of the pocket, it wrinkles under the flap.
+Fasten off with a tail for sewing. Embroider two French-knot eyes in black. Sew the ghost to the flap, to one side of the loop, so it shows when the flap is closed. Sew through the flap only.
 
-## Step 8: fit check
+## Fit check
 
-![A plastic card sliding into the finished orange crochet wallet to test width and depth](../../assets/articles/halloween-crochet-card-wallet-fit.jpg "Illustration. Pass/fail: the card slides in without a fight, the flap closes over the button, and nothing falls out when you tip it.")
+Slide the cards in, close the flap, and tip the wallet upside down.
 
-Slide the card in, close the flap, and tip the wallet.
-
-**Too tight:** add 1–2 stitches of width next time, or seam more loosely. **Too loose:** one round of single crochet around the opening. **Flap too short:** add rows before you seam. **The loop fights:** lengthen or shorten the chain. Do not force the fabric.
-
-One or two cards fit comfortably. Three is the maximum in worsted single crochet. Test your thickest card.
+**Too tight:** next time add a stitch or two of width. **Too loose:** a round of slip stitch around the opening firms it. **Flap will not reach:** add flap rows before row 31. **The loop fights the button:** rework row 31 with one chain more or less.
 
 ## Same pocket, different face
 
-Change the appliqué and the base color. The pocket stays the same.
-
-![A set of Halloween crochet card wallets with ghost, pumpkin, bat, spider, and cat fronts laid out on a wooden table with pumpkins and candles](../../assets/articles/halloween-crochet-card-wallet-variations.jpg "Illustration. Same pocket construction, different appliqués — ghost, pumpkin, bat, spider, cat.")
+![A set of Halloween crochet card wallets with ghost, pumpkin, bat, spider, and cat fronts laid out on a wooden table with pumpkins and candles](../../assets/articles/halloween-crochet-card-wallet-variations.jpg "Illustration. Same three-zone rectangle, different appliqués. Not made samples.")
 
 | Look | Base color | Appliqué idea |
 | --- | --- | --- |
-| Ghost (this tutorial) | Orange or black | Small white ghost and an embroidered face |
-| Pumpkin | Orange or gray | Flat orange circle, black face stitches, green scrap stem |
-| Bat | Gray or black | Flat black wings and a tiny head |
-| Spider | Gray or cream | Small black body and eight chain legs |
-| Cat | Black | Ear triangles on the flap, plus whisker stitches |
+| Ghost (this page) | Orange or black | The small flat ghost above |
+| Pumpkin | Orange or gray | A 6-stitch circle in orange, a few black face stitches, a green scrap stem |
+| Bat | Gray or black | Two small black triangles in rows for wings, a 6-stitch head |
+| Spider | Gray or cream | A 6-stitch black circle with eight embroidered legs |
+| Cat | Black | Two ear triangles at the flap edge, embroidered whiskers |
 
-## Mistakes
+## Troubleshooting
 
-Guessing the size instead of using your card. Seaming the flap into the sides. A soft gauge that lets cards slide out. Go down a hook size. A ghost bigger than the front. A button sewn through both layers.
+**Cards go in but bow.** The width only covers the card, not the stack. Add a stitch.
+
+**The flap pops open.** Too many cards for the flap length, or a loop that is too long. Fewer cards, or one more flap row.
+
+**The pocket sags open at the top.** Loose gauge. Go down a hook size and redo it.
+
+**The ghost wrinkles the flap.** It is sewn too tightly, or it is too big. Sew it loosely through the back of its stitches.
+
+**The seams pull open at the top.** One stitch at the stress point. Add a second.
 
 ## Frequently asked
 
-**Will a license and a card fit together?** Usually, if the width has ease and you do not overstuff it. Stack them and test before you gift it.
+**Will a license and two cards fit?**
 
-**Can I skip the ghost?** Yes. Orange yarn and a black button are enough. The ghost is decoration.
+At this size, by the arithmetic, yes. Stack yours and check before you seam.
 
-**Do I need amigurumi?** No. The body is flat rows. The ghost is a small magic ring, or a white felt shape if you want no rounds.
+**Can I skip the ghost?**
+
+Yes. Orange and a black button are enough.
+
+**Do I need to know amigurumi?**
+
+No. The body is flat rows. The ghost is one round and three rows.
+
+## Next
+
+A fixed-count version with a deeper pocket that also takes a folded bill is the [ghost mini wallet](/ghost-crochet-mini-wallet/). A pocket with no flap is the [Christmas gift card holder](/how-to-crochet-a-christmas-gift-card-holder/).

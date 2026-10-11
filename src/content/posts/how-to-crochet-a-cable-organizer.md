@@ -1,116 +1,137 @@
 ---
 title: "How to Crochet a Cable Organizer"
-description: "A short oatmeal crochet strap that wraps one coiled charging cable and closes with a button. US terms. Not crush-proof, and not a yarn-tested sample."
+description: "A short crochet strap that holds one coiled charging cable with a button, sized from a paper strip around your coil. US terms. Not a yarn-tested sample."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["cable organizer", "scrap yarn", "beginner", "how to"]
+glance:
+  time: "One short strip and a buttonhole"
+  size: "From the distance around your coiled cable"
+  yarn: "Smooth worsted cotton, scraps"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. A scrap project."
 ---
 
-A charging cable in a bag becomes a knot because nothing holds the coil. A short crochet strap fixes that. It does not protect the cable from a crush, and it does not replace a case for the brick.
+A charging cable in a bag turns into a knot because nothing holds the coil. A buttoned strap does. This is about the smallest useful thing you can crochet, and it still has one measurement that decides whether it works: the distance around the coiled cable where the strap will sit. Make the strap to a fixed row count and it will either not reach the button or flap loose around a thin cable.
 
-Coil the cable first. The strap only keeps a coil you already made.
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No strap for this page was crocheted or buttoned around a cable. The 4 inch coil in the example is invented so the arithmetic has numbers.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). Photos are illustrations. The strap has not been wrapped around a measured cable in yarn. Inches assume the gauge.
+![An oatmeal crochet strap around a coiled white cable](../../assets/articles/how-to-crochet-a-cable-organizer-result.jpg "Illustration. A buttoned strap around one coil. Not a strap measured on a cable.")
 
-![An oatmeal crochet strap around a coiled white cable](../../assets/articles/how-to-crochet-a-cable-organizer-result.jpg "Illustration. Intended look: a buttoned strap around one coil. No brand marks.")
+## What is a technique, and what is only a plan
 
-## Before you start
+| Piece of this page | What it is |
+| --- | --- |
+| Single crochet strip with a buttonhole on the last row | Standard. |
+| Button-to-buttonhole distance = distance around the coil | Geometry. |
+| 4 in coil | An invented example. Measure yours. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| 36 rows and about 20 yards | The old fixed length. It only fits a coil about 6.4 in around. Withdrawn. |
 
-![A tangled white cable on a desk](../../assets/articles/how-to-crochet-a-cable-organizer-1.jpg "Illustration. The tangle is the problem. The strap does not untie knots by itself.")
+## How the strap works
 
-Lay the cable in a loop about the width of your palm. Note how fat the coil is. A thin phone cable needs a shorter strap than a thick laptop brick cable. The pattern below is for a palm-sized coil of a thin cable. Add rows if your coil is fatter. Do not guess from the photo.
+The strap is a narrow rectangle in rows. A button is sewn near the first row. The last row has a buttonhole made by chaining over skipped stitches. Wrapped around the coil, the buttonhole meets the button.
 
-## Materials
+So the length is not a style choice. The distance from the button to the buttonhole has to equal the distance around the coil. Everything else on the strap is a small margin at each end. The earlier version of this page gave 36 rows with the button 4 rows up. That puts 32 rows, about 6.4 inches, between them. It fits a fat laptop coil and leaves a loose loop around a thin phone cable.
 
-![Oatmeal yarn, a hook, and a wood button](../../assets/articles/how-to-crochet-a-cable-organizer-2.jpg "Illustration. About 20 yards. That number is an estimate.")
+## Measure the coil
 
-- Worsted cotton, oatmeal, about **20 yards**. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
-- A button about 1/2 inch wide.
+Coil the cable the way it already wants to sit. Forcing it the other way puts a twist in it, and the strap will hold that twist just as well.
+
+Wrap a strip of paper around the bundle where the strap will go, snug but not squeezing. Mark the overlap and measure the strip flat. In the example, it is **4 inches**.
+
+<figure class="diagram">
+<img src="/diagrams/cable-strap-length.svg" alt="A coiled cable with a paper strip around the bundle, 4 inches in the example. Below, the strap laid flat with a button 3 rows from the start and a buttonhole on the last row. The distance between them is 4 inches. The total is 0.6 plus 4 plus 0.2, which is 4.8 inches, or 24 rows at 5 rows per inch." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The strap's working length is the button-to-buttonhole distance. The rest is margin.</figcaption>
+</figure>
+
+## Yarn and hook
+
+![Oatmeal yarn, a hook, and a wood button](../../assets/articles/how-to-crochet-a-cable-organizer-2.jpg "Illustration. Yarn, hook, and button. Not a weighed amount.")
+
+- **Smooth worsted cotton**, from scraps. It is firm and does not stretch much once buttoned. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or one that makes firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
+- **A button about 1/2 inch across.**
 - Yarn needle, scissors.
 
-Beginner. Under an hour. If you want a pouch for the earbud case instead of a wrap for the cord, use the [earbud pouch](/how-to-crochet-an-earbud-pouch/).
+Crochet three or four rows and measure stitches and rows per inch. The example uses 4 stitches and 5 rows per inch.
 
-## Gauge (estimate)
+## The worked example
 
-**4 sc = 1 inch. 5 rows = 1 inch.**
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Width | 2 in × 4 sts | 8 sts, chain 9 |
+| Margin below the button | 3 rows | 0.6 in |
+| Button to buttonhole | the coil measurement | 4 in, 20 rows |
+| Buttonhole row | 1 row | 0.2 in |
+| Total | 0.6 + 4 + 0.2 = 4.8 in | 24 rows |
+| Buttonhole | 3 + 2 + 3 | sc 3, ch 3, skip 2, sc 3 |
 
-8 stitches are about **2 inches** wide. 36 rows are about **7 inches** long. That is enough to go around a small coil and overlap for the button. It is short on purpose. A long strap is just more yarn to undo every time you need the cable.
+The buttonhole spans 2 skipped stitches, about half an inch at this gauge, to suit a half-inch button. For a larger button, skip 3 and chain 4.
 
-## Strap
+Why 8 stitches wide: in worsted cotton, a strip much narrower than 2 inches tends to roll into a cord. If you want a narrow strap, use a finer yarn and keep the stitch count.
 
-Ch 1 does not count as a stitch.
-
-![A short oatmeal rectangle on the hook](../../assets/articles/how-to-crochet-a-cable-organizer-3.jpg "Illustration. Eight single crochets across, row after row.")
+## Stage 1: the strip
 
 Chain 9.
 
-**Row 1:** sc in the 2nd chain from the hook and across. Ch 1, turn. (8)
+**Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (8)
 
-**Rows 2–35:** sc in each stitch. Ch 1, turn. (8)
+**Rows 2–23:** Sc in each stitch. Ch 1, turn. (8)
 
-**Row 36:** sc in the next 3 stitches, ch 3, skip 2, sc in the last 3. (6 sc and a 3-chain loop)
+The ch 1 does not count as a stitch. Count the eight stitches every few rows. A ninth makes the end wider than the buttonhole row.
 
-3 + 2 skipped + 3 = 8, so the end stays the same width. The loop is the buttonhole. If your button is wider than about 1/2 inch, chain 4 and skip 2, or chain 4 and skip 3 and place the last sc in the final stitch only after you check that you still have a flat end.
+**Checkpoint at row 20:** wrap the strip around the coil. The far end should reach about 0.6 inch past where row 3 lands. If it does not, keep going. If it overshoots, stop early.
 
-Fasten off.
+## Stage 2: the buttonhole
 
-Sew the button about 4 rows up from Row 1, centered. Wrap the strap around the coil. The button should meet the loop without a gap and without bending the cable. If it does not meet, add rows before Row 36. If the overlap is huge, stop a few rows earlier and then work the buttonhole row.
+**Row 24:** Sc 3, ch 3, skip 2, sc 3. (6 sc and a ch-3 space)
 
-![The strap buttoned around a coil](../../assets/articles/how-to-crochet-a-cable-organizer-4.jpg "Illustration. One coil. The button is sewn at the opposite end from the loop.")
+Fasten off. Three plus two skipped plus three is eight, so the end keeps its width, and the chain lies flat across the gap.
 
-## Use
+## Stage 3: the button
 
-Keep one cable per strap. Two cables in one wrap trade a tangle in the bag for a tangle inside the strap. Leave the connectors outside the wrap so you can see which cable it is.
+Sew the button on row 3, centered across the eight stitches, through several stitches. Wrap the strap around the coil and button it. The button should meet the buttonhole without stretching the strap and without bending the cable tighter than it sat.
 
-![The wrapped cable on a desk](../../assets/articles/how-to-crochet-a-cable-organizer-5.jpg "Illustration. The strap holds the coil. It is not a shockproof sleeve.")
+## Optional: keep the strap on the cable
 
-## Which cable
+A strap that comes off every time you use the cable gets lost. To keep it attached, chain 10 with a new length of yarn and sew both ends to the back of the strap near row 1. Pass one end of the cable through that small loop before you plug it in. The strap stays on the cable when you unbutton it.
 
-Label the strap if you own more than one. A short tail of colored yarn through the button-end is enough. Do not write on the cotton with a pen. It bleeds.
+## Troubleshooting
 
-A cable that stays plugged into a brick can still be coiled. Wrap the strap around the cable only, and leave the brick outside. Covering the brick makes a lump that will not button, and the pattern is not a brick cozy.
+**It will not reach the button.** The coil is fatter than the strip. Add rows before the buttonhole row.
 
-Earbud cords that are not in a case can use the same strap if you coil them first. The [earbud pouch](/how-to-crochet-an-earbud-pouch/) is for the case. This page is for the cord. Using one for the other leaves either the case loose or the cord in a tube it cannot charge from.
+**It buttons loose and the coil slides out.** Too long for the coil. Pull out rows and rework the buttonhole row.
 
-Coil in the same direction every time, the way the cable already wants to sit. Forcing a reverse coil and then buttoning it trains a kink. The strap will hold a bad coil just as well as a good one. If the button gapes, add rows. If the fabric buckles, you have too much overlap. Do not sew the strap to the cable to fix either problem.
+**The strip rolls into a tube.** Too narrow for the yarn, or the tension is tight. Add two stitches or go up a hook size.
 
-Coil in the same direction every time, the way the cable already wants to sit. Forcing a reverse coil and then buttoning it trains a kink. The strap will hold a bad coil just as well as a good one.
+**The button pushes through the hole.** The hole is too big for the button. Chain fewer, or skip fewer.
 
-## Other closures
+**The end flares at the buttonhole.** The chain is longer than the skipped stitches can hold flat. Chain one fewer.
 
-A second button is useful only if the cable is so thick that one overlap is not enough. A tie of chain-40 works if you hate sewing. Weave nothing through the cable itself.
+## Use and care
 
-## Mistakes
-
-**A strap narrower than 8 stitches in this yarn.** It rolls into a cord and will not lie on the coil. If you want narrower, use a smaller yarn and more stitches, and ignore the 2-inch estimate.
-
-**Buttonhole in the middle of the strap.** The overlap fails. The hole belongs on the last row.
-
-**Stretching the strap to fit.** Single crochet cotton does not stretch much. Add rows.
-
-## Care
-
-Take the cable out. Hand wash cool. Dry flat. Button it only when dry. A damp strap against a cable jacket is a bad habit, not a feature.
+One cable per strap. Two cables in one strap make a tangle inside the strap. Leave the plug ends outside so you can see which cable it is. To tell straps apart, tie a short tail of colored yarn through the button end. Hand wash cool, dry flat, and button it only when dry.
 
 ## Frequently asked
 
 **Will this fit a laptop charger?**
 
-Often no. Those coils are thicker. Add rows until the button meets, and keep the width at 8 unless the cable is so wide that 2 inches looks silly. Then work 12 stitches and a larger buttonhole: sc 5, ch 3, skip 2, sc 5.
+The cable, yes, once you measure that coil. Laptop cables are thicker, so the coil is fatter and the strap longer. Do not strap the power brick. It makes a lump that will not button.
+
+**Does it stop the cable twisting?**
+
+No. You still coil it by hand. The strap holds the coil you made.
 
 **Can I sell them?**
 
 Finished straps, yes. Do not republish the rows.
 
-**Does it stop the cable twisting inside the coil?**
-
-No. You still coil it by hand. The strap holds that coil.
-
 ## Next
 
-A sleeve for a phone, which is a different measurement problem, is [how to crochet a phone case](/how-to-crochet-a-phone-case/).
+A pouch for the earbud case that goes with the cable is the [earbud pouch](/how-to-crochet-an-earbud-pouch/). The same buttonhole on a wider flap closes the [phone crossbody](/how-to-crochet-a-phone-crossbody/).

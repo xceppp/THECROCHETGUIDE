@@ -1,124 +1,144 @@
 ---
 title: "How to Crochet a Lip Balm Holder"
-description: "A small dusty-rose crochet sleeve and key loop for a lip balm tube. Measure the tube first. US terms, with counts you can check. Not a yarn-tested sample."
+description: "A small crochet sleeve for a lip balm tube, sized from the tube's width and hung from the rim so the tube stays in. US terms. Not a yarn-tested sample."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["lip balm", "keychain", "beginner", "how to"]
+glance:
+  time: "A six-stitch base, a narrow tube, a chain loop"
+  size: "From the tube's width and the height below the cap"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. About 105 single crochet in the example."
 ---
 
-A lip balm tube at the bottom of a bag is the one you never find. A short sleeve with a key loop keeps it on the hardware you already reach for.
+A lip balm loose in a bag sinks to the bottom. A short sleeve on a key ring keeps it on hardware you already reach for. The sleeve itself is quick: a tiny flat base and a narrow tube. The two things that decide whether it works are how many stitches go around and where the loop is sewn. Get the count wrong and the tube drops out. Sew the loop to the wrong end and the tube hangs upside down.
 
-The sleeve is a narrow single-crochet tube. The cap stays out so you can open it without taking the tube out. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No holder for this page was crocheted or fitted to a tube. The tube in the example is an invented size, 0.65 inch across, so the arithmetic has numbers. Measure your own.
 
-Photos are illustrations. This holder has not been fitted to a named brand. Measure your tube. A typical stick is close to 2.5 inches tall and under 3/4 inch across, and plenty of them are not.
+![A dusty rose crochet lip balm holder on a key ring](../../assets/articles/how-to-crochet-a-lip-balm-holder-result.jpg "Illustration. It draws the loop on the closed end with the tube pointing down. This page sews the loop at the rim instead.")
 
-![A dusty rose crochet lip balm holder on a key ring](../../assets/articles/how-to-crochet-a-lip-balm-holder-result.jpg "Illustration. Intended look: short sleeve, cap out, brass ring, no brand label.")
+## What is a technique, and what is only a plan
 
-## Materials
+| Piece of this page | What it is |
+| --- | --- |
+| Small flat base, then even rounds | Standard construction for a closed tube. |
+| Circumference = 3.14 × tube width | Geometry. |
+| 0.65 in tube, 1.9 in below the cap | An invented example. |
+| 4 sc and 5 rounds to the inch | An unverified example gauge. |
+| About 15 yards | An old line. It was not weighed and is withdrawn. |
+
+## How the sleeve is built, and why it hangs from the rim
+
+Round 1 is six single crochet in a magic ring. Round 2 increases to the count that goes around the tube. Every round after that is even, so the fabric turns up into a straight tube. The base is closed, so the tube cannot fall through the bottom.
+
+The loop decides which way up the sleeve hangs. A sleeve hangs from the end the loop is sewn to. Sew it to the closed base and the open rim points at the floor, and every bump in the bag shakes the tube toward the opening. Sew it at the rim and the closed base hangs down, and gravity keeps the tube seated with the cap up where you can reach it. The earlier version of this page had this the wrong way round.
+
+<figure class="diagram">
+<img src="/diagrams/lip-balm-loop.svg" alt="Two sleeves hanging from rings. Left: loop on the closed base, sleeve upside down, tube sliding out of the rim. Right: loop at the rim, base hanging down, cap up. Note: 9 stitches at 4 per inch is 2.25 inches around, and a 0.65 inch tube is 2.04 inches around." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The loop end is the top. Put it at the rim and the closed base becomes the bottom.</figcaption>
+</figure>
+
+## Measure the tube
+
+1. **Width.** Measure across the tube. Example: 0.65 inch.
+2. **Around.** Multiply by 3.14: 0.65 × 3.14 = **2.04 inches**. Or wrap a strip of paper around it and measure the strip.
+3. **Height below the cap.** From the bottom of the tube to the lower edge of the cap. Example: 1.9 inches. The sleeve should stop below this so the cap twists freely.
+
+## Yarn, hook, and gauge
 
 ![Rose yarn, a hook, a key ring, and an unmarked lip balm tube](../../assets/articles/how-to-crochet-a-lip-balm-holder-1.jpg "Illustration. Materials. The tube is the size guide.")
 
-- Worsted cotton, dusty rose, about **15 yards**. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or a size that keeps the fabric firm. [Hook chart](/crochet-hook-size-conversion-chart/).
-- A split ring or a short strap of bag hardware.
-- Yarn needle, scissors, stitch marker.
+- **Smooth worsted cotton.** Fuzzy yarn catches the cap's thread. Sequins catch everything. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
+- A split ring or a lobster clasp.
+- Stitch marker, yarn needle, scissors.
 
-Beginner. Under an hour.
+At this size a square swatch is more work than the project. Make the sleeve, then measure the tube you made around. That measurement is your gauge for the next one.
 
-## Gauge (estimate)
+## The worked example
 
-**4 sc = 1 inch. 5 rounds = 1 inch.**
+| Count around | At 4 sc per inch | Against a 2.04 in tube |
+| --- | --- | --- |
+| 8 | 2.0 in | Tighter than the tube. It will not go in. |
+| **9** | **2.25 in** | About 0.2 in ease. Snug, holds by friction. |
+| 10 | 2.5 in | About 0.45 in ease. Loose. The tube rattles. |
 
-Nine stitches around is about **2.25 inches** in circumference, so the inside is a little under **3/4 inch** across. Ten even rounds are about **2 inches** of sleeve. The cap should stick out past that.
+Wall height: 1.9 inches × 5 rounds per inch is about 9.5 rounds. Ten even rounds, with the base adding a little, leaves the cap clear.
 
-## Sleeve
+Stitches in all: 6 + 9 + (10 × 9) = 105 single crochet. If you want a yardage figure, weigh the finished sleeve. Do not trust a number that was never weighed.
 
-Spiral. Marker. No join. [In the round](/crochet-in-the-round/).
+## Stage 1: the base
 
-![A tiny rose circle on the hook](../../assets/articles/how-to-crochet-a-lip-balm-holder-2.jpg "Illustration. The base is only six stitches.")
+Work in a spiral. Mark the first stitch of each round. [Crochet in the round](/crochet-in-the-round/) explains spirals.
 
 **Round 1:** 6 sc in a magic ring. Pull the ring tight. (6)
 
-**Round 2:** (sc, inc) 3 times. (9)
+**Round 2, for 9:** (Sc, 2 sc in next) 3 times. (9)
 
-Check: three repeats of 2 stitches use all 6, and three increases bring you to 9.
+For 8: (sc 2, 2 sc in next) 2 times. For 10: (2 sc in next, 2 sc in next, sc) 2 times.
 
-**Rounds 3–12:** sc in each stitch. (9)
+Round 2 adds fewer than six stitches, so the base will cup a little. That is what you want. It is the bottom of a tube, not a coaster.
 
-That is 10 rounds with no increases.
+## Stage 2: the tube
 
-![A short rose crochet tube](../../assets/articles/how-to-crochet-a-lip-balm-holder-3.jpg "Illustration. Try the tube before you add the loop.")
+**Rounds 3–12:** Sc in each stitch. (9)
 
-Slide the lip balm in, cap up. The base of the stick should touch the ring end. The cap should clear the rim by enough to twist. If the sleeve is short, add rounds at 9 stitches. If the tube rattles, the fabric is loose: start over on a smaller hook rather than decreasing a round you already worked.
+Slide the tube in after round 7. The bottom of the tube should touch the base. Stop when the rim sits just below the cap.
 
-## Loop
+**Checkpoint:** hold the sleeve rim down and shake it once. A snug sleeve keeps the tube. If it slides out, start again with a smaller hook at the same count, rather than adding a decrease round to an already-finished tube.
 
-Chain 14. Fold the chain in half and sew both ends to the outside of Round 1, the closed base. The loop should be long enough for your split ring and short enough that the tube does not swing into the ground.
+Slip stitch into the next stitch to smooth the step at the end of the spiral, and fasten off with a tail long enough to sew the loop.
 
-Put the ring through the loop. Do not crochet the metal into the stitches. You will want the ring off when you wash the sleeve.
+## Stage 3: the loop
 
-![The tube in the sleeve with the ring at the base](../../assets/articles/how-to-crochet-a-lip-balm-holder-4.jpg "Illustration. Cap stays out. The ring is on a sewn chain, not through the fabric.")
+Chain 14 with a new length of yarn. Fold the chain in half. Sew both ends to the outside of the last round, side by side over two stitches, so the loop stands up above the rim. Go through several stitches, then weave the tail back through the chain.
 
-## On a bag
+Put the split ring through the loop, not through the fabric. You will want the ring off to wash the sleeve.
 
-Clip the ring to a D-ring or a zipper pull you already use. If the sleeve hangs upside down, the tube can walk out. Hang it so the closed base is down, or add one loose strand of yarn across the rim as a keeper you can slide aside. A keeper is optional. A tight sleeve often holds on its own.
+![The holder clipped to a bag](../../assets/articles/how-to-crochet-a-lip-balm-holder-5.jpg "Illustration. Hung from the rim, base down, cap up. The arrangement this page uses.")
 
-![The holder clipped to a bag](../../assets/articles/how-to-crochet-a-lip-balm-holder-5.jpg "Illustration. Closed end down so the tube stays seated.")
+Keys are hard on the loop. It rubs every time they drop. If the holder lives on keys, sew the loop through four stitches instead of two.
 
-## Color and yarn
+## Troubleshooting
 
-Dusty rose is the color in the photos. Any smooth worsted cotton works. A dark color hides the tube, which is fine until you are digging for it. A very light color shows every bit of balm that smears on the rim. Wipe the rim of the tube before you put it back.
+**The tube will not go in.** The count is too small for the tube, or your gauge is tighter than 4 per inch. Go up one count or one hook size.
 
-Do not use a yarn with sequins. The sequin cups catch the twist of the balm and you will fight the tube every time.
+**The tube slides out.** Too much ease, or the loop is on the base. Check where the loop is first.
 
-If you want a set, make the sleeves the same stitch count and change only the color. Different counts in one bunch means one tube fits and the next one falls out, and you will not remember which is which.
+**The cap will not twist.** The sleeve is too tall. Pull out a round.
 
-## On keys
+**The base is a flat disc and the tube wobbles on it.** Round 2 added too many stitches for the count you then worked. Recount round 2.
 
-Keys are harder on the loop than a bag ring. The chain rubs. Sew the loop through several stitches of the base, then weave the tail back through the chain. A loop caught by one stitch pulls out the first time the keys drop.
-
-Keep the sleeve off the ignition key if that key lives in a pocket with coins. Coins chew cotton. A backpack zipper pull is a calmer place.
-
-## Fit test
-
-Use the tube you will actually carry, not a similar one from a different brand. Push it in, twist the cap, and pull it out ten times. The sleeve should stay on the ring, and the tube should stay in the sleeve. If the tube walks out on the fifth pull, the 9-stitch tube is loose for that stick. Start again at 9 stitches on a smaller hook, or accept that this stick needs the 12-stitch version and a keeper strand across the rim.
-
-Check the loop length with the ring on. You should be able to open the split ring without sewing the cotton into the metal. If the chain is too short to feed the ring, add chains before you sew, not after.
-
-## Wider tube
-
-If Round 2 at 9 stitches will not take your stick, work Round 2 as inc in each stitch. (12) Then work the even rounds on 12. Do not jump to 12 if 9 already fits. Extra width is how the stick falls out.
-
-## Mistakes
-
-**A long sleeve that covers the cap.** You cannot open it. Stop when the cap clears the rim.
-
-**Sewing the loop to the rim.** The tube then hangs cap-down and slides out. Sew the loop to the closed base.
-
-**A fuzzy yarn.** It grabs the twist mechanism. Cotton stays smoother.
+**The loop pulled out.** It was sewn through one stitch. Resew through several and weave the tail into the chain.
 
 ## Care
 
-Remove the balm and the ring. Hand wash cool. Dry flat. Do not machine dry. Heat can shrink the sleeve so the tube no longer fits.
+Take out the tube and the ring. Wipe the rim of the tube before you put it back, because balm on the yarn picks up dirt. Hand wash cool and dry flat. Heat can shrink cotton enough that the tube no longer fits.
 
 ## Frequently asked
 
 **Will any lip balm fit?**
 
-No. Nine stitches is a starting size at the gauge above. Measure, then add rounds or move to 12 stitches.
+No. Tubes vary in width. Measure, then pick the count from the table.
 
-**Can I sell them?**
+**Can I make a set?**
 
-Finished holders, yes. Do not copy this page.
+Yes, for tubes of the same width. Sleeves of different counts in one bunch mean one tube fits and the next falls out.
 
 **Can I use sock yarn?**
 
-Yes, with a smaller hook. Ignore the inch estimates and fit the real tube.
+Yes, with a smaller hook and more stitches. Ignore the inch figures and redo the table from your gauge.
+
+**Can I sell them?**
+
+Finished holders, yes. Do not republish this page.
 
 ## Next
 
-The same small tube idea, with a flap instead of an open rim, is the [earbud pouch](/how-to-crochet-an-earbud-pouch/). A flat card holder is the [Halloween card wallet](/halloween-crochet-card-wallet/).
+The same base and tube, wider and with a flap, is the [earbud pouch](/how-to-crochet-an-earbud-pouch/). The flat-sleeve version of the "measure around, not across" rule is the [phone case](/how-to-crochet-a-phone-case/).

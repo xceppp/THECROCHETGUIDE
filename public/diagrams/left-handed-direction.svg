@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Direction of travel, right-handed and left-handed</title>
+<desc>Right-handers work a row from right to left and a round counterclockwise. Left-handers work a row from left to right and a round clockwise. The stitches are the same.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .yarn { fill: none; stroke: #6b4428; stroke-width: 6; stroke-linecap: round; }
+  .arrow { fill: none; stroke: #b0604a; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+  .arrow2 { fill: none; stroke: #7d8b72; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+<rect x="16" y="20" width="296" height="340" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<rect x="328" y="20" width="296" height="340" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">Right-handed</text>
+<text class="label" x="344" y="52">Left-handed</text>
+<text class="soft" x="32" y="84">Row: right to left</text>
+<rect x="40" y="100" width="248" height="40" rx="4" fill="#f3e6d4" stroke="#6b4428" stroke-width="2"/>
+<path class="arrow" d="M270 160 H60 M76 150 L60 160 L76 170"/>
+<text class="soft" x="344" y="84">Row: left to right</text>
+<rect x="352" y="100" width="248" height="40" rx="4" fill="#f3e6d4" stroke="#6b4428" stroke-width="2"/>
+<path class="arrow2" d="M370 160 H580 M564 150 L580 160 L564 170"/>
+<text class="soft" x="32" y="212">Round: counterclockwise</text>
+<circle cx="164" cy="285" r="50" class="yarn"/>
+<path class="arrow" d="M214 285 A50 50 0 0 0 164 235 M176 226 L164 235 L176 246"/>
+<text class="soft" x="344" y="212">Round: clockwise</text>
+<circle cx="476" cy="285" r="50" class="yarn"/>
+<path class="arrow2" d="M426 285 A50 50 0 0 1 476 235 M464 226 L476 235 L464 246"/>
+<text class="soft" x="32" y="392">Same stitches, same fabric. Only the direction of travel changes.</text>
+</svg>

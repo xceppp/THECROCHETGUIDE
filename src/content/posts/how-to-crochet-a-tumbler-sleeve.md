@@ -1,113 +1,170 @@
 ---
 title: "How to Crochet a Tumbler Sleeve"
-description: "A cotton crochet wrap for a handled travel tumbler, closed with a button. Measure the cup. US terms. Not a yarn-tested sleeve and not a brand fit."
+description: "A cotton sleeve for a tapered travel tumbler: a sideways strip with short rows for a handled cup, or rounds with spaced increases. Not yarn-tested."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["tumbler sleeve", "beginner", "cotton"]
+glance:
+  time: "A sideways strip with one short-row wedge"
+  size: "From the cup's height and its width at top and bottom"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. A small project."
 ---
 
-A cold tumbler sweats onto a wood table. A hot one is unpleasant to hold. A crochet sleeve is a wrap, not a thermos. It will not keep ice until evening, and it will not make a paper cup safe. It gives your hand a layer of cotton and keeps some of the sweat off the table.
+Most travel tumblers are not straight. They are wider at the top than at the bottom, and a straight crochet strip around one gaps at the top or slides down. A plain rectangle works on a straight mug, which is what the [mug cozy](/crochet-mug-cozy-for-beginners/) makes. This page handles the taper.
 
-This page does not fit a named brand. Cups differ. Measure the one you own. A handled cup needs a wrap with a gap, not a closed tube, or the handle has nowhere to go.
+For a handled tumbler, the sleeve is a strip worked sideways, the same direction as the mug cozy, with a short wedge of partial rows that makes the top edge longer than the bottom. For a tumbler with no handle, it is a tube worked in rounds from the bottom up, with a few single increases spread along the way.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations. The sleeve has not been wrapped on a measured cup in yarn.
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No sleeve for this page was crocheted or fitted on a cup. The cup in the example is invented. It is not a named brand.
 
-![A sage crochet sleeve on a plain handled tumbler](../../assets/articles/how-to-crochet-a-tumbler-sleeve-result.jpg "Illustration. The handle stays outside the fabric. No brand mark. Not a tested fit.")
+![A sage crochet sleeve on a plain handled tumbler](../../assets/articles/how-to-crochet-a-tumbler-sleeve-result.jpg "Illustration. The handle stays outside the fabric. Not a tested fit.")
 
-## Measure
+## What is a technique, and what is only a plan
 
-![A tape around a plain handled tumbler](../../assets/articles/how-to-crochet-a-tumbler-sleeve-2.jpg "Illustration. Measure your cup. Ignore any logo. The numbers on a tape in a photo are not your cup.")
+| Piece of this page | What it is |
+| --- | --- |
+| Sideways strip, rows going around the cup | Standard. Length comes from the row gauge. |
+| Short rows to lengthen one edge | A standard shaping technique. |
+| Rounds with spaced single increases for a gentle cone | Standard. |
+| A cup 4.5 in tall, 9.3 in around at the top, 8.5 at the bottom, 1.5 in handle base | Invented example. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| "18 stitches tall and 36 stitches wide" | The old wording. Those 36 were rows, and rows use the row gauge. Corrected below. |
 
-Three numbers, in inches:
+## Measure the cup
 
-- Height of the straight wall you want to cover, between the lid and the base. Skip the part the lid overlaps.
-- Distance around the cup, not including the handle.
-- How wide the handle attachment is, so the wrap can stop before it.
+1. **Height** of the wall you want covered, below the lid's threads and above the base. Example: 4.5 inches.
+2. **Around the top** of that area. Example: 9.3 inches.
+3. **Around the bottom** of that area. Example: 8.5 inches.
+4. **Handle base**, the width where the handle meets the wall. Example: 1.5 inches.
 
-Example, not a fit guide: a wall **4.5 inches** tall and **9 inches** around. At the gauge below, the rectangle is **18 stitches** tall and **36 stitches** wide. Your cup changes both numbers. Divide each inch measurement by your stitches per inch.
+If the top and bottom measurements match, your cup is straight. Use the [mug cozy](/crochet-mug-cozy-for-beginners/) instead.
 
-Leave the handle outside. The wrap covers the wall and buttons at the gap next to the handle. Do not try to crochet a hole for a handle you have not measured. A buttoned gap is easier to get right.
+## How the handled version is shaped
 
-## Materials
+The foundation chain is the sleeve's height. Each row runs from the top edge to the bottom edge, and the rows stack around the cup. So the length along the top edge is the number of rows at the top, and the same for the bottom.
 
-![Sage cotton, a hook, a button, and a plain tumbler](../../assets/articles/how-to-crochet-a-tumbler-sleeve-1.jpg "Illustration. Cotton, not fuzzy acrylic, if the cup sweats.")
+To make the top edge longer, you work some rows that stop partway down. These short rows add length to the top part only. Two short rows over the top 12 stitches add two rows there. Two more over the top 6 add two more at the very top. The top edge now has four more rows than the bottom, the middle has two more, and the strip curves to follow the taper.
 
-- Worsted cotton. About **60 yards** for the example. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the hook that hits gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
-- One button about **3/4 inch** across, sewing needle, thread, yarn needle, scissors.
+<figure class="diagram">
+<img src="/diagrams/tumbler-short-rows.svg" alt="A sideways strip 18 stitches tall with a wedge of short rows in the middle. The top edge has 35 plus 4, 39 rows, 7.8 inches; stitches 7 to 12 get 2 extra rows; the bottom edge has 35 rows, 7.0 inches. The wedge is worked from the top edge after row 17: sc 12, turn, sc 12, turn, sc 6, turn, sc 6, turn." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Four extra rows at the top, two in the middle, none at the bottom. That is a taper of 0.8 inch.</figcaption>
+</figure>
 
-Cotton. Acrylic against a sweating cup stays damp and smells. Cotton still is not waterproof. Beginner. One sitting after you have the measurements.
+## The worked example
 
-## Gauge (estimate)
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Height | 4.5 × 4 sts | 18 sc, chain 19 |
+| Top edge | (9.3 − 1.5) × 5 rows | 39 rows |
+| Bottom edge | (8.5 − 1.5) × 5 rows | 35 rows |
+| Difference | 39 − 35 | 4 rows: one wedge |
 
-**4 sc = 1 inch. 5 rows = 1 inch.**
+The old version of this page multiplied the cup's circumference by the stitch gauge and then called the result rows. That is the same error the mug cozy page had: the strip runs sideways, so its length comes from rows per inch.
 
-Unverified on a cup. Swatch. [Gauge](/crochet-gauge/) is the difference between a wrap that buttons and a wrap that strains the button until the thread pops.
+## Yarn and hook
 
-## Rectangle
+![Sage cotton, a hook, a button, and a plain tumbler](../../assets/articles/how-to-crochet-a-tumbler-sleeve-1.jpg "Illustration. Cotton, a button, and a hook.")
 
-Ch 1 does not count.
+- **Smooth worsted cotton.** A cold cup sweats, and acrylic stays damp and smells. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
+- **One button**, about 3/4 inch, and thread.
+- Two stitch markers, yarn needle, scissors.
 
-![A sage single-crochet rectangle](../../assets/articles/how-to-crochet-a-tumbler-sleeve-3.jpg "Illustration. Width is the circumference you need. Height is the wall you want covered.")
+Measure both stitches and rows per inch on a swatch. [Gauge](/crochet-gauge/) explains how.
 
-For the example cup, chain 19.
+## Stage 1: the strip
 
-**Row 1:** sc in the 2nd chain from the hook and across. Ch 1, turn. (18)
+Chain 19.
 
-**Rows 2–36:** sc in each stitch. Ch 1, turn. (18)
+**Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (18)
 
-Eighteen stitches at 4 sc to the inch is about **4.5 inches**, the height. Thirty-six rows at 5 rows to the inch is about **7.2 inches**, which is shorter than the 9 inch circumference on purpose. The button and the handle gap take the rest. If your cup is 9 inches around and the handle eats 1.5 inches, you need about 7.5 inches of fabric. Add or remove rows until the rectangle, held on the cup, meets beside the handle with a small overlap for the button.
+Put a marker in the last stitch of row 1. That end is the **top edge**. Every odd row ends there, and every even row starts there.
 
-Do not seam it into a tube.
+**Rows 2–17:** Sc in each stitch. Ch 1, turn. (18)
 
-## Button
+Row 17 ends at the top edge.
 
-Sew the button near one short end, on the outside. On the other short end, join yarn and chain 8, then slip stitch back into the corner to make a loop. The loop has to reach the button when the sleeve is on the cup, not when it is flat on the table. Put the sleeve on the cup, mark where the loop lands, then sew the button there if your first guess was wrong.
+## Stage 2: the wedge
 
-![A button and a chain loop on the sage wrap](../../assets/articles/how-to-crochet-a-tumbler-sleeve-4.jpg "Illustration. Place the button with the cup inside, not from the photo.")
+Work these from the top edge. Each short row turns partway down.
+
+**Short row 1:** Sc in the next 12 stitches. Ch 1, turn, leaving 6 unworked.
+
+**Short row 2:** Sc in each of the 12 stitches back to the top edge. Ch 1, turn.
+
+**Short row 3:** Sc in the next 6 stitches. Ch 1, turn.
+
+**Short row 4:** Sc in each of the 6 stitches back to the top edge. Ch 1, turn.
+
+You are at the top edge again, ready for a full row.
+
+At each turning point the fabric steps, and a small gap can open. When you work the next full row past it, put the stitch firmly into the stitch below the step. A tiny gap is normal in single crochet short rows.
+
+## Stage 3: the rest of the strip
+
+**Rows 18–35:** Sc in each stitch, all 18. Ch 1, turn. (18)
+
+Count the bottom edge: 35 rows. The top edge has 39.
+
+**Checkpoint:** wrap the strip on the cup with the top edge at the top. Both short ends should sit beside the handle, and the fabric should lie against the wall all the way down. Add or remove full rows at the end if the ends do not reach.
+
+## Stage 4: the closure
+
+The closure works exactly as it does on the [mug cozy](/crochet-mug-cozy-for-beginners/). Sew the button on the foundation-chain end, at mid-height. On the last-row end, join yarn at mid-height and chain a loop long enough to pass through the gap between the handle and the wall and reach the button. Slip stitch back to close the loop. Putting the loop on the last row means you can pull out rows to adjust the fit and remake the loop. The foundation end cannot be shortened.
 
 ![The wrap buttoned with the handle outside](../../assets/articles/how-to-crochet-a-tumbler-sleeve-5.jpg "Illustration. The handle is not inside the crochet.")
 
+## For a tumbler with no handle
+
+Work a tube in rounds, from the bottom up, and spread a few single increases along it.
+
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Bottom | 8.5 × 4 | 34 sts |
+| Top | 9.3 × 4 | 37 sts |
+| Rounds | 4.5 × 5 | 22 rounds |
+| Increases | 37 − 34 | 3, one at rounds 6, 12, and 18 |
+
+Chain 34 and join into a ring with a slip stitch, without twisting the chain. Work single crochet in rounds, using a marker. On rounds 6, 12, and 18, work 2 sc in one stitch, and put each increase in a different place around the tube so they do not stack into a ridge. Stop after round 22.
+
+This sleeve has no ease. It grips the cup. If it will not go on, start again with 36 stitches and two increases.
+
 ## Heat and water
 
-The sleeve is not oven use, not a microwave, and not a handle for a cup you cannot otherwise hold. If the cup is too hot for your hand, it is too hot for cotton that can scorch or for a button that can conduct heat. Set the cup down. A sweating cold cup will wet the cotton. Take the sleeve off and dry it. Do not leave damp cotton on a cup in a closed bag.
+The sleeve is for holding a cup comfortably. It does not make a cup that is too hot to hold safe to hold, and it does not go in a microwave. A sweating cold cup wets the cotton. Take the sleeve off and dry it.
 
-## Mistakes
+## Troubleshooting
 
-**A closed tube on a handled cup.** The handle is trapped or the sleeve will not go on. This is a wrap.
+**The top gaps away from the cup.** The taper is bigger than one wedge. Add a second wedge further along the strip.
 
-**Fuzzy yarn.** It holds the sweat and pills against the cup. Cotton.
+**The bottom bunches.** The wedge was worked from the bottom edge. Check which end the marker is on.
 
-**Button placed on the flat rectangle.** The overlap changes when the cup is round. Place it on the cup.
+**There are holes at the turns.** Work the next full row's stitch firmly into the stitch below each step.
 
-**Covering the lid threads.** The lid will not screw on. Stop the height below the lid.
+**The strip is an inch short.** The length was worked from the stitch gauge. Use rows per inch.
 
-## A cup with no handle
-
-A straight tumbler with no handle can be a tube instead of a wrap. Seam the short ends and skip the button. The circumference of the fabric should be a little smaller than the cup so it stays up. If it slides, the tube is wide. If it will not go on, it is narrow. The buttoned wrap is still the right choice when anything sticks out of the wall, including a handle, a straw bump, or a grip ridge.
+**The rounds version spirals into a ridge.** The increases stacked. Move them.
 
 ## Care
 
-Remove it from the cup. Hand wash cool. Dry flat. Put it back only when it is dry. A damp sleeve on a steel cup is a rust problem for some cups and a smell problem for all of them.
+Take it off the cup. Hand wash cool. Dry flat. A damp sleeve left on a steel cup can mark it.
 
 ## Frequently asked
 
 **Will it fit every travel cup?**
 
-No. The 18 by 36 rectangle is one example at one gauge. Measure yours and redo the division.
+No. Measure yours. The method works on any cup you measure.
 
 **Can I sell them?**
 
-Finished sleeves, yes. Do not republish the rows as your pattern. And do not sew a brand name onto a sleeve as if the cup company made it.
-
-**Does it replace a silicone boot?**
-
-No. Silicone is waterproof. This is cotton. Use it where a little sweat and a softer hand are the goal.
+Finished sleeves, yes. Do not republish the rows, and do not sew a brand name on a sleeve as if the cup company made it.
 
 ## Next
 
-A flat sleeve for a book, same measuring idea, is the [book sleeve](/how-to-crochet-a-book-sleeve/). A sleeve for a laptop is the [laptop sleeve](/how-to-crochet-a-laptop-sleeve/).
+The straight-mug version, without short rows, is the [mug cozy](/crochet-mug-cozy-for-beginners/). Rounds with spaced increases are explained in [increase and decrease](/crochet-increase-decrease/).

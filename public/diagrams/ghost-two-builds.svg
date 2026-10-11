@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Two ghost builds: hanging and standing</title>
+<desc>Left, the hanging ghost: a stuffed head held by a yarn cinch through round 10, then an open body that flares at round 17 and ends in a wavy edge. A loop at the top. Right, the standing ghost: the same body, then round 17 worked in back loops only, and decrease rounds that fold under into a flat, stuffed base. A skirt is worked into the front loops left on round 16, so it hangs over the base.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .body { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2.5; }
+  .cinch { stroke: #b0604a; stroke-width: 3; }
+  .skirt { fill: #f6efe6; stroke: #7d8b72; stroke-width: 2.5; }
+  .base { stroke: #6b4428; stroke-width: 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Hang it open, or give it a base</text>
+<path d="M150 70 C140 50 160 50 150 70" fill="none" stroke="#6b4428" stroke-width="2"/>
+<path class="body" d="M150 70 C100 70 90 110 92 140 C94 160 100 165 98 175 L90 290 Q105 310 120 290 Q135 310 150 290 Q165 310 180 290 Q195 310 210 290 L202 175 C200 165 206 160 208 140 C210 110 200 70 150 70 Z"/>
+<line class="cinch" x1="94" y1="168" x2="206" y2="168"/>
+<text class="soft" x="40" y="330">Hanging</text>
+<text class="soft" x="40" y="352">Head stuffed, cinched at round 10</text>
+<text class="soft" x="40" y="374">Open, wavy hem</text>
+<path class="body" d="M460 70 C410 70 400 110 400 150 L400 280 L520 280 L520 150 C520 110 510 70 460 70 Z"/>
+<line class="base" x1="400" y1="284" x2="520" y2="284"/>
+<path class="skirt" d="M400 260 L388 300 Q404 316 420 300 Q436 316 452 300 Q468 316 484 300 Q500 316 516 300 Q528 312 532 300 L520 260 Z"/>
+<text class="soft" x="350" y="340">Standing</text>
+<text class="soft" x="350" y="362">Round 17 in back loops, base decreased</text>
+<text class="soft" x="350" y="384">Skirt in the round 16 front loops</text>
+<text class="soft" x="232" y="220">Same head</text>
+<text class="soft" x="232" y="242">and body</text>
+</svg>

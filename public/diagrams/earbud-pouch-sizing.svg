@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Sizing a round pouch from a charging case</title>
+<desc>Left: the footprint of a charging case seen from above, 1.9 by 0.9 inches in the example, with its perimeter, 2 times 2.8, which is 5.6 inches. Right: the pouch tube seen from above as a circle around the case. A table shows stitch counts at 4 single crochet per inch: 24 stitches is 6.0 inches around, 27 is 6.75, and 30 is 7.5. The tube must go around the case perimeter plus a little ease, so 27 is the example choice.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .case { fill: #ffffff; stroke: #2f2a26; stroke-width: 3; }
+  .tube { fill: #f3e6d4; stroke: #6b4428; stroke-width: 5; }
+  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; }
+  .pick { fill: none; stroke: #7d8b72; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">The tube goes around the case, not across it</text>
+<rect class="case" x="60" y="110" width="152" height="72" rx="22"/>
+<text class="soft" x="98" y="152">case, top view</text>
+<text class="soft" x="78" y="100">1.9 in</text>
+<text class="soft" x="220" y="152">0.9 in</text>
+<text class="soft" x="40" y="214">perimeter 2 x (1.9 + 0.9) = 5.6 in</text>
+<circle class="tube" cx="450" cy="146" r="84"/>
+<rect class="case" x="374" y="110" width="152" height="72" rx="22"/>
+<text class="soft" x="392" y="252">27 sts = 6.75 in around</text>
+<text class="soft" x="32" y="292">At 4 sc per inch:</text>
+<text class="soft" x="32" y="318">24 sts = 6.0 in. Snug by 0.4 in. The lid may scuff going in.</text>
+<rect class="pick" x="26" y="328" width="520" height="30" rx="6"/>
+<text class="soft" x="32" y="350">27 sts = 6.75 in. About an inch of ease. Example choice.</text>
+<text class="soft" x="32" y="382">30 sts = 7.5 in. Roomy. The case rattles in a soft pouch.</text>
+</svg>

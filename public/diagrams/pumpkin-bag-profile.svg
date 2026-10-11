@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Pumpkin treat bag profile</title>
+<desc>Side view of the bag. A flat base of 48 stitches. Rounds 9 to 12 straight at 48. Round 13 increases to 54. Rounds 14 to 21 straight at 54, the belly. Round 22 decreases back to 48. Rounds 23 to 28 straight at 48. Round 29 is the eyelet round, then two rounds above it. The belly is about 0.24 inch wider on each side.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .body { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2.5; }
+  .mark { stroke: #b0604a; stroke-width: 2; stroke-dasharray: 5 4; }
+  .cord { fill: none; stroke: #7d8b72; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">One increase round in, one decrease round out</text>
+<path class="body" d="M110 360 L250 360 L250 300 C262 290 262 290 264 280 L264 170 C262 160 262 160 250 150 L250 90 L110 90 L110 150 C98 160 98 160 96 170 L96 280 C98 290 98 290 110 300 Z"/>
+<line class="cord" x1="104" y1="110" x2="256" y2="110"/>
+<line class="mark" x1="270" y1="300" x2="330" y2="300"/>
+<line class="mark" x1="270" y1="150" x2="330" y2="150"/>
+<text class="soft" x="340" y="364">Base: flat circle, 48 sts</text>
+<text class="soft" x="340" y="330">Rounds 9-12: 48</text>
+<text class="soft" x="340" y="305">Round 13: (sc 7, inc) x 6 = 54</text>
+<text class="soft" x="340" y="230">Rounds 14-21: 54, the belly</text>
+<text class="soft" x="340" y="155">Round 22: (sc 7, dec) x 6 = 48</text>
+<text class="soft" x="340" y="130">Rounds 23-28: 48</text>
+<text class="soft" x="340" y="105">Round 29: eyelets. 30-31: 48</text>
+<text class="soft" x="32" y="392">54 - 48 = 6 sts = 1.5 in around, about 0.24 in out on each side.</text>
+</svg>

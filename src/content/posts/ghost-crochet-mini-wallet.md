@@ -1,7 +1,8 @@
 ---
 title: "How to Crochet a Ghost Mini Wallet"
-description: "Free beginner pattern for a white crochet ghost card holder sized to a standard ID-1 bank card, with a button flap and a seamed pocket."
+description: "A white crochet ghost wallet for one ID-1 card and a folded bill, with a flap tapered by decreases and a button loop. US terms. Not a yarn-tested sample."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
@@ -16,146 +17,150 @@ tags:
     "beginner",
     "how to",
   ]
+glance:
+  time: "34 rows, two seams, an embroidered face"
+  size: "Pocket about 3.75 × 2.8 in inside at the example gauge"
+  yarn: "Worsted cotton, white, plus black scrap"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh 10 rows and multiply by 3.4."
 ---
 
-A ghost wallet is only cute if a real card goes in and stays there. The pocket in this pattern is built around a standard bank card, then the flap and the face go on.
+This is a fixed-count pattern for a small white wallet with a ghost face on its flap. It differs from the [Halloween card wallet](/halloween-crochet-card-wallet/), which teaches you to size a pocket from any cards, in two ways. The pocket here is deep enough for a dollar bill folded in half as well as a card. And the flap is shaped: three decrease rows narrow it from the full width to a rounded tab with a button loop. Shaping a flap with paired decreases is the skill this page teaches.
 
-A standard ID-1 card, the size used for most US bank cards, is 85.60 mm wide and 53.98 mm tall (3.37 by 2.125 inches). That is the ISO/IEC 7810 ID-1 size. The crochet inches below are estimates from the gauge, not a finished wallet that has been measured. Photos are illustrations. Lay a card on the fabric before you seam.
+A standard ID-1 card, the size of most US bank cards and licenses, is **3.370 × 2.125 inches** (85.60 × 53.98 mm) under ISO/IEC 7810. US paper currency is **2.61 × 6.14 inches**, per the Bureau of Engraving and Printing. Folded in half, a bill is about 3.07 × 2.61 inches.
 
-US terms. US single crochet is UK double crochet. Abbreviations are on the [chart](/crochet-abbreviations-chart/).
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No wallet for this page was crocheted or measured. Lay a card on the fabric before you seam.
 
-![A white crochet ghost mini wallet with a button flap and a card at the pocket](../../assets/articles/ghost-crochet-mini-wallet-result.jpg "Illustration. Intended look: white cotton, simple face, button flap, card pocket.")
+![A white crochet ghost mini wallet with a button flap and a card at the pocket](../../assets/articles/ghost-crochet-mini-wallet-result.jpg "Illustration. A white flap wallet with a face. Not a measured sample.")
 
-## Skill and time
+## What is fact, and what is only a plan
 
-Beginner. Single crochet, decreases, and a whipstitched side. About 2 to 3 hours.
+| Piece of this page | What it is |
+| --- | --- |
+| Card 3.370 × 2.125 in; bill 2.61 × 6.14 in | Published standards. |
+| One rectangle folded into front, back, and flap | Standard construction. |
+| A decrease at each end of a row narrows both edges | Standard shaping. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| About 55 yards, 2 to 3 hours | Old lines. Not measured. Withdrawn. |
 
-## Materials
+## How the wallet is built
 
-![White yarn, black scrap yarn, a hook, a button, a needle, and a blank card](../../assets/articles/ghost-crochet-mini-wallet-1.jpg "Illustration. Materials. The card is only there so you can check the width.")
+One rectangle, 16 stitches wide. Rows 1 to 14 fold up to become the front of the pocket. Rows 15 to 28 are the back. Rows 29 to 34 are the flap: two straight rows, three decrease rows, and a row with a chain loop for the button. Seam the pocket sides, sew on a button, and embroider a face on the flap.
 
-- Worsted cotton, white, about **55 yards**. A short scrap of black for the face. Cotton holds a pocket better than fuzzy acrylic. [Yarn weight chart](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or whatever hits the gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
-- One button about **1/2 inch** across.
-- Yarn needle and scissors.
-- One real card to test the fit. Do not seam until it slides in.
+### Why the pocket is 14 rows
 
-## Abbreviations (US)
+Fourteen rows at 5 per inch is 2.8 inches. That is deeper than a card needs, on purpose: a bill folded once is 2.61 inches tall, and it has to fit under the flap too. The cost is that a card alone sits about two-thirds of an inch below the opening. To take it out, press up on it from the bottom of the pocket, through the fabric.
 
-ch, sc, dec (single crochet 2 together). Turn at the end of every row.
+If you will never carry cash, see the card-only variation below. Its pocket is 2.4 inches, so the card sits nearer the top.
 
-## Gauge and size (estimates)
+### How the flap narrows
 
-**Aim for** 4 sc = 1 inch and 5 rows = 1 inch.
+A single crochet decrease (sc2tog) turns two stitches into one. Work one at the start and one at the end of a row, and the row is two stitches shorter, one from each side. Both edges step inward by a stitch, a quarter inch at this gauge. Three such rows take the flap from 16 stitches to 10, from 4 inches to 2.5, and the corners slope evenly on both sides.
 
-At that gauge the fabric is **4 inches wide** (16 sc) and the pocket, after folding, is about **2.8 inches deep** (14 rows). The card is 3.37 inches wide and 2.125 inches tall, so there is room for the side seams and for one folded bill behind the card. A thick stack of cards will not fit. This is a mini holder, not a bifold.
+<figure class="diagram">
+<img src="/diagrams/ghost-wallet-flap.svg" alt="The flap rows stacked: rows 29 and 30 at 16 stitches, row 31 at 14, row 32 at 12, row 33 at 10, each with a decrease marked at both ends, and row 34 as 3 single crochet, a chain-5 loop over 4 skipped stitches, and 3 single crochet. Notes: each decrease row moves both edges in a quarter inch; the pocket is 2.8 inches deep for a 2.125 inch card or a bill folded to 2.61 inches." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Decrease at both ends of the same row, or the flap leans to one side.</figcaption>
+</figure>
+
+## What you need
+
+![White yarn, black scrap yarn, a hook, a button, a needle, and a blank card](../../assets/articles/ghost-crochet-mini-wallet-1.jpg "Illustration. Materials. The card is there to check the width.")
+
+- **Worsted cotton**, white, and a scrap of black. Cotton holds a pocket's shape better than fuzzy acrylic. [Yarn weight chart](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or whatever gives 4 stitches per inch. [Hook chart](/crochet-hook-size-conversion-chart/).
+- **One button**, about 1/2 inch across.
+- Yarn needle, scissors, one card to test the fit.
+
+Abbreviations used: ch, sc, sc2tog (single crochet two together, written "dec" below).
+
+## Gauge check
+
+Work rows 1 to 4 and measure. Sixteen stitches should be close to 4 inches. Seamed, that leaves about 3.75 inches inside for a 3.37 inch card.
 
 <div class="warning">
 
-If your 16 sc measure under 3.6 inches, the card will jam after seaming. Start again with a larger hook, or add 2 chains at the foundation (18 sc across) and add 1 stitch to each side of the later rows.
+If 16 stitches measure under 3.6 inches, the card will jam after seaming. Go up a hook size, or work 18 stitches: chain 19, and every count below goes up by 2 (18, 16, 14, 12), with row 34 as sc 4, ch 5, skip 4, sc 4.
 
 </div>
 
-## The rectangle
+## Stage 1: the rectangle
 
-![Hands working the first rows of a white single-crochet rectangle](../../assets/articles/ghost-crochet-mini-wallet-2.jpg "Illustration. The wallet is one rectangle. The pocket is a fold, not a second piece.")
+**Row 1:** Ch 17. Sc in the second chain from the hook and in each chain across. Turn. (16)
 
-**Row 1:** ch 17, sc in the 2nd ch from the hook and in each ch across. Turn. (16)
+**Rows 2–30:** Ch 1, sc in each stitch across. Turn. (16)
 
-**Rows 2–30:** ch 1, sc in each st across. Turn. (16)
+The ch 1 does not count as a stitch. Count every five rows. Single crochet edges tend to gain a stitch at the turn.
 
-That is 29 more rows, 30 rows total so far.
+## Stage 2: the flap
 
-**Row 31:** ch 1, dec, sc in the next 12 sts, dec. Turn. (14)
+**Row 31:** Ch 1, dec, sc in the next 12 stitches, dec. Turn. (14)
 
-**Row 32:** ch 1, dec, sc in the next 10 sts, dec. Turn. (12)
+**Row 32:** Ch 1, dec, sc in the next 10 stitches, dec. Turn. (12)
 
-**Row 33:** ch 1, dec, sc in the next 8 sts, dec. Turn. (10)
+**Row 33:** Ch 1, dec, sc in the next 8 stitches, dec. Turn. (10)
 
-**Row 34:** ch 1, sc in the next 3 sts, ch 5, skip 4 sts, sc in the last 3 sts. (6 sc and a 5-chain loop)
+**Row 34:** Ch 1, sc in the next 3 stitches, ch 5, skip 4, sc in the last 3. (6 sc and a ch-5 loop)
 
 Fasten off.
 
-Row 31 uses 2 + 12 + 2 = 16 and leaves 14. Row 32 uses 2 + 10 + 2 = 14 and leaves 12. Row 33 uses 2 + 8 + 2 = 12 and leaves 10. Row 34 uses 3 + 4 skipped + 3 = 10. If the loop misses your button, redo Row 34 with ch 6 or ch 7.
+Each decrease row uses every stitch of the row below: 2 + 12 + 2 = 16, then 2 + 10 + 2 = 14, then 2 + 8 + 2 = 12. Row 34 is 3 + 4 skipped + 3 = 10. If the loop misses your button, redo row 34 with ch 6 or ch 7 over the same four stitches.
 
-![The white rectangle folded at the bottom to start the pocket](../../assets/articles/ghost-crochet-mini-wallet-3.jpg "Illustration. Fold the chain end up. Do not seam until a card fits the fold.")
+## Stage 3: fold and seam
 
-![Close-up of the white single crochet](../../assets/articles/ghost-crochet-mini-wallet-4.jpg "Illustration. Tight, even single crochet is what keeps the pocket from stretching open.")
+Lay the rectangle with the foundation chain at the bottom. Fold it up so the fold falls between rows 14 and 15. The chain edge now lies against row 28. Rows 29 to 34 stand above as the flap.
 
-## Pocket
+Slide the card in before you sew. It should go in flat and sit below the opening. Then try the folded bill behind it.
 
-Lay the rectangle with the chain edge at the bottom. Fold that edge up so the fold sits at the top of Row 14. You have used 14 rows for the pocket. Rows 15–34 are the back and the ghost flap.
+Whipstitch each side from the fold to the opening, through both layers, catching only the outer loop of each edge stitch. Going deeper takes width from the inside. Go back along each side a second time. A card corner works at a single seam line until it opens. Weave the tails inside the seam.
 
-Slide the card in before you stitch. It should go in without a fight and sit fully below the fold. If the fold covers the card with almost no room, unfold and use Row 16 as the fold line instead. Move the seam to match.
+## Stage 4: button and face
 
-Whipstitch each side through both layers, from the fold up to the pocket opening. Sew through the edge stitches only, so you do not steal width from the 16-stitch interior. Weave the seam tails inside the pocket.
+Close the flap with the card inside. Mark where the loop lands on the front. Sew the button there, through the front layer only.
 
-Sew the button on the outside of the pocket, centered, low enough that the chain loop reaches it when the flap is closed and high enough that the loop is not hanging off the bottom.
+With black, embroider the face on the outside of the flap, above the loop: two short stitches for eyes, about 4 stitches apart, and a small wide V or oval a row below them for the mouth. Shallow stitches. Deep ones leave a bump on the inside of the flap that catches the card.
 
-## Face
+## Variations
 
-Close the flap. Mark two eye spots on the outside of the flap, above the button, with pins. Embroider a short horizontal stitch for each eye in black, then a small wide V or oval for the mouth under them. Keep the stitches shallow so they do not show as lumps inside the pocket.
+**Card only.** A 12-row front and a 12-row back. Work rows 2–26 straight instead of rows 2–30, then the four shaping rows given as rows 31–34, and fold between rows 12 and 13.
 
-![The side of the pocket being whipstitched](../../assets/articles/ghost-crochet-mini-wallet-5.jpg "Illustration. Seam both sides. The card test happens before this, not after.")
+**A colored flap.** Work rows 31 to 34 in a second color, changing on the last yarn-over of row 30. See [changing yarn color](/changing-yarn-color-crochet/).
 
-![Cards and a folded bill in the finished ghost wallet](../../assets/articles/ghost-crochet-mini-wallet-6.jpg "Illustration. One or two cards and a folded bill. A thick stack will stretch the seams.")
+**No face.** A plain white wallet works the same.
 
-![The closed ghost wallet on a dark table](../../assets/articles/ghost-crochet-mini-wallet-7.jpg "Illustration. Same wallet, flap closed, face on the outside of the flap.")
+## Troubleshooting
 
-## Making the pocket hold
+**The flap leans.** A decrease was missed at one end. Count the stitches on rows 31 to 33.
 
-Cotton single crochet is sturdy when the gauge is firm and the seams are doubled. After the first whipstitch, go back along each side with a second pass through the same edge stitches. That second line is what stops a card corner from working the seam open.
+**The flap edges look stepped.** That is normal for single crochet decreases. A round of slip stitch around the flap smooths it.
 
-Do not add a plastic canvas liner. It makes the fold crack and it steals the half inch the card needs. If the pocket feels soft, you are a hook size too big. Redo it. A 3.75 mm hook with the same 16-stitch width comes out narrower, so check the card again before the second seam pass.
+**The card will not go in.** The seams went too deep, or the gauge is tight. Resew through the outer loops, or remake with a larger hook.
 
-Fold a bill in half, then in half again, and slide it behind the card. One bill lies flat. Two bills start to lift the flap off the button. That is the capacity, not a suggestion to sew it tighter.
+**The bill lifts the flap off the button.** Two bills, or a bill folded in quarters. One bill folded once.
 
-The face sits on the flap, centered between the decrease rows and the button loop. Two eyes, each one stitch wide, about 4 stitches apart. The mouth is one stitch below them, about 3 stitches wide. Shallow stitches. Deep ones make a bump the card catches on.
-
-## Three changes
-
-**Taller pocket.** Fold at Row 16 instead of Row 14 if your cards are in a thin plastic sleeve. Do not also add rows or the flap becomes too long.
-
-**A second color on the flap.** Work Rows 31–34 in a second color. Change on the last yarn-over of Row 30. The method is in [changing yarn color](/changing-yarn-color-crochet/).
-
-**No face.** Leave it plain. The shape of the decreased flap still reads as a ghost if the yarn is white.
-
-## Mistakes
-
-**Seaming through the middle of the stitches.** The opening gets narrower than 3.37 inches and the card bows. Catch the outer loop of the edge only.
-
-**Face on the wrong side.** Embroider after you know which face of the flap is out. A face on the inside is invisible and rubs the card.
-
-**A loose gauge.** The pocket looks wide enough on the table and then sags. Drop to an F/5 (3.75 mm) hook and redo the rectangle. Do not add a fabric stiffener. It cracks at the fold.
-
-**Skipping the card test.** The row counts assume the gauge. Your card is the check.
+**The pocket sags.** Loose gauge. Drop to an F/5 (3.75 mm) hook and redo it. Check the card again before seaming.
 
 ## Care
 
-Hand wash cool, dry flat, do not iron the face. Cotton can shrink. If it does, the card will tell you on the next try, and you will need the wider foundation, not a stretch.
+Empty it. Hand wash cool, dry flat, and do not iron the face. Cotton can shrink. If it does, the card will tell you, and the fix is the wider foundation, not stretching.
 
 ## Frequently asked
 
 **Will a US driver's license fit?**
 
-Most are the same ID-1 size as a bank card. Test yours. A card already in a thick holder needs the taller fold.
+Most are ID-1 size, the same as a bank card. Test yours.
 
-**Can it hold cash?**
+**Can I add a lining?**
 
-One bill, folded in half, behind the card. A wad of cash will pop the seams.
-
-**Do I need a lining?**
-
-No. Cotton single crochet at this gauge is the structure. A lining makes the 4-inch width too tight for the card.
+Not at this width. A fabric lining takes up the ease the card needs.
 
 **Can I sell finished wallets?**
 
-Yes, wallets you make. Do not repost this pattern.
+Yes. Do not repost the pattern.
 
 **Left-handed?**
 
-Same rows. The fold and the face do not change. Hook hold is in [left-handed crochet](/left-handed-crochet/).
+Same rows. The fold and face do not change. See [left-handed crochet](/left-handed-crochet/).
 
-## Related
+## Next
 
-A larger Halloween holder with more pieces is the [crochet card wallet](/halloween-crochet-card-wallet/). The spiral used for a round pouch is the [bat earbuds pouch](/gothic-bat-earbuds-pouch/) once that page is live, and the stitch itself is [basic single crochet](/basic-crochet-stitches/).
+The method for sizing a flap pocket to any cards is the [Halloween card wallet](/halloween-crochet-card-wallet/). A drawstring pouch for coins in the same white cotton is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/). Decreases are explained in [increase and decrease](/crochet-increase-decrease/).

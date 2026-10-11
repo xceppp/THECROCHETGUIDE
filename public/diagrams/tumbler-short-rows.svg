@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Short rows for a tapered tumbler sleeve</title>
+<desc>A sideways strip 18 stitches tall. Rows run from the top edge to the bottom edge. In the middle, a wedge of short rows: two rows over the top 12 stitches and two more over the top 6. The top edge ends up with 39 rows, 7.8 inches at 5 rows per inch, the middle with 37, and the bottom with 35, 7.0 inches. That matches a cup 9.3 inches around at the top and 8.5 at the bottom, less 1.5 inches for the handle.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .fab { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .wedge { fill: #e7c7a8; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Short rows add length to the top edge only</text>
+<path class="fab" d="M60 90 H300 L340 90 H580 V230 H60 Z"/>
+<path class="wedge" d="M300 90 L320 90 L340 90 L332 136 L328 182 L320 230 L320 230 L312 182 L308 136 Z"/>
+<text class="soft" x="64" y="82">top edge: 35 rows + 4 = 39 = 7.8 in</text>
+<text class="soft" x="64" y="256">bottom edge: 35 rows = 7.0 in</text>
+<text class="soft" x="350" y="130">top 6 sts: +4 rows</text>
+<text class="soft" x="350" y="170">sts 7-12: +2 rows</text>
+<text class="soft" x="350" y="210">bottom 6: +0</text>
+<text class="soft" x="32" y="300">The wedge, worked from the top edge after row 17:</text>
+<text class="soft" x="32" y="324">sc 12, turn; sc 12, turn; sc 6, turn; sc 6, turn.</text>
+<text class="soft" x="32" y="356">Cup (example): 9.3 in around at the top, 8.5 at the bottom.</text>
+<text class="soft" x="32" y="380">Minus 1.5 in for the handle: 7.8 in and 7.0 in of strip.</text>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Spider body plan and web rounds</title>
+<desc>Left: a spider from above. A larger rear body, the abdomen, and a smaller front body, the cephalothorax. All eight legs attach to the smaller front body, four on each side, with the front pairs angled forward and the back pairs angled back. Eyes at the front. Right: a web in rounds. A ring of 8 single crochet, then 8 loops of chain 5, then 8 loops of chain 7, chain 9, and chain 11. Each round adds 2 chains per loop because the circle is larger.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .body { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2.5; }
+  .leg { fill: none; stroke: #6b4428; stroke-width: 3; stroke-linecap: round; }
+  .web { fill: none; stroke: #7d8b72; stroke-width: 2; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Legs on the front body; loops grow</text>
+<ellipse class="body" cx="160" cy="260" rx="56" ry="66"/>
+<ellipse class="body" cx="160" cy="160" rx="34" ry="36"/>
+<circle cx="150" cy="134" r="4" fill="#2f2a26"/>
+<circle cx="170" cy="134" r="4" fill="#2f2a26"/>
+<path class="leg" d="M128 144 L90 110 L70 80"/>
+<path class="leg" d="M126 156 L80 140 L56 120"/>
+<path class="leg" d="M126 168 L80 180 L56 210"/>
+<path class="leg" d="M130 180 L94 214 L80 250"/>
+<path class="leg" d="M192 144 L230 110 L250 80"/>
+<path class="leg" d="M194 156 L240 140 L264 120"/>
+<path class="leg" d="M194 168 L240 180 L264 210"/>
+<path class="leg" d="M190 180 L226 214 L240 250"/>
+<text class="soft" x="40" y="356">Front body: 18 sts, all 8 legs</text>
+<text class="soft" x="40" y="378">Rear body: 24 sts, no legs</text>
+<g transform="translate(470 220)" class="web">
+<circle r="14"/>
+<circle r="40"/>
+<circle r="70"/>
+<circle r="100"/>
+<circle r="130"/>
+<path d="M0 -130 V130 M-130 0 H130 M-92 -92 L92 92 M-92 92 L92 -92"/>
+</g>
+<text class="soft" x="360" y="100">ch 11</text>
+<text class="soft" x="460" y="168">ch 5</text>
+<text class="soft" x="430" y="390">8 sc, then ch 5, 7, 9, 11</text>
+</svg>

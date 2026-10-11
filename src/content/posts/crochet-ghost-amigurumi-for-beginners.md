@@ -1,7 +1,8 @@
 ---
 title: "Crochet Ghost Amigurumi for Beginners"
-description: "Make a beginner ghost in four pictured steps: dome body, wavy hem, embroidered face, and stuffing that keeps it upright."
+description: "A beginner ghost two ways: a hanging ghost with a cinched head and open hem, or a standing ghost with a flat base and a front-loop skirt. Every round counted."
 pubDate: 2026-09-16
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -16,112 +17,138 @@ tags:
     "beginner",
     "how to",
   ]
+glance:
+  time: "About 18 to 21 rounds and an embroidered face"
+  size: "Depends on yarn, hook, and stuffing"
+  yarn: "Worsted, white or cream, plus black scrap"
+  hook: "One or two sizes smaller than the label"
+  yardage: "Not weighed. A small amount."
 ---
 
-A crochet ghost is one of the friendliest Halloween projects because the silhouette is forgiving. You are not chasing perfect spheres or tiny ears. You need a soft bell shape, a hem that looks a little ragged on purpose, and a face that reads from across the room.
+A crochet ghost is a forgiving first stuffed toy. You need a rounded head, a body that hangs or stands, a hem that looks a little ragged on purpose, and two eyes. There is one real problem to solve, and most simple ghost patterns skip it: an open-bottomed ghost has nowhere to keep its stuffing, and a soft single crochet hem cannot hold the ghost upright.
 
-If magic rings still feel shaky, skim [crochet in the round](/crochet-in-the-round/) first. This page assumes you can work continuous rounds of single crochet.
+This page gives two answers. The **hanging ghost** stuffs only the head and cinches a round below it, which holds the stuffing and makes a neck at the same time. The **standing ghost** closes the bottom with a flat base and works the wavy skirt separately, into loops left free for that purpose. Both start the same way.
 
-On an even round, the count must match the round before it. If it grew, an increase was worked by accident, usually two stitches in the last stitch. The hem can look ragged on purpose. The stitch count cannot. The photos are illustrations.
+If magic rings still feel shaky, start with [crochet in the round](/crochet-in-the-round/). US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No ghost for this page was made and measured.
 
-![A finished white crochet ghost with a wavy hem and two simple embroidered eyes](../../assets/articles/crochet-ghost-amigurumi-for-beginners-result.jpg "Illustration. The finished look these steps build toward.")
+![A finished white crochet ghost with a wavy hem and two simple embroidered eyes](../../assets/articles/crochet-ghost-amigurumi-for-beginners-result.jpg "Illustration. The intended look. Not a measured sample.")
+
+## Two builds
+
+<figure class="diagram">
+<img src="/diagrams/ghost-two-builds.svg" alt="Left, a hanging ghost with a loop on top, a stuffed head held by a yarn cinch through round 10, and an open body that flares into a wavy hem. Right, a standing ghost whose round 17 is worked in back loops, with decrease rounds folding under into a flat stuffed base, and a skirt worked into the front loops of round 16 that hangs over the base." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The hanging ghost holds its stuffing with a cinch. The standing ghost holds it with a closed base, and its skirt is added afterward.</figcaption>
+</figure>
 
 ## What you need
 
-- White (or cream) worsted-weight yarn — [yarn weight chart](/yarn-weight-chart/)
-- Small amount of black yarn or embroidery floss for the face
-- Hook that matches the yarn ([hook size chart](/crochet-hook-size-conversion-chart/))
-- Stuffing
-- Yarn needle and stitch marker
+- **White or cream worsted-weight yarn**, plus black yarn or embroidery floss for the face. [Yarn weights](/yarn-weight-chart/).
+- **A hook one or two sizes smaller than the label**, so the fabric is tight enough to hide the stuffing. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Polyester stuffing, a yarn needle, a stitch marker.
 
-US abbreviations: see the [abbreviations chart](/crochet-abbreviations-chart/).
+## Step 1: the head and body (both builds)
 
-## Step 1: crochet the head and body
+![Hands crocheting a rounded white dome in the round](../../assets/articles/crochet-ghost-amigurumi-for-beginners-1.jpg "Illustration. The head and body are one piece, started at the top.")
 
-![Hands crocheting a rounded white dome in the round](../../assets/articles/crochet-ghost-amigurumi-for-beginners-1.jpg "Illustration. Step 1 — head and body are one piece, a dome that stays open at the bottom.")
+Start at the top of the head and work down in a spiral. Mark the first stitch of each round.
 
-Start at the top of the head and work downward.
+**Round 1:** 6 sc in a magic ring. (6)
 
-**Rnd 1.** Magic ring, 6 sc. (6)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Rnd 2.** 2 sc in each st. (12)
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Rnd 3.** *Sc, 2 sc in next st; repeat from * around. (18)
+**Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
-**Rnd 4.** *Sc in next 2 sts, 2 sc in next st; repeat from * around. (24)
+**Round 5:** (Sc 3, 2 sc in next) 6 times. (30)
 
-**Rnd 5.** *Sc in next 3 sts, 2 sc in next st; repeat from * around. (30)
+**Rounds 6–16:** Sc in each stitch. (30)
 
-Work even on 30 stitches until the piece is tall enough that the head-and-body reads as one continuous ghost — usually about the diameter of the widest round, or a bit taller for a lankier ghost.
+On an even round, the count must stay at 30. If it grew, you probably worked two stitches into the last stitch of a round. The hem can look ragged. The count cannot.
 
-<div class="tip">
+**Mark the eyes now.** Put a scrap of contrasting yarn through a stitch on about round 8, the middle of the head. It is much easier to place them before stuffing.
 
-**Mark the face height early.** The eyes sit roughly one-third of the way down from the top. A scrap of contrasting yarn through a stitch saves you from embroidering too low after stuffing.
+## Step 2: the face
 
-</div>
+![A tapestry needle with black yarn stitching an oval eye onto white crochet fabric](../../assets/articles/crochet-ghost-amigurumi-for-beginners-3.jpg "Illustration. Embroidered eyes, not plastic ones.")
 
-## Step 2: add the wavy hem
+Embroider two small ovals in satin stitch, or two French knots, about 4 stitches apart at the marked round. Use floss or yarn thinner than the body yarn, or the eyes look heavy. A tiny mouth is optional. Weave the ends inside.
 
-![The bottom edge of white crochet fabric rippling into deep waves](../../assets/articles/crochet-ghost-amigurumi-for-beginners-2.jpg "Illustration. Step 2 — extra increases in the last rounds make the hem ripple.")
+Embroidered eyes are safer than glued or plastic ones for anything a child might chew.
 
-For a closed toy, decrease back down, stuff as you go, and finish. For the classic open ghost:
+## Step 3A: the hanging ghost
 
-**Flare round.** *Sc in next 4 sts, 2 sc in next st; repeat from * around (add about six increases once).
+**Stuff the head.** Fill rounds 1 to 9 firmly.
 
-**Next round.** Sc around.
+**Cinch the neck.** Thread a strand of white yarn through every stitch of round 10, in and out, all the way round. Pull until the opening is about a finger wide, so it holds the stuffing in, then knot the ends and bury them inside. Polyester stuffing clings to itself, so a small opening is enough. The cinch also gives the ghost a neck.
 
-**Edging option A — scallops.** *Sc, hdc, dc, hdc, sc in next 5 sts* around. Adjust by eye for a soft wave, not a doily.
+**Round 17:** (Sc 4, 2 sc in next) 6 times. (36)
 
-**Edging option B — simple picots.** *Sc in next 3 sts, ch 2, sl st in second ch from hook; repeat from * around.
+**Round 18, the wave:** (Sc, hdc, dc, dc, hdc, sc) 6 times. (36)
 
-Fasten off and weave ends.
+There are no increases in the wave. The different stitch heights make it ripple. Six repeats of 6 use all 36 stitches. Fasten off and weave the end in.
 
-## Step 3: embroider the face
+**Hanging loop:** Thread a doubled strand through the top of the head, near the magic ring, and knot it into a loop. Pass it through twice so it does not pull out.
 
-![A tapestry needle with black yarn stitching an oval eye onto white crochet fabric](../../assets/articles/crochet-ghost-amigurumi-for-beginners-3.jpg "Illustration. Step 3 — embroidered eyes, not safety eyes, keep it safer for small children.")
+## Step 3B: the standing ghost
 
-With black yarn or floss, embroider two small oval or round eyes using satin stitch or French knots. A tiny curved mouth is optional; many ghosts look better with eyes only.
+**Round 17:** Sc in the back loop only of each stitch. (30)
 
-Do the embroidery **before** the piece is fully closed if you are making a sealed toy. On an open ghost, weave ends into the stuffing cavity.
+This leaves the front loops of round 16 free for the skirt, and makes a fold line so the base turns under flat.
 
-Avoid glued-on plastic eyes for anything a child might chew.
+**Round 18:** (Sc 3, sc2tog) 6 times. (24)
 
-## Step 4: stuff so it stands
+**Round 19:** (Sc 2, sc2tog) 6 times. (18)
 
-![A white crochet ghost body being lightly stuffed through the open hem](../../assets/articles/crochet-ghost-amigurumi-for-beginners-4.jpg "Illustration. Step 4 — stuff the upper body denser than the hem so the ghost stands instead of flopping.")
+Stuff firmly, especially the head. Put the most stuffing at the bottom, so the ghost sits flat.
 
-Stuff the upper two-thirds firmly and leave the hem freer so it drapes.
+**Round 20:** (Sc, sc2tog) 6 times. (12)
 
-A tall thin ghost with soft stuffing tips over. Three fixes:
+**Round 21:** Sc2tog 6 times. (6) Fasten off and pull the hole closed.
 
-1. Stuff the base of the head and upper body denser than the hem.
-2. Drop a small sealed pouch of rice or poly pellets into the bottom before finishing (shelf décor only, not for babies).
-3. Widen the increase section so the ghost has a broader footprint.
+**The skirt:** Turn the ghost upside down. Join white in any free front loop of round 16.
 
-## Mistakes worth avoiding
+- **Skirt round 1:** Working into the front loops, (sc 4, 2 sc in next) 6 times. (36)
+- **Skirt round 2:** (Sc, hdc, dc, dc, hdc, sc) 6 times. (36)
 
-**Eyes too low.** Once the hem flares, low eyes look wrong. Place them high.
+Fasten off. The skirt hangs over the base, so the ghost looks open but stands.
 
-**Hem increases every round.** One flare round is usually enough.
+## Edge options
 
-**Black yarn thicker than the body yarn for the face.** Use floss or a thinner scrap.
+Both builds end with a 36-stitch round. Any edge whose repeat divides 36 will work.
 
-**Skipping the marker on a spiral.** Losing the round start shows as a diagonal wobble.
+- **Wave:** (sc, hdc, dc, dc, hdc, sc), 6 repeats.
+- **Picots:** (sc 3, ch 2, sl st in the 2nd chain from the hook), 12 repeats.
+- **Plain:** one round of sc. Quiet, and still clearly a ghost.
+
+A five-stitch scallop will not fit: 36 is not a multiple of 5.
+
+## Troubleshooting
+
+**Stuffing falls out of the hanging ghost.** The cinch is too loose. Pull it tighter, or tuck in a little more stuffing so it fills the space.
+
+**The standing ghost tips over.** The base is under-stuffed or domed. Add stuffing at the bottom before round 21.
+
+**The skirt flares like a tutu.** Too many increases. Skip skirt round 1 and work the wave straight into the 30 front loops: 30 is also a multiple of 6.
+
+**Eyes too low.** Eyes belong on the head, above the neck.
+
+**A diagonal wobble.** The marker was lost. Count back.
 
 ## Frequently asked
 
-### Can I work this in joined rounds instead of a spiral?
+### Can I use joined rounds instead of a spiral?
 
-Yes. Join and chain 1 at the end of each round if you prefer a clear seam.
+Yes. Slip stitch to the first stitch and ch 1 at each round. The ch 1 does not count as a stitch.
 
-### What yarn color besides white?
+### What colors besides white?
 
-Gray, pale blue, or glow-in-the-dark acrylic all work. High-contrast embroidery still matters.
+Gray, pale blue, or glow-in-the-dark acrylic. Keep strong contrast for the face.
 
-### How do I hang it?
+### Can I add weight to the base?
 
-Thread a yarn loop through the top before closing, or sew a loop to the magic-ring center. Reinforce with a second pass.
+Some makers put plastic pellets in a sealed fabric pouch inside the base. Loose pellets and small parts are a choking hazard, so do not do this for a toy that might reach a small child.
 
-### What to make next
+### What should I make next?
 
-A [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/), a [spider](/how-to-crochet-a-spider-and-web/), [Halloween granny squares](/halloween-granny-square-variations/), or the reel-friendly [Halloween card wallet](/halloween-crochet-card-wallet/).
+The same increase, even, decrease shape with grooves is the [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/). Flat pieces sewn to a small body are the [bat](/bat-amigurumi-wings-body-and-ears/).

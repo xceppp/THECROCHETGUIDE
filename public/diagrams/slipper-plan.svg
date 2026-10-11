@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Slipper plan: sole, toe cap, and heel wall</title>
+<desc>Top view of a rectangular sole 14 stitches wide and 48 rows long. A toe cap 24 stitches wide and 16 rows deep covers the toe end. Its sides are sewn to the first 16 rows of the sole sides and its front edge is gathered onto the 14 toe stitches. A heel wall strip 26 stitches long and 8 rows high wraps around the heel end and 8 rows up each side. 24 rows of each side are left open. An inset shows the over-the-top measurement: a tape from one edge of the sole, over the foot, to the other edge, about 6 inches in the example.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .sole { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2; }
+  .cap { fill: none; stroke: #b0604a; stroke-width: 4; }
+  .heel { fill: none; stroke: #7d8b72; stroke-width: 5; }
+  .tape { fill: none; stroke: #b0604a; stroke-width: 2.5; stroke-dasharray: 6 4; }
+  .foot { fill: #f6efe6; stroke: #6b4428; stroke-width: 2; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">The cap has to be wider than the sole</text>
+<rect class="sole" x="60" y="70" width="70" height="320" rx="8"/>
+<path class="cap" d="M60 177 L60 78 Q95 62 130 78 L130 177"/>
+<path class="heel" d="M60 337 L60 382 Q95 396 130 382 L130 337"/>
+<text class="soft" x="146" y="90">Toe cap: 24 sts x 16 rows</text>
+<text class="soft" x="146" y="112">front edge gathered onto 14</text>
+<text class="soft" x="146" y="134">sides sewn to rows 1-16</text>
+<text class="soft" x="146" y="250">Open: 24 rows each side</text>
+<text class="soft" x="146" y="350">Heel wall: 26 sts x 8 rows</text>
+<text class="soft" x="146" y="372">14 across the back, 6 up each side</text>
+<text class="soft" x="60" y="410">Sole: 14 x 48</text>
+<rect x="400" y="80" width="208" height="210" rx="8" fill="#fdfaf6" stroke="#e6ddd1"/>
+<text class="soft" x="416" y="106">Toe end, seen from the front</text>
+<rect class="sole" x="440" y="236" width="128" height="14"/>
+<path class="foot" d="M444 236 C444 170 564 170 564 236 Z"/>
+<path class="tape" d="M436 244 C432 150 576 150 572 244"/>
+<text class="soft" x="416" y="272">Sole: 3.5 in across</text>
+<text class="soft" x="416" y="140">Over the top: about 6 in</text>
+</svg>

@@ -1,143 +1,165 @@
 ---
 title: "How to Crochet a Pumpkin Treat Bag"
-description: "A small orange crochet pumpkin bag with a drawstring and green stem, sized for a handful of wrapped candy. US terms. Size estimates, not a yarn-tested sample."
+description: "An orange crochet drawstring bag shaped with a gentle pumpkin bulge and a green stem. US terms. Every count checked. Inches are gauge estimates."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["halloween", "pumpkin", "treat bag", "beginner", "how to"]
+glance:
+  time: "A base, a tube with one bulge, an eyelet round, a stem"
+  size: "About 3.8 in across at the base, 4.3 in at the belly, 4.6 in tall"
+  yarn: "Worsted cotton, orange, plus green scrap"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh the base and multiply by about 3."
 ---
 
-A treat bag only works if the candy stays in when a kid swings it. This one is a small orange tube with a flat base, a drawstring, and a green stem sewn where it will not block the cord.
+A straight orange tube with a stem is a cylinder that happens to be orange. A pumpkin is wider in the middle than at the top or bottom. This bag gets that shape from two rounds: one round of six increases partway up the wall, and one round of six decreases near the top. Between them the bag bulges slightly. Above them it narrows again to a neck that gathers neatly when you pull the cord.
 
-It holds a handful of wrapped candy, not a pillowcase full. US terms. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart/).
+That is the lesson here: you can shape a straight tube without starting over, by adding stitches evenly in one round and taking them out evenly in a later one. The same move shapes a vase, a bottle cozy, or the body of a toy.
 
-Photos are illustrations. The inches are estimates from the gauge. This bag has not been filled and measured in real yarn. Test it with the candy you mean to put in it.
+It holds a handful of wrapped candy, not a night of trick-or-treating. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bag for this page was crocheted. Inches are estimates from the example gauge.
 
-![An orange crochet pumpkin bag with a green stem and wrapped candy](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-result.jpg "Illustration. Intended look: orange body, green stem, drawstring, candy at the opening.")
+![An orange crochet pumpkin bag with a green stem and wrapped candy](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-result.jpg "Illustration. An orange bag, green stem, drawstring. Not a measured sample.")
 
-## Materials
+## What is a technique, and what is only a plan
 
-![Orange yarn, green yarn, a hook, and a needle](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-1.jpg "Illustration. Materials. Yardage is an estimate.")
+| Piece of this page | What it is |
+| --- | --- |
+| Flat circle, then even rounds | Standard construction. |
+| One round of 6 increases, later 6 decreases | Standard shaping. Spreads the change evenly. |
+| (Sc, ch 1, skip 1) eyelet round on an even count | Standard. |
+| 4 sc and 5 rounds to the inch | An unverified example gauge. |
+| About 80 yards orange and 10 yards green | Old lines. Not measured. Withdrawn. |
 
-- Worsted cotton, orange, about **80 yards**. Green, about **10 yards**. [Yarn weight chart](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
+## How the bag is built
+
+<figure class="diagram">
+<img src="/diagrams/pumpkin-bag-profile.svg" alt="Side view of the pumpkin bag. A flat base of 48 stitches, rounds 9 to 12 straight at 48, round 13 increases to 54, rounds 14 to 21 straight at 54, round 22 decreases to 48, rounds 23 to 28 straight at 48, then the eyelet round 29 and two rounds above it. The belly is about a quarter inch wider on each side." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Six stitches in, six stitches out. The bulge is gentle on purpose so the bag still stands.</figcaption>
+</figure>
+
+Six extra stitches at 4 per inch add 1.5 inches around. Divided by pi, that is about half an inch across, or about a quarter inch outward on each side. The bulge is gentle on purpose. Increase more and the belly sags under the weight of candy. Increase less and nobody sees it. If you want a rounder pumpkin, add a second increase round to 60 and a second decrease round back to 48. The worked example below uses one of each.
+
+## Yarn and hook
+
+![Orange yarn, green yarn, a hook, and a needle](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-1.jpg "Illustration. Yarn and tools. Not a weighed amount.")
+
+- **Worsted cotton**, orange, plus a scrap of green. Cotton holds the bulge better than a soft acrylic, and candy wrappers do not stick to it. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
 - Yarn needle, scissors, stitch marker.
 
-Beginner. About 2 to 3 hours. A stuffed pumpkin with segments is a different project: [how to crochet a pumpkin](/how-to-crochet-a-pumpkin-step-by-step/). This page is a bag.
+A stuffed pumpkin with ribs is a different project: [how to crochet a pumpkin](/how-to-crochet-a-pumpkin-step-by-step/).
 
-## Gauge and size (estimates)
+## The worked example
 
-**4 sc = 1 inch. 5 rounds = 1 inch.**
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Base | 6 × 8 rounds | 48 sts, 12 in around, about 3.8 in across |
+| Belly | 48 + 6 | 54 sts, 13.5 in around, about 4.3 in across |
+| Wall | Rounds 9 to 31 = 23 rounds ÷ 5 | about 4.6 in |
+| Eyelets | 48 ÷ 2 | 24 holes |
+| Cord | 12 in around + 2 tails of 6 in | about 24 in |
 
-The base stops at 48 stitches, about **12 inches** around and about **3.8 inches** across. Twenty even rounds are about **4 inches** of wall. That is a small gift pouch. For more candy, follow the taller note later. Do not stretch the fabric and call that extra room.
+## Stage 1: the base
 
-## Base and body
-
-Spiral. Do not join. Mark the first stitch. Same start as [crochet in the round](/crochet-in-the-round/).
-
-![A flat orange crochet circle](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-2.jpg "Illustration. The base is a flat circle. It should not bowl.")
+Work in a spiral. Do not join. Mark the first stitch of each round and move the marker up. [Working in the round](/crochet-in-the-round/).
 
 **Round 1:** 6 sc in a magic ring. (6)
 
-**Round 2:** inc in each. (12)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Round 3:** (sc, inc) 6 times. (18)
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Round 4:** (2 sc, inc) 6 times. (24)
+**Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
-**Round 5:** (3 sc, inc) 6 times. (30)
+**Round 5:** (Sc 3, 2 sc in next) 6 times. (30)
 
-**Round 6:** (4 sc, inc) 6 times. (36)
+**Round 6:** (Sc 4, 2 sc in next) 6 times. (36)
 
-**Round 7:** (5 sc, inc) 6 times. (42)
+**Round 7:** (Sc 5, 2 sc in next) 6 times. (42)
 
-**Round 8:** (6 sc, inc) 6 times. (48)
+**Round 8:** (Sc 6, 2 sc in next) 6 times. (48)
 
-Each round adds 6 stitches. Round 8 uses 7 stitches per repeat, 6 repeats, 42 stitches from Round 7 plus 6 increases = 48.
+**Checkpoint:** a flat circle about 3.8 inches across.
 
-**Rounds 9–28:** sc in each stitch. (48)
+## Stage 2: the shaped wall
 
-Twenty rounds, no increases. The count stays 48.
+![An orange crochet tube still on the hook](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-3.jpg "Illustration. Even rounds turn the circle into a wall.")
 
-![An orange crochet tube still on the hook](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-3.jpg "Illustration. Even rounds turn the circle into a bag.")
+**Rounds 9–12:** Sc in each stitch. (48)
 
-## Drawstring
+**Round 13:** (Sc 7, 2 sc in next) 6 times. (54)
 
-**Round 29:** (sc, ch 1, skip 1) 24 times. (24 sc and 24 chain spaces)
+Each repeat covers 8 stitches of the 48 and makes 9. Six repeats make 54.
 
-Each repeat uses 2 stitches. Twenty-four repeats use all 48. If you are not on 48 at the end of Round 28, do not start this round. Find the extra or missing stitch first.
+**Rounds 14–21:** Sc in each stitch. (54)
 
-**Rounds 30–31:** sc in each sc and each chain space. (48)
+**Round 22:** (Sc 7, sc2tog) 6 times. (48)
 
-Fasten off.
+Each repeat covers 9 stitches of the 54 and makes 8. Six repeats make 48.
 
-Chain 90 in orange for the cord. Weave it through the Round 29 spaces. Both ends come out at the front. Pull them. The rim should gather. A wrapped candy should not fall through the closed top.
+**Rounds 23–28:** Sc in each stitch. (48)
 
-![A drawstring and a small green stem at the rim](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-4.jpg "Illustration. The cord uses the chain spaces. The stem is sewn beside them, not through them.")
+**Checkpoint:** the wall is visibly wider through the middle and narrower at the neck. Count round 28. It must be 48, an even number, or the eyelet round will not finish.
 
-## Stem
+The increases in round 13 sit directly over the base increases, which can make six faint corners. If you want a rounder look, start round 13 with sc 3 instead of sc 7 for the first repeat, then work (2 sc in next, sc 7) five times, 2 sc in next, sc 4. The stitch count is the same.
 
-Green. This is a short tube, not a leaf.
+## Stage 3: eyelets and rim
+
+**Round 29:** (Sc, ch 1, skip 1) 24 times. (24 sc, 24 ch-1 spaces)
+
+**Rounds 30–31:** Sc in each sc and in each ch-1 space. (48) Fasten off.
+
+## Stage 4: the cord
+
+Chain until the cord measures about 24 inches, then slip stitch back along the chain. The slip-stitch pass makes it firmer and stops it stretching open. Thread it through the 24 eyelets with both ends at the front, then knot each end.
+
+![A drawstring and a small green stem at the rim](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-4.jpg "Illustration. The cord uses the eyelets. The stem sits beside them, not in them.")
+
+## Stage 5: the stem
+
+With green:
 
 **Round 1:** 5 sc in a magic ring. (5)
 
-**Rounds 2–5:** sc in each. (5)
+**Rounds 2–5:** Sc in each stitch. (5) Fasten off with a tail.
 
-Fasten off. Sew the open end to the outside of the rim, between two drawstring holes, so the needle does not sew a hole shut. The stem is decoration. It does not hold the candy.
+Sew the open end to the outside of the rim, between two eyelets, so the needle does not close a hole. The stem uses only a yard or two.
 
-## Finishing
+## Troubleshooting
 
-Weave ends inside. Put in the candy you plan to give. If the bag is too short, you needed more even rounds before Round 29, not a harder pull on the cord.
+**No visible bulge.** The yarn is too soft, or round 13 was missed. Count rounds 12 and 14.
 
-![The orange bag holding wrapped candy on a step](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-5.jpg "Illustration. A handful of wrapped candy. Not a full trick-or-treat sack.")
+**The belly sags when full.** Too much bulge for the yarn. Use one increase round, not two, or a firmer cotton.
 
-## What to put in it
+**Six corners on the belly.** Increases stacked over the base increases. Offset round 13 as described.
 
-Wrapped hard candy is the safe load. A few chocolate pieces are fine on a cool porch and a bad idea in a warm car, because the pouch does nothing to keep them cool. Skip anything sticky and unwrapped. It glues the cotton and you will not get it out of the stitches.
+**The eyelet round ends wrong.** Round 28 is not 48.
 
-Do not hang this bag from a costume and call it a trick-or-treat sack. The 4-inch wall, at the gauge above, fills after a short stop. The taller change later on this page is still a pouch. A pillowcase or a real bucket is the right tool for a full route.
-
-If you are handing the bag to a child, check the cord tails. Trim them so they are long enough to tie and short enough that they are not a loop around a neck. Knot each tail so the cord cannot pull back through the holes.
-
-The stem uses about 10 yards because a 5-stitch tube is small. If your green scrap is shorter, stop at Round 3. A shorter stem still reads as a pumpkin as long as it is green and it is not sewn through a drawstring hole.
-
-## Changes
-
-**Taller.** Work Rounds 9–36 instead of 9–28, still at 48, then do the drawstring round.
-
-**Wider.** After Round 8, work (7 sc, inc) 6 times. (54) Then work even on 54. The drawstring repeat count becomes 27, because 54 is still even.
-
-**No stem.** The bag still closes. Skip the green.
-
-## Mistakes
-
-**Sewing the stem through a chain space.** The cord snags. Sew between the holes.
-
-**A joined round plus a chain.** That bumps the count off even and the eyelet round fails. Stay in a spiral.
-
-**Worsted acrylic that pills.** Candy wrappers stick to it. Cotton is the better default.
+**The cord snags.** The stem was sewn through an eyelet.
 
 ## Care
 
-Hand wash cool, dry flat, empty it first. Do not claim the bag is waterproof. Single crochet cotton slows a drip. It does not keep chocolate dry in rain.
+Empty it first. Hand wash cool. Dry flat, pushing the belly back into shape.
 
 ## Frequently asked
 
-**Can a toddler use this as a trick-or-treat bag?**
+**Can a toddler use it for trick-or-treating?**
 
-Only for a few pieces at one house. The 4-inch wall fills up fast. The taller change is still a small pouch.
+For a few pieces at one house. The bag holds a handful. Knot and trim the cord ends, and never hang it around a neck.
 
 **Is the stem structural?**
 
-No. The drawstring closes the bag.
+No. The cord closes the bag.
 
 **Can I sell finished bags?**
 
-Yes. Do not republish this pattern.
+Yes. Do not republish the pattern.
 
 ## Next
 
-A coin-sized version of the same drawstring is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/). A flat Halloween holder for cards is the [card wallet](/halloween-crochet-card-wallet/).
+The same drawstring with large eyelets and a twisted cord is the [ghost candy bag](/how-to-crochet-a-ghost-candy-bag/). A zipped round pouch is the [pumpkin zipper pouch](/how-to-crochet-a-pumpkin-zipper-pouch/).

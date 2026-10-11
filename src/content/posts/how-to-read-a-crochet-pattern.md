@@ -2,6 +2,7 @@
 title: "How to Read a Crochet Pattern, Line by Line"
 description: "Crochet patterns are written in shorthand nobody teaches you. Here is how to decode a real pattern from the materials list to the last row."
 pubDate: 2026-09-08
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -12,7 +13,7 @@ quickAnswer: "Read the materials, the hook size in millimeters, and whether the 
 
 Crochet patterns are shorthand. The line below is a whole row, and the rest of a pattern uses the same pieces.
 
-> **Row 4:** Ch 3 (counts as dc), *2 dc in next st, sk 1 st, rep from * across, turn. (24 sts)
+> **Row 4:** Ch 3 (does not count as a st), *2 dc in next st, sk 1 st, rep from * across, turn. (24 sts)
 
 ![A printed crochet pattern beside yarn and a hook on a desk](../../assets/articles/how-to-read-a-crochet-pattern-result.jpg "Illustration. Read the materials and gauge notes before the first stitch line.")
 
@@ -20,7 +21,7 @@ Crochet patterns are shorthand. The line below is a whole row, and the rest of a
 
 Read the pattern once before you chain. Check for a special-stitches section, for US or UK terms, and for the construction: flat and seamed, or in one piece in the round, brim first or crown first.
 
-**Yarn.** Weight (a number from 0 to 7, or a name such as worsted or DK), total yardage, and the yarn used. Buy by yards or meters, plus ten percent. Ball sizes differ by brand.
+**Yarn.** Weight (a number from 0 to 7 on the Craft Yarn Council scale, or a name such as worsted or DK), total yardage, and the yarn used. Buy by yards or meters, plus ten percent. Ball sizes differ by brand.
 
 **Hook.** Trust the millimeters, not the letter. Letters differ by maker. The [hook size chart](/crochet-hook-size-conversion-chart/) converts them.
 
@@ -51,7 +52,7 @@ US and UK names are shifted by one. A US single crochet is a UK double crochet. 
 The sample row, in order:
 
 - **`Row 4:`** This row only. `Rows 4–12:` means the same instruction for each of those rows.
-- **`Ch 3 (counts as dc)`** Chain 3 for height, and count that chain as the first double crochet. If it says the chain does not count, you also work into the first stitch.
+- **`Ch 3 (does not count as a st)`** Chain 3 for height only. The first repeat starts in the first stitch. When a pattern says `ch 3 (counts as dc)` instead, the chain is the first double crochet: you skip the first stitch, and the chain is included in the count.
 - **`*` through `rep from *`** The part you repeat.
 - **`2 dc in next st`** Two double crochets in one stitch. That is an increase.
 - **`sk 1 st`** Skip the next stitch.
@@ -61,7 +62,7 @@ The sample row, in order:
 
 **Punctuation.** Parentheses group stitches that all go in one place: `(2 dc, ch 1, 2 dc) in next st`. Parentheses at the end of a row are the count instead. Brackets repeat a set number of times: `[sc, ch 1] x 6`. An asterisk marks a repeat that runs to the end of the row or round. A number before a stitch is how many to make (`3 dc`). A number inside the name is one combined stitch (`dc3tog`, a decrease made from three stitches).
 
-One line, expanded. Suppose the previous row has 24 stitches and this row says `*2 dc in next st, sk 1 st; rep from * across (24 sts)`. Each repeat uses 2 stitches of the old row (one that receives two double crochets, one that is skipped) and makes 2 new double crochets. Twelve repeats use 24 old stitches and make 24 new ones. The count stays 24. If you finish with 26, an extra increase landed in a stitch that should have been skipped.
+One line, expanded. The sample row starts on 24 stitches, and its chain-3 is not counted. Each repeat uses 2 stitches of the old row (one that receives two double crochets, one that is skipped) and makes 2 new double crochets. Twelve repeats use 24 old stitches and make 24 new ones. The count stays 24. If you finish with 26, an extra increase landed in a stitch that should have been skipped. If you finish with 25, you probably counted the chain-3 as a stitch.
 
 ## Count your stitches
 
@@ -107,7 +108,7 @@ Garment patterns stack sizes in one line:
 
 The first number is the smallest size. The rest follow the size list at the top. Before row one, circle every number that belongs to your size.
 
-`Worked in multiples of 6 + 2` tells you how to change the width yourself. The starting chain must be a multiple of six, plus two. Chains of 20, 26, 32, and 38 work. A chain of 25 does not, and the pattern breaks at the end of the first row.
+`Worked in multiples of 6 + 2` tells you how to change the width yourself. The starting chain must be a multiple of six, plus two. Chains of 20, 26, 32, and 38 work. A chain of 25 does not, and the pattern breaks at the end of the first row. Some designers state the multiple for the stitches and add the turning chain separately, so read the note under the foundation row before you chain.
 
 ## Mistakes
 

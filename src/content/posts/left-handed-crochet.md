@@ -2,15 +2,16 @@
 title: "Left-Handed Crochet: How to Follow Any Pattern"
 description: "Almost every crochet tutorial is filmed right-handed. Here is how to mirror patterns, diagrams and videos so you can follow any of them left-handed."
 pubDate: 2026-09-05
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 printable: true
 tags: ["left handed", "beginner", "patterns", "accessibility"]
 ---
 
-Roughly one person in ten is left-handed, and almost every crochet tutorial ever made is filmed right-handed. Older instruction books used to tell left-handers to trace the diagrams onto paper and hold the tracing up backwards.
+Roughly one person in ten is left-handed, and most crochet tutorials are filmed right-handed. The usual workaround used to be holding a printed diagram up to a mirror, or tracing it and flipping the tracing.
 
-You can do considerably better than that. Here is how to follow any pattern, diagram, or video left-handed without translating anything by hand.
+You can do better than that now. Here is how to follow any pattern, diagram, or video left-handed without translating anything by hand.
 
 ![Two pairs of hands mirroring each other, one crocheting left-handed and one right-handed](../../assets/articles/left-handed-crochet-1.jpg "Illustration. Same stitches, same fabric, opposite direction of travel.")
 
@@ -31,6 +32,11 @@ Right-handers work a row from right to left. You work from left to right.
 That is the entire change for flat work in rows. Chain, turn, work back the other way. Your stitches are identical, your fabric is identical, and your finished piece is identical.
 
 **In the round**, right-handers work counterclockwise. You work clockwise. Again, the result is the same object.
+
+<figure class="diagram">
+<img src="/diagrams/left-handed-direction.svg" alt="Diagram comparing direction of travel. Right-handed rows go right to left and rounds counterclockwise. Left-handed rows go left to right and rounds clockwise." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. The only change in the hands is the direction of travel.</figcaption>
+</figure>
 
 ## Difference 2: written patterns say "right" and "left"
 
@@ -64,11 +70,11 @@ For nearly everything, this is invisible and irrelevant — a mirror-image grann
 
 This is the practical problem, and there are three solutions that all work better than tracing paper.
 
-**1. Search for left-handed tutorials directly.** Add "left handed" to any search. There is now a substantial body of left-handed crochet instruction on YouTube — entire channels dedicated to it — that did not exist when those old booklets were written. For any basic technique, a left-handed version exists.
+**1. Search for left-handed tutorials directly.** Add "left handed" to the search. For the basic stitches and the magic ring, left-handed videos are easy to find. For a specific designer's project, they usually are not.
 
-**2. Mirror the video on your device.** Many video players and phone apps can flip playback horizontally, which turns any right-handed tutorial into a left-handed one instantly. On a desktop, browser extensions do this for streaming video in one click. This is the single most useful trick in this article, and it works for every tutorial ever filmed.
+**2. Mirror the video on your device.** Some video players and apps can flip playback horizontally, and on a desktop there are browser extensions that mirror video. A mirrored right-handed tutorial shows exactly what your hands should do. Check what your own device offers, because the options change.
 
-**3. Use an actual mirror.** Prop a mirror beside your screen and watch the reflection. Low-tech, free, works immediately, and is how left-handers managed for decades.
+**3. Use an actual mirror.** Prop a mirror beside your screen and watch the reflection. Low-tech, free, and it works on any screen.
 
 Do not bother learning to mirror the movements in your head while also learning the stitch. Flip the video and learn the stitch once.
 
@@ -108,4 +114,4 @@ But do not force it. If it feels wrong after a few sessions, switch. Working lef
 
 **Are there left-handed patterns?** A few designers publish them, but you do not need them. Standard patterns work with the swaps above, and for most beginner projects there is nothing to swap.
 
-**Why did old books tell me to trace the diagrams?** Because printing two sets of diagrams doubled the page count, and mirroring a video was not possible in 1990. It was a genuine constraint then. It is not one now.
+**Why was I told to trace the diagrams?** A printed diagram cannot flip itself, so tracing or a mirror was the only way to see it reversed. A mirrored video or a mirror beside the screen does the same job with less effort.

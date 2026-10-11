@@ -2,6 +2,7 @@
 title: "Crochet Gauge: How to Measure It and Fix It"
 description: "Gauge is why your hat came out too small even though you followed the pattern. How to swatch, measure properly, and adjust when you are off."
 pubDate: 2026-09-02
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -62,7 +63,7 @@ A gauge window is a stiff card or metal plate with a 4-inch square hole. Lay it 
 
 **Fewer stitches** means each stitch is bigger. You crochet loosely. Go **down** a hook size.
 
-More stitches in the same space means each one is smaller, so a bigger hook makes them bigger. Change one size at a time. One hook size typically moves stitch gauge by about half a stitch to a full stitch over 4 inches.
+More stitches in the same space means each one is smaller, so a bigger hook makes them bigger. Change one size at a time. How far one hook size moves the gauge depends on the yarn and on your hands, so there is no fixed amount. Swatch again and measure.
 
 Match **stitch gauge** first. Width is what determines fit, and most patterns tell you to work length to a measurement rather than to a row count. If the stitches are right and the rows are off, follow the inch measurements. Where a pattern insists on a row count for shaping, such as armholes or sleeve caps, try another hook and see whether both numbers get closer.
 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Weaving in an end with a change of direction</title>
+<desc>A tail woven straight through the stitches can slide back out. A tail that runs through four or five stitches, then turns and runs back on a different path, is held by friction.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .st { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2; }
+  .tail { fill: none; stroke: #b0604a; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+<defs>
+  <g id="grid">
+    <rect class="st" x="0" y="0" width="40" height="34" rx="4"/>
+    <rect class="st" x="44" y="0" width="40" height="34" rx="4"/>
+    <rect class="st" x="88" y="0" width="40" height="34" rx="4"/>
+    <rect class="st" x="132" y="0" width="40" height="34" rx="4"/>
+    <rect class="st" x="176" y="0" width="40" height="34" rx="4"/>
+    <rect class="st" x="220" y="0" width="40" height="34" rx="4"/>
+    <rect class="st" x="0" y="38" width="40" height="34" rx="4"/>
+    <rect class="st" x="44" y="38" width="40" height="34" rx="4"/>
+    <rect class="st" x="88" y="38" width="40" height="34" rx="4"/>
+    <rect class="st" x="132" y="38" width="40" height="34" rx="4"/>
+    <rect class="st" x="176" y="38" width="40" height="34" rx="4"/>
+    <rect class="st" x="220" y="38" width="40" height="34" rx="4"/>
+  </g>
+</defs>
+<rect x="16" y="20" width="296" height="300" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<rect x="328" y="20" width="296" height="300" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">Straight pass</text>
+<text class="label" x="344" y="52">Out and back</text>
+<use href="#grid" x="34" y="110"/>
+<use href="#grid" x="346" y="110"/>
+<path class="tail" d="M20 127 H250"/>
+<text class="soft" x="32" y="240">Nothing stops it sliding</text>
+<text class="soft" x="32" y="262">back out with wear.</text>
+<path class="tail" d="M332 127 H560 q20 0 20 19 q0 19 -20 19 H420"/>
+<text class="soft" x="344" y="240">Four or five stitches out,</text>
+<text class="soft" x="344" y="262">then back on a new path.</text>
+<text class="soft" x="32" y="370">Work on the wrong side. Trim close, then stretch the</text>
+<text class="soft" x="32" y="394">fabric gently so the cut end pulls inside.</text>
+</svg>

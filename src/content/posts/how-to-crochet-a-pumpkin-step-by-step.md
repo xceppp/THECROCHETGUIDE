@@ -1,7 +1,8 @@
 ---
 title: "How to Crochet a Pumpkin, Step by Step"
-description: "Build a basic amigurumi pumpkin in four pictured steps: sphere, stuff and close, cinch the grooves, sew on a stem — with the mistakes that flatten the shape."
+description: "A basic amigurumi pumpkin: increase, a short even section, decrease, then cinch grooves from the outside. Every round counted, with what flattens the shape."
 pubDate: 2026-09-16
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -16,106 +17,146 @@ tags:
     "beginner",
     "how to",
   ]
+glance:
+  time: "15 rounds, a stem, and the grooves"
+  size: "Depends on yarn, hook, and stuffing"
+  yarn: "Worsted, orange, plus brown or green scrap"
+  hook: "One or two sizes smaller than the label"
+  yardage: "Not weighed. A small amount."
 ---
 
-A crochet pumpkin is a stuffed sphere with vertical grooves and a short stem on top. The sphere is ordinary amigurumi math. The grooves come from a finishing trick, not from fancy stitches. If you can work [in the round](/crochet-in-the-round/) and make a [basic increase](/crochet-increase-decrease/), you can make one.
+A crochet pumpkin is a stuffed ball, slightly squashed, with grooves pulled in from the outside and a short stem on top. The ball is the same basic shape behind most amigurumi, which is why this is a good first one. The grooves are a finishing trick, not a stitch.
 
-Hook size, yarn weight, and stuffing amount change the final diameter, so treat the stitch counts as a shape recipe rather than a promise of a specific inch measurement until you have made one and measured it yourself.
+The lesson here is the shape. Every amigurumi ball has three parts: rounds that increase, rounds that stay even, and rounds that decrease. The increases set how wide it gets. The even rounds set how tall. Change only the number of even rounds and the same ball becomes a pumpkin, an egg, or a cylinder. Once you see that, most stuffed toys stop looking mysterious.
 
-![A finished orange crochet pumpkin with vertical grooves and a short brown stem](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-result.jpg "Illustration. The finished look these steps build toward.")
+If you can work [in the round](/crochet-in-the-round/) and make a [basic increase and decrease](/crochet-increase-decrease/), you can make this. US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pumpkin for this page was stuffed and measured, so no finished size is given.
+
+![A finished orange crochet pumpkin with vertical grooves and a short brown stem](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-result.jpg "Illustration. The intended shape. Not a measured sample.")
+
+## How the shape works
+
+<figure class="diagram">
+<img src="/diagrams/sphere-profile.svg" alt="Side view of a stuffed shape in three bands. Rounds 1 to 6 increase 6 stitches a round to 36. Even rounds at 36 set the height. Decrease rounds go back to 6. About 6 even rounds makes a near ball, about 4 makes a squat pumpkin. A top view shows 6 yarn wraps making 6 grooves." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Increase for width, work even for height, decrease to close. The grooves come later, from the outside.</figcaption>
+</figure>
+
+Six increases per round keeps a single crochet circle growing evenly. Six decreases per round closes it the same way. Between them, each even round adds one stitch height of wall. A ball of 36 stitches usually wants about six even rounds to look round. A pumpkin wants fewer, because it is wider than it is tall, and cinching the grooves will squash it further.
 
 ## What you need
 
-- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart/)) in orange for the body, a scrap of brown or green for the stem
-- A hook that matches your yarn — often a US G/6 (4.0 mm) or H/8 (5.0 mm); see the [hook size chart](/crochet-hook-size-conversion-chart/)
-- Stuffing
-- Yarn needle
-- Stitch marker
+- **Worsted-weight yarn** in orange, plus a scrap of brown or green for the stem. [Yarn weights](/yarn-weight-chart/).
+- **A hook one or two sizes smaller than the yarn label suggests**, often US E/4 (3.5 mm) or F/5 (3.75 mm) for worsted. Amigurumi uses tighter fabric than a garment so the stuffing does not show through. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Polyester stuffing, a yarn needle, a stitch marker.
 
-Abbreviations follow US terms. If any look unfamiliar, open the [abbreviations chart](/crochet-abbreviations-chart/).
+## Step 1: increase to 36
 
-## Step 1: start the sphere (increase)
+![Hands crocheting an orange sphere in the round, the sides curving upward](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-1.jpg "Illustration. Increase until the circle is wide enough, then the sides turn up.")
 
-![Hands crocheting an orange sphere in the round, the sides curving upward](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-1.jpg "Illustration. Step 1 — increase until the circle is wide enough, then the sides will turn up.")
+Work in a spiral. Mark the first stitch of every round and move the marker up.
 
-Work in a spiral. Mark the first stitch of every round.
+**Round 1:** 6 sc in a magic ring. (6)
 
-**Rnd 1.** Magic ring, 6 sc. (6)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Rnd 2.** 2 sc in each st around. (12)
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Rnd 3.** *Sc in next st, 2 sc in next st; repeat from * around. (18)
+**Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
-**Rnd 4.** *Sc in next 2 sts, 2 sc in next st; repeat from * around. (24)
+**Round 5:** (Sc 3, 2 sc in next) 6 times. (30)
 
-**Rnd 5.** *Sc in next 3 sts, 2 sc in next st; repeat from * around. (30)
+**Round 6:** (Sc 4, 2 sc in next) 6 times. (36)
 
-**Rnd 6.** *Sc in next 4 sts, 2 sc in next st; repeat from * around. (36)
+Each repeat covers one more old stitch than the last round's repeat and makes one more new stitch. If your count is not on the list, find the error now. A miscount here shows as a lump later.
 
-For a small desk pumpkin, stop increasing here. For a larger one, keep adding six stitches each round (next would be *sc in next 5, 2 sc in next*). That six-increase rule is what keeps the circle flat until you build height. The round written as single crochet in the next 2, then two in the next, six times, uses 3 old stitches per repeat and makes 4, so the new count is 6 × 4 = 24 if the previous round was 18. If your count is not that, stop. More on the math is in [increases and decreases](/crochet-increase-decrease/). The photos are illustrations. No pumpkin on this page was stuffed and measured.
+## Step 2: a short even section
 
-## Step 2: work even, decrease, and stuff
+**Rounds 7–10:** Sc in each stitch. (36)
 
-![An orange crochet sphere being stuffed and closed with a yarn needle through the last stitches](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-4.jpg "Illustration. Step 2 — stuff firmly while the opening is still wide enough to reach into.")
+Four even rounds is squat on purpose. For a rounder pumpkin, work five or six. For a flatter one, three.
 
-Work even (one sc in each stitch) for enough rounds that the height of the tube is a little less than the diameter of the circle. Pumpkins are slightly squat, not tall.
+## Step 3: decrease and stuff
 
-Then reverse the increase math:
+![An orange crochet sphere being stuffed and closed with a yarn needle through the last stitches](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-4.jpg "Illustration. Stuff firmly while the opening is still wide.")
 
-**Decrease round example from 36 sts.** *Sc in next 4 sts, sc2tog; repeat from * around. (30)
+**Round 11:** (Sc 4, sc2tog) 6 times. (30)
 
-Continue decreasing by six stitches each round until you have 12 stitches left. Stuff firmly as the opening shrinks — a soft pumpkin collapses when you add the ribs.
+**Round 12:** (Sc 3, sc2tog) 6 times. (24)
 
-Finish with *sc2tog* around to 6 stitches, fasten off leaving a long tail, and close the hole by weaving the tail through the front loops of the last six stitches and pulling tight.
+**Round 13:** (Sc 2, sc2tog) 6 times. (18)
+
+Stuff firmly now, while you can still reach in. Push stuffing into the edges, not just the middle.
+
+**Round 14:** (Sc, sc2tog) 6 times. (12)
+
+Top up the stuffing.
+
+**Round 15:** Sc2tog 6 times. (6)
+
+Fasten off with a long tail. Thread it through the front loops of the last 6 stitches and pull the hole closed.
 
 <div class="tip">
 
-**Stuff denser than you think.** Ribbing compresses the body. Soft stuffing turns into a dented orange blob once the grooves are pulled in.
+Stuff firmer than seems necessary. The grooves compress the body. A softly stuffed pumpkin turns into a dented blob when you pull them in.
 
 </div>
 
-## Step 3: cinch the grooves
+## Step 4: cinch the grooves
 
-![A length of yarn wrapped around a stuffed orange ball and pulled tight to form a groove](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-2.jpg "Illustration. Step 3 — the grooves are cinched from the outside, not crocheted in.")
+![A length of yarn wrapped around a stuffed orange ball and pulled tight to form a groove](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-2.jpg "Illustration. The grooves are cinched from the outside, not crocheted in.")
 
-Thread a long strand of the body color (or a slightly darker orange) onto a yarn needle. Anchor it at the bottom center. Take the needle straight up the outside to the top center, then down through the middle of the pumpkin and out the bottom again. Pull until a groove forms. Repeat around the pumpkin, spacing the wraps evenly — six or eight sections look classic.
+Thread a long strand of the body color, or a slightly darker orange, onto a yarn needle.
 
-Pull each wrap snug enough to show a clear valley, not so tight that the top and bottom pucker into points. Tie off at the bottom and bury the ends inside.
+1. Bring the needle up from the bottom center through the middle of the pumpkin and out at the top center.
+2. Take the yarn down the outside to the bottom center, and pass the needle up through the middle again.
+3. Pull until a groove forms. That is one wrap.
+4. Turn the pumpkin and repeat. Six wraps, evenly spaced, make six sections. Eight look a little more detailed.
 
-## Step 4: make and sew the stem
+Pull each wrap enough to show a clear groove but not so tight that the top and bottom pucker into points. Pull every wrap to about the same tension. Tie off at the bottom and bury the ends inside.
 
-![A small crocheted brown tube and a green leaf shape lying beside a tapestry needle](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-3.jpg "Illustration. Step 4 — stem (and optional leaf) worked separately, then sewn on.")
+## Step 5: the stem
 
-With brown or green, magic ring 6 sc. Work 3–5 rounds even. Stuff lightly or leave hollow. Sew to the top center over the ribbing ends so the stem covers the gathering point.
+![A small crocheted brown tube and a green leaf shape lying beside a tapestry needle](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-3.jpg "Illustration. Stem and optional leaf, made separately and sewn on.")
 
-A chain-6 loop sewn flat also reads as a stem if you want something faster; the tube looks more like a real pumpkin stalk.
+With brown or green:
 
-## Mistakes that flatten the pumpkin
+**Round 1:** 6 sc in a magic ring. (6)
 
-**Increasing too fast.** Jumping stitch counts without the even spacing of six increases per round makes a wavy disc that will not become a smooth sphere.
+**Rounds 2–4:** Sc in each stitch. (6)
 
-**Working even for too long.** A tall cylinder with pumpkin ribs still looks like a stuffed tube. Keep the even section short.
+Fasten off with a tail. Leave it hollow or stuff lightly. Sew it to the top center so it covers the point where the wraps meet.
 
-**Under-stuffing before ribbing.** The grooves need resistance. Stuff, then rib.
+## Troubleshooting
 
-**Ribbing with a contrasting color you did not mean to show.** Matching or slightly darker yarn hides the wrap. Bright green wraps read as decoration, which is fine if that is intentional.
+**A wavy disc instead of a cup.** The increases were uneven or skipped. Count each round.
 
-**Closing the top before stuffing.** Leave an opening you can still reach into.
+**A tall tube with grooves.** Too many even rounds. Use four.
+
+**Dents and soft spots.** Under-stuffed. Stuff before cinching, not after.
+
+**A pointed top.** The last rounds were not stuffed, or the wraps were pulled too tight at the top.
+
+**Stuffing shows through.** The fabric is too loose. Use a smaller hook.
+
+**Visible lines of increases.** Six increases stacked in the same place every round make a hexagon. Shift the start of each repeat by a stitch or two from round to round.
 
 ## Frequently asked
 
-### Do I need a pattern with exact finished inches?
+### Why is no finished size given?
 
-Not to learn the shape. Exact inches belong on a finished sample measured after stuffing and ribbing. Use stitch counts and the “slightly squat” rule, then measure your own first pumpkin and write the number down for next time.
+Hook, yarn, your tension, and how firmly you stuff all change the size, and no pumpkin was measured for this page. Make one, measure it, and write the number down.
+
+### Can I make it bigger?
+
+Keep increasing past 36 by adding a round: (sc 5, 2 sc in next) 6 times, 42. Add an even round or so, then decrease from 42 with (sc 5, sc2tog) first.
 
 ### Can I use blanket yarn?
 
-You can, with a larger hook, but the fabric is floppy and the ribs show less. Worsted or a sturdy aran weight holds grooves better for a first try.
+With a larger hook, yes, but the fabric is soft and the grooves show less. Worsted or aran holds grooves better.
 
-### Why is my pumpkin pointed at the top?
+### Is it safe for a baby?
 
-The last decrease rounds were rushed, or the stem was sewn onto a poorly closed hole. Slow down on the final decreases and close the hole tightly before sewing the stem.
+A stuffed toy for a baby needs securely closed seams and no small parts. This pumpkin has none, but it has not been safety tested. Treat it as decoration.
 
 ### What should I make next?
 
-Try a [ghost amigurumi](/crochet-ghost-amigurumi-for-beginners/), the [bat](/bat-amigurumi-wings-body-and-ears/), or flat color practice on [Halloween granny squares](/halloween-granny-square-variations/). For a reel-friendly pocket project, make the [Halloween card wallet](/halloween-crochet-card-wallet/).
+The same increase, even, decrease logic with an open hem is the [ghost amigurumi](/crochet-ghost-amigurumi-for-beginners/). A small oval body with flat wings is the [bat](/bat-amigurumi-wings-body-and-ears/).

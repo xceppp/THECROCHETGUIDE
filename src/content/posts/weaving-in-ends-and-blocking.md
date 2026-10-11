@@ -2,6 +2,7 @@
 title: "Finishing Crochet: Weaving In Ends and Blocking"
 description: "How to weave in yarn ends so they never come loose, plus when blocking is worth doing and when it does nothing at all."
 pubDate: 2026-08-29
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -31,6 +32,17 @@ Use a blunt tapestry needle so it slides between the plies instead of splitting 
 4. Trim close, then stretch the piece gently in both directions so the cut end pulls inside.
 
 The direction change is what holds. A straight pass can slide back out. A pass that reverses on itself cannot.
+
+<figure class="diagram">
+<img src="/diagrams/weave-reverse.svg" alt="Diagram comparing a tail woven straight through a row of stitches with a tail that runs out through several stitches and turns back on a different path." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. The turn is what holds the end, not the distance.</figcaption>
+</figure>
+
+**Lace and open fabric.** There is no solid wrong side to hide a tail in. Weave along a line of solid stitches, such as the posts of a cluster or a row of single crochet, rather than across the holes, where it shows from both sides.
+
+**Slippery yarn.** Cotton, bamboo, and silk blends slide more than wool. Split a ply on every pass instead of once, and leave the tail a little longer before you trim.
+
+**Reversible pieces.** A blanket or scarf seen from both sides has no wrong side either. Weave through the middle of the stitch posts, where the tail is covered on both faces.
 
 <div class="tip">
 
@@ -78,7 +90,9 @@ Skip blocking for acrylic blankets, dishcloths, amigurumi, bags, and anything th
 
 ## Joining pieces
 
-**Whipstitch.** Wrong sides facing you, sew through the matching stitches along the edge. Nearly invisible from the front, and it lies flat. Use it where a seam should disappear, such as garment shoulders.
+**Whipstitch.** Wrong sides together, sew over the edge through the matching stitches. It lies flat and shows as small slanted stitches on the right side. Working through the back loops only makes it less visible.
+
+**Mattress stitch.** Right sides facing you, pieces side by side, sew under the matching stitch on one piece, then the other, and pull snug every inch or so. The seam closes from behind and is the least visible option. Use it where a seam should disappear, such as garment side seams.
 
 **Slip stitch.** Right sides together, slip stitch through one loop of each piece. Faster, with a small firm ridge. Good for blankets made of squares, and for bags.
 
@@ -98,7 +112,9 @@ Block before you seam. Flat pieces line up. Curling ones do not.
 
 **A tail through the wrong color.** Navy through a cream stripe shows a shadow after washing.
 
-**The iron touching acrylic, or the seam done first.** Wool and cotton can be blocked again after every wash. Steamed acrylic cannot. Curled edges will not line up. A slightly tight corner count can curl a granny square too. Blocking fixes that on wool and cotton. Light steam helps on acrylic.
+**The iron touching acrylic.** Wool and cotton can be blocked again after every wash. Acrylic that has been flattened by heat stays that way.
+
+**Seaming before blocking.** Curled edges will not line up, and the seam locks the curl in. A granny square with too few stitches in the corners can also curl. Blocking evens that out on wool and cotton, and light steam helps on acrylic.
 
 ## Frequently asked
 

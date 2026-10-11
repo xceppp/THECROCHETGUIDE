@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Tapered flap on the ghost mini wallet</title>
+<desc>The top of the wallet rectangle. Rows 29 and 30 are 16 stitches. Row 31 decreases at each end to 14, row 32 to 12, row 33 to 10. Row 34 is 3 single crochet, a chain-5 loop over 4 skipped stitches, and 3 single crochet. Each decrease row moves both edges in by one stitch, a quarter inch at 4 stitches per inch, so the flap narrows from 4 inches to 2.5 inches over three rows. To the right, a note shows the pocket depth of 14 rows, 2.8 inches, against a 2.125 inch card and a dollar bill folded in half to 2.61 inches.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .row { fill: #f3e6d4; stroke: #6b4428; stroke-width: 3; }
+  .dec { fill: #b0604a; }
+  .loop { fill: none; stroke: #6b4428; stroke-width: 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">The flap narrows by one stitch at each end, three times</text>
+<rect class="row" x="60" y="300" width="256" height="30"/>
+<text class="soft" x="330" y="321">rows 29-30: 16</text>
+<rect class="row" x="76" y="266" width="224" height="30"/>
+<circle class="dec" cx="84" cy="281" r="5"/><circle class="dec" cx="292" cy="281" r="5"/>
+<text class="soft" x="330" y="287">row 31: dec, sc 12, dec = 14</text>
+<rect class="row" x="92" y="232" width="192" height="30"/>
+<circle class="dec" cx="100" cy="247" r="5"/><circle class="dec" cx="276" cy="247" r="5"/>
+<text class="soft" x="330" y="253">row 32: dec, sc 10, dec = 12</text>
+<rect class="row" x="108" y="198" width="160" height="30"/>
+<circle class="dec" cx="116" cy="213" r="5"/><circle class="dec" cx="260" cy="213" r="5"/>
+<text class="soft" x="330" y="219">row 33: dec, sc 8, dec = 10</text>
+<rect class="row" x="108" y="164" width="48" height="30"/>
+<rect class="row" x="220" y="164" width="48" height="30"/>
+<path class="loop" d="M156 176 C170 130 206 130 220 176"/>
+<text class="soft" x="330" y="185">row 34: sc 3, ch 5, skip 4, sc 3</text>
+<text class="soft" x="32" y="96">Each dec row: both edges move in 0.25 in.</text>
+<text class="soft" x="32" y="120">16 to 10 stitches: 4 in to 2.5 in.</text>
+<text class="soft" x="32" y="368">Pocket 14 rows = 2.8 in deep. Card 2.125 in.</text>
+<text class="soft" x="32" y="392">A US bill folded in half is 3.07 x 2.61 in. It fits too.</text>
+</svg>

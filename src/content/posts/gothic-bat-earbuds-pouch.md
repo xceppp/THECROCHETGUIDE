@@ -1,7 +1,8 @@
 ---
 title: "How to Crochet a Gothic Bat Earbuds Pouch"
-description: "Free beginner pattern for a black crochet bat pouch with purple wings, a button flap, and a keychain loop sized for a wireless earbud case."
+description: "A black crochet earbud pouch with purple bat wings, ears, a button flap, and a keychain loop. Shows how to shape and place sewn-on parts. US terms."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
@@ -18,184 +19,170 @@ tags:
     "keychain",
     "how to",
   ]
+glance:
+  time: "A small pouch, two ear triangles, two picot wings, sewing"
+  size: "Sized to your earbud case"
+  yarn: "Worsted cotton, black and purple"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Small scraps for the ears and wings."
 ---
 
-A bare earbud case disappears in a bag. A small bat pouch does not, and it still has to close over the case or the whole point is lost.
+A bare earbud case disappears in a bag. A small black bat with purple wings is easy to spot, but only if the case still fits and the flap still closes once the wings are on. Decorations sewn on the outside take up room and shift the balance. Put them in the wrong place and the pouch either tips over or will not shut.
 
-This is a black single-crochet pouch with purple wings, two ears, a button flap, and a yarn loop for a split ring. It is written in US terms. US single crochet is UK double crochet. If your pattern book is British, translate before you start. The [abbreviations chart](/crochet-abbreviations-chart/) uses the US names.
+The pouch itself is a cup sized to the case. The [earbud pouch](/how-to-crochet-an-earbud-pouch/) explains in detail how to size one by measuring around the case, so this page keeps the sizing short. What this page adds is the appliqué: shaping a flat triangle with decreases, adding picots to an edge, and sewing parts on where they stay out of the way.
 
-These photos are illustrations of the intended look. This page has not been stitched and measured on a finished pouch, so yarn amounts and finished inches are estimates from the gauge below. Lay your own earbud case on the fabric before you sew anything on.
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pouch for this page was crocheted. Inches are estimates from the example gauge.
 
-![A small black crochet bat pouch with purple wings, ears, a wood button, and a yarn loop](../../assets/articles/gothic-bat-earbuds-pouch-result.jpg "Illustration. Intended finished look: black body, purple wings, ears, button flap, keychain loop.")
+![A small black crochet bat pouch with purple wings, ears, a wood button, and a yarn loop](../../assets/articles/gothic-bat-earbuds-pouch-result.jpg "Illustration. A black body, purple wings, ears, button flap, loop. Not a measured sample.")
 
-## Skill and time
+## What is a technique, and what is only a plan
 
-Beginner, if you can single crochet, increase, and decrease. Plan on one sitting, about 2 to 3 hours, plus sewing the wings on.
-
-## Materials
-
-![Black yarn, purple yarn, a 4 mm hook, a wood button, a needle, and a split ring](../../assets/articles/gothic-bat-earbuds-pouch-1.jpg "Illustration. Materials flat lay. Yarn amounts below are estimates.")
-
-- Worsted-weight cotton or a smooth cotton blend. Black, about **40 yards**. Purple, about **15 yards**. Fuzzy acrylic hides the wing edge and grabs the earbud case. See the [yarn weight chart](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the size that gives you the gauge. [Hook size chart](/crochet-hook-size-conversion-chart/).
-- One button about **1/2 inch** across.
-- Yarn needle, scissors, stitch marker.
-- Optional: a metal split ring for keys.
-- Substitute: DK yarn and a smaller hook makes a tighter pouch. Stop increasing when the base covers your case, and ignore the inch estimates.
-
-## Abbreviations (US)
-
-| Abbreviation | Meaning |
+| Piece of this page | What it is |
 | --- | --- |
-| ch | chain |
-| sc | single crochet |
-| sl st | slip stitch |
-| inc | 2 sc in the same stitch |
-| dec | sc 2 together |
-| sc3tog | sc 3 together |
-| st(s) | stitch(es) |
+| A cup sized by the case's perimeter | Standard. Detailed on the earbud pouch page. |
+| Triangles shaped with decreases at both edges | Standard. |
+| Chain picots on an edge | Standard. |
+| 30-stitch body for a small case | An example. Your case decides. |
+| 40 yards black, 15 purple, 2 to 3 hours | Old lines. Not measured. Withdrawn. |
 
-## Gauge and finished size (estimates)
+## How it is built
 
-**Gauge to aim for:** 4 sc = 1 inch, and 5 rounds = 1 inch, in single crochet with worsted cotton and a G/6 hook.
+A flat circle, then straight rounds, makes a cup. A short flap is worked in rows over part of the rim and closes with a chain loop and a button. Two ear triangles sit on top. Two wing triangles with picot edges sit on the sides. A chain loop between the ears takes a split ring.
 
-At that gauge the pouch body is about **2.4 inches across** the flat base (30 stitches around, roughly 7.5 inches in circumference) and about **2 inches tall** before the ears and wings. That covers a typical small wireless-earbud case. It will not fit a large over-ear headphone case.
+<figure class="diagram">
+<img src="/diagrams/bat-appliques.svg" alt="An ear triangle worked 5, 3, 1 stitches and a wing triangle worked 9, 7, 5, 3, 1 with picots on the long sides. A front view of the pouch shows ears at the top behind the flap, a loop between them, and wings sewn by their wide edge along the middle of the sides, above the base and below the flap." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The wings go on the middle of the tube: above the base so the pouch stands, below the flap so it closes.</figcaption>
+</figure>
 
-<div class="warning">
+## Yarn and hook
 
-If 4 sc is wider than 1 inch, your pouch will come out big and floppy. Drop a hook size. If the flat base does not cover your case after Round 5, work one more increase round (the larger size below) before you stop increasing.
+- **Worsted cotton**, black and purple. Cotton gives the wing points a crisp edge. Fuzzy yarn blurs the picots. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
+- A button about 1/2 inch across, a yarn needle, a stitch marker, an optional split ring.
 
-</div>
+## Size the body to the case
 
-## Body
+Measure around the case at its widest point. At 4 single crochet per inch, multiply by 4, then round up to the nearest multiple of 6 for a flat circle. A small round case about 7 inches around needs 28, so 30. A larger case needs 36. Make a swatch first and use your own stitches per inch, not the example's.
 
-Work in a spiral. Do not join rounds. Mark the first stitch of every round. If spirals are new, read [crochet in the round](/crochet-in-the-round/) first.
+The cup is deep enough when the top of the case sits just below the rim.
 
-![Hands starting a small black circle from a magic ring](../../assets/articles/gothic-bat-earbuds-pouch-2.jpg "Illustration. Round 1 is six single crochets in a magic ring.")
+## Stage 1: the body
 
-Use black.
+Black. Work in a spiral, without joining, and move a marker up each round. [Working in the round](/crochet-in-the-round/).
 
 **Round 1:** 6 sc in a magic ring. (6)
 
-**Round 2:** inc in each st. (12)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Round 3:** (sc, inc) 6 times. (18)
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Round 4:** (2 sc, inc) 6 times. (24)
+**Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
-**Round 5:** (3 sc, inc) 6 times. (30)
+**Round 5:** (Sc 3, 2 sc in next) 6 times. (30)
 
-The base should lie flat. If it bowls, your increases are too tight. If it ruffles, you increased too fast. Do not start the sides until this circle covers the bottom of the earbud case.
+For a 36-stitch body: **Round 6:** (Sc 4, 2 sc in next) 6 times. (36)
 
-**Rounds 6–15:** sc in each st. (30)
+**Even rounds:** Sc in each stitch until the case sits just inside the rim. At 5 rounds per inch, about 10 rounds for a 2 inch case.
 
-That is 10 even rounds. At the gauge above, the wall is about 2 inches. Stop earlier if the case already sits inside with the top of the case just below the rim. Add rounds if the case still sticks out.
+![A short black crochet cylinder still on the hook](../../assets/articles/gothic-bat-earbuds-pouch-3.jpg "Illustration. Even rounds, no increases.")
 
-![A short black crochet cylinder, halfway done, still on the hook](../../assets/articles/gothic-bat-earbuds-pouch-3.jpg "Illustration. Even rounds, no more increases. The wall is a tube, not a ball.")
+## Stage 2: the flap
 
-![Close-up of even black single crochet](../../assets/articles/gothic-bat-earbuds-pouch-4.jpg "Illustration. The body stitch is plain single crochet. Density matters more than a fancy stitch.")
+Worked in rows over one third of the rim.
 
-## Flap and button loop
+**Row 1:** Sc in the next 10 stitches. Turn. (10) For 36 stitches, use 12.
 
-The flap is worked in rows on 10 of the 30 stitches. The other 20 stitches stay as the open rim.
+**Rows 2–5:** Ch 1, sc in each stitch. Turn. (10)
 
-**Row 1:** sc in the next 10 sts. Turn. Leave the remaining 20 unworked. (10)
+**Row 6:** Ch 1, sc 4, ch 4, skip 2, sc 4. (8 sc and a 4-chain loop) For 12, sc 5, ch 4, skip 2, sc 5.
 
-**Rows 2–5:** ch 1, sc in each st across. Turn. (10)
+Fasten off. Close the flap over the case and mark where the loop lands. Sew the button there.
 
-**Row 6:** ch 1, sc in the next 4 sts, ch 4, skip 2 sts, sc in the last 4 sts. (8 sc and a 4-chain loop)
+## Stage 3: the ears (make 2)
 
-The loop uses 4 chains over the 2 skipped stitches, so it stands up enough to reach a 1/2-inch button. Fasten off. If the loop will not go over your button, undo Row 6 and chain 5 or 6 instead of 4.
+Black. A triangle loses one stitch at each edge every row.
 
-Sew the button on the front, centered under the loop, about 4 rounds down from the rim. Close it over the earbud case once before you weave that tail in. The case should sit inside without forcing the flap.
+**Row 1:** Ch 6. Sc in the 2nd chain from the hook and each chain across. Turn. (5)
 
-## Ears (make 2)
+**Row 2:** Ch 1, sc2tog, sc, sc2tog. Turn. (3)
 
-Use black.
+**Row 3:** Ch 1, sc3tog. (1)
 
-**Row 1:** ch 6, sc in the 2nd ch from the hook and in each ch across. Turn. (5)
+Fasten off with a sewing tail. The chain edge is the base.
 
-**Row 2:** ch 1, dec, sc, dec. Turn. (3)
+## Stage 4: the wings (make 2)
 
-**Row 3:** ch 1, sc3tog. (1)
+Purple. The same shaping, made larger.
 
-Fasten off, leaving a tail for sewing. The chain edge is the base. The sc3tog is the tip.
+**Row 1:** Ch 10. Sc in the 2nd chain from the hook and each chain across. Turn. (9)
 
-## Wings (make 2)
+**Row 2:** Ch 1, sc2tog, sc 5, sc2tog. Turn. (7)
 
-Use purple. This is a triangle with a few chain picots along the edge so the wing is not a plain slab.
+**Row 3:** Ch 1, sc2tog, sc 3, sc2tog. Turn. (5)
 
-**Row 1:** ch 10, sc in the 2nd ch from the hook and in each ch across. Turn. (9)
+**Row 4:** Ch 1, sc2tog, sc, sc2tog. Turn. (3)
 
-**Row 2:** ch 1, dec, sc in the next 5 sts, dec. Turn. (7)
+**Row 5:** Ch 1, sc3tog. (1) Do not fasten off.
 
-**Row 3:** ch 1, dec, sc in the next 3 sts, dec. Turn. (5)
+Each row uses every stitch of the one below: 2 + 5 + 2 = 9, 2 + 3 + 2 = 7, 2 + 1 + 2 = 5, then all 3.
 
-**Row 4:** ch 1, dec, sc, dec. Turn. (3)
+**Picot edge:** Slip stitch down one long side, working into the row ends. At three evenly spaced points, work (sl st, ch 3, sl st in the same place). Slip stitch along the chain edge without picots, because that edge gets sewn down. Work the second long side the same way. Fasten off with a sewing tail.
 
-**Row 5:** ch 1, sc3tog. Do not fasten off. (1)
+A picot is a small chain loop that stands off the edge. Three per side read as the scalloped edge of a bat wing.
 
-Picot edge: sl st down one long side, placing the hook in the row ends. Work (sl st, ch 3, sl st in the same place) at three points along that side, then along the foundation chain at every other stitch, then up the other long side the same way. Fasten off, leaving a sewing tail.
+## Stage 5: placing and sewing
 
-Stitch check on the triangle: Row 2 uses 2+5+2 = 9 and leaves 7. Row 3 uses 2+3+2 = 7 and leaves 5. Row 4 uses 2+1+2 = 5 and leaves 3. Row 5 uses all 3.
+![A purple wing being sewn to the side of the black pouch](../../assets/articles/gothic-bat-earbuds-pouch-5.jpg "Illustration. Wings on the sides, ears on top.")
 
-## Assembly
+1. **Case in first.** Put the case in the pouch and close the flap. Everything is placed with the pouch full, because an empty pouch is narrower.
+2. **Ears.** Sew the chain edge of each ear to the rim just beside the flap, one on each side of where the flap starts. They must not sit on the flap, or they stop it folding.
+3. **Wings.** Pin each wing's wide edge vertically along a side, centered on the middle of the wall. Too low and the wing touches the table and tips the pouch. Too high and it catches the flap.
+4. **Sew loosely.** Whipstitch through both layers with easy tension. Pulled tight, the seam puckers the wall and makes the pouch smaller inside.
+5. **Loop.** Join black on the back wall, one round below the middle of the flap's base. Ch 16, slip stitch into the same stitch. For a sturdier loop, slip stitch back along the chain.
+6. Weave the ends in on the inside. [Weaving in ends](/weaving-in-ends-and-blocking/).
 
-![A purple wing being sewn to the side of the black pouch](../../assets/articles/gothic-bat-earbuds-pouch-5.jpg "Illustration. Sew wings to the sides and ears to the top. The button is already on.")
+Check the case one last time. It should drop in and the flap should close without pulling.
 
-1. Sew one ear on each side of the top, just behind the flap, tips pointing up. The bases should sit about 1/2 inch apart so the keychain loop has room between them.
-2. Sew a wing on each side, wide edge (Row 1) against the pouch, tip pointing out and slightly down. Place them over the middle of the tube, not on the flat base, or the pouch will not sit.
-3. Keychain loop: join black yarn at the top center between the ears, ch 16, sl st back into the same stitch. Fasten off. Slide a split ring onto that loop if you want it on keys.
-4. Weave ends on the inside. The [weaving-in guide](/weaving-in-ends-and-blocking/) covers the path. Do not block this over a form larger than the case.
+![A white earbud case sitting in the open bat pouch](../../assets/articles/gothic-bat-earbuds-pouch-6.jpg "Illustration. The case drops in. The flap closes over it.")
 
-![A white earbud case sitting in the open bat pouch](../../assets/articles/gothic-bat-earbuds-pouch-6.jpg "Illustration. The case should drop in and the flap should close over it. If it will not, add even rounds, do not stretch the flap.")
+## Variations
 
-![The finished pouch hanging from a bag strap](../../assets/articles/gothic-bat-earbuds-pouch-7.jpg "Illustration. Second view of the same pouch: black, purple wings, button, loop.")
+**All black.** The wing shape still reads as a bat.
 
-## Three ways to change it
+**Eyes.** Embroider two small eyes rather than sewing on beads. Beads come off and are a choking risk for small children.
 
-**Larger case.** After Round 5, work Round 6 as (4 sc, inc) 6 times. (36) Then work even rounds on 36 until the case fits. Make the flap 12 stitches wide instead of 10: on the loop row, sc 5, ch 4, skip 2, sc 5.
+**Larger wings.** Start the wing with ch 12 (11 sc). Decrease the same way: 11, 9, 7, 5, 3, 1. Larger wings stick out further and catch on things in a bag.
 
-**All black.** Skip the purple. The wings still read as wings from the shape.
+## Troubleshooting
 
-**A face.** The written pouch has no eyes. If you want them, sew two small black beads on the front above the button, and keep them above where the case rubs. Beads are a poor choice for anything a child will chew. This pouch is a bag accessory, not a toy.
+**The pouch tips over.** The wings were sewn too low. Move them up.
 
-## Mistakes
+**The flap will not close.** The ears are on the flap, or the case is too tall. Move the ears, or add rounds.
 
-**The base curls into a bowl.** The ring was too tight, or you skipped increases. Redo through Round 5 before you build the wall. A curled base makes a pouch that tips over.
+**The side puckers.** Sewn too tight. Redo with easier tension.
 
-**The flap will not reach the button.** The even section is too tall, or the loop is too short. Move the button up, or redo the loop with more chains. Do not sew the button so high that the case lid is outside the pouch.
+**The wing has no point.** Row 5 was skipped, or a decrease was missed. Count each row.
 
-**Wings stick out stiff and twist the pouch.** You sewed them on too tight. Ease the sewing yarn. The wing should rest, not cinch the side seam that is not actually a seam.
-
-**You joined every round with a slip stitch.** That leaves a visible jog and changes the stitch count if you also chain up. This pattern is a spiral. One marker, no join.
+**The picots disappear.** The yarn is too fuzzy, or the picot chain is too short. Use ch 4.
 
 ## Care
 
-Hand wash in cool water. Press the water out in a towel. Dry flat. Do not machine dry. Cotton can shrink enough to trap the case. If you use acrylic, skip the washer anyway. The button and the ring will beat the yarn up.
+Hand wash cool. Press out in a towel. Dry flat. Machine drying can shrink cotton enough to trap the case.
 
 ## Frequently asked
 
 **Will it fit every earbud case?**
 
-No. The default is a small charging case, about the width of the 2.4-inch base. Measure yours. Use the larger stitch count if the case hangs off the Round 5 circle.
-
-**Can I line it?**
-
-Yes. Cut a scrap of thin fabric to the inside and whipstitch it to the rim only. A thick lining eats the space the case needs.
+Only if you size it to yours. Measure around the case and use the stitch count that covers it.
 
 **Is the loop strong enough for keys?**
 
-A 16-chain loop in worsted yarn holds a light key ring. It is not a climbing strap. If the join looks thin, work a second round of slip stitches around the chain before you load it.
+It has not been tested. A chain loop is weaker than a slip-stitch-reinforced one. For a heavy key ring, use a metal clip sewn on firmly, not a yarn loop.
 
-**Can I sell pouches from this pattern?**
+**Can I sell finished pouches?**
 
-You can sell finished pouches you make yourself. Do not copy this page onto another site, and do not add someone else's charted motif and call that part yours.
+Yes. Do not republish the pattern.
 
-**What if I only have DK yarn?**
+## Next
 
-Use a smaller hook and treat the earbud case as the pattern. Stop increasing when the circle covers the case. The row numbers still work. The inch estimates will not.
-
-## Where to go next
-
-The same spiral is the start of the [crochet in the round](/crochet-in-the-round/) lesson. A bigger sleeve, measured to a specific phone, is the [iPhone 18 Pro Max phone case](/how-to-crochet-a-phone-case/). For more Halloween sewing-on, the [card wallet](/halloween-crochet-card-wallet/) uses the same idea: a flat piece, a closure, then the decoration.
+Sizing a case by its perimeter, in more detail, is the [earbud pouch](/how-to-crochet-an-earbud-pouch/). Another flat piece with a closure and a decoration is the [card wallet](/halloween-crochet-card-wallet/).

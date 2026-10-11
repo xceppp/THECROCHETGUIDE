@@ -1,148 +1,160 @@
 ---
 title: "How to Crochet a Phone Crossbody"
-description: "A single-crochet phone sleeve with a long crossbody strap. Measure your phone. US terms. Not waterproof and not yarn-tested."
+description: "A single-crochet phone sleeve on a crossbody strap, with the sleeve sized around the phone and the strap measured around you. US terms. Not yarn-tested."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["phone", "crossbody", "beginner", "how to"]
+glance:
+  time: "A small folded sleeve and one long strap"
+  size: "From your phone and a string around your body"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. The strap is most of it."
 ---
 
-A phone in a coat pocket comes out when you sit down. A sleeve on a strap stays on your body, across the chest, where you can feel it. The sleeve is a folded rectangle of single crochet. It is cotton. It is not a waterproof case, and it is not a screen protector. Water goes through the stitches. Grit caught in the yarn can scratch glass.
+A phone in a coat pocket slides out when you sit down. A sleeve on a crossbody strap stays against your body, where you can feel it. The sleeve is a small folded rectangle. The strap runs from one side of the sleeve, across your chest, over the opposite shoulder, down your back, and to the other side of the sleeve.
 
-Measure the phone you own, including a case if that case stays on. The stitch counts below are one example. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations. This sleeve has not been fitted on a phone in yarn. Inches and yardage are estimates from the gauge.
+Two measurements decide whether it works, and both are easy to get wrong. The sleeve has to fit around the phone, including its edges, not just across its face. And the strap is a loop around your body, so measuring from the shoulder to the hip on the front gives you about half the strap you need. This page works out both.
 
-![A cotton phone sleeve on a long crossbody strap](../../assets/articles/how-to-crochet-a-phone-crossbody-result.jpg "Illustration. Intended look: a small sleeve and one long strap. No brand mark. Not a tested fit.")
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No crossbody for this page was crocheted, fitted, or worn. The phone and body measurements are invented examples.
 
-## Measure
+![A cotton phone sleeve on a long crossbody strap](../../assets/articles/how-to-crochet-a-phone-crossbody-result.jpg "Illustration. A small sleeve and one long strap. Not a tested fit.")
 
-![A tape on a plain phone, width and height](../../assets/articles/how-to-crochet-a-phone-crossbody-2.jpg "Illustration. Measure your phone. The 3 by 6 inch example is not your phone.")
+## What is a technique, and what is only a plan
 
-Three numbers, in inches:
+| Piece of this page | What it is |
+| --- | --- |
+| Folded rectangle sleeve, sides seamed | Standard construction. |
+| Each face covers the phone's width plus its thickness | Geometry. |
+| Strap = loop around the body minus the sleeve width | Geometry. |
+| 3.0 × 6.0 × 0.35 in phone, 52 in loop | Invented examples. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| 14 stitches wide; about 180 yards | Old lines. The width is corrected below, and the yardage was not weighed. |
 
-- Width of the phone.
-- Height of the phone.
-- Thickness, if it is more than about half an inch. A thick case needs that thickness added to the width.
+## The sleeve: around the phone, not across it
 
-Example, not a fit guide: a phone **3 inches** wide and **6 inches** tall. Add about **1/2 inch** to the width for the seams and the thickness. Plan the sleeve about **1/2 inch** taller than the phone so the top edge does not sit flush on the glass. For that example, the rectangle is **14 stitches** wide (about 3.5 inches) and **65 rows** long (about 13 inches), which folds into a sleeve about **6.5 inches** tall.
+Measure the phone's width, height, and thickness, including a case if it stays on.
 
-Your phone changes both numbers.
+The fabric wraps both edges of the phone. So each face of the sleeve must cover the width plus the thickness, and the side seams take up about a quarter inch more. The [phone case](/how-to-crochet-a-phone-case/) page draws this out.
 
-1. Width in inches, plus 1/2 inch, plus any extra thickness, times your stitches per inch. That is the stitch count.
-2. Height in inches, plus 1/2 inch, times 2, times your rows per inch. That is the row count. The times-2 is the fold.
+The earlier version of this page made the example sleeve 14 stitches wide, 3.5 inches, for a 3 inch phone. Seamed, that leaves about 3.25 inches inside a sleeve that needs about 3.35. It is a little too tight, and a cotton sleeve stretched over a phone relaxes in the first wash and then drops the phone.
 
-The strap is separate. Measure from the shoulder where the strap will sit, across the chest, to the hip where you want the phone. Example: **48 inches**. Bodies are not the example. Use your tape.
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Width | 3.0 + 0.35 + 0.25 seams + 0.15 ease | 3.75 in, 15 sc, chain 16 |
+| Height per side | 6.0 + 0.17 at the fold + 0.5 | about 6.7 in |
+| Rows | 6.7 × 2 × 5 | 67 rows |
 
-## Materials
+## The strap: a loop around you
 
-![Cotton yarn, a hook, and a plain phone](../../assets/articles/how-to-crochet-a-phone-crossbody-1.jpg "Illustration. Cotton. Fuzzy yarn traps grit against the phone. Yardage is an estimate.")
+<figure class="diagram">
+<img src="/diagrams/crossbody-strap-loop.svg" alt="A torso outline with a string running from the bag at one hip, across the chest, over the opposite shoulder, down the back, and back to the hip. The loop is 52 inches in the example. The strap is 52 minus the bag's 3.75 inch top edge, about 48 inches, 240 rows. Measuring shoulder to hip on the front only gives about half." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The sleeve's own top edge completes the loop, so subtract its width from the string.</figcaption>
+</figure>
 
-- Worsted cotton. About **180 yards** for the example sleeve and a 48 inch strap. A longer strap needs more. This was not weighed off a finished piece. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the hook that hits gauge. A looser hook makes holes the phone can be seen through. [Hook chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle, scissors. A button only if you add the flap.
+Put on the clothes you will usually wear it over. Hold one end of a string where you want the top of the sleeve to sit, at the hip. Run the string across your chest, over the opposite shoulder, down your back, and back to the start. Mark it and measure. That is the loop. In the example it is 52 inches.
 
-Beginner. The rectangle is the same stitch as a [book sleeve](/how-to-crochet-a-book-sleeve/). The length is in the strap. One sitting for the sleeve, and another for the strap if you count rows as you go.
+The strap does not need to cover all of it. The sleeve's top edge, 3.75 inches, sits between the two strap ends. So the strap is 52 − 3.75, about **48 inches**: 240 rows at 5 rows per inch.
 
-## Gauge (estimate)
+## Yarn and hook
 
-**4 sc = 1 inch. 5 rows = 1 inch.**
+![Cotton yarn, a hook, and a plain phone](../../assets/articles/how-to-crochet-a-phone-crossbody-1.jpg "Illustration. Cotton. Fuzzy yarn traps grit against the phone. Not a weighed amount.")
 
-Unverified on a phone. Swatch. [Gauge](/crochet-gauge/) is the difference between a sleeve the phone enters and a sleeve you have to stretch, which then will not hold.
+- **Smooth worsted cotton.** Fuzzy yarn holds grit against the glass. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives dense fabric. A loose hook leaves holes. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Safety pins, yarn needle, scissors. A button if you add the flap.
 
-At that gauge, 14 stitches are about **3.5 inches**. 65 rows are about **13 inches**. 5 strap stitches are about **1.25 inches** wide. 240 strap rows are about **48 inches**. If your swatch is off, redo the three lines in the measure section. Do not keep the 14 and the 65.
+Swatch first. [Gauge](/crochet-gauge/) matters most on the sleeve, which has almost no room for error.
 
-## Rectangle
+## Stage 1: the sleeve
 
-Ch 1 does not count as a stitch.
+Chain 16. Keep the chain loose.
 
-![A narrow single-crochet rectangle on the hook](../../assets/articles/how-to-crochet-a-phone-crossbody-3.jpg "Illustration. Width is the phone. Length is twice the height, plus a little.")
+**Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (15)
 
-For the example phone, chain 15.
+**Rows 2–67:** Sc in each stitch. Ch 1, turn. (15)
 
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (14)
+The ch 1 does not count as a stitch. Count every 10 rows.
 
-**Rows 2–65:** Sc in each stitch. Ch 1, turn. (14)
+**Checkpoint at row 20:** fold the strip around the phone. The edges should meet beside it without strain.
 
-Lay the phone on the fabric after about 20 rows. The width should cover the phone without stretching. If the phone hangs over the sides, start again with more chains. A tight starting chain cups the bottom. Keep that chain looser than the rows.
+Fold with right sides together so row 1 meets row 67. Single crochet both sides through both layers from the fold to the top, then turn right side out. Slide the phone in. It should go in without force and stay put when you tip the sleeve.
 
-Count every 10 rows. One extra stitch at the end of a row becomes a wedge, and the fold will not sit straight.
+## Stage 2: the strap
 
-## Seam
-
-Fold so row 1 meets row 65. The fold is the bottom. Sew both side edges through both layers, from the fold to the last row. Leave the top open.
-
-Slide the phone in before you weave the tails. It should enter without force and stay when you tip the sleeve once. If it will not enter, the rectangle is narrow or the seams were pulled tight. Redo it. Do not stretch cotton single crochet over the phone and hope the seam relaxes. It will relax in the wash, and then the phone will be loose.
-
-The top stays open so you can take the phone out. An open top also means a hard swing of the strap can throw the phone. If that is the day you are dressing for, add the flap below. If you take the phone out all day, skip the flap.
-
-## Strap
-
-A chain is not a strap. A chain grows, and the phone ends up at your knee by the end of the day.
+A chain alone is not a strap. It stretches, and the phone ends up at your knee.
 
 Chain 6.
 
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (5)
+**Row 1:** Sc in the second chain from the hook and across. Ch 1, turn. (5)
 
 **Row 2:** Sc in each stitch. Ch 1, turn. (5)
 
-Repeat row 2 until the strap matches your tape. For the **48 inch** example, at 5 rows to the inch, that is about **240 rows**. Check against the tape every 20 rows so you can stop when it fits, even if that is not 240.
+Repeat row 2. Measure flat every 20 rows. Stop at the length you worked out, about 48 inches in the example.
 
-Sew one end of the strap to each side of the opening, at the top of the side seam. Whipstitch the last inch of the strap to the inside of the sleeve, through several rows, not through one loop at the corner. The strap is one piece. It goes across the body. It is not two short handles.
+## Stage 3: attach, then test
+
+Sew one strap end inside the sleeve at the top of one side seam, overlapping about an inch, with a box and an X through the strap and the sleeve wall. Pin the other end to the opposite side with safety pins. Check the strap is not twisted.
+
+Put the phone in and wear it for a day. Cotton straps lengthen under steady weight and do not spring back. If the sleeve now sits lower than you wanted, take out rows, then sew the second end the same way as the first. The [mini shoulder bag](/how-to-crochet-a-mini-shoulder-bag/) shows the box-and-X stitch.
 
 ![A long strap sewn to the side of a small sleeve](../../assets/articles/how-to-crochet-a-phone-crossbody-4.jpg "Illustration. One strap, sewn at both top corners. Not a chain.")
 
-Put the strap on before you call the length final. The phone should sit where you measured, not at the seam of your jeans and not under your arm. Take the sewing out and remove rows if it hangs too low. You cannot shorten a sewn strap by pulling on it.
-
 ## Optional flap
 
-Fit the open sleeve first. Join yarn at the center of the back opening. On a 14-stitch edge, that is about stitch 5.
+An open top lets you reach the phone quickly. A hard swing can also throw it. A flap stops that.
 
-**Row 1:** Sc in the next 6 stitches. Ch 1, turn. (6)
+Join yarn in the fifth stitch of the back opening, counting from one side seam, so the flap covers stitches 5 to 11, the middle 7 of 15.
 
-**Rows 2–6:** Sc in each stitch. Ch 1, turn. (6)
+**Row 1:** Ch 1, sc in the same stitch and in the next 6. Ch 1, turn. (7)
 
-**Row 7:** Sc in the first stitch, chain 8, slip stitch in the last stitch of the row to make a loop. Fasten off.
+**Rows 2–6:** Sc in each stitch. Ch 1, turn. (7)
 
-Sew a button on the front, placed with the phone inside, so the loop reaches. A button sewn on the flat rectangle often sits too high once the phone fills the sleeve.
+**Row 7:** Sc 2, ch 4, skip 3, sc 2. (4 sc and a ch-4 loop)
 
-![The sleeve closed with a small flap, strap crossing the body](../../assets/articles/how-to-crochet-a-phone-crossbody-5.jpg "Illustration. The flap is optional. The fabric is not waterproof.")
+Fasten off. Two, three skipped, and two is seven, so the loop is centered. Sew a button on the front where the loop reaches, with the phone inside.
 
 <div class="warning">
 
-This will not keep a phone dry. Rain, a spilled drink, and a damp counter all go through single crochet. Take the phone out. Do not wear the sleeve in a pool, a shower, or a heavy storm and expect the phone to survive.
+This does not keep a phone dry. Rain and spilled drinks go through single crochet.
 
 </div>
 
-## Mistakes
+## Troubleshooting
 
-**Sizing from a different phone.** A sleeve that fit a small phone will not take a larger one, and a sleeve made for a larger one will drop a smaller one out of the opening. Measure the one in your hand.
+**The phone will not go in.** The width did not include the thickness. Fifteen stitches for a 3 inch phone; more for a thicker case.
 
-**A chain strap.** It stretches. Single crochet the strap, and check the length on your body.
+**The phone sits at your knee.** The strap was measured shoulder to hip on one side only, or it stretched. Remeasure the loop, and test before sewing the second end.
 
-**Fuzzy yarn.** It looks soft and holds grit against the glass. Cotton.
+**The sleeve rides up under your arm.** The strap is too short. Add rows.
 
-**Sewing the strap to the top edge only.** The first snag pulls the corner open and the phone leaves. Sew down the side for about an inch.
+**The strap twists.** It was sewn with a twist. Unpick one end.
+
+**The sleeve tilts.** The strap is sewn at different heights on the two sides.
 
 ## Care
 
-Take the phone out. Hand wash cool. Dry flat. Put the phone back only when the sleeve is dry. Damp cotton against a phone is a bad way to store it, and a damp strap against a shirt will leave a wet line across your chest.
+Take the phone out. Hand wash cool. Dry flat with the strap straight. Put the phone back only when the sleeve is dry.
 
 ## Frequently asked
 
 **Will it fit every phone?**
 
-No. The 14 by 65 rectangle and the 240-row strap are for the example at the gauge above. Measure your phone and your strap length, then redo the multiplication.
+No. Measure yours, including any case, and redo the sleeve table.
 
 **Can I sell them?**
 
-Finished sleeves, yes. Do not republish the rows as your pattern. Do not stitch a phone brand onto the sleeve as if the company made it.
+Finished sleeves, yes. Do not republish the rows, and do not stitch a phone brand onto the sleeve as if the company made it.
 
 **Is it safe in the rain?**
 
-No. Use a bag that is actually water resistant, and leave this sleeve for dry days. The same limit is true of the [tumbler sleeve](/how-to-crochet-a-tumbler-sleeve/): cotton is a layer, not a seal.
+No. Water goes through.
 
 ## Next
 
-A pocket for the odds and ends that should not share a sleeve with a phone is the [makeup pouch](/how-to-crochet-a-makeup-pouch/). A flat cover for a book uses the same rectangle idea: [book sleeve](/how-to-crochet-a-book-sleeve/). A larger open carry is the [granny square tote](/how-to-crochet-a-granny-square-tote/).
+The same sleeve without a strap is the [phone case](/how-to-crochet-a-phone-case/). A short strap that sits on one shoulder is the [mini shoulder bag](/how-to-crochet-a-mini-shoulder-bag/).

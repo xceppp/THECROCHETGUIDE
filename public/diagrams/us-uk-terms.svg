@@ -18,7 +18,7 @@
      <text class="label" x="48" y="100">US</text>
      <text class="label" x="360" y="100">UK</text>
      <text class="soft" x="48" y="150">slip stitch (sl st)</text>
-     <text class="soft" x="360" y="150">slip stitch (sl st)</text>
+     <text class="soft" x="360" y="150">slip stitch (ss or sl st)</text>
      <text class="soft" x="48" y="200">single crochet (sc)</text>
      <text class="soft" x="360" y="200">double crochet (dc)</text>
      <text class="soft" x="48" y="250">half double (hdc)</text>

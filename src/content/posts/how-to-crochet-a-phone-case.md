@@ -1,7 +1,8 @@
 ---
 title: "How to Crochet a Phone Case for iPhone 18 Pro Max"
-description: "Size a single-crochet sleeve from the iPhone 18 Pro Max body, 3.07 by 6.43 inches. US terms. No finished sleeve was measured."
+description: "Size a single-crochet sleeve from the iPhone 18 Pro Max body, 3.07 by 6.43 inches, and the edge it also has to cover. US terms. Not a fitted sample."
 pubDate: 2026-10-07
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
@@ -16,109 +17,139 @@ tags:
     "color change",
     "how to",
   ]
+glance:
+  time: "One rectangle, folded and seamed"
+  size: "Worked from the phone's width, height, and depth"
+  yarn: "Smooth worsted cotton"
+  hook: "The hook that gives a dense swatch"
+  yardage: "Not weighed. Weigh the first 10 rows."
 ---
 
-A sleeve only works if this phone slides in. The iPhone 18 Pro Max body is **3.07 inches wide (78.0 mm)**, **6.43 inches tall (163.4 mm)**, and **0.34 inch thick (8.75 mm)**, per [Apple’s tech specs](https://support.apple.com/en-us/148591). Those numbers are the bare phone, checked against that Apple page, not a stitch count and not the size of a finished sleeve. No sleeve for this page was measured on a phone. The pictures are illustrations. Crochet to the phone you have, and lay that phone on the fabric before you seam.
+A crochet phone sleeve fails in one predictable way: it is chained to the phone's width, seamed, and then the phone will not go in. The fabric does not only cover the front and back. It also wraps both edges, so the flat sleeve has to be wider than the phone. This page works out by how much, using one specific phone, and then makes the sleeve.
 
-Crochet a dense [single crochet](/basic-crochet-stitches/) rectangle to that width, fold it, and seam the sides. Cream, terracotta, sage, navy, black, or stripes all use the same rectangle.
+The iPhone 18 Pro Max body is **3.07 inches wide (78.0 mm)**, **6.43 inches tall (163.4 mm)**, and **0.34 inch thick (8.75 mm)**, per [Apple's tech specs](https://support.apple.com/en-us/148591). Those are the bare phone. No sleeve for this page was crocheted or fitted on a phone, and the pictures are illustrations. The method works for any phone. Put your own three numbers into the table.
+
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
 
 ![Five illustrated crochet phone sleeves in different colors](../../assets/articles/how-to-crochet-a-phone-case-result.jpg "Illustration. Five colorways of the same rectangle. Not a sleeve measured on a phone.")
 
-## What you need
+## What is fact, and what is only a plan
 
-- Worsted-weight cotton. One small skein is enough. Fuzzy yarn pills inside the sleeve. [Yarn weight chart](/yarn-weight-chart/).
-- A hook that makes a firm fabric, often US G/6 (4.0 mm) or H/8 (5.0 mm). Drop a size if you can see through the stitches. [Hook chart](/crochet-hook-size-conversion-chart/).
-- The phone, with no extra case on it.
-- Yarn needle and scissors.
-
-US terms (`sc`). Abbreviations are on the [chart](/crochet-abbreviations-chart/).
-
-## The size you are hitting
-
-![An iPhone 18 Pro Max beside a tape measure, yarn, and a hook](../../assets/articles/how-to-crochet-a-phone-case-1.jpg "Illustration. iPhone 18 Pro Max — measure against this phone, not a smaller one.")
-
-| Apple’s body size | What it means for the sleeve |
+| Piece of this page | What it is |
 | --- | --- |
-| Width 3.07 in (78.0 mm) | Unstretched fabric should cover this, plus a little for the side seams |
-| Height 6.43 in (163.4 mm) | Folded length should cover this and leave a short collar |
-| Depth 0.34 in (8.75 mm) | The opening has to clear the thickness and the camera plateau |
+| 3.07 × 6.43 × 0.34 in | Apple's published body size. |
+| Fabric around the phone = 2 × (width + depth) | Geometry. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. Swatch your own. |
+| About a stitch lost to the side seams, plus a little ease | A starting allowance. The phone is the test. |
+| The camera plateau | Adds thickness at the top. Apple's 0.34 in is the body. Leave the top of the sleeve easy. |
 
-Apple also lists finishes Black, Silver, Glacier, and Burgundy. Yarn color is separate. A black phone does not need a black sleeve.
+## How the sleeve is built
 
-<div class="tip">
+One rectangle of single crochet. The foundation chain sets the width. The rows build the length. Fold it in half so the fold is the bottom, seam the two sides, and leave the top open. There is no shaping and no separate base.
 
-Lay the phone on the fabric after a few rows. If it overhangs, add chains and start again. A chain that only matches 3.07 inches with no ease will be tight once you seam.
+<figure class="diagram">
+<img src="/diagrams/phone-sleeve-width.svg" alt="Looking down into a sleeve with a phone inside. The fabric runs around the phone's 3.07 inch face and its 0.34 inch edges, with a seam at each side. Notes: fabric all the way round is 2 times 3.41, which is 6.82 inches, so each flat face is 3.41 inches before seams, about 3.9 inches with seams and ease, 16 single crochet at 4 per inch rather than 13." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The sleeve has to cover the phone's edges as well as its face. That is the 0.34 inch most first sleeves forget.</figcaption>
+</figure>
 
-</div>
+Wrap a strip of paper around the phone the short way and mark where it meets. That length, about 6.82 inches here, is what the sleeve has to go around. A flat sleeve has two faces, so each face must be at least half: **3.41 inches**. The side seams then take up roughly one stitch of the width, and you want a little ease so the phone slides. That makes the fabric about 3.9 inches wide.
 
-## Step 1: chain the width
+The same thing happens at the bottom. The fold wraps the bottom edge, so each face starts about half the depth, 0.17 inch, above the fold. The pocket needs about 6.6 inches of depth on each side before the phone is covered.
 
-Chain until the foundation, held flat and not stretched, is just over 3.07 inches. Single crochet in the second chain from the hook and across. Chain 1, turn. That stitch count is every later row.
+## Yarn and hook
 
-Keep the starting chain looser than the rows. A tight chain cups the bottom edge and the phone will not sit square.
+![An iPhone 18 Pro Max beside a tape measure, yarn, and a hook](../../assets/articles/how-to-crochet-a-phone-case-1.jpg "Illustration. Measure against the phone you own, not a smaller one.")
 
-## Step 2: work the rectangle
+- **Smooth worsted cotton.** Cotton slides on the phone's glass and frame. Fuzzy yarn grips it, sheds lint into the ports, and pills inside. [Yarn weight chart](/yarn-weight-chart/).
+- **A hook that makes dense fabric**, often US G/6 (4.0 mm). Drop a size if you can see light through the stitches. [Hook chart](/crochet-hook-size-conversion-chart/).
+- The phone, without its case. If you keep a case on, measure the phone in its case instead.
+- Yarn needle, scissors.
 
-![Hands working a dense cream single-crochet rectangle](../../assets/articles/how-to-crochet-a-phone-case-2.jpg "Illustration. Single crochet only. Double crochet is too open for a phone.")
+Crochet a swatch at least 4 inches wide and measure stitches and rows per inch. A [gauge](/crochet-gauge/) swatch is worth it here, because the width has almost no room for error.
 
-Single crochet across, chain 1, turn. Stop when the rectangle is a little more than **twice 6.43 inches**. You fold it in half. The extra rows are the collar so the camera plateau is not jammed in the fold.
+## The worked example
 
-Check the phone on the fabric before you seam. Width still covers 3.07 inches without stretching. Folded length covers 6.43 inches and a short lip past the top.
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Around the phone | 2 × (3.07 + 0.34) | 6.82 in |
+| One flat face | 6.82 ÷ 2 | 3.41 in |
+| Fabric width | 3.41 + about 0.25 seams + about 0.25 ease | about 3.9 in |
+| Stitches | 3.9 × 4, rounded up | 16 sc, chain 17 |
+| Pocket depth per side | 6.43 + 0.17 at the fold + about 0.4 collar | about 7.0 in |
+| Rows | 2 × 7.0 × 5 | 70 rows |
 
-The turning chain is one chain and it does not count as a stitch. Work the first sc into the last real stitch.
+The earlier version of this page said to chain "just over 3.07 inches". At 4 stitches per inch that is about 13 stitches. Seamed, it leaves roughly 3.0 inches inside a sleeve that needs 3.41.
 
-## Step 3: fold and seam
+## Stage 1: chain and first row
 
-![A cream rectangle folded and seamed into a sleeve](../../assets/articles/how-to-crochet-a-phone-case-3.jpg "Illustration. Fold in half. Seam both sides. Leave the top open.")
+Chain 17. Single crochet in the second chain from the hook and in each chain across. Ch 1, turn. (16)
 
-Fold in half. Whipstitch each side from the fold to the opening. Leave the top open.
+Keep the chain looser than the rows, or use a hook one size larger for the chain only. A tight chain pulls the bottom edge in, and the fold will pucker.
 
-Slide the iPhone 18 Pro Max in before you weave the tails. It should go in without force and stay when you tip the sleeve once. If the opening fights you, the last rows were tighter than the middle. Redo those rows a little looser. Do not stretch the finished sleeve onto the phone.
+**Checkpoint:** lay the first row flat. It should measure about 3.9 inches. Fold a strip of paper of that width around the phone. It should close with a little overlap.
 
-Weave ends on the inside. See [weaving in ends](/weaving-in-ends-and-blocking/). Do not pin this wider than the phone to block it.
+## Stage 2: the rectangle
+
+Single crochet in each stitch across. Ch 1, turn. The ch 1 does not count as a stitch. (16)
+
+Count the stitches every 10 rows. Single crochet edges often gain a stitch when the first stitch goes into the turning chain, and each gained stitch is a quarter inch of looseness at that row.
+
+Stop at about 70 rows, or when the rectangle folded in half covers the phone with a little collar above the top edge. Measure it lying flat, not hanging.
+
+**Checkpoint:** fold the rectangle with the phone inside, without seaming. The two long edges should meet beside the phone with no strain. If they gap, the sleeve is too narrow. Start again with more stitches. Do not stretch it.
+
+## Stage 3: fold and seam
+
+Fold the rectangle in half with the right side inside. Whipstitch each side from the fold to the top, through the outer loop of each edge stitch only. Going deeper into the stitch takes width from the inside. Turn it right side out so the seams are inside.
+
+Slide the phone in before you weave the tails. It should go in without force and stay put when you tip the sleeve. If the opening fights you, the last rows are tighter than the rest. Redo them more loosely. Weave ends on the inside, where they cannot catch on the buttons. See [weaving in ends](/weaving-in-ends-and-blocking/).
 
 ## Color
 
 ![Joining terracotta yarn on the last loop of a cream stitch](../../assets/articles/how-to-crochet-a-phone-case-4.jpg "Illustration. Change color on the last yarn-over so the new row starts clean.")
 
-**Solid.** One color the whole way. Best first sleeve, because you can see the stitches.
+**Solid.** Best first sleeve. You can see every stitch you need to count.
 
-**Two-tone.** Work to the fold line in color A, then [change color](/changing-yarn-color-crochet/) and finish in color B.
+**Two-tone.** Work 35 rows in color A, [change color](/changing-yarn-color-crochet/), and finish in color B. The color change lands on the fold.
 
-**Stripes.** Change every 4 rows. Two-row stripes turn into noise on a piece this small. Cut the old color unless the next stripe is only two rows away. A carried strand snags on the phone.
+**Stripes.** Change every 4 rows. On a piece this small, two-row stripes read as noise. Cut the old color unless it returns within two rows. A strand carried up the side is on the inside of the seam, where it snags on the phone.
 
-Stop with two loops of the old color on the hook, yarn over with the new color, and pull through.
-
-Stay in the same yarn weight for every color. A thinner stripe changes the width and the phone jams there.
+Keep every color the same yarn weight. A thinner yarn makes a narrower stripe, and the phone sticks there.
 
 ## Optional flap
 
-![An illustrated terracotta sleeve with a button flap](../../assets/articles/how-to-crochet-a-phone-case-5.jpg "Illustration. A flap drawn on the sleeve. Add one only after the phone you own already fits. Not a measured sample.")
+Fit the open sleeve first. Then join yarn at the center of the back opening and work a short flap in rows over the middle 8 stitches, about 6 rows. Decrease one stitch at each end on alternate rows if you want it to narrow. On the last row, chain a loop that fits your button, slip stitch back, fasten off, and sew the button to the front. Skip the flap if the phone comes out all day.
 
-Fit the open sleeve first. Then join yarn at the center of the back opening, single crochet a short flap (about 6 to 8 rows), and narrow it by decreasing one stitch at each end every other row. On the last row, chain a loop that slips over your button, slip stitch back, and fasten off. Sew the button on the front.
+## Troubleshooting
 
-Skip the flap if you take the phone out all day. An open top is faster, and the camera plateau needs that open collar anyway.
+**The phone will not go in.** The sleeve was sized to the face, not around the phone. Recheck the width against 2 × (width + depth) ÷ 2, plus seams.
 
-## Mistakes
+**It goes in but sticks at the top.** The camera plateau. Add a few loose rows to the collar, or work the last 4 rows with a larger hook.
 
-**Using a stitch count from a smaller phone.** 3.07 by 6.43 inches is this model. A sleeve made for a regular iPhone will not take the Pro Max.
+**The phone slides out when tipped.** Too much ease, or a loose fabric. Redo with one fewer stitch or a smaller hook.
 
-**Seaming too tight.** The side seams are what the phone has to pass. Snug, not cinched.
+**One side is longer than the other.** Gained or lost stitches. Count back to the row where you still had 16.
 
-**Cutting a camera hole.** The plateau sits at the top. A collar fixes it. A hole in the wrong place does not.
-
-**Fuzzy yarn.** It looks soft and grabs the phone. Cotton is the better default.
+**The bottom corners stick out.** The fold is not square. Refold along a single row.
 
 ## Frequently asked
 
-**Does this include a case already on the phone?**
+**Does this work for a different phone?**
 
-No. Apple’s 3.07 by 6.43 inches is the bare body. If you keep a thin case on, measure that width and height instead and crochet to those.
+Yes. Measure width, height, and depth, or look them up on the maker's spec page, and redo the table.
 
-**Will a left-handed crocheter do anything different?**
+**Should I cut a hole for the camera?**
 
-No. Same rectangle. Holding the hook is covered in [left-handed crochet](/left-handed-crochet/).
+No. The plateau sits at the top, and the open collar clears it. A hole in a single-crochet sleeve stretches and runs.
 
-**Can I sell the sleeve?**
+**Does the sleeve protect the phone from a drop?**
 
-A plain sleeve you sized from Apple’s published measurements is yours to make. Do not copy someone else’s charted motif onto it.
+No. It keeps scratches and lint off the glass. It does not cushion a fall.
+
+**Can I sell sleeves I make?**
+
+A plain sleeve sized from published measurements is yours to make. Do not copy someone else's charted motif onto it.
+
+## Next
+
+The same "fabric goes around, not across" rule sizes the [book sleeve](/how-to-crochet-a-book-sleeve/) and the [laptop sleeve](/how-to-crochet-a-laptop-sleeve/). A tube sized for a smaller object is the [earbud pouch](/how-to-crochet-an-earbud-pouch/).

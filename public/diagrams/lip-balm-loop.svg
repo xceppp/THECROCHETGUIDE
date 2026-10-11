@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Where the key loop goes on a lip balm sleeve</title>
+<desc>Two sleeves hanging from a ring. On the left, the loop is sewn to the closed base, so the sleeve hangs upside down with the open rim at the bottom and the tube sliding out. On the right, the loop is sewn at the rim, so the closed base hangs down and the tube sits in it with the cap up. Below, a note says 9 stitches at 4 per inch is 2.25 inches around, enough for a tube about 0.65 inch across, which is 2.04 inches around.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .ring { fill: none; stroke: #8a7350; stroke-width: 6; }
+  .loop { fill: none; stroke: #6b4428; stroke-width: 5; }
+  .sleeve { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .tube { fill: #ffffff; stroke: #2f2a26; stroke-width: 3; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 3; }
+  .ok { fill: none; stroke: #7d8b72; stroke-width: 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Hang it from the rim, not the base</text>
+<circle class="ring" cx="160" cy="84" r="18"/>
+<path class="loop" d="M152 100 L148 122 M168 100 L172 122"/>
+<rect class="sleeve" x="130" y="120" width="60" height="110" rx="14"/>
+<rect class="tube" x="138" y="200" width="44" height="80" rx="6"/>
+<path class="bad" d="M160 290 V320 M152 312 L160 320 L168 312"/>
+<text class="soft" x="40" y="352">Loop on the base: rim faces down,</text>
+<text class="soft" x="40" y="374">the tube walks out.</text>
+<circle class="ring" cx="460" cy="84" r="18"/>
+<path class="loop" d="M452 100 L448 122 M468 100 L472 122"/>
+<rect class="tube" x="438" y="112" width="44" height="40" rx="6"/>
+<rect class="sleeve" x="430" y="130" width="60" height="110" rx="14"/>
+<path class="ok" d="M420 250 l12 12 l24 -26"/>
+<text class="soft" x="344" y="290">Loop at the rim: base down,</text>
+<text class="soft" x="344" y="312">cap up and reachable.</text>
+<text class="soft" x="344" y="352">9 sts x 0.25 in = 2.25 in around.</text>
+<text class="soft" x="344" y="374">A 0.65 in tube is 2.04 in around.</text>
+</svg>

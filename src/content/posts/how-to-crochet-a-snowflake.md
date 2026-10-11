@@ -2,6 +2,7 @@
 title: "How to Crochet a Snowflake (and Make It Stay Flat)"
 description: "Build a six-point crochet snowflake from a center ring, then stiffen and block it so it hangs flat instead of curling into a floppy spiral."
 pubDate: 2026-09-18
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -16,13 +17,21 @@ tags:
     "ornaments",
     "how to",
   ]
+glance:
+  time: "Three rounds, then stiffening and a day to dry"
+  size: "Depends on thread, hook, and how hard you pin"
+  yarn: "Size 10 crochet thread, or worsted for a chunky flake"
+  hook: "Steel 1.65 to 1.75 mm for thread"
+  yardage: "Not weighed. A few yards of thread."
 ---
 
-A snowflake takes about fifteen minutes to crochet. Keeping it flat is what makes this [in the round](/crochet-in-the-round/) circle an ornament, with the stitches spread apart on purpose.
+The crochet part of a snowflake is three short rounds. The part that decides whether it looks like an ornament or a limp doily is the finishing: soaking it in stiffener, pinning every point, and letting it dry hard. This page covers both, and spends more time on the second, because that is where most snowflakes go wrong.
 
-![Hands working a white thread snowflake with a fine steel crochet hook](../../assets/articles/how-to-crochet-a-snowflake-1.jpg "Illustration. The making takes fifteen minutes. The blocking is the part that decides how it looks.")
+The crochet is ordinary [work in the round](/crochet-in-the-round/), with the stitches spread apart on purpose. The pictures are illustrations, not photographs of a blocked sample.
 
-![A finished white crochet snowflake with open stiff points](../../assets/articles/how-to-crochet-a-snowflake-result.jpg "Illustration. The finished look these steps build toward — flat points after stiffening.")
+![Hands working a white thread snowflake with a fine steel crochet hook](../../assets/articles/how-to-crochet-a-snowflake-1.jpg "Illustration. The crochet is quick. The blocking decides how it looks.")
+
+![A finished white crochet snowflake with open stiff points](../../assets/articles/how-to-crochet-a-snowflake-result.jpg "Illustration. Flat points after stiffening. Not a photographed sample.")
 
 ## What you need
 
@@ -43,7 +52,12 @@ Real snowflakes have six-fold symmetry, from the way water molecules lock as ice
 
 Every flake, however fancy, is a center, then spokes, then points.
 
-**Round 1, the center.** Magic ring, then 12 dc into the ring. Join with a slip stitch to the top of the first dc. (12)
+<figure class="diagram">
+<img src="/diagrams/snowflake-rounds.svg" alt="A ring of 12 double crochet, six chain-5 loops each using 2 of the 12 stitches, and a picot point in each loop: six arms." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Twelve stitches, six loops, six points. Each round is a multiple of six.</figcaption>
+</figure>
+
+**Round 1, the center.** Magic ring. Ch 3, which counts as the first dc, then 11 dc into the ring. Join with a slip stitch to the top of the ch 3. (12)
 
 If the magic ring is still awkward, chain 6, slip stitch into the first chain, and work the 12 dc into that loop. The magic ring closes tighter. A gappy center is the first thing the eye hits.
 

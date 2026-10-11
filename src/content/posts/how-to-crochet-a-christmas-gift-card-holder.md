@@ -1,120 +1,146 @@
 ---
 title: "How to Crochet a Christmas Gift Card Holder"
-description: "A small green crochet pocket for one card. ID-1 size is 3.370 by 2.125 inches. US terms. The crochet inches are not from a yarn-tested sample."
+description: "A small crochet pocket for one ID-1 gift card, 3.370 by 2.125 inches, folded off center so the card stays easy to pull out. US terms. Not a yarn-tested sample."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["christmas", "gift card", "beginner", "how to"]
+glance:
+  time: "One rectangle, an offset fold, two seams"
+  size: "For one ID-1 card, 3.370 × 2.125 in"
+  yarn: "Worsted cotton, green and a scrap of red"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. 384 single crochet in the body."
 ---
 
-A gift card in a plain envelope looks like an afterthought. A small crochet pocket gives it a front, and it still has to fit the card you can actually buy.
+A gift card in a plain envelope looks like an afterthought. A small crochet pocket gives it a front. It also has to do two practical things: let the card in without bending it, and let the person you give it to get the card back out. The first is about width. The second is about where you fold, and that is the part most card-pocket patterns get wrong.
 
-A standard US gift card follows the ID-1 size used for bank cards: **85.60 × 53.98 mm**, which is **3.37 × 2.13 inches**. This pocket is planned a little larger than that so the card slides. It is not a wallet, and it will not hold a stack of cards.
+Most US gift cards follow the ID-1 size used for bank cards: **85.60 × 53.98 mm**, which is **3.370 × 2.125 inches**, under ISO/IEC 7810. Some store cards are smaller. Measure the card you are giving.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pocket for this page was crocheted or fitted to a card.
 
-Photos are illustrations. The pocket has not been measured against a real card in yarn. The inches below assume the gauge. If your gauge is off, the card tells you, not the photo.
+![A green crochet pocket with a blank card and a pine sprig](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-result.jpg "Illustration. A green pocket with a red edge and a blank card. Not a pocket fitted to a card.")
 
-![A green crochet pocket with a blank card and a pine sprig](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-result.jpg "Illustration. Intended look: green pocket, red edge, blank card. No store logo.")
+## What is fact, and what is only a plan
 
-## Materials
+| Piece of this page | What it is |
+| --- | --- |
+| 3.370 × 2.125 in | The ISO/IEC 7810 ID-1 card size. |
+| A rectangle folded and seamed at the sides | Standard construction. |
+| Front shorter than the card, back taller | Geometry. The card has to stick out to be pulled. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| About 30 yards of green and 8 of red | An old line. Not weighed. Withdrawn. |
 
-![Green and red yarn, a hook, and a blank card](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-1.jpg "Illustration. The card is a size check. Yardage is an estimate.")
+## How the pocket is built
 
-- Worsted cotton, green, about **30 yards**. Red, about **8 yards**. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
+One rectangle of single crochet, 16 stitches wide and 24 rows long. It is folded up from the bottom so the first 9 rows become the front and the remaining 15 rows become the back. The sides of the front are sewn to the back. The top of the front stays open. A row of red along the front edge is the only decoration.
+
+### Why fold off center
+
+The earlier version of this page folded the rectangle in half, 12 rows to a side. At 5 rows per inch that is a pocket 2.4 inches deep. A 2.125 inch card drops right in and sits about a quarter of an inch below the opening, with nothing to grab. The page then said the card should "stop before it disappears", which it would not do.
+
+Folding after row 9 makes the front 1.8 inches tall, shorter than the card, so about a third of an inch of card stands above it. The back is 15 rows, 3.0 inches, so it rises behind the card and gives the front of the gift something to frame.
+
+<figure class="diagram">
+<img src="/diagrams/gift-card-offset-fold.svg" alt="The flat rectangle, 16 stitches by 24 rows, with a fold after row 9. Folded, the front is 9 rows or 1.8 inches, the back is 15 rows or 3.0 inches, and a 2.125 inch card shows about a third of an inch above the red front edge. A note says folding in the middle gives 2.4 inches per side and the card sinks 0.27 inch below the opening." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The front is shorter than the card on purpose. The visible strip is how the card comes out.</figcaption>
+</figure>
+
+### Why 16 stitches
+
+Sixteen stitches at 4 per inch is 4 inches. Whipstitched side seams take up roughly one stitch, leaving about 3.75 inches inside for a 3.37 inch card. That is about three-eighths of an inch of ease, enough for the card to slide in flat. If your gauge is 5 stitches per inch, 16 stitches is 3.2 inches and the card will not go in at all. Keep the count and go up a hook size.
+
+## Yarn and hook
+
+![Green and red yarn, a hook, and a blank card](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-1.jpg "Illustration. The card is a size check. Not a weighed amount of yarn.")
+
+- **Worsted cotton** in green, and a scrap of red. Cotton keeps the pocket flat. Fuzzy yarn catches the card's smooth face. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives 4 stitches per inch. [Hook chart](/crochet-hook-size-conversion-chart/).
+- A gift card, or a piece of card stock cut to 3.370 × 2.125 inches.
 - Yarn needle, scissors.
-- One gift card, or a piece of card cut to 3.370 × 2.125 inches. That is the ISO/IEC 7810 ID-1 size used for most US credit cards. A store gift card is sometimes shorter. Measure the card you will use.
 
-Beginner. About an hour. A Halloween version with a different construction is the [card wallet](/halloween-crochet-card-wallet/). Use this page if you want a Christmas pocket.
+## The worked example
 
-## Gauge (estimate)
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Width | 16 sts ÷ 4 per in | 4.0 in fabric, about 3.75 in inside |
+| Front | 9 rows ÷ 5 per in | 1.8 in |
+| Card showing | 2.125 − 1.8 | about 0.33 in |
+| Back | 15 rows ÷ 5 per in | 3.0 in |
+| Body stitches | 16 × 24 | 384 sc |
 
-**4 sc = 1 inch. 5 rows = 1 inch.**
-
-16 stitches are about **4 inches** wide. A 3.37-inch card has a little side room. 12 rows are about **2.4 inches** tall, just over the 2.13-inch card height. That room is on purpose. A pocket the same size as the card will not take the card.
-
-## Rectangle
-
-Ch 1 at the end of a row does not count as a stitch.
-
-![A green rectangle still on the hook](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-2.jpg "Illustration. Sixteen single crochets across. No increases.")
+## Stage 1: the rectangle
 
 Chain 17.
 
-**Row 1:** sc in the 2nd chain from the hook and in each chain across. Ch 1, turn. (16)
+**Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (16)
 
-**Rows 2–24:** sc in each stitch. Ch 1, turn. (16)
+**Rows 2–24:** Sc in each stitch. Ch 1, turn. (16)
 
-The width never changes. If a row comes out to 15 or 17, pull it out. A drifting edge makes a pocket that bows.
+The ch 1 does not count as a stitch. Count every few rows. A 15 or a 17 makes the sides bow, and the seams will not line up.
 
-## Fold and seam
+**Checkpoint:** after row 4, lay the card on the fabric. The fabric should be wider than the card by about the width of two stitches.
 
-Fold the rectangle in half so Row 1 meets Row 24. The fold is the bottom. Each side is 12 rows.
+Fasten off.
 
-Sew the two side edges through both layers. Leave the top open. Do not sew across the fold. The fold is already closed.
+## Stage 2: the red edge
 
-![The rectangle folded and seamed on the sides](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-3.jpg "Illustration. Sides sewn. Top open. Fold at the bottom.")
+The foundation chain becomes the front edge. With red, join in the first chain and work 1 sc in each of the 16 chains along the foundation. Fasten off.
 
-With red, work one row of single crochet along the front lip only, the edge that was Row 1. Fasten off. This stripe is decoration. It is not a flap.
+Doing this before the fold keeps the edge stitches out of the side seams. It also firms the front edge, which takes all the wear from the card going in and out.
 
-Slide the card in. It should go in without folding and stop before it disappears. If the card will not enter, your stitch is tighter than 4 sc to the inch. Redo the rectangle on a larger hook, still at 16 stitches, rather than skipping seams.
+## Stage 3: fold and seam
 
-![A blank card in the green pocket](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-4.jpg "Illustration. The card stays visible. The pocket is one card deep.")
+Fold the rectangle so the foundation edge sits 9 rows up, with the right sides out. The fold is the bottom. The 9-row front lies against rows 10 to 18 of the back. Rows 19 to 24 stand above it.
+
+Slide the card in before you sew. About a third of an inch should show above the red edge. If almost none shows, fold one row lower.
+
+Whipstitch each side from the fold to the top of the front, through both layers and through the outer loop of the edge stitches only. A seam deeper in the stitch narrows the pocket. Make a second stitch at the top of each seam, where the card puts the most strain. Weave the ends in on the inside of the back, not inside the pocket.
+
+## Variations
+
+**A hanging loop.** Chain 12 at the center top of the back, slip stitch back to make a loop, and hang the pocket on the tree with the card in it.
+
+**Embroidery.** The back stands 0.875 inch above the card. A small star in backstitch fits there. Keep the stitches shallow.
+
+**No red.** The pocket still fits without the edge, but the foundation chain will wear faster.
+
+## Troubleshooting
+
+**The card will not go in.** The fabric is tighter than 4 stitches per inch, or the seams went too deep. Go up a hook size and keep 16 stitches.
+
+**The card disappears into the pocket.** The front is taller than the card. Refold lower.
+
+**The card falls out when the pocket is tipped.** The pocket is loose, or the front is very short. Make the next one with one fewer stitch, or fold one row higher.
+
+**The sides bow outward.** The stitch count drifted. Count back to where it was 16.
+
+**The red edge ruffles.** You worked more than one stitch in some chains. Sixteen chains, sixteen stitches.
 
 ## Giving it
 
-Tuck the pocket under the ribbon of a wrapped gift, or hand it over as the gift. Yarn will not protect the magnetic stripe or a chip from a hard bend. Do not fold the holder in half with the card inside.
+Tuck the pocket under the ribbon on a wrapped gift, or hand it over on its own. Yarn does not protect a card from bending. Do not fold the pocket with the card inside. One card per pocket. A second card stretches the seams.
 
-![The holder under a ribbon on a wrapped gift](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-5.jpg "Illustration. Presentation only. The card still needs a flat place in the bag.")
-
-## Giving a set
-
-One pocket per card. Stacking two cards in a single-crochet pocket splits the side seams. If you are giving three cards, make three rectangles. A shared ribbon can hold them. The yarn should not.
-
-Write the amount on a separate note if the card itself should stay blank until the shop activates it. Do not embroider a dollar amount into the pocket. You will want that pocket again next year, and the amount will be wrong.
-
-The red lip is enough decoration. A bow sewn over the opening looks festive and then blocks the card. If you want a bow, sew it on the back, below the opening, or skip it. A full bow pattern is not on this page.
-
-A gift card that is thinner than a bank card still uses the same outline. Do not shrink the pocket for a paper card. Paper bends, and a tight 16-stitch width is what creases it. The ease in the 4-inch estimate is there so the card stays flat.
-
-If your cotton is closer to 5 sc per inch, 16 stitches are only about 3.2 inches and the card will not enter. That is a gauge problem, not a seam problem. Move to a larger hook and keep the same 16 stitches. The [gauge article](/crochet-gauge/) shows how to measure a swatch before you seam a pocket you cannot use.
-
-## Changes
-
-**A taller back.** Work 30 rows. Fold after 12 rows so the pocket is still 12 rows and the back continues. Seam only the pocket sides. The extra back is where you can embroider a small star. Keep the embroidery shallow.
-
-**No red.** The green pocket still fits.
-
-## Mistakes
-
-**Seaming the top.** That is a closed square. Leave the edge opposite the fold open.
-
-**Counting the turning chain.** The count is 16, not 17.
-
-**A fuzzy yarn over the stripe.** Gift cards have a smooth face. Mohair grabs them.
-
-## Care
-
-Remove the card. Hand wash cool. Dry flat. Put the card back only when the pocket is dry. A damp pocket can warp a paper gift card.
+Write the amount on a separate note. Embroidering a dollar figure makes the pocket single-use.
 
 ## Frequently asked
 
 **Will a credit card fit?**
 
-The outline is the same ID-1 size. This is still a gift sleeve, not a daily wallet. One card. No coins.
+Yes, it is the same ID-1 size. This is still a gift pocket. It is not a daily wallet.
+
+**What about a smaller store card?**
+
+Measure it. If it is shorter than 1.8 inches, it will vanish into this pocket. Fold after row 7 or 8 so the front stays shorter than the card.
 
 **Can I sell finished holders?**
 
 Yes. Do not republish the rows.
 
-**What if I crochet tighter than the gauge?**
-
-The 4-inch estimate shrinks. The card is the test. Move up a hook size and keep 16 stitches.
-
 ## Next
 
-Yarn choices for other December projects are in [yarn for Christmas crochet](/yarn-for-christmas-crochet/). A small tree you can hang is [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree/).
+A card pocket with a flap and a button is the [Halloween card wallet](/halloween-crochet-card-wallet/), which also shows how to size a pocket from any card. December yarn choices are in [yarn for Christmas crochet](/yarn-for-christmas-crochet/).

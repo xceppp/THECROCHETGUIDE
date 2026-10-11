@@ -2,6 +2,7 @@
 title: "15 Easy Crochet Christmas Ornament Ideas"
 description: "Fifteen small Christmas ornament ideas, plus one complete flat star in US terms. Trees and snowflakes link out. The star is not a yarn-tested sample."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
@@ -20,7 +21,7 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ## What every ornament needs
 
-- Worsted cotton, about **10 to 25 yards** for a flat piece, more if you stuff a ball. [Yarn for Christmas](/yarn-for-christmas-crochet/) covers sparkle yarn and why it behaves badly in small stitches.
+- Worsted cotton. A flat ornament uses a small scrap. A stuffed ball uses more. Amounts have not been weighed. [Yarn for Christmas](/yarn-for-christmas-crochet/) covers sparkle yarn and why it behaves badly in small stitches.
 - US G/6 (4.0 mm) hook. [Hook chart](/crochet-hook-size-conversion-chart/).
 - A hanging loop: chain 12, sew both ends to the top, weave the tail through the chain. A single unsewn strand will pull out.
 
@@ -28,7 +29,7 @@ Stuffing is optional and usually a mistake on a flat ornament. It makes the piec
 
 ## The fifteen
 
-**Mini Christmas tree.** Use [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree/). Do not invent a second tree from the photo.
+**Mini Christmas tree.** The flat triangle in [how to crochet a Christmas tree](/how-to-crochet-a-christmas-tree/) hangs flat. Use a smaller hook or start on 11 stitches for a smaller one, and sew the hanging loop at the tip.
 
 **Star.** Full pattern below. Beginner. Flat, five points, joined rounds.
 
@@ -52,7 +53,7 @@ Stuffing is optional and usually a mistake on a flat ornament. It makes the piec
 
 **Mini mitten.** Beginner idea. Same construction warning as the stocking. A thumb added as an afterthought looks like a bump. Plan the thumb as a few stitches split off the round, or skip the thumb and call it a flat mitten shape.
 
-**Bauble.** Beginner idea if you can make a ball: increase to a circle, work even, then decrease in mirror. Leave a loop before you close it. Do not hang a heavy stuffed ball on a weak branch.
+**Bauble.** Beginner idea if you can make a ball: increase to a circle, work even, then decrease in mirror. The [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/) gives a counted ball; work six even rounds instead of four for a round bauble and skip the grooves. Leave a loop before you close it. Do not hang a heavy stuffed ball on a weak branch.
 
 **Angel-inspired ornament.** Idea only. A circle head and a triangle body read as an angel at a distance. Wings are where copied patterns usually live. Keep wings as two simple triangles you design yourself, or skip them.
 
@@ -72,9 +73,16 @@ Joined rounds. The slip stitch that joins does not count as a stitch. Ch 1 at th
 
 Each repeat uses one of the 5 stitches from Round 1.
 
-**Round 3:** In each chain-5 space, work sc, hdc, dc, hdc, sc. Join to the first sc. Fasten off. (25)
+**Round 3:** In each chain-5 space, work sc, hdc, dc, ch 3, sl st in the 3rd chain from the hook (a picot), dc, hdc, sc. Join to the first sc. Fasten off. (30 stitches and 5 picots)
 
-That is 5 stitches in each of 5 spaces, 25 stitches total. They sit in the chains, not in the single crochets of Round 2. If you also stitch into those single crochets, you get extra fabric between the points and the star looks like a flower.
+That is 6 stitches and a picot in each of 5 spaces. They sit in the chains, not in the single crochets of Round 2. If you also stitch into those single crochets, you get extra fabric between the points and the star looks like a flower.
+
+<figure class="diagram">
+<img src="/diagrams/star-ornament.svg" alt="A five-point star. Round 1 is 5 single crochet in a ring, round 2 is single crochet and chain 5 five times, and round 3 works single crochet, half double, double, a chain-3 picot, double, half double, single crochet into each loop. A dashed outline shows that without the picot each point is a rounded petal." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Stitch heights rise to the middle of each loop, and the picot sharpens the tip. Without it the points look like petals.</figcaption>
+</figure>
+
+The picot is what makes it a star. A loop filled with sc, hdc, dc, hdc, sc rises and falls in a smooth arch, which reads as a flower petal. A small chain loop at the top of the arch gives it a sharp tip.
 
 Weave the ring tail. Chain 12, sew both ends behind one point.
 

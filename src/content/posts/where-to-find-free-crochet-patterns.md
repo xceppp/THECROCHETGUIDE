@@ -61,7 +61,7 @@ A pattern missing several of these will waste the yarn.
 - **A gauge statement.** On a garment, no gauge means the size was not planned. A dishcloth can skip it. A sweater cannot. The method is in [crochet gauge](/crochet-gauge/).
 - **Total yardage**, not only "3 skeins." Skein lengths differ by brand. The [yarn weight chart](/yarn-weight-chart/) is the language those labels use.
 - **Stitch counts** at the end of rows or rounds, written so you can check before row forty.
-- **US or UK terminology**, stated. If it is not stated, `sc` usually means US and `htr` means UK.
+- **US or UK terminology**, stated. If it is not, look for clues. UK terms have no single crochet, so a pattern that uses `sc` is in US terms. A pattern whose basic stitches are `htr` and `tr` is in UK terms.
 - **A special-stitches note** when the pattern says bobble, cluster, or shell. Those words are not standard across designers.
 - **Finished measurements.**
 - **More than one photo**, from more than one angle, of an object that matches the written fabric.

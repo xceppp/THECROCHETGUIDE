@@ -1,110 +1,166 @@
 ---
 title: "Crochet Santa Amigurumi for Beginners"
-description: "Build a Santa from one continuous body, then add the hat, beard and belt. Includes safe eye choices for children and the fixes for a lopsided face."
+description: "A one-piece Santa body and head, a hat, beard, and belt, with every round counted and a stitch-counting method for placing the face so it is not lopsided."
 pubDate: 2026-09-18
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
 printable: true
 tags:
   ["christmas", "santa", "amigurumi", "in the round", "beginner", "how to"]
+glance:
+  time: "A 23-round body, a hat, a nose, a beard, a belt"
+  size: "Depends on yarn, hook, and stuffing"
+  yarn: "Worsted: red, a skin tone, white, black"
+  hook: "One or two sizes smaller than the label"
+  yardage: "Not weighed. Small amounts of each color."
 ---
 
-A Santa is the first amigurumi where the face shows. A [gnome](/how-to-crochet-a-gnome/) hides under a hat, and a pumpkin has no face, so both forgive a lot. If Santa's eyes are a stitch off, everyone can see it. The body is one piece, no neck and no seam. The work is placement. Put a marker at the center front before you embroider. Each eye should sit the same number of stitches away from that marker, and on the same round. One stitch off is visible because there is no hat brim to hide it. The photos are illustrations.
+A Santa is the first amigurumi where the face shows. A [gnome](/how-to-crochet-a-gnome/) hides its eyes under a hat, and a [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/) has no face, so both forgive a lot. On Santa, an eye one stitch off is the first thing anyone sees.
 
+The body is easy: one piece, with no neck seam to sew. The skill is placement, and there is a reliable way to do it. Pick one stitch at the center front, mark it, and place every feature by counting stitches and rounds out from that marker, never by eye. A spiral leans slightly, so placing by eye is how faces end up crooked.
 
-![A finished beginner crochet Santa amigurumi with red hat](../../assets/articles/crochet-santa-amigurumi-for-beginners-result.jpg "Illustration. The finished look these steps build toward.")
+US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No Santa for this page was made and measured, so no finished height is given.
+
+![A finished beginner crochet Santa amigurumi with red hat](../../assets/articles/crochet-santa-amigurumi-for-beginners-result.jpg "Illustration. The intended look. Not a measured sample.")
+
 ## What you need
 
-- Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart/)) in red, a skin tone, white, and a scrap of black
-- A hook a size or two below the label, often a US G/6 (4.0 mm)
-- Stuffing, a yarn needle, a stitch marker
-- Black yarn for embroidered eyes, or 6 mm safety eyes if this is not for a small child
-
-US abbreviations. The counts are a shape, not a finished height.
+- **Worsted-weight yarn** in red, a skin tone, white, and a scrap of black. [Yarn weights](/yarn-weight-chart/).
+- **A hook one or two sizes smaller than the label**, so stuffing does not show. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Stuffing, a yarn needle, stitch markers, pins.
+- Black yarn for embroidered eyes, or 6 mm safety eyes if the Santa will not go to a small child.
 
 <div class="warning">
 
-**Safety eyes are not safe for children under three.** The name describes the backing washer, not the age range. A plastic eye that works loose is a choking hazard. For a baby or toddler, embroider the eyes in black yarn.
+Safety eyes are not safe for children under three. The name refers to the locking washer, not the age range. A plastic eye that works loose is a choking hazard. For a baby or toddler, embroider the eyes.
 
 </div>
 
-## Body and head in one piece
+## Step 1: body and head in one piece
 
-![Hands crocheting a red Santa hat tube](../../assets/articles/crochet-santa-amigurumi-for-beginners-1.jpg "Illustration. Hat and body pieces start in the round.")
+![Hands crocheting a red Santa hat tube](../../assets/articles/crochet-santa-amigurumi-for-beginners-1.jpg "Illustration. Pieces start in the round.")
 
-Work in a continuous spiral and mark the first stitch of each round.
+Red. Work in a spiral and mark the first stitch of each round.
 
-**Rnd 1.** Magic ring, 6 sc. (6)
+**Round 1:** 6 sc in a magic ring. (6)
 
-**Rnd 2.** 2 sc in each st around. (12)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Rnd 3.** *Sc in next st, 2 sc in next st; repeat from * around. (18)
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Rnd 4.** *Sc in next 2 sts, 2 sc in next st; repeat from * around. (24)
+**Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
-**Rnd 5.** *Sc in next 3 sts, 2 sc in next st; repeat from * around. (30)
+**Round 5:** (Sc 3, 2 sc in next) 6 times. (30)
 
-That is the flat base. Work even in red until the body is roughly as tall as it is wide. Santa is round, not tall.
+That flat circle is the base. Press it on a table. It must sit flat, or Santa rocks.
 
-**Narrow for the shoulders.** *Sc in next 3 sts, sc2tog; repeat from * around. (24)
+**Rounds 6–13:** Sc in each stitch. (30)
 
-**Change to the skin tone** and work even until the head is roughly two thirds the height of the body. A color change in the middle of a round is cleaner than at the start of one. The technique is in [changing yarn color](/changing-yarn-color-crochet/).
+**Round 14:** (Sc 3, sc2tog) 6 times. (24) The narrowing makes the shoulders.
 
-**Close the head.** Decrease by six stitches a round: *sc in next 2, sc2tog*, then *sc in next, sc2tog*, then *sc2tog* around. Stuff firmly as the opening shrinks. Fasten off, weave the tail through the front loops of the last stitches, and pull tight.
+Change to the skin tone at the end of round 14. [Changing yarn color](/changing-yarn-color-crochet/).
 
-<div class="tip">
+**Rounds 15–20:** Sc in each stitch. (24)
 
-Stuff the body harder than the head. A soft base slumps under the head, and no face fix rescues a Santa that leans.
+Stuff the body firmly now, firmer than the head will be. A soft base slumps under the head.
 
-</div>
+**If you are using safety eyes**, fit them now, before the head closes. See the placement in Step 2.
 
-## The face
+**Round 21:** (Sc 2, sc2tog) 6 times. (18)
 
-![Stuffing a crochet Santa body](../../assets/articles/crochet-santa-amigurumi-for-beginners-2.jpg "Illustration. Stuff before the opening gets too small.")
+**Round 22:** (Sc, sc2tog) 6 times. (12) Stuff the head.
 
-Pin eyes, nose, and beard before you sew any of them.
+**Round 23:** Sc2tog 6 times. (6) Fasten off. Thread the tail through the front loops of the last 6 stitches and pull closed.
 
-**Eyes.** On the lower half of the head, about two thirds of the way down, with roughly four to five stitches between them on a 24-stitch round. Too high reads as a stranger. Too far apart looks startled. Count out from the center. A spiral is not as symmetrical as it looks.
+## Step 2: place the face by counting
 
-**Nose.** Magic ring, 6 sc, 2 sc in each st around (12), two rounds even, then sc2tog around, stuffed lightly. Center it between the eyes and just below them.
+<figure class="diagram">
+<img src="/diagrams/santa-face-placement.svg" alt="A grid of stitches on the front of the head. A marker runs up the center front stitch. The eyes are on the same round, about two thirds of the way down the head, each 2 stitches out from the marker, so 4 apart with the marker between. The nose is on the marker one round lower. The beard starts under the nose." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>One marker, and every feature counted from it.</figcaption>
+</figure>
 
-**Beard.** A white half-circle sewn under the nose, or white fringe knotted in and trimmed. Fringe is faster. The crocheted beard is tidier up close. Either covers the bottom of the face. The eyes have nowhere to hide.
+1. **Pick the front.** The color-change jog is at the back, so choose the stitch opposite it. Thread a strand of contrasting yarn up that column of stitches.
+2. **Pick the eye round.** The head is rounds 15 to 23. About two thirds of the way down from the top is round 18 or 17. Lower than instinct says looks friendlier.
+3. **Count out.** Each eye sits 2 stitches out from the marker on the same round, so there are 4 stitches between the eyes with the marker in the middle. Pin them.
+4. **Nose position.** On the marker, one round below the eyes.
 
-## Hat
+Step back and look from a few feet away before you sew anything.
 
-![Embroidering eyes on a crochet Santa](../../assets/articles/crochet-santa-amigurumi-for-beginners-3.jpg "Illustration. Simple embroidered eyes beat oversized safety eyes on a small face.")
+## Step 3: the eyes and nose
 
-**Rnd 1.** Magic ring, 4 sc in red. (4)
+![Embroidering eyes on a crochet Santa](../../assets/articles/crochet-santa-amigurumi-for-beginners-3.jpg "Illustration. Simple embroidered eyes suit a small face.")
 
-Work several rounds even for the tip, then an increase round and one or two rounds even, until the opening fits the head.
+**Eyes.** Embroider each one over a single stitch with black, two or three wraps, or a French knot. Use the same number of wraps on both.
 
-Finish with two or three rounds of white for the brim, and a small white ball at the tip made like the nose. Do not stuff the hat. If you use safety eyes, fit them before the last decreases close the head. The washer goes on from the inside.
+**Nose.** Skin tone:
 
-## Belt
+- **Round 1:** 6 sc in a magic ring. (6)
+- **Round 2:** (Sc, 2 sc in next) 3 times. (9)
+- **Round 3:** Sc in each stitch. (9)
+- **Round 4:** (Sc, sc2tog) 3 times. (6)
 
-A long black chain with a row of sc worked back along it is enough. Sew it around the body about a third of the way up. A small yellow or gold square on the front reads as a buckle. The belt is the waist the shaping skipped.
+Stuff lightly with a pinch of stuffing, fasten off with a tail, and sew it on at the pinned spot.
 
-## Mistakes worth avoiding
+## Step 4: the beard
 
-**Eyes too high or too wide.** Lower than instinct says, and four to five stitches apart on that 24-stitch round.
+Two options. **Fringe** is faster: cut white strands about twice the finished length, fold each in half, pull the fold through a stitch with the hook, then pull the ends through the fold. Work a curve from one side of the face, under the nose, to the other side, then trim. **A crocheted beard** is tidier up close: a half circle of white, worked in rows, sewn on under the nose.
 
-**Sewing before the whole face is pinned.** Stand back, adjust, then sew.
+Either way, the beard starts just under the nose and covers the bottom of the face.
 
-**A head stuffed harder than the body, or a base that is not flat.** Either one makes him lean. Press the first five rounds flat on a table before you stuff, and keep the lower third firm.
+## Step 5: the hat
 
-**The hook size on the label.** Loose fabric shows stuffing. Go down at least one size.
+Red. Worked from the tip down.
+
+**Round 1:** 6 sc in a magic ring. (6)
+
+**Rounds 2–3:** Sc in each stitch. (6)
+
+**Round 4:** (Sc, 2 sc in next) 3 times. (9)
+
+**Round 5:** Sc in each stitch. (9)
+
+**Round 6:** (Sc 2, 2 sc in next) 3 times. (12)
+
+**Round 7:** Sc in each stitch. (12)
+
+Keep going the same way, adding 3 stitches every other round, until the hat has 27 stitches: (sc 3, 2 sc in next) for 15, (sc 4, 2 sc in next) for 18, and so on. The head is 24 around, so 27 slips over it.
+
+**Brim:** Change to white. Two rounds of sc. (27) Fasten off with a tail.
+
+**Pom-pom:** Make a second nose in white and sew it to the tip. Do not stuff the hat. Sew it on at a slight angle, all the way round the brim.
+
+## Step 6: the belt
+
+Black. Chain until the chain wraps the body at about round 9, then sc back along the chain. Sew it around the body. A small square of yellow, either a few stitches of embroidery or a tiny crocheted square, makes a buckle at the center front, on the marker line.
+
+## Troubleshooting
+
+**The eyes are uneven.** They were placed by eye. Count from the marker.
+
+**Too high.** Eyes near the top look surprised. Move them down a round.
+
+**He leans backward.** The base is domed or the body is softer than the head. Press the base flat and stuff the body harder.
+
+**Stuffing shows through.** Hook too large. Go down a size.
+
+**The hat perches on top.** Too few stitches. Add one more increase round.
 
 ## Frequently asked
 
-### Why does he lean backward?
-
-The base is usually domed. If the first five rounds ruffled, he rocks. Press it flat, check that it sits, then stuff the lower third firmly.
-
 ### Can the head be a separate piece?
 
-It can, and a first Santa is harder that way. Joining two stuffed spheres so the head stays straight is its own skill. One piece avoids the join.
+It can, but joining two stuffed balls so the head stays straight is a separate skill. One piece avoids it.
 
-### How do I hide the color-change step?
+### How do I hide the color-change jog?
 
-A spiral has no true round end, so the change leaves a small jog. Work the new color into the last stitch of the old round. The belt or the beard often covers that spot.
+Put it at the back. The belt and the hat brim cover most of it.
+
+### Is it safe for a toddler?
+
+With embroidered eyes and firmly sewn parts it has no small parts, but it has not been safety tested. Treat it as decoration.
+
+### What should I make next?
+
+A cone with no face at all is the [gnome](/how-to-crochet-a-gnome/). A flat motif for the tree is the [snowflake](/how-to-crochet-a-snowflake/).

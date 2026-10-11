@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>How long to make a cable strap</title>
+<desc>Top: a coiled cable with a paper strip wrapped around the bundle where the strap will sit, measuring 4 inches in the example. Bottom: the strap laid flat. A button sits 3 rows from the foundation end, and the buttonhole is on the last row. The distance from button to buttonhole equals the bundle measurement. Total length is 0.6 plus 4 plus 0.2, which is 4.8 inches, or 24 rows at 5 rows per inch.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .cable { fill: none; stroke: #2f2a26; stroke-width: 3; }
+  .paper { fill: none; stroke: #7d8b72; stroke-width: 6; stroke-dasharray: 8 5; }
+  .fab { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .btn { fill: #8a6a4a; stroke: #2f2a26; stroke-width: 2; }
+  .hole { fill: #f6efe6; stroke: #6b4428; stroke-width: 3; }
+  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Measure the bundle, then build the strap to it</text>
+<ellipse class="cable" cx="150" cy="130" rx="90" ry="50"/>
+<ellipse class="cable" cx="150" cy="130" rx="82" ry="44"/>
+<ellipse class="cable" cx="150" cy="130" rx="74" ry="38"/>
+<ellipse class="paper" cx="234" cy="130" rx="16" ry="24"/>
+<text class="soft" x="270" y="112">paper strip around the bundle</text>
+<text class="soft" x="270" y="136">where the strap will sit:</text>
+<text class="label" x="270" y="164">4 in in the example</text>
+<rect class="fab" x="60" y="226" width="520" height="56"/>
+<circle class="btn" cx="104" cy="254" r="11"/>
+<rect class="hole" x="548" y="246" width="20" height="16" rx="5"/>
+<path class="arrow" d="M104 300 H556 M112 294 L104 300 L112 306 M548 294 L556 300 L548 306"/>
+<text class="soft" x="214" y="324">button to buttonhole = 4 in</text>
+<text class="soft" x="62" y="216">row 1</text>
+<text class="soft" x="500" y="216">last row</text>
+<text class="soft" x="32" y="358">Length: 0.6 in below the button + 4 in + 0.2 in past the hole</text>
+<text class="label" x="32" y="388">4.8 in x 5 rows per in = 24 rows</text>
+</svg>

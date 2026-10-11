@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Wine bottle bag plan</title>
+<desc>A bottle inside a straight crochet tube. The flat base of 40 stitches sits under the bottle and adds no height. The side rounds start at round 8 and rise 9 inches, 45 rounds, to just above the shoulder. The eyelet round and two rounds above it gather around the neck. A carry handle is sewn to solid rounds below the eyelets on opposite sides. A note says not to lift the bottle by the drawstring, because the cord hangs the whole weight on the chain-1 loops of one round.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .bottle { fill: #ffffff; stroke: #2f2a26; stroke-width: 3; }
+  .tube { fill: none; stroke: #6b4428; stroke-width: 5; }
+  .eye { stroke: #b0604a; stroke-width: 4; stroke-dasharray: 5 5; }
+  .handle { fill: none; stroke: #7d8b72; stroke-width: 6; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Base under, sides up, cord above the shoulder</text>
+<path class="bottle" d="M110 360 V190 Q110 160 140 150 V80 H160 V150 Q190 160 190 190 V360 Z"/>
+<path class="tube" d="M100 364 V126 M200 364 V126 M100 364 H200"/>
+<line class="eye" x1="100" y1="140" x2="200" y2="140"/>
+<path class="handle" d="M100 160 Q30 120 60 70 Q150 30 240 70 Q270 120 200 160"/>
+<text class="soft" x="230" y="146">eyelet round + 2 rounds</text>
+<text class="soft" x="230" y="196">sides: from round 8,</text>
+<text class="soft" x="230" y="218">9 in = 45 rounds to the cord point</text>
+<text class="soft" x="230" y="268">40 sts = 10 in around</text>
+<text class="soft" x="230" y="290">(bottle 9.4 in + 0.5 ease)</text>
+<text class="soft" x="230" y="352">base: flat, 40 sts, adds no height</text>
+<text class="soft" x="270" y="86">optional handle, sewn to</text>
+<text class="soft" x="270" y="108">solid rounds below the eyelets</text>
+</svg>

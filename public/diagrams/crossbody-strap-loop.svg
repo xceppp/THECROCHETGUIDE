@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Measuring a crossbody strap as a loop</title>
+<desc>A simple torso outline with a string running from the bag position at one hip, up across the chest, over the opposite shoulder, down across the back, and back to the hip. In the example the loop is 52 inches. The bag's top edge, 3.75 inches, closes the loop, so the strap is 52 minus 3.75, about 48 inches, 240 rows at 5 rows per inch. A note says measuring only shoulder to hip on the front gives about half the strap.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .body { fill: #ffffff; stroke: #6d635a; stroke-width: 3; }
+  .front { fill: none; stroke: #b0604a; stroke-width: 5; stroke-linecap: round; }
+  .back { fill: none; stroke: #b0604a; stroke-width: 5; stroke-dasharray: 8 6; stroke-linecap: round; }
+  .bag { fill: #f3e6d4; stroke: #6b4428; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">A crossbody strap goes all the way round</text>
+<circle class="body" cx="170" cy="92" r="26"/>
+<path class="body" d="M110 130 Q170 112 230 130 L240 300 Q170 316 100 300 Z"/>
+<path class="front" d="M224 132 L118 282"/>
+<path class="back" d="M224 132 Q262 210 132 290"/>
+<rect class="bag" x="96" y="280" width="40" height="56" rx="4"/>
+<text class="soft" x="64" y="364">bag at the hip</text>
+<text class="soft" x="300" y="100">Run a string from the bag's spot,</text>
+<text class="soft" x="300" y="122">across the chest (solid), over the</text>
+<text class="soft" x="300" y="144">opposite shoulder, down the back</text>
+<text class="soft" x="300" y="166">(dashed), and back to the start.</text>
+<text class="label" x="300" y="206">Loop: 52 in (example)</text>
+<text class="soft" x="300" y="240">The bag's top edge closes the loop:</text>
+<text class="label" x="300" y="270">Strap = 52 - 3.75 = about 48 in</text>
+<text class="soft" x="300" y="300">= 240 rows at 5 rows per inch</text>
+<text class="soft" x="300" y="342">Shoulder to hip on the front only</text>
+<text class="soft" x="300" y="364">is about half the strap.</text>
+</svg>

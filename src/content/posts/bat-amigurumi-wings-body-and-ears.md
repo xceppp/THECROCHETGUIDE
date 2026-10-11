@@ -1,7 +1,8 @@
 ---
 title: "Bat Amigurumi: Wings, Body and Ears"
-description: "Make a small bat in five pictured steps: body, ears, matching wings, sew the wings on, then embroider a simple face."
+description: "A small stuffed bat: an oval body, two ears, and a mirrored pair of scalloped wings made by turning one wing over. Every row counted. US terms."
 pubDate: 2026-09-16
+updatedDate: 2026-10-11
 category: skills
 level: intermediate
 howTo: true
@@ -16,123 +17,139 @@ tags:
     "intermediate",
     "how to",
   ]
+glance:
+  time: "A 10-round body, two ears, two wings, sewing"
+  size: "Small. Depends on yarn and hook."
+  yarn: "Worsted, black, charcoal, or deep purple"
+  hook: "One or two sizes smaller than the label"
+  yardage: "Not weighed. A small amount."
 ---
 
-Bats look complicated because of the wings. The body is a small oval. The ears are triangles. The hard part is making two wings the same size and sewing them on so the bat does not look like it is mid-shrug forever.
+Bats look complicated because of the wings. The body is a small oval and the ears are tiny triangles. The hard part is making a left wing and a right wing that are mirror images of each other, and sewing them on level so the bat does not look like it is shrugging.
 
-You should already be comfortable [working in the round](/crochet-in-the-round/) and sewing pieces with a yarn needle.
+The mirror problem has a simple answer, and it is the lesson of this page. You do not write a separate pattern for the left wing. You make two identical wings and turn one over. Single crochet looks almost the same on both sides, so the flipped wing reads as the opposite hand. The same trick works for any lopsided flat piece: a leaf, a foot, a pair of ears.
 
-Make the second wing from the same written count as the first, then lay the two wings wrong sides together before you sew. If one wing has more rows, the bat tilts. Do not stretch the shorter wing to match. Redo it. The photos are illustrations. This page does not record a stuffed sample.
+You should be comfortable [working in the round](/crochet-in-the-round/) and sewing pieces with a yarn needle. US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bat for this page was made and measured.
 
-![A finished black crochet bat with matching wings and small triangular ears](../../assets/articles/bat-amigurumi-wings-body-and-ears-result.jpg "Illustration. The finished look these steps build toward.")
+![A finished black crochet bat with matching wings and small triangular ears](../../assets/articles/bat-amigurumi-wings-body-and-ears-result.jpg "Illustration. The intended look. Not a measured sample.")
 
 ## What you need
 
-- Dark yarn (black, charcoal, deep purple) in a worsted weight — [yarn weight chart](/yarn-weight-chart/)
-- Scrap of lighter yarn or white for fangs/eyes if you want them
-- Hook matched to the yarn ([hook size chart](/crochet-hook-size-conversion-chart/))
-- Stuffing, yarn needle, stitch markers, pins
+- **Dark worsted-weight yarn**: black, charcoal, or deep purple. A scrap of white for fangs if you want them. [Yarn weights](/yarn-weight-chart/).
+- **A hook one or two sizes smaller than the label**, so stuffing does not show through. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Stuffing, a yarn needle, a stitch marker, pins.
 
-US terms: [abbreviations chart](/crochet-abbreviations-chart/).
+Dark yarn makes stitches hard to see. Work in good light, and count every round and row out loud.
 
-## Step 1: crochet the body
+## Step 1: the body
 
-![Hands crocheting a small black sphere with a stitch marker in the round](../../assets/articles/bat-amigurumi-wings-body-and-ears-1.jpg "Illustration. Step 1 — the body first. Wings and ears are separate pieces.")
+![Hands crocheting a small black sphere with a stitch marker in the round](../../assets/articles/bat-amigurumi-wings-body-and-ears-1.jpg "Illustration. The body first. Wings and ears are separate.")
 
-Work a short oval: increase, work even longer than a sphere would need, then decrease.
+A short oval: the same increase, even, decrease shape as the [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/), with fewer increases and more even rounds, so it is taller than it is wide.
 
-**Rnd 1.** Magic ring, 6 sc. (6)
+**Round 1:** 6 sc in a magic ring. (6)
 
-**Rnd 2.** Inc around. (12)
+**Round 2:** 2 sc in each stitch. (12)
 
-**Rnd 3.** *Sc, inc; repeat from * around. (18)
+**Round 3:** (Sc, 2 sc in next) 6 times. (18)
 
-**Rnds 4–8.** Sc around (adjust length for a longer or stubbier body).
+**Rounds 4–8:** Sc in each stitch. (18)
 
-Decrease: *sc, sc2tog* around, then sc2tog around, stuffing as you go. Close.
+**Round 9:** (Sc, sc2tog) 6 times. (12)
 
-Keep the body firmer than you think. Soft bodies make wings drag the silhouette out of shape.
+Stuff firmly. A soft body lets the wings drag it out of shape.
 
-## Step 2: make two ears
+**Round 10:** Sc2tog 6 times. (6) Fasten off and pull closed.
 
-![Two matching small black crochet triangular ear pieces laid flat](../../assets/articles/bat-amigurumi-wings-body-and-ears-4.jpg "Illustration. Step 2 — two matching triangles. Pin both before sewing either one.")
+For a longer bat, add even rounds. For a stubbier one, remove them. The rest of the pattern does not change.
 
-Work flat. Make two.
+## Step 2: two ears
 
-**Row 1.** Ch 2, 2 sc in second ch from hook. Turn. (2)
+![Two matching small black crochet triangular ear pieces laid flat](../../assets/articles/bat-amigurumi-wings-body-and-ears-4.jpg "Illustration. Two matching triangles.")
 
-**Row 2.** Ch 1, sc in first, 2 sc in last. Turn. (3)
+Worked flat. Make two.
 
-**Row 3.** Ch 1, sc across, 2 sc in last. Turn. (4)
+**Row 1:** Ch 2. 2 sc in the 2nd chain from the hook. Turn. (2)
 
-**Row 4.** Ch 1, sc across. Fasten off with a long tail. (4)
+**Row 2:** Ch 1, sc, 2 sc in last stitch. Turn. (3)
 
-Fold a tiny pinch at the base when you sew so the ear cups forward. Sew both ears near the top of the head, slightly toward the front, mirrored.
+**Row 3:** Ch 1, sc 2, 2 sc in last stitch. Turn. (4)
 
-<div class="tip">
+**Row 4:** Ch 1, sc 4. Fasten off with a long tail.
 
-**Pin both ears before sewing either one.** Symmetry is easier to judge with pins than after the first ear is permanent.
+Because each row turns, the increase at the end of a row falls on alternate sides. The ear widens on both edges, so the two ears match without flipping.
 
-</div>
+## Step 3: two wings
 
-## Step 3: crochet two matching wings
+![Two flat black crocheted wing shapes and two small triangular ear pieces laid out separately](../../assets/articles/bat-amigurumi-wings-body-and-ears-2.jpg "Illustration. Two wings the same size. Count every row.")
 
-![Two flat black crocheted wing shapes and two small triangular ears laid out separately](../../assets/articles/bat-amigurumi-wings-body-and-ears-2.jpg "Illustration. Step 3 — two wings the same size. Count rows; do not improvise on wing two.")
+Worked flat. Make two, exactly the same.
 
-Flat wings read more clearly than tiny 3D ones at small sizes.
+**Row 1:** Ch 5. Sc in the 2nd chain from the hook and each chain across. Turn. (4)
 
-**Row 1.** Ch 8, sc in second ch from hook and each ch across. Turn. (7)
+**Row 2:** Ch 1, sc 3, 2 sc in last stitch. Turn. (5)
 
-**Row 2.** Ch 1, sc2tog, sc across to last 2, sc2tog. Turn. (5)
+**Row 3:** Ch 1, 2 sc in first stitch, sc 4. Turn. (6)
 
-**Row 3.** Ch 1, sc across. Turn. (5)
+**Row 4:** Ch 1, sc 5, 2 sc in last stitch. Turn. (7)
 
-**Row 4.** Repeat Row 2. (3)
+**Row 5:** Ch 1, sc 7. Do not fasten off.
 
-Continue decreasing at both ends every other row until 3 stitches remain. Work one row even. Fasten off.
+**Scallops:** Turn. Sl st in the first stitch. (Ch 3, skip 1, sl st in next) 3 times. Fasten off with a long tail.
 
-For a scalloped lower edge, on a longer starting chain work: *sc, hdc, dc, hdc, sc, skip 1; repeat* along one long edge after the wing shape exists.
+The increases alternate between the end and the start of a row on purpose. Because the work turns, the end of row 2 and the start of row 3 sit on the same edge. All three increases land on one side, so that edge slants and the other stays straight. The scallops use all 7 stitches: 1 + 3 × 2 = 7.
 
-Make the second wing by repeating the **same** row counts.
+<figure class="diagram">
+<img src="/diagrams/bat-wing-mirror.svg" alt="A wing worked 4, 5, 6, 7, 7 stitches with every increase on one edge, so one side slants and the other is straight, and three chain-3 scallops along the 7-stitch edge. A second identical wing is turned over. On the body, both straight edges are sewn on and the slants and scallops point outward, with two ears on top." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Two identical wings. Turn one over, and the pair mirrors.</figcaption>
+</figure>
 
-## Step 4: sew the wings on
+## Step 4: make the pair mirror
 
-![A tapestry needle sewing a flat black wing onto a rounded black body](../../assets/articles/bat-amigurumi-wings-body-and-ears-3.jpg "Illustration. Step 4 — sew along the wing's whole top edge, or it will flop.")
+Lay both wings flat, scallops at the bottom. Their straight edges point the same way. Turn one wing over, front to back. Now one straight edge faces left and the other faces right. Those straight edges go against the body.
 
-Pin wings to the sides of the body along the shoulder line, about halfway down the body height, angled slightly upward and back. Sew through both layers of the wing into the body. Reinforce the top inch; that is where gravity pulls.
+Before sewing, lay the two wings on top of each other with the straight edges together. If one is larger, a row or an increase is missing. Redo it. Stretching the smaller wing to match makes it pucker.
 
-If a wing droops, sew a second pass higher on the body or tack the mid-wing with a couple of hidden stitches.
+## Step 5: assemble
 
-## Step 5: embroider the face
+![A tapestry needle sewing a flat black wing onto a rounded black body](../../assets/articles/bat-amigurumi-wings-body-and-ears-3.jpg "Illustration. Sew along the whole straight edge, or the wing flops.")
 
-![A tapestry needle embroidering small eyes and fangs onto a black crochet bat](../../assets/articles/bat-amigurumi-wings-body-and-ears-5.jpg "Illustration. Step 5 — two French-knot eyes and a tiny white V for fangs are enough.")
+1. **Ears.** Pin both to the top of the body, slightly toward the front, a little apart. Pinch the base of each a little as you sew so it cups forward. Pin both before sewing either one, so you can check they are level.
+2. **Wings.** Pin the straight edge of each wing to a side of the body, starting about two rounds below the top, scallops pointing down. Check from the front that they sit at the same height.
+3. **Sew.** Whipstitch along the full straight edge through the wing and into the body. Add a second pass at the top of the edge, where the weight pulls.
 
-Two French-knot eyes and a tiny V of white yarn for fangs are plenty. Skip a smile; bats go weird fast when over-embroidered.
+## Step 6: the face
 
-## Mistakes that spoil the bat
+![A tapestry needle embroidering small eyes and fangs onto a black crochet bat](../../assets/articles/bat-amigurumi-wings-body-and-ears-5.jpg "Illustration. Two eyes and a small white V for fangs are enough.")
 
-**Wings sewn too low.** Shoulders, not hips.
+Two French knots for eyes, in a color that shows against dark yarn, and a small V of white for fangs. Less is better on a small face.
 
-**One wing with an extra row.** Count as you go.
+## Troubleshooting
 
-**Ears too far apart.** Inside the width of the head, not on the body equator.
+**Both wings slant the same way.** The second one was not turned over.
 
-**Overstuffed head, empty body.** The bat tips forward.
+**One wing is bigger.** A missing increase or row. Count against the list.
+
+**The wings droop.** Sewn only at one point. Sew the whole edge and reinforce the top.
+
+**Ears sit on the sides.** They belong inside the width of the top, not around its widest part.
+
+**The bat tips forward.** The stuffing is uneven. Stuff the lower half as firmly as the top.
 
 ## Frequently asked
 
 ### Can I crochet the wings in the round?
 
-You can, but flat wings photograph and hang more cleanly for small bats.
+You can, but flat wings sew on more cleanly at this size.
 
 ### What if I only have chunky yarn?
 
-Scale up the wing chain and stop body increases earlier so pieces stay in proportion.
+The same counts make a larger bat with a larger hook. Keep the proportions by changing nothing else.
 
-### How do I hang a bat garland?
+### How do I make a bat garland?
 
-Leave long tails and thread several bats onto a chain or twine through the tops of the heads.
+Make several, leave a long tail at the top of each body, and tie them along a cord.
 
-### What to make next
+### What should I make next?
 
-A [spider and web](/how-to-crochet-a-spider-and-web/), a [ghost](/crochet-ghost-amigurumi-for-beginners/), [Halloween granny squares](/halloween-granny-square-variations/), or the [Halloween card wallet](/halloween-crochet-card-wallet/).
+A larger ghost with a skirt is the [ghost amigurumi](/crochet-ghost-amigurumi-for-beginners/). The [spider and web](/how-to-crochet-a-spider-and-web/) uses the same small stuffed body with legs.

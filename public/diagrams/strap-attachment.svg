@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Sewing a strap end inside a small bag</title>
+<desc>Left: the strap end overlapping the inside of the bag by about an inch at the side seam, sewn with a box and an X through the strap and the bag wall. A single stitch at the corner is marked as the weak version. Right: a test. Fill the bag, pin the second strap end, and let it hang for a day before sewing it, because cotton straps lengthen under load.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .bag { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .strap { fill: #ead2b5; stroke: #6b4428; stroke-width: 3; }
+  .sew { fill: none; stroke: #b0604a; stroke-width: 3; }
+  .bad { fill: #b0604a; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Sew the strap through an inch of both layers</text>
+<rect class="bag" x="60" y="120" width="220" height="200"/>
+<rect class="strap" x="240" y="70" width="40" height="110"/>
+<path class="sew" d="M244 130 H276 V176 H244 Z M244 130 L276 176 M276 130 L244 176"/>
+<text class="soft" x="64" y="146">inside the bag</text>
+<text class="soft" x="64" y="168">at the side seam</text>
+<text class="soft" x="64" y="212">box and X through</text>
+<text class="soft" x="64" y="234">strap and wall,</text>
+<text class="soft" x="64" y="256">about 1 in overlap</text>
+<circle class="bad" cx="56" cy="350" r="6"/>
+<text class="soft" x="70" y="356">One stitch at the corner tears out.</text>
+<text class="label" x="340" y="110">Before the second end</text>
+<text class="soft" x="340" y="146">1. Fill the bag with what</text>
+<text class="soft" x="340" y="168">it will carry.</text>
+<text class="soft" x="340" y="200">2. Pin the second end.</text>
+<text class="soft" x="340" y="232">3. Hang it for a day.</text>
+<text class="soft" x="340" y="264">4. Remeasure the strap,</text>
+<text class="soft" x="340" y="286">then sew.</text>
+<text class="soft" x="340" y="326">Cotton straps lengthen</text>
+<text class="soft" x="340" y="348">under load and do not</text>
+<text class="soft" x="340" y="370">spring back.</text>
+</svg>

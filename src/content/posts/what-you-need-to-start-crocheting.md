@@ -2,14 +2,14 @@
 title: "What You Need to Start Crocheting: One Hook, One Yarn"
 description: "The single hook and single yarn worth buying first, why light solid acrylic makes stitches visible, and the popular yarns and gadgets that make learning harder."
 pubDate: 2026-08-27
-updatedDate: 2026-09-10
+updatedDate: 2026-10-11
 category: gear
 level: beginner
 tags:
   ["hooks", "yarn", "buying guide", "beginner", "acrylic", "ergonomic"]
 ---
 
-Start with a **5 mm aluminum hook, US size H/8**, and a **medium worsted acrylic in a light solid color**. Together that is under ten dollars, and the light color is what lets you see your stitches.
+Start with a **5 mm aluminum hook, US size H/8**, and a **medium worsted acrylic in a light solid color**. Both are among the cheapest things in a craft store, and the light color is what lets you see your stitches.
 
 ![A single aluminum crochet hook beside one ball of ivory worsted-weight yarn](../../assets/articles/what-you-need-to-start-crocheting-1.jpg "Illustration. This is genuinely the whole shopping list.")
 
@@ -31,7 +31,7 @@ A 5 mm hook is large enough to see and matches the worsted yarn most beginner pa
 
 **Tapered** heads (Boye) have a pointed tip and a throat that narrows gradually. They enter tight stitches easily, and the loop can slip, so size varies a little. **Inline** heads (Susan Bates) sit flush with the shaft, so stitches stay more even. The blunter tip is harder to insert. Buy one of each in 5 mm and keep the shape you prefer.
 
-**Aluminum**, from 2.25 mm through about 10 mm, is the hook to learn on. **Steel** is only for thread below 2.25 mm, and a higher number is a smaller hook. The [hook size chart](/crochet-hook-size-conversion-chart/) lists them. **Plastic and resin** are mostly above about 10 mm. Cheap small plastic hooks can snag. **Wood and bamboo** grip silk, feel slower with acrylic, and are best from about 4 mm up, because smaller wood hooks snap. **Ergonomic** handles cost several times more and help on long sessions. Clover Amour and Tulip Etimo are the mid-priced ranges. Furls is the premium end.
+**Aluminum**, from 2.25 mm through about 10 mm, is the hook to learn on. **Steel** hooks are the small sizes used for thread, and their numbers run backward: a higher number is a smaller hook. The [hook size chart](/crochet-hook-size-conversion-chart/) lists them. **Plastic and resin** are mostly above about 10 mm. Cheap small plastic hooks can snag. **Wood and bamboo** grip silk, feel slower with acrylic, and are best from about 4 mm up, because smaller wood hooks snap. **Ergonomic** handles cost several times more and help on long sessions. Clover Amour and Tulip Etimo are the mid-priced ranges. Furls is the premium end.
 
 ## The yarn
 
@@ -68,17 +68,14 @@ None of these are bad yarns. They are poor teachers. **Black and very dark color
 
 Buy **yardage, not a skein count.** One brand's large skein can hold more than double another's. Divide the pattern's yards by the yards on the label, add ten percent, and buy it all at once so the dye lots match.
 
-The table is a shopping range for plain worsted fabric. It was not weighed from a finished piece made for this site. If a pattern prints its own yardage, use that number instead.
+When there is no pattern yardage, weigh instead of guessing. This page used to print a table of typical amounts. None of those numbers was weighed from a finished piece, so it is gone.
 
-| Project | Approximate yardage |
-| --- | --- |
-| Dishcloth or coasters | 75–150 yds |
-| Adult beanie | 200–300 yds |
-| Scarf, 60 in | 400–600 yds |
-| Baby blanket | 800–1,200 yds |
-| Throw blanket | 1,800–2,800 yds |
+<figure class="diagram">
+<img src="/diagrams/yarn-estimate-weigh.svg" alt="Three steps. A yarn label reading 200 yards per 100 grams gives 2 yards per gram. One finished piece weighs 14 grams on a kitchen scale. 14 times 2 is 28 yards, plus 10 to 20 percent. The numbers are examples." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Yards per gram from the label, grams from the scale. The example numbers are invented.</figcaption>
+</figure>
 
-Bobbles, puffs, and popcorns use more yarn than plain stitches.
+For a big piece like a blanket, make one square or a measured strip, weigh it, and scale up by area. A strip that is a tenth of the blanket's area uses about a tenth of the yarn. Bobbles, puffs, and popcorns use more yarn than plain stitches, which is one more reason to weigh a sample in the real stitch.
 
 ## If your hands hurt
 

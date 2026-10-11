@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Flat star ornament: three rounds</title>
+<desc>Round 1: 5 single crochet in a ring. Round 2: single crochet, chain 5, five times, making 5 loops. Round 3: in each loop, single crochet, half double, double, a chain-3 picot, double, half double, single crochet. The picot makes a sharp tip, so each point reads as a star point rather than a rounded petal. 5 stitches in round 1 make 5 points.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .center { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2.5; }
+  .pt { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2.5; }
+  .pic { fill: none; stroke: #b0604a; stroke-width: 2.5; }
+  .petal { fill: none; stroke: #7d8b72; stroke-width: 2.5; stroke-dasharray: 5 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">A picot at the tip makes a point</text>
+<g transform="translate(190 225)">
+<g id="spt">
+<path class="pt" d="M-22 -26 L0 -112 L22 -26 Z"/>
+<circle class="pic" cx="0" cy="-120" r="8"/>
+</g>
+<use href="#spt" transform="rotate(72)"/>
+<use href="#spt" transform="rotate(144)"/>
+<use href="#spt" transform="rotate(216)"/>
+<use href="#spt" transform="rotate(288)"/>
+<circle class="center" r="32"/>
+</g>
+<path class="petal" d="M420 300 C380 220 480 220 440 300" transform="translate(40 -40)"/>
+<text class="soft" x="440" y="290">Without the picot:</text>
+<text class="soft" x="440" y="312">a rounded petal</text>
+<text class="soft" x="360" y="100">Round 1: 5 sc in a ring</text>
+<text class="soft" x="360" y="130">Round 2: (sc, ch 5) 5 times</text>
+<text class="soft" x="360" y="160">Round 3, in each loop:</text>
+<text class="soft" x="360" y="182">sc, hdc, dc, picot,</text>
+<text class="soft" x="360" y="204">dc, hdc, sc</text>
+<text class="soft" x="32" y="390">5 stitches in round 1 make 5 points. 6 would make 6.</text>
+</svg>

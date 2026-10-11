@@ -2,6 +2,7 @@
 title: "Crochet Hook Size Chart: US Letters to Millimeters"
 description: "A complete crochet hook conversion chart covering US letter and number sizes, millimeters, legacy UK sizes, and steel hooks for thread crochet."
 pubDate: 2026-09-09
+updatedDate: 2026-10-11
 category: charts
 level: beginner
 printable: true
@@ -34,15 +35,21 @@ These are the aluminum and plastic hooks you use with ordinary yarn, from sock w
 | 6 mm | J/10 | 4 | Aran, bulky |
 | 6.5 mm | K/10½ | 3 | Bulky |
 | 8 mm | L/11 | 0 | Bulky, chunky |
-| 9 mm | M/13 | 00 | Super bulky |
-| 10 mm | N/15 | 000 | Super bulky |
-| 15 mm | P/Q | — | Jumbo, roving |
+| 9 mm | M/N-13 | 00 | Bulky, super bulky |
+| 10 mm | N/P-15 | 000 | Super bulky |
+| 11.5 mm | P-16 | — | Super bulky |
+| 15 mm | P/Q | — | Super bulky, jumbo |
+| 15.75 mm | Q | — | Jumbo |
 | 16 mm | Q | — | Jumbo |
-| 19 mm | S | — | Jumbo, arm-weight |
+| 19 mm | S | — | Jumbo |
+| 25 mm | T/U/X | — | Jumbo |
+| 30 mm | T/X | — | Jumbo |
+
+The millimeter and US columns follow the Craft Yarn Council's hook size table. The Council also lists in-between sizes that some brands sell, including 2.5 mm, 3.125 mm (D), 4.25 mm (G), 5.25 mm (I), 5.75 mm (J), 7 mm, and 12 mm. That is why two hooks marked "I" can be different sizes.
 
 <div class="tip">
 
-**About the UK column.** Those numbers run backwards from the metric size, and modern British and Australian patterns give millimeters instead. The column is for vintage patterns and inherited hooks. Measure an old hook rather than trusting the stamp.
+**About the UK column.** Those numbers run backwards from the metric size, and modern British and Australian patterns give millimeters instead. The column is for vintage patterns and inherited hooks. Old UK sizes were never set by a body like the Craft Yarn Council, and published charts disagree by a size at several points. Treat the column as approximate, and measure an old hook in a gauge rather than trusting the stamp.
 
 </div>
 
@@ -71,13 +78,15 @@ Steel hooks are a finer, separate system, and **the numbers run in the opposite 
 
 A steel size 2 and a standard B/1 are both 2.25 mm. The difference is the shape of the shaft and the head, not the diameter.
 
+Steel sizes are less standardized than regular hooks. The table follows common US labeling, but brands differ by a tenth of a millimeter or so at the same number, and the Craft Yarn Council's yarn chart pairs steel 6 to 8 with a range of 1.6 to 1.4 mm. When a thread pattern gives a millimeter size, use that and ignore the number.
+
 ## Which hook does your yarn want?
 
 The hook on a yarn label is a starting point, not a rule.
 
 | Yarn weight | Common names | Suggested hook |
 | --- | --- | --- |
-| 0 — Lace | thread, 10-count crochet cotton | 1.4–2.25 mm (steel 8 to B/1) |
+| 0 — Lace | fingering, 10-count crochet thread | Steel 6 to 8 (1.6–1.4 mm), or a regular B/1 (2.25 mm) |
 | 1 — Super fine | sock, fingering, baby | 2.25–3.5 mm (B/1 to E/4) |
 | 2 — Fine | sport, baby | 3.5–4.5 mm (E/4 to 7) |
 | 3 — Light | DK, light worsted | 4.5–5.5 mm (7 to I/9) |
@@ -94,7 +103,7 @@ The hook on a yarn label is a starting point, not a rule.
 
 ![Two crochet hook tip shapes compared side by side](../../assets/articles/crochet-hook-size-conversion-chart-1.jpg "Illustration. Tip shape and true millimeter size both matter.")
 
-**Trusting the letter on the handle.** There is no enforced standard. A size I is usually 5.5 mm, but some manufacturers have sold it as 5.25 mm or 5.75 mm. There is no US letter in common use for 3.75 mm, so F/5 gets applied to both 3.75 mm and 4 mm depending on who made the hook. Japanese hooks, and many ergonomic sets, are labeled only in millimeters. A hook gauge — a small metal plate with graduated holes — settles this for every hook you own, including unlabeled ones.
+**Trusting the letter on the handle.** There is no enforced standard. A size I is usually 5.5 mm, but the Craft Yarn Council's own table lists a 5.25 mm "I" that some brands sell, and a 5.75 mm "J" beside the usual 6 mm J/10. The Council lists F/5 as 3.75 mm and G/6 as 4 mm, so a hook marked only "F" or "G" is worth checking. Japanese hooks, and many ergonomic sets, are labeled only in millimeters. A hook gauge — a small metal plate with graduated holes — settles this for every hook you own, including unlabeled ones.
 
 **Using the pattern's hook without checking gauge.** That hook size exists to get you to the pattern's **gauge**. If your tension is tighter than the designer's, the item comes out smaller. If your tension is loose, it comes out larger.
 

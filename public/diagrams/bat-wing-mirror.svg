@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Making a mirrored pair of bat wings</title>
+<desc>A wing worked in rows: 4, 5, 6, 7, 7 stitches. Every increase falls on the same edge, so one side slants and the other is straight. Three chain-3 scallops are worked along the 7-stitch edge. Make two identical wings, then turn one over so its straight edge faces the other way. The straight edges are sewn to the body, the scallops hang down.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .wing { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2.5; }
+  .row { stroke: #6b4428; stroke-width: 1; opacity: 0.5; }
+  .body { fill: #f6efe6; stroke: #6b4428; stroke-width: 2.5; }
+  .scal { fill: none; stroke: #b0604a; stroke-width: 2.5; }
+  .sew { stroke: #7d8b72; stroke-width: 4; }
+  .arrow { fill: none; stroke: #6d635a; stroke-width: 2; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Make two the same, turn one over</text>
+<polygon class="wing" points="60,100 124,100 172,220 60,220"/>
+<line class="row" x1="60" y1="124" x2="134" y2="124"/>
+<line class="row" x1="60" y1="148" x2="143" y2="148"/>
+<line class="row" x1="60" y1="172" x2="153" y2="172"/>
+<line class="row" x1="60" y1="196" x2="162" y2="196"/>
+<path class="scal" d="M60 220 q16 22 32 0 q16 22 32 0 q16 22 32 0"/>
+<line class="sew" x1="60" y1="100" x2="60" y2="220"/>
+<text class="soft" x="180" y="116">Foundation: 4</text>
+<text class="soft" x="180" y="164">Rows 2-4: 5, 6, 7</text>
+<text class="soft" x="180" y="190">every increase on the slanted edge</text>
+<text class="soft" x="180" y="236">Row 5: 7, then 3 scallops</text>
+<text class="soft" x="40" y="270">Straight edge: sewn to the body</text>
+<path class="arrow" d="M100 300 C140 280 180 280 220 300"/>
+<text class="soft" x="110" y="330">turn the second wing over</text>
+<ellipse class="body" cx="470" cy="210" rx="44" ry="66"/>
+<polygon class="wing" points="426,170 410,170 370,250 426,250"/>
+<polygon class="wing" points="514,170 530,170 570,250 514,250"/>
+<path class="scal" d="M426 250 q-9 16 -18 0 q-9 16 -18 0 q-9 16 -18 0"/>
+<path class="scal" d="M514 250 q9 16 18 0 q9 16 18 0 q9 16 18 0"/>
+<polygon class="body" points="446,150 456,118 466,148"/>
+<polygon class="body" points="474,148 484,118 494,150"/>
+<text class="soft" x="380" y="310">Straight edges on the body,</text>
+<text class="soft" x="380" y="332">slants and scallops outward</text>
+<text class="soft" x="32" y="384">Single crochet looks almost the same on both sides, so turning it over works.</text>
+</svg>

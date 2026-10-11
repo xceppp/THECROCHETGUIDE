@@ -2,6 +2,7 @@
 title: "How to Change Yarn Color in Crochet Cleanly"
 description: "Change colors without a visible knot or a wrong-colored turning chain, plus when to carry the old yarn up the side and when to cut it."
 pubDate: 2026-08-30
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -26,6 +27,11 @@ Work the last stitch in the old color until two loops remain on the hook.
 3. Pull the new color through those two loops.
 
 The stitch body stays the old color. The loop on the hook is the new color. Leave both tails about six inches, and keep going.
+
+<figure class="diagram">
+<img src="/diagrams/color-change-last-yarn-over.svg" alt="Diagram in three steps. Two old-color loops on the hook, a yarn-over with the new color, then a finished old-color stitch with a new-color loop on the hook." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Diagram. The new color goes in on the yarn-over that closes the last old stitch.</figcaption>
+</figure>
 
 The same rule holds for every stitch height. The new color always goes in on the yarn-over that closes the stitch.
 
@@ -60,6 +66,21 @@ You can change in the middle of a row the same way. A clean vertical block of co
 Do not carry a float across the back of ordinary stripes. That is a different colorwork method, and in a simple stripe it makes a mess.
 
 Even-numbered stripes keep the color you need waiting at the same edge, so you can carry the narrow ones instead of cutting every row.
+
+## Planning stripes before you start
+
+Where each color finishes decides whether you can carry it. Work it out on paper first.
+
+| Plan, worked flat in rows | Where the idle color waits | Carry or cut |
+| --- | --- | --- |
+| Two colors, 2 rows each | At the edge where you need it | Carry. Each color sits out 2 rows. |
+| Two colors, 3 rows each | At the opposite edge | Cut, or the yarn has to cross the whole row |
+| Three colors, 2 rows each | At the edge where you need it | Carry. Each color sits out 4 rows, the limit. |
+| Two colors, 6 rows each | At the edge where you need it | Cut. A 6-row float is too long. |
+
+The rule behind the table: an even number of rows brings you back to the edge you started from, so the waiting yarn is right there. An odd number leaves you at the other edge.
+
+Joined rounds have no far edge. Every round ends where it began, so the idle color is always at the join. Carry it up the inside at the join for narrow stripes, as you would up the side of flat work.
 
 ## A new ball of the same color
 

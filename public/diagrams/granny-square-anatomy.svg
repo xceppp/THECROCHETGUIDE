@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Granny square anatomy: corners, sides, and the count check</title>
+<desc>A granny square with three rounds. Round 1: four clusters of 3 double crochet in the ring with chain-2 corners. Round 2: in each corner space, 3 dc, chain 2, 3 dc, with chain 1 between corners. Round 3: corners the same, and 3 dc in the chain-1 side space. Count check: round N has N clusters along each side, counting the corner halves. Clusters go into spaces, never into stitch tops.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .r1 { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2; }
+  .r2 { fill: none; stroke: #b0604a; stroke-width: 10; }
+  .r3 { fill: none; stroke: #7d8b72; stroke-width: 10; }
+  .corner { fill: #fdfaf6; stroke: #2f2a26; stroke-width: 2; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Corners, sides, and a count you can check</text>
+<rect class="r3" x="80" y="90" width="260" height="260"/>
+<rect class="r2" x="120" y="130" width="180" height="180"/>
+<rect class="r1" x="160" y="170" width="100" height="100"/>
+<circle class="corner" cx="80" cy="90" r="9"/>
+<circle class="corner" cx="340" cy="90" r="9"/>
+<circle class="corner" cx="80" cy="350" r="9"/>
+<circle class="corner" cx="340" cy="350" r="9"/>
+<circle class="corner" cx="120" cy="130" r="7"/>
+<circle class="corner" cx="300" cy="130" r="7"/>
+<circle class="corner" cx="120" cy="310" r="7"/>
+<circle class="corner" cx="300" cy="310" r="7"/>
+<line x1="210" y1="80" x2="210" y2="100" stroke="#2f2a26" stroke-width="2"/>
+<line x1="210" y1="120" x2="210" y2="140" stroke="#2f2a26" stroke-width="2"/>
+<text class="soft" x="370" y="110">Corner: (3 dc, ch 2, 3 dc)</text>
+<text class="soft" x="370" y="132">in the ch-2 space</text>
+<text class="soft" x="370" y="176">Side: 3 dc in each ch-1 space,</text>
+<text class="soft" x="370" y="198">ch 1 between groups</text>
+<text class="soft" x="370" y="242">Round 1: 1 cluster per side</text>
+<text class="soft" x="370" y="264">Round 2: 2 per side</text>
+<text class="soft" x="370" y="286">Round 3: 3 per side</text>
+<text class="soft" x="370" y="330">Hook into spaces,</text>
+<text class="soft" x="370" y="352">never into stitch tops.</text>
+<text class="soft" x="32" y="390">Round N has N clusters per side. Short side: a missed corner or space.</text>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Amigurumi sphere profile: increase, even, decrease</title>
+<desc>Side view of a stuffed shape in three bands. The bottom band is rounds 1 to 6, increasing 6 stitches a round to 36. The middle band is the even rounds at 36, which set the height. The top band is rounds of 6 decreases back to 6. With about 6 even rounds the shape is close to a ball. With about 4 it is squat, like a pumpkin. Top view: 6 yarn wraps from the bottom center to the top center pull 6 grooves.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .body { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2.5; }
+  .band { stroke: #b0604a; stroke-width: 2; stroke-dasharray: 5 4; }
+  .wrap { stroke: #7d8b72; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Even rounds decide the height</text>
+<path class="body" d="M150 120 C80 120 60 160 60 200 L60 240 C60 280 80 320 150 320 C220 320 240 280 240 240 L240 200 C240 160 220 120 150 120 Z"/>
+<line class="band" x1="50" y1="200" x2="270" y2="200"/>
+<line class="band" x1="50" y1="240" x2="270" y2="240"/>
+<text class="soft" x="280" y="150">Decrease: 36, 30, 24, 18, 12, 6</text>
+<text class="soft" x="280" y="225">Even rounds at 36: the height</text>
+<text class="soft" x="280" y="300">Increase: 6, 12, 18, 24, 30, 36</text>
+<text class="soft" x="60" y="352">About 6 even rounds: close to a ball.</text>
+<text class="soft" x="60" y="376">About 4 even rounds: squat, a pumpkin.</text>
+<circle class="body" cx="530" cy="110" r="60"/>
+<line class="wrap" x1="530" y1="50" x2="530" y2="170"/>
+<line class="wrap" x1="478" y1="80" x2="582" y2="140"/>
+<line class="wrap" x1="478" y1="140" x2="582" y2="80"/>
+<circle cx="530" cy="110" r="6" fill="#6b4428"/>
+<text class="soft" x="470" y="196">Top view: 6 wraps,</text>
+<text class="soft" x="470" y="218">6 grooves</text>
+</svg>

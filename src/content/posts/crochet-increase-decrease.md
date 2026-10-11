@@ -2,6 +2,7 @@
 title: "Crochet Increases and Decreases: Shaping Explained"
 description: "How to increase and decrease in single, half double and double crochet, including the invisible decrease for amigurumi and where to place them for clean edges."
 pubDate: 2026-09-01
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -88,7 +89,7 @@ Count at the end of every shaped row. The number in parentheses is there so one 
 
 In single crochet, each round adds as many stitches as the first round had. Start with 6 and add 6 every round: 6, 12, 18, 24, 30.
 
-The third round is the one worth counting out loud. The previous round has 12 stitches. The instruction `(sc, 2 sc in the next st)` six times uses 2 stitches per repeat and makes 3. Six repeats use all 12 stitches and make 6 × 3 = 18. A count of 17 or 19 means one increase was skipped or worked twice. Fix that round before you continue. The same check is 8 × 3 = 24 on the next round, when the repeat becomes `(2 sc, 2 sc in the next st)`.
+The third round is the one worth counting out loud. The previous round has 12 stitches. The instruction `(sc, 2 sc in the next st)` six times uses 2 stitches per repeat and makes 3. Six repeats use all 12 stitches and make 6 × 3 = 18. A count of 17 or 19 means one increase was skipped or worked twice. Fix that round before you continue. On the next round the repeat becomes `(sc in next 2 sts, 2 sc in the next st)`. Each repeat uses 3 stitches and makes 4, and six repeats use all 18: 6 × 4 = 24.
 
 Taller stitches need a larger start. A double crochet circle typically starts at 12 and adds 12 each round.
 
@@ -108,7 +109,7 @@ Taller stitches need a larger start. A double crochet circle typically starts at
 
 ## Frequently asked
 
-**Is `sc2tog` the same as `dec`?** Yes, in practice. `sc2tog` and `dc2tog` name the stitch. `dec` does not.
+**Is `sc2tog` the same as `dec`?** Usually. `sc2tog` and `dc2tog` name the stitch. `dec` does not, and many amigurumi patterns use `dec` to mean the invisible decrease. Check the pattern's stitch key.
 
 **Can I increase and decrease in the same row?** Yes. Add on one side and remove on the other, and the width stays the same while the shape moves. That is a dart, a waist, or a curve.
 

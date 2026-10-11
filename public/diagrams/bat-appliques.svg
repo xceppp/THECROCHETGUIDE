@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Bat ears and wings: shapes and placement</title>
+<desc>Left: an ear triangle worked in rows, 5 stitches, then 3, then 1. A wing triangle, 9 stitches, then 7, 5, 3, 1, with three picots on each long side. Right: front view of the pouch. Ears sit at the top behind the flap, about half an inch apart. Wings are sewn by their wide edge along the middle of the tube, above the base so the pouch still stands, and below the flap so it still closes. A loop sits between the ears.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .part { fill: #f3e6d4; stroke: #6b4428; stroke-width: 2; }
+  .row { stroke: #6b4428; stroke-width: 1; opacity: 0.5; }
+  .wing { fill: #f6efe6; stroke: #7d8b72; stroke-width: 2.5; }
+  .sew { stroke: #b0604a; stroke-width: 3; stroke-dasharray: 4 3; }
+  .loop { fill: none; stroke: #6b4428; stroke-width: 2.5; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Two triangles, placed where they do no harm</text>
+<polygon class="part" points="50,140 130,140 90,80"/>
+<line class="row" x1="63" y1="120" x2="117" y2="120"/>
+<line class="row" x1="76" y1="100" x2="104" y2="100"/>
+<text class="soft" x="146" y="102">Ear: 5, 3, 1</text>
+<text class="soft" x="146" y="124">Chain edge is the base.</text>
+<polygon class="wing" points="40,330 200,330 120,200"/>
+<line class="row" x1="56" y1="304" x2="184" y2="304"/>
+<line class="row" x1="72" y1="278" x2="168" y2="278"/>
+<line class="row" x1="88" y1="252" x2="152" y2="252"/>
+<line class="row" x1="104" y1="226" x2="136" y2="226"/>
+<circle cx="66" cy="288" r="5" fill="none" stroke="#7d8b72" stroke-width="2"/>
+<circle cx="86" cy="256" r="5" fill="none" stroke="#7d8b72" stroke-width="2"/>
+<circle cx="104" cy="226" r="5" fill="none" stroke="#7d8b72" stroke-width="2"/>
+<text class="soft" x="40" y="356">Wing: 9, 7, 5, 3, 1</text>
+<text class="soft" x="40" y="378">Picots on the long sides</text>
+<rect class="part" x="400" y="150" width="120" height="170" rx="10"/>
+<rect x="430" y="150" width="60" height="70" fill="#f6efe6" stroke="#6b4428" stroke-width="2"/>
+<polygon class="part" points="412,150 440,150 426,112"/>
+<polygon class="part" points="480,150 508,150 494,112"/>
+<path class="loop" d="M452 150 C445 112 475 112 468 150"/>
+<polygon class="wing" points="400,200 400,270 320,250"/>
+<polygon class="wing" points="520,200 520,270 600,250"/>
+<line class="sew" x1="400" y1="200" x2="400" y2="270"/>
+<line class="sew" x1="520" y1="200" x2="520" y2="270"/>
+<text class="soft" x="300" y="346">Wings above the base, below the flap.</text>
+<text class="soft" x="300" y="370">Sew with an easy tension.</text>
+<text class="soft" x="440" y="100">loop</text>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Market bag structure and handle spacing</title>
+<desc>Left: the bag from the side. A flat base of 96 single crochet, about 7.6 inches across. One even round where the base turns up. Mesh rounds of 48 double crochet and 48 chain-1 spaces. A top band of 96 single crochet. Right: one half of the band, 48 stitches, split 10, handle end 8, 12, handle end 8, 10. The other half is the same, opposite.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .solid { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
+  .mesh { fill: none; stroke: #6b4428; stroke-width: 2; }
+  .end { fill: #b0604a; }
+  .gap { fill: #ead2b5; stroke: #6b4428; stroke-width: 2; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="46">Solid base, mesh sides, solid band</text>
+<rect class="solid" x="60" y="84" width="200" height="26"/>
+<path class="mesh" d="M60 110 V300 M260 110 V300 M60 130 H260 M60 150 H260 M60 170 H260 M60 190 H260 M60 210 H260 M60 230 H260 M60 250 H260 M60 270 H260 M60 290 H260 M85 110 V300 M110 110 V300 M135 110 V300 M160 110 V300 M185 110 V300 M210 110 V300 M235 110 V300"/>
+<rect class="solid" x="60" y="300" width="200" height="14"/>
+<rect class="solid" x="40" y="318" width="240" height="20" rx="4"/>
+<text class="soft" x="268" y="102">band: 96 sc</text>
+<text class="soft" x="268" y="210">mesh: 48 dc, 48 ch-1</text>
+<text class="soft" x="268" y="312">even round: 96</text>
+<text class="soft" x="40" y="364">base: 96 sc = 24 in around, about 7.6 in across</text>
+<text class="label" x="420" y="110">Half the band</text>
+<rect class="gap" x="420" y="130" width="40" height="22"/>
+<rect class="end" x="460" y="130" width="32" height="22"/>
+<rect class="gap" x="492" y="130" width="48" height="22"/>
+<rect class="end" x="540" y="130" width="32" height="22"/>
+<rect class="gap" x="572" y="130" width="40" height="22"/>
+<text class="soft" x="430" y="178">10</text><text class="soft" x="468" y="178">8</text>
+<text class="soft" x="506" y="178">12</text><text class="soft" x="548" y="178">8</text>
+<text class="soft" x="582" y="178">10</text>
+<text class="soft" x="420" y="214">= 48. Red: handle ends.</text>
+<text class="soft" x="420" y="238">Same on the other half.</text>
+</svg>

@@ -1,130 +1,150 @@
 ---
 title: "How to Crochet a Laptop Sleeve"
-description: "Measure the closed laptop and fold a single-crochet rectangle into a sleeve. Not waterproof, not drop protection, and not yarn-tested."
+description: "Size a single-crochet laptop sleeve from the closed machine's width, depth, and thickness, then fold and seam it. Not waterproof, not padding, not yarn-tested."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["laptop sleeve", "beginner", "how to"]
+glance:
+  time: "One long rectangle, two seams"
+  size: "From the closed laptop's width, depth, and thickness"
+  yarn: "Smooth worsted cotton"
+  hook: "US G/6 (4.0 mm) to start"
+  yardage: "Not weighed. Weigh 10 rows and multiply by 9."
 ---
 
-A laptop in a tote shares the pocket with a charger, a pen, and the corner of a notebook. The lid gets scratched, and the pen prints a line through any hole in the fabric. A crochet sleeve is a soft single-crochet cover, folded and seamed, sized from the closed laptop. It keeps that rubbing down. It is not waterproof. It is not drop protection. Single crochet has gaps, and yarn does not cushion a fall off a table.
+A laptop in a tote shares space with a charger, a pen, and the corner of a notebook, and the lid collects scratches. A crochet sleeve is a soft cover between the lid and everything else. It is not waterproof, and it does not cushion a drop. Single crochet has gaps, and yarn does not absorb a fall.
 
-The construction is the same idea as a [book sleeve](/how-to-crochet-a-book-sleeve/): measure the closed object, crochet a rectangle, fold it, seam the sides, leave the top open. A book in that pattern is often left partly visible so you can pull it out. A laptop on this page is covered for its full height, because a bare corner catches zippers.
+The construction is a folded rectangle, the same one as the [book sleeve](/how-to-crochet-a-book-sleeve/) and the [phone case](/how-to-crochet-a-phone-case/). What changes at laptop size is the scale. A rectangle of 90 rows takes a long time, small errors add up over that many rows, and a long piece of cotton grows when it hangs. This page covers the sizing, and then how to keep a large rectangle accurate.
 
-US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The photos are illustrations. This sleeve has not been yarn-tested. The inches and the yardage are estimates from the gauge below. Measure the closed laptop with a tape. The diagonal printed on the box is the screen size, not the width of the lid.
+US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No sleeve for this page was crocheted or fitted. The laptop in the example is an invented size.
 
-![A gray crochet sleeve with a closed laptop partway in](../../assets/articles/how-to-crochet-a-laptop-sleeve-result.jpg "Illustration. Intended look: a soft sleeve around a closed laptop. Not water protection and not a drop test.")
+![A gray crochet sleeve with a closed laptop partway in](../../assets/articles/how-to-crochet-a-laptop-sleeve-result.jpg "Illustration. A soft sleeve around a closed laptop. Not water protection and not a drop test.")
 
 <div class="warning">
 
-The sleeve will not stop a spill, and it will not save a laptop from a drop. It is a soft layer between the lid and whatever else is in the bag.
+The sleeve will not stop a spill, and it will not save a laptop that falls. It is a soft layer in a bag.
 
 </div>
 
+## What is a technique, and what is only a plan
+
+| Piece of this page | What it is |
+| --- | --- |
+| Rectangle folded at the bottom, sides seamed | Standard construction. |
+| Width covers the lid plus the machine's thickness | Geometry. The fabric wraps the edges. |
+| A 12 × 8.5 × 0.6 in laptop | An invented example. Measure yours. |
+| 4 sc and 5 rows to the inch | An unverified example gauge. |
+| About 380 yards | An old line. Not weighed. Withdrawn. |
+
 ## Measure the closed laptop
 
-![A tape on a closed laptop, width and depth marked](../../assets/articles/how-to-crochet-a-laptop-sleeve-2.jpg "Illustration. Measure the closed case. The screen diagonal on the box is a different number.")
+Close the lid and measure on a table:
 
-Closed, on a table, lid shut.
+- **Width**, side to side.
+- **Depth**, front edge to back edge.
+- **Thickness**, at the thickest point, usually the hinge.
 
-- Width, edge to edge, in inches.
-- Depth, front edge to back edge, in inches.
-- Thickness, if the laptop is chunky. A sleeve planned from width and depth alone can still be tight across the front.
+The screen size printed on the box is a diagonal measurement of the screen. It is not the width of the lid. Use a tape.
 
-Add about **1 inch** to the width and about **1/2 inch** to the depth so the laptop slides. The rectangle you crochet is as wide as that eased width, and twice as tall as that eased depth, because you fold it in half.
+## How the sleeve is sized
 
-Example, so the pattern has counts: a closed laptop about **12 inches wide and 8.5 inches from front to back**, under an inch thick. Eased width about **13 inches**. Eased depth about **9 inches**. The rectangle is about **13 by 18 inches**. At the gauge below, that is **52 stitches and 90 rows**.
+The fabric goes around the laptop, so each face of the sleeve must cover the width plus the thickness. The side seams take up about one stitch. A little ease lets the machine slide in. At the bottom, the fold wraps the front edge, so each side starts about half the thickness above the fold.
 
-Many laptops are larger than that. A number like 13 on a box is often the screen diagonal, which is not 13 inches of lid. If your tape disagrees with 12 and 8.5, use the tape. Hold the unfinished rectangle around the closed laptop before you seam anything. The side edges should meet with a little overlap. If they do not meet, add stitches on the next try, or add rows if the shortfall is the depth. If they overlap by a lot, a slightly roomy sleeve is still a sleeve. A tight one will not take the laptop.
+<figure class="diagram">
+<img src="/diagrams/laptop-sleeve-plan.svg" alt="A long rectangle 53 stitches wide and 90 rows long, folded after row 45. For a 12 by 8.5 by 0.6 inch laptop: width 12 plus 0.6 plus 0.25 plus 0.25 is 13.1 inches, 53 stitches; depth per side 8.5 plus 0.3 plus 0.2 is 9 inches, 90 rows. A note says to measure flat, because a long cotton piece grows when it hangs." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The thickness is added to the width. On a thin laptop that is half an inch; on a thick one, an inch or more.</figcaption>
+</figure>
 
-## Materials
+## The worked example
 
-![Gray worsted cotton, a hook, and a closed laptop](../../assets/articles/how-to-crochet-a-laptop-sleeve-1.jpg "Illustration. About 380 yards is a planning estimate for the example, not a weighed sleeve.")
+| Part | Arithmetic | Result |
+| --- | --- | --- |
+| Width | 12 + 0.6 + 0.25 seams + 0.25 ease | 13.1 in, 53 sc, chain 54 |
+| Depth per side | 8.5 + 0.3 at the fold + 0.2 ease | 9.0 in |
+| Rows | 9 × 2 × 5 | 90 |
+| Stitches in all | 53 × 90 | 4,770 sc |
 
-- Worsted cotton, gray or another solid color. About **380 yards** for the 12 by 8.5 inch example. A larger laptop needs more. The figure is a planning estimate from the stitch count, not a weighed sleeve. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) hook, or the hook that hits gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle, scissors.
+The earlier version of this page added 1 inch to the width and called the result 52 stitches. For a 0.6 inch machine, that leaves about a quarter inch less than the arithmetic above. It may fit. It is tight.
 
-Cotton holds its width better than a stretchy acrylic, which matters because a stretched sleeve lets the laptop slide out in the bag. Cotton is still not a rain shell. Beginner, and slow, because 90 rows of the same stitch is a long rectangle. Count as you go. A weekend project is a fair guess for the example. Your laptop may need more rows.
+## Yarn and hook
 
-## Gauge (estimate)
+![Gray worsted cotton, a hook, and a closed laptop](../../assets/articles/how-to-crochet-a-laptop-sleeve-1.jpg "Illustration. Yarn and a hook. Not a weighed amount.")
 
-**4 sc = 1 inch. 5 rows = 1 inch.**
+- **Smooth worsted cotton**, in one dye lot. A different lot partway through a large solid piece can show as a band. [Yarn weights](/yarn-weight-chart/).
+- **US G/6 (4.0 mm) hook**, or the size that gives dense fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Stitch markers, yarn needle, scissors.
 
-At that gauge, 52 stitches are about 13 inches and 90 rows are about 18 inches. [Gauge](/crochet-gauge/) is the pattern. These numbers were not taken from a sleeve that had a laptop in it. If your swatch is not 4 sc to the inch, divide the inches you measured by your own stitches per inch and round to a whole number. Then chain one more than that stitch count.
+## Keeping a large rectangle accurate
 
-Ch 1 does not count as a stitch.
+**Swatch first, and measure it flat.** At 53 stitches, a gauge error of a quarter stitch per inch changes the width by almost an inch. [Gauge](/crochet-gauge/) is worth the twenty minutes here.
 
-## Rectangle
+**Start without a tight chain.** A chain of 54 is long, and most people chain tighter than they crochet. The foundation edge then pulls in and the fold puckers. Chain with a hook one or two sizes larger, or use foundation single crochet, which makes the chain and the first row of stitches together and stretches the same way as the rows above it.
 
-![A wide gray single-crochet rectangle](../../assets/articles/how-to-crochet-a-laptop-sleeve-3.jpg "Illustration. Width is the eased width of the laptop. Length is twice the eased depth.")
+**Count and mark.** Put a marker in the first stitch of row 1 and move a second marker up every 10 rows. Count the stitches in each tenth row. A single crochet edge often gains a stitch when the first stitch of a row goes into the turning chain.
 
-Chain 53.
+**Measure lying flat.** Cotton is heavy and stretches lengthwise under its own weight. A rectangle measured while it hangs off your lap reads long. Lay it on a table to measure.
 
-**Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (52)
+## Stage 1: the rectangle
 
-**Rows 2–90:** Sc in each stitch. Ch 1, turn. (52)
+Chain 54 with a larger hook, then switch to your working hook. Or work 53 foundation single crochet.
 
-Count every 10 rows. A row that gains a stitch will not fold straight. Rip back to the row where the count changed. Do not decrease later to "fix" it. The bottom fold will still be crooked.
+**Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (53)
 
-Before you seam, wrap the rectangle around the closed laptop. The fold is the bottom. Row 1 and row 90 meet at the opening. Sew the side edges only. If the laptop sticks out, add rows. If it will not sit inside the width, add stitches. Seams do not add fabric.
+**Rows 2–90:** Sc in each stitch. Ch 1, turn. (53)
 
-## Seam
+The ch 1 does not count as a stitch.
 
-Fold so row 1 meets row 90. Sew both side edges through both layers, from the fold to the opening. Leave the top open. At each bottom corner, sew a second pass for about an inch. A laptop is heavier than a paperback, and that second pass only keeps the seam from gaping in ordinary carrying. It is not drop protection.
+**Checkpoint at row 45:** fold the work in half around the closed laptop, without seaming. The side edges should meet beside the machine with no strain. If they gap, the sleeve is too narrow. Start again wider. Seams do not add fabric.
 
-![A needle seaming the side, with a second pass at the bottom corner](../../assets/articles/how-to-crochet-a-laptop-sleeve-4.jpg "Illustration. Side seams only. The top stays open. The corner is sewn twice.")
+## Stage 2: seam
 
-Slide the laptop in. It should enter without bending the lid and sit fully inside. If a corner still shows, add rows. If you have to force it, take the seams out and add fabric.
+Fold so row 1 meets row 90, right sides together. Join yarn at the fold and single crochet through both layers along each side, one stitch per row end, to the top. Turn it right side out so the seam ridges are inside.
 
-## What it will not do
+Single crochet seams hold better than a whipstitch under the weight of a laptop. At each bottom corner, work back over the first inch of seam a second time with a yarn needle. That keeps the corner from opening in ordinary carrying. It is not drop protection.
 
-Water goes through single crochet. Keep the sleeve out of the same pocket as a drink. A pen can still mark the lid through the stitches. A fall, a drop, or a bag thrown into a trunk is outside what this yarn can do. The example has no flap. If you want a closure, sew a button on the back and crochet a short chain loop on the front only after the laptop is inside.
+Slide the laptop in. It should go in without bending the lid, and the opening should come at least to the top edge of the machine.
 
-![The sleeve in a tote beside a charger, laptop inside](../../assets/articles/how-to-crochet-a-laptop-sleeve-5.jpg "Illustration. A soft layer in a bag. Not a waterproof case and not impact padding.")
+![A needle seaming the side, with a second pass at the bottom corner](../../assets/articles/how-to-crochet-a-laptop-sleeve-4.jpg "Illustration. Side seams only. The top stays open. The corner is reinforced.")
 
-## A different laptop
+## Optional closure
 
-1. Closed width, plus about 1 inch, times your stitches per inch. That is the stitch count.
-2. Closed depth, plus about 1/2 inch, times 2, times your rows per inch. That is the row count.
-3. If the laptop is thick, hold the rectangle around it before seaming and add width until the sides meet without strain.
-4. Chain one more than the stitch count, work the rows, fold, seam the sides.
+Sew a button to the center of the front, about an inch below the opening. On the back, join yarn at the center of the top edge and chain a loop long enough to reach over the top and around the button, with the laptop inside. Slip stitch back into the same stitch. Place the button with the laptop in the sleeve, not on the empty sleeve.
 
-The 52 by 90 rectangle is only those steps filled in for the example at 4 sc and 5 rows to the inch.
+## Troubleshooting
 
-## Mistakes
+**The laptop will not go in.** The width did not include the thickness, or the gauge is tighter than planned. Start again wider.
 
-**Using the screen diagonal as the width.** The number on the box is the screen, not the lid. Measure the closed laptop.
+**The bottom edge puckers.** A tight foundation chain. Use a larger hook for the chain, or foundation single crochet.
 
-**Seaming the opening.** The laptop cannot go in. Sew the side edges only.
+**One side is longer.** Stitches were gained or lost. Count back to the row that was right.
 
-**A lacy stitch.** Gaps let pens and zipper teeth through. Single crochet is the dense option here, and it is still not waterproof.
+**The sleeve was long when made and longer after a week.** Cotton relaxes. Next time, measure flat and stop a little short.
 
-**Ignoring thickness.** A sleeve that fits the width and the depth on paper can still refuse a chunky lid. The wrap test before seaming is the check.
-
-**Washing it with the laptop inside.** Take the laptop out. Every time.
+**A corner seam opens.** Reinforce the first inch with a second pass.
 
 ## Care
 
-Remove the laptop. Hand wash cool. Dry flat. Put the laptop back only when the sleeve is dry. Damp cotton on a closed lid is moisture in the bag. Do not iron the sleeve on top of the laptop.
+Take the laptop out. Hand wash cool. Dry flat. Put the laptop back only when the sleeve is completely dry.
 
 ## Frequently asked
 
 **Will it fit every laptop?**
 
-No. The 52 by 90 rectangle matches the example at the gauge above, a closed machine near 12 by 8.5 inches with ease. Measure yours.
+No. The counts above are for the invented example. Measure your closed machine and redo the table.
 
-**Is it safe in the rain, or if I drop the bag?**
+**Is it safe in the rain?**
 
-No. It is not waterproof, and it is not drop protection. On a wet day, use a bag that actually sheds water and keep this sleeve for dry carrying.
+No. Water goes through single crochet. Use a water-resistant bag on wet days.
 
 **How is this different from the book sleeve?**
 
-Same fold and the same seam. The [book sleeve](/how-to-crochet-a-book-sleeve/) is often shorter than the book so the cover still shows. This one is planned to cover the full lid, and the example numbers come from a laptop measurement, not from a paperback.
+Same fold and seam. The [book sleeve](/how-to-crochet-a-book-sleeve/) lets the cover show. This one covers the whole lid, and it is big enough that tension control matters.
 
 ## Next
 
-The folded-rectangle method, written for a book, is the [book sleeve](/how-to-crochet-a-book-sleeve/). If the row count keeps drifting, the fix is the swatch in [crochet gauge](/crochet-gauge/), worked before the 90 rows and not after.
+The same width-plus-thickness rule on a small object is the [phone case](/how-to-crochet-a-phone-case/). For a swatch you can trust before 90 rows, see [crochet gauge](/crochet-gauge/).

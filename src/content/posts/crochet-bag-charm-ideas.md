@@ -2,6 +2,7 @@
 title: "12 Crochet Bag Charm Ideas from Scrap Yarn"
 description: "Twelve scrap-yarn bag charm ideas, plus one complete tiny heart pattern in US terms. The other shapes are ideas, not full patterns. Not yarn-tested."
 pubDate: 2026-10-08
+updatedDate: 2026-10-11
 category: patterns
 level: beginner
 howTo: true
@@ -20,10 +21,10 @@ US terms. Photos are illustrations. The heart has not been physically tested.
 
 ## Shared rules
 
-- Worsted cotton, about **8 to 15 yards** per charm. [Yarn weights](/yarn-weight-chart/).
-- US G/6 (4.0 mm) or a slightly smaller hook so the fabric stays firm. [Hook chart](/crochet-hook-size-conversion-chart/).
+- Cotton scraps. Worsted makes a charm of about 2 inches. Sport or fingering weight with a smaller hook makes a smaller one. Amounts have not been weighed. [Yarn weights](/yarn-weight-chart/).
+- A hook a size smaller than the label suggests, so the fabric stays firm. [Hook chart](/crochet-hook-size-conversion-chart/).
 - A split ring, plus a chain of about 12 stitches sewn on as the loop.
-- Stuff very lightly, or not at all. A charm should stay under an inch and a half.
+- Stuff very lightly, or not at all. Keep a charm small and light, about 2 inches or less, so it does not knock against the bag.
 
 Sew the loop to a solid part of the charm, weave the tail through the chain three times, and clip the ring on after. Do not crochet around the metal.
 
@@ -45,7 +46,7 @@ Sew the loop to a solid part of the charm, weave the tail through the chain thre
 
 **Daisy.** White petals, yellow center. Same warning as the mini flower. Keep petal counts low or the charm becomes a disk.
 
-**Star.** Five points. Intermediate. Points curl if the decreases are loose. This page does not include a star pattern.
+**Star.** Five points. The three-round flat star in [Christmas ornament ideas](/easy-crochet-christmas-ornaments/) works as a charm in a thinner yarn. Stiffen it lightly or the points flop.
 
 **Pumpkin.** Orange ball, brown seam lines, short stem. A stuffed pumpkin with a full write-up is [how to crochet a pumpkin](/how-to-crochet-a-pumpkin-step-by-step/). Use that if you want a bowl-sized pumpkin. A charm is the same idea at scrap size, and it is not written out here.
 
@@ -67,7 +68,7 @@ Chain 2.
 
 **Row 2:** inc. Ch 1, turn. (2)
 
-**Row 3:** inc in each stitch. (4)
+**Row 3:** inc in each stitch. Ch 1, turn. (4)
 
 **Row 4:** inc, sc 2, inc. Ch 1, turn. (6)
 
@@ -88,6 +89,15 @@ Fasten off.
 Fasten off. Weave the ends.
 
 Row 5 is 8 because 6 stitches plus 2 increases equal 8. Each lobe takes 4 of those 8. Two decreases on 4 stitches equal 2.
+
+<figure class="diagram">
+<img src="/diagrams/heart-charm-rows.svg" alt="A heart worked from the point up. Rows 1 to 5 grow 1, 2, 4, 6, 8 stitches, row 6 is 8 even, and each lobe uses 4 of the 8 stitches, worked as 4 then 2. A dashed outline shows the optional single crochet edging with 3 sc at the point and a slip stitch in the dip." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Rows grow from the point, then the top splits into two lobes. The edging rounds off the steps.</figcaption>
+</figure>
+
+**Edging (optional).** The rows leave a stepped outline. To smooth it, join yarn at the bottom point and sc evenly all the way around, one sc in each row end and each stitch, 3 sc in the bottom point, and a sl st into the dip between the lobes. Join to the first sc and fasten off. The edging adds a stitch of width all round.
+
+At 4 sc to the inch, 8 stitches are about 2 inches across, a little more with the edging. For a smaller charm, use a thinner yarn and hook rather than fewer rows. Fewer rows change the shape.
 
 Chain 12 for the hanger. Sew both ends between the lobes, on the back, so the point hangs down.
 

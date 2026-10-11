@@ -2,6 +2,7 @@
 title: "The 5 Basic Crochet Stitches, in the Order to Learn Them"
 description: "Slip stitch, single, half double, double and treble crochet explained step by step, plus what each one is actually good for."
 pubDate: 2026-09-04
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -191,7 +192,7 @@ Swatch each stitch about 15 wide and 10 rows tall, then make a dishcloth in sing
 
 ### Which stitch first?
 
-Chain, then single crochet. Slip stitch is easier, and you cannot make a fabric with it.
+Chain, then single crochet. Slip stitch is easier to make, but a fabric of slip stitches is very dense and slow to build, and it is hard to see where the next stitch goes. Single crochet teaches you to read the stitches.
 
 ### Why does my rectangle have holes?
 

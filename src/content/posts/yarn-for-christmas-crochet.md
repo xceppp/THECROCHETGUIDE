@@ -2,6 +2,7 @@
 title: "Yarn for Christmas Crochet: Sparkle, Thread and What Actually Works"
 description: "Which yarn to use for ornaments, gnomes and snowflakes, why metallic yarn is harder than it looks, and the one safety point nobody mentions about candles."
 pubDate: 2026-09-18
+updatedDate: 2026-10-11
 category: gear
 level: beginner
 quickAnswer: "Use worsted acrylic for stuffed Christmas pieces, and cotton or crochet thread when the piece has to hold a blocked shape. Keep metallic yarn as a short accent. Do not put any crochet piece next to a lit candle."
@@ -35,7 +36,7 @@ Use a hook a size or two smaller than the label suggests, so stuffing cannot sho
 
 ### Coasters, placemats, potholders
 
-**Worsted cotton.** Absorbent, washable, and it handles a hot mug. Lily Sugar'n Cream and Peaches & Creme are the two US standards, and both come in Christmas colorways each autumn. Acrylic is the wrong fiber for anything that meets heat.
+**Worsted cotton.** Absorbent, washable, and it handles a hot mug. Lily Sugar'n Cream and Peaches & Creme are the two widely sold US worsted cottons, and both come in reds, greens, and whites. Acrylic is the wrong fiber for anything that meets heat.
 
 ### Garlands and bunting
 
@@ -79,19 +80,22 @@ Candle rings, advent wreaths, mantel garlands, and potholders are the projects p
 
 ## How much to buy
 
-| Project | Rough worsted yardage |
-| --- | --- |
-| Single stuffed ornament | 25–50 yds |
-| Gnome, desk size | 60–120 yds |
-| Snowflake in size 10 thread | 15–25 yds |
-| Set of four coasters | 100–150 yds |
-| Garland, 6 ft with 10 pieces | 200–300 yds |
+This page does not print a yardage table. None of the projects on this site has been weighed, and copied tables are exactly the kind of number that gets passed around wrong. A small kitchen scale gives you a better answer than any table.
 
-One skein covers most of these more than once, so shop leftovers first. For a matched set, buy in one go so the dye lots match. A mismatch is invisible on one ornament and obvious when several hang on the same branch. Weights are in the [yarn weight chart](/yarn-weight-chart/).
+<figure class="diagram">
+<img src="/diagrams/yarn-estimate-weigh.svg" alt="Three steps. A yarn label reading 200 yards per 100 grams gives 2 yards per gram. One finished piece weighs 14 grams on a kitchen scale. 14 times 2 is 28 yards, plus 10 to 20 percent. The numbers are examples." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Yards per gram from the label, grams from the scale. The example numbers are invented.</figcaption>
+</figure>
+
+1. **Read the label.** Divide the yards by the grams. That is yards per gram for that yarn.
+2. **Make one piece and weigh it.** One ornament, one gnome, one coaster.
+3. **Multiply** the weight by yards per gram, then by the number of pieces, and add 10 to 20 percent for swatches and mistakes.
+
+Most small Christmas pieces use a fraction of a skein, so shop leftovers first. For a matched set, buy in one go so the dye lots match. A mismatch is invisible on one ornament and obvious when several hang on the same branch. Weights are in the [yarn weight chart](/yarn-weight-chart/).
 
 ## Mistakes worth skipping
 
-**Printed novelty yarn.** The print is spaced for a knitted scarf. Crochet uses more yarn per inch, so you get fragments of a motif.
+**Printed novelty yarn.** A yarn printed to make a motif is spaced for one particular stitch and width, usually knitting. Crochet uses yarn at a different rate, so you tend to get fragments of the motif rather than the picture on the label.
 
 **Chenille or velvet in dark green.** Velvet already hides stitches and worms into loops that will not sit flat. A dark color on top of that leaves you working blind.
 
@@ -105,7 +109,7 @@ Yes. Cotton is heavier and has no give, so the fabric is firmer, the piece hangs
 
 ### Is wool worth it?
 
-For anything you block, wool holds the shape better than any other fiber. For a stuffed gnome that lives in a box most of the year, acrylic is the sensible choice, and moths have no interest in it.
+For hats and garments, wool blocks beautifully and keeps its spring. For a stiffened snowflake or star, cotton or thread is still the usual choice, because it takes stiffener well and does not spring back. For a stuffed gnome that lives in a box most of the year, acrylic is the sensible choice, and moths have no interest in it.
 
 ### Can I wash a crocheted ornament?
 
