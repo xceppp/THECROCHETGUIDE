@@ -20,7 +20,7 @@ A ghost wallet only works if it still looks like a ghost with cards in it. This 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). If you want a smaller, simpler ghost with a fold-over flap, the [ghost mini wallet](/ghost-crochet-mini-wallet/) is a different design worth a look. This one teaches shaping with decreases and joining two layers with an edging.
 
-![A cream crochet ghost wallet with a rounded head, black oval eyes, a small mouth, pink cheeks, and a scalloped hem, with a card peeking from a pocket across its middle](../../assets/articles/ghost-crochet-wallet-result.jpg "Illustration, computer-generated. It shows the intended look. It is not a photograph of a wallet made from this pattern.")
+![Concept illustration of the ghost wallet: a stepped head, four hem scallops, and the face above the pocket opening](../../assets/articles/ghost-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
 
 ## What is checked, and what is not
 

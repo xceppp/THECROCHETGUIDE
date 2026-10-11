@@ -20,7 +20,7 @@ A wallet with one pocket fills up fast, and the card you want is always at the b
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The new skills here are a worked buttonhole and seaming through three layers.
 
-![A purple rectangular crochet wallet with a flap carrying a black witch hat with an orange band, closed with a dark button below the hat brim](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Illustration, computer-generated. It shows the intended look; the hat in the pattern is smaller, about 1.25 inches wide at the band. It is not a photograph of a wallet made from this pattern.")
+![Concept illustration of the witch hat wallet: a hat about 1.25 inches wide at the band, with the button showing through the buttonhole under the brim](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
 
 ## What is checked, and what is not
 

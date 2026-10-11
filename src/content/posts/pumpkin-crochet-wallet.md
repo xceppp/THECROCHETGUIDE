@@ -20,7 +20,7 @@ Most crochet pumpkins are round, which is a poor shape for cards. This one is a 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the most forgiving one for a first project.
 
-![An orange crochet wallet with vertical ribs, a black triangle-eyed jack-o'-lantern face with a zigzag mouth, a short green stem, and a green leaf tab on a wooden desk](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration, computer-generated. It shows the intended look; in the pattern the stem stands on the back rim, behind the tab. It is not a photograph of a wallet made from this pattern.")
+![Concept illustration of the pumpkin wallet: vertical ribs, the stem standing behind the back rim, and a leaf tab folded over the front](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
 
 ## What is checked, and what is not
 

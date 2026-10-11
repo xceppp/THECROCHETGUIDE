@@ -6,7 +6,7 @@ category: patterns
 level: beginner
 printable: false
 tags: ["halloween", "wallet", "card holder", "free pattern", "collection"]
-quickAnswer: "Five original card wallets, all at the same worsted gauge and all sized on paper for a standard 3.37 by 2.125 inch bank card. The black cat and pumpkin are beginner projects; the ghost, witch hat, and spiderweb add shaping, a buttonhole, or embroidery."
+quickAnswer: "Five original card wallets, sized on paper for a standard 3.37 by 2.125 inch bank card. Four share one single-crochet gauge. The pumpkin is back-loop ribbing and needs its own swatch. Each pattern still needs a real card slipped in before the closure is sewn."
 glance:
   time: "Each one is a small single crochet project with some sewing"
   size: "About 4.25 in wide; pockets about 3.8 to 3.9 in inside"
@@ -17,36 +17,36 @@ glance:
 
 A Halloween wallet is a quick project, a good gift, and a reason to use up the scraps of black, orange, and purple you bought last October. The trouble with most "wallet" patterns is that nobody checked whether a card goes in. These five were sized on paper against a standard bank card, and each one uses a different construction, so making all five teaches you five techniques rather than one rectangle five times.
 
-Every pattern uses the same yarn weight, hook, and example gauge, so one swatch tells you whether all five will fit.
+All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single-crochet swatch checks the gauge the cat, ghost, witch hat, and spiderweb assume. It does not prove a card will fit, and it does not measure the pumpkin, which is worked in the back loop only. Each pattern names the row where you slide a real card in.
 
 <figure class="diagram">
 <img src="/diagrams/halloween-wallets-compare.svg" alt="Diagram. The five wallets side by side. Black cat: a seamless tube with ears and a snap. Ghost: two shaped panels joined by one edging round. Pumpkin: sideways ribs, folded, with a leaf tab. Witch hat: three zones, an inner divider, and a buttonhole. Spiderweb: a pointed flap with embroidery and a loop." width="640" height="420" loading="lazy" decoding="async" />
-<figcaption>Diagram. Five constructions, one gauge.</figcaption>
+<figcaption>Diagram. Five constructions. The pumpkin's ribs are back loop only, so its row gauge differs.</figcaption>
 </figure>
 
 ## Pick a pattern
 
 **[Black cat crochet wallet](/black-cat-crochet-wallet/).** Beginner. A seamless pocket worked in rounds around both sides of a chain, a 9-row flap with gold eyes, two triangle ears, and a snap.
 
-![A black crochet cat wallet with triangular ears and gold eyes](../../assets/articles/black-cat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the closed black cat wallet: two ears on the fold, a narrowed flap, gold eyes, a pink nose, and whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
 
 **[Ghost crochet wallet](/ghost-crochet-wallet/).** Intermediate. Two shaped panels, a soft embroidered face with pink cheeks, and one edging round that joins the layers and scallops the hem. The snap hides inside.
 
-![A cream crochet ghost wallet with black eyes, pink cheeks, and a scalloped hem](../../assets/articles/ghost-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the ghost wallet: a stepped head, four hem scallops, and the face above the pocket opening](../../assets/articles/ghost-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
 
 **[Pumpkin crochet wallet](/pumpkin-crochet-wallet/).** Beginner. One sideways piece in back-loop ribs, folded and seamed, with a jack-o'-lantern face, a rolled stem, and a green leaf tab that snaps shut.
 
-![An orange ribbed crochet pumpkin wallet with a jack-o'-lantern face and green stem](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the pumpkin wallet: vertical ribs, the stem behind the back rim, and a leaf tab over the front](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
 
 **[Witch hat crochet wallet](/witch-hat-crochet-wallet/).** Intermediate. One purple rectangle with a worked buttonhole, an inner divider for two pockets, and a black and orange hat appliqué.
 
-![A purple crochet wallet with a black witch hat on the flap and a button closure](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the witch hat wallet: a small hat on the flap, with the button showing through the buttonhole](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
 
 **[Spiderweb crochet wallet](/spiderweb-crochet-wallet/).** Intermediate. A black wallet with a pointed flap, a backstitched white web, a tiny purple spider, and a button loop.
 
-![A black crochet wallet with a white embroidered spiderweb and a purple spider on a pointed flap](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the spiderweb wallet: five spokes, a spider on the right-hand spoke, and a loop at the point](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Crochet concept illustration. Not a photograph of a made wallet.")
 
-All five pictures are computer illustrations of the intended look. None is a photograph of a wallet made from these patterns.
+All five pictures are crochet concept illustrations drawn from the pattern counts. None is a photograph of a wallet made from these patterns.
 
 ## How they compare
 
@@ -58,7 +58,7 @@ All five pictures are computer illustrations of the intended look. None is a pho
 | Witch hat | Intermediate | 4.25 x 2.4 in | Button | Buttonhole and a three-layer seam |
 | Spiderweb | Intermediate | 4.25 x 2.6 in | Button loop | Backstitch embroidery |
 
-Sizes are paper geometry at the example gauge of 16 sc and 20 rows to 4 inches.
+Sizes are paper geometry at 16 sc and 20 rows to 4 inches. The pumpkin's back-loop rows will measure shorter, which is why that pattern works to a length instead of a fixed row count.
 
 **What you need for all five.** Worsted weight (CYC 4) yarn in black, cream, orange, and purple, scraps of gold, pink, green, and white, a US G/6 (4.0 mm) hook, two 3/8 inch sew-on snaps, two 5/8 inch flat buttons, and a tapestry needle.
 
@@ -83,11 +83,15 @@ If you need a wallet for a specific number of cards, or want to work out your ow
 
 Each pattern tells you where to test the fit with a real card before you commit to the finishing. That test is the one step not to skip.
 
-## The swatch that decides all five
+## Gauge, then a real card
 
-Make a single crochet swatch about 5 inches square on the G/6 hook and measure the middle 4 inches, as in the [gauge guide](/crochet-gauge/). If you get 16 stitches, all five patterns work as written. If you get 17 or 18, go up a hook size. If you get 14 or 15, go down one. For the pumpkin, make a second small swatch in back loops only, because that fabric is shorter per row.
+Make a single crochet swatch about 5 inches square on the G/6 hook and measure the middle 4 inches, as in the [gauge guide](/crochet-gauge/). If you get 16 stitches and 20 rows, the cat, ghost, witch hat, and spiderweb are at the gauge those patterns assume. If you get 17 or 18 stitches, go up a hook size. If you get 14 or 15, go down one.
 
-Weigh the swatch, too. Each pattern gives its fabric area as a multiple of a 4 inch square, which is how you estimate yarn without guessing.
+The pumpkin is a different fabric. It is worked in the back loop only, and those rows are shorter than plain single crochet. Make a second small swatch in back loops, and follow that pattern's instruction to work until the piece measures 4.25 inches.
+
+A matching swatch only means the stitch size is in range. Seams, joins, and the flap still change the opening. Slide a real card in at the step each pattern names before you sew the closure.
+
+Weigh the plain swatch too. Each pattern gives its fabric area as a multiple of a 4 inch square, which is how you estimate yarn without guessing.
 
 ## Mistakes these patterns share
 
@@ -111,4 +115,4 @@ Weigh the swatch, too. Each pattern gives its fabric area as a multiple of a 4 i
 
 **Where do I learn the basics first?** Start with [basic crochet stitches](/basic-crochet-stitches/) and the [abbreviations chart](/crochet-abbreviations-chart/). Every pattern here uses US terms.
 
-Pick the pattern that matches your skills, make one swatch, and test the card where the pattern tells you to. The rest is single crochet.
+Pick the pattern that matches your skills, swatch the fabric that pattern actually uses, and test a real card where it tells you to. The rest is single crochet.

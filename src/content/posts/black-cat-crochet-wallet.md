@@ -20,7 +20,7 @@ A black cat is the Halloween wallet people recognize from across the room, and t
 
 This page is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The skill it teaches is working into both sides of a foundation chain, which is also how many pencil cases and amigurumi bodies start.
 
-![A small black crochet wallet with two triangular ears on the top fold, a flap with golden oval eyes, a pink nose, and white whiskers, on a wooden desk beside black yarn and a hook](../../assets/articles/black-cat-crochet-wallet-result.jpg "Illustration, computer-generated. It shows the intended look. It is not a photograph of a wallet made from this pattern.")
+![Concept illustration of the closed black cat wallet: ears on the fold, a flap that narrows at the last two rows, gold eyes, a pink nose, and three whiskers on each side](../../assets/articles/black-cat-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
 
 ## What is checked, and what is not
 

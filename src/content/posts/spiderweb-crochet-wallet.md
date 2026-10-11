@@ -20,7 +20,7 @@ A spiderweb on a crochet wallet usually means a lot of fiddly white color change
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the one that teaches surface embroidery and a button loop.
 
-![A black crochet wallet with a pointed flap covered by a white embroidered spiderweb and a small purple spider, closed by a loop over a dark button](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Illustration, computer-generated. It shows the intended look; the pattern's web has 5 spokes and the spider sits right of center. It is not a photograph of a wallet made from this pattern.")
+![Concept illustration of the spiderweb wallet: five spokes, three rings, a spider on the stitch-11 spoke, and a loop at the point](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Crochet concept illustration drawn from the pattern counts. Not a photograph of a made wallet.")
 
 ## What is checked, and what is not
 

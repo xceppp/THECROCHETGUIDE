@@ -87,6 +87,9 @@ for (const file of files) {
     ? level.charAt(0).toUpperCase() + level.slice(1)
     : "All levels";
   const hero = await findHero(slug);
+  const concept = /Crochet concept illustration|not a photograph of a made/i.test(body);
+  const disclosure = `<rect width="100%" height="100%" fill="#2f2a26" fill-opacity="0.82"/>
+      <text x="28" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#fdfaf6">Crochet concept illustration</text>`;
 
   if (!field(frontmatter, "ogImage")) {
     const lines = wrap(title, 22);
@@ -104,11 +107,25 @@ for (const file of files) {
     const base = sharp(Buffer.from(svg));
     if (hero) {
       const photo = await sharp(hero)
-        .resize(560, 630, { fit: "cover", position: "centre" })
+        .resize(560, concept ? 578 : 630, {
+          fit: concept ? "contain" : "cover",
+          position: "centre",
+          background: "#fdfaf6",
+        })
         .jpeg()
         .toBuffer();
+      const layers = [{ input: photo, left: 640, top: 0 }];
+      if (concept) {
+        layers.push({
+          input: Buffer.from(
+            `<svg width="560" height="52" xmlns="http://www.w3.org/2000/svg">${disclosure}</svg>`,
+          ),
+          left: 640,
+          top: 578,
+        });
+      }
       await base
-        .composite([{ input: photo, left: 640, top: 0 }])
+        .composite(layers)
         .jpeg({ quality: 82 })
         .toFile(path.join(outDir, `${slug}-og.jpg`));
     } else {
@@ -135,11 +152,25 @@ for (const file of files) {
     const base = sharp(Buffer.from(svg));
     if (hero) {
       const photo = await sharp(hero)
-        .resize(1000, 1050, { fit: "cover", position: "centre" })
+        .resize(1000, concept ? 998 : 1050, {
+          fit: concept ? "contain" : "cover",
+          position: "centre",
+          background: "#fdfaf6",
+        })
         .jpeg()
         .toBuffer();
+      const layers = [{ input: photo, left: 0, top: 0 }];
+      if (concept) {
+        layers.push({
+          input: Buffer.from(
+            `<svg width="1000" height="52" xmlns="http://www.w3.org/2000/svg">${disclosure}</svg>`,
+          ),
+          left: 0,
+          top: 998,
+        });
+      }
       await base
-        .composite([{ input: photo, left: 0, top: 0 }])
+        .composite(layers)
         .jpeg({ quality: 82 })
         .toFile(path.join(outDir, `${slug}-pin.jpg`));
     } else {
