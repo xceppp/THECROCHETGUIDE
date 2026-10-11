@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Planning square for a bowl cozy</title>
+<desc>The side of the square is the rim diameter plus the wall height twice. The corners are extra fabric. This is a planning sketch, not a fitted cozy.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 4; stroke-linecap: round; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="48">Starting estimate: rim + height + height</text>
+<rect x="56" y="78" width="250" height="250" fill="#f3e6d4" stroke="#6b4428" stroke-width="6"/>
+<rect class="mark" x="106" y="128" width="150" height="150"/>
+<text class="soft" x="128" y="208">rim diameter</text>
+<path class="hook" d="M36 78 V328"/>
+<text class="soft" x="44" y="200" transform="rotate(-90 44 200)">height</text>
+<path class="hook" d="M316 78 V328"/>
+<text class="soft" x="332" y="210" transform="rotate(90 332 210)">height</text>
+<path class="ink" d="M56 78 L96 118"/>
+<path class="ink" d="M306 78 L266 118"/>
+<path class="ink" d="M56 328 L96 288"/>
+<path class="ink" d="M306 328 L266 288"/>
+<text class="label" x="340" y="120">Example, on paper</text>
+<text class="soft" x="340" y="156">Rim 6 in</text>
+<text class="soft" x="340" y="186">Wall 3 in</text>
+<text class="soft" x="340" y="216">6 + 3 + 3 = 12 in</text>
+<text class="soft" x="340" y="262">Corners are the extra.</text>
+<text class="soft" x="340" y="290">They get pinched later.</text>
+<text class="soft" x="340" y="334">The base is a third measure.</text>
+<text class="soft" x="340" y="362">This square does not know it.</text>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Matching stitches along a row end</title>
+<desc>At 4 single crochet and 5 rows to the inch, one single crochet in every row end puts 60 stitches on a side that has 48 along the top. Four single crochets for every five row ends also totals 48. That match is arithmetic, not proof the join lies flat.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; }
+  .bad { fill: none; stroke: #b0604a; stroke-width: 4; stroke-linecap: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 4; stroke-linecap: round; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50">Same inch, two different counts</text>
+<text class="soft" x="32" y="100">Top edge, 4 sc per inch</text>
+<path class="mark" d="M32 124 H292"/>
+<text class="label" x="310" y="130">48 sc on 12 in</text>
+<text class="soft" x="32" y="180">Side, 1 sc in every row end</text>
+<path class="bad" d="M32 204 H332"/>
+<text class="label" x="348" y="210">60 sc</text>
+<text class="soft" x="32" y="250">Those 12 extra stitches can ripple.</text>
+<text class="label" x="32" y="310">4 sc for every 5 row ends, on paper</text>
+<text class="soft" x="32" y="346">60 / 5 = 12 groups. 12 x 4 = 48 sc.</text>
+<text class="soft" x="32" y="378">Recount if your swatch is not 4 sc and 5 rows.</text>
+</svg>

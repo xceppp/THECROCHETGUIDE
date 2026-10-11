@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>What a corner pinch takes off the square</title>
+<desc>A pinch at each end of a side shortens the flat center by about twice the pinch. Compare that center with the base of the bowl, and compare the pinch with the wall height.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 4; stroke-linecap: round; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="48">Flat center is about the side minus two pinches</text>
+<rect x="48" y="78" width="240" height="240" fill="#f3e6d4" stroke="#6b4428" stroke-width="6"/>
+<path class="hook" d="M48 78 L108 138"/>
+<path class="hook" d="M288 78 L228 138"/>
+<path class="hook" d="M48 318 L108 258"/>
+<path class="hook" d="M288 318 L228 258"/>
+<rect class="mark" x="108" y="138" width="120" height="120"/>
+<text class="soft" x="124" y="204">flat center</text>
+<text class="label" x="320" y="120">Example arithmetic</text>
+<text class="soft" x="320" y="158">Side 12 in</text>
+<text class="soft" x="320" y="188">Pinch 2 in at each end</text>
+<text class="soft" x="320" y="218">12 - 2 - 2 = 8 in</text>
+<text class="soft" x="320" y="268">If the base is wider than 8,</text>
+<text class="soft" x="320" y="296">the center may be too small.</text>
+<text class="soft" x="320" y="336">If the wall is taller than 2,</text>
+<text class="soft" x="320" y="364">the rim may stick out. Check it.</text>
+</svg>
