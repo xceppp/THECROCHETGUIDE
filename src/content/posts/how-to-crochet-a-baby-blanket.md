@@ -1,83 +1,107 @@
 ---
 title: "How to Crochet a Baby Blanket"
-description: "Plan a simple half double crochet baby blanket: width, stitch count, yarn choice, and the holes and extras to skip. Not a tested sample."
+description: "Plan a half double crochet baby blanket from a washed swatch. US terms. No buttons or ties. Not a tested blanket."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["baby blanket", "beginner", "half double crochet", "gift"]
+glance:
+  time: "A wide rectangle, after the swatch is washed"
+  size: "Your target, not a required 30 by 36"
+  yarn: "Washable worsted, light and solid"
+  hook: "The hook that matches the washed swatch"
+  yardage: "Scale from the swatch. Do not guess a skein count."
 ---
 
-A baby blanket is a rectangle with rules. The yarn has to survive washing, the fabric should not be a net of holes, and nothing should be sewn on that a baby can pull into their mouth. The stitch is the same [half double crochet](/basic-crochet-stitches/) as the [beginner scarf](/how-to-crochet-a-beginner-scarf/). The size is the part people get wrong.
+A baby blanket on this page is a rectangle of [half double crochet](/basic-crochet-stitches/), the same stitch as the [beginner scarf](/how-to-crochet-a-beginner-scarf/). The scarf can be an inch off and still be a scarf. A blanket planned at 30 inches can come out a different size after it is washed. The other rule is what you leave off the surface.
+
+US terms. The chain-2 does not count. [Abbreviations](/crochet-abbreviations-chart/). The picture is an illustration. No blanket for this page was crocheted, washed, or measured.
+
+![A folded cream crochet blanket on a wood chair](../../assets/articles/how-to-crochet-a-baby-blanket-result.jpg "Illustration. A plain half double rectangle. Not a tested blanket.")
 
 <div class="warning">
 
-The numbers below are a planning example from an assumed gauge. They are not measurements from a finished blanket, and the photo is an illustration. Swatch, wash the swatch, and recount before you buy all the yarn.
+Nothing on this page was safety-tested with a baby. Do not sew on buttons, beads, flowers, or ties. A piece that can come off does not belong on a blanket a child can mouth. Follow the yarn band for washing. The stitch counts below are planning arithmetic.
 
 </div>
 
-![A folded cream crochet blanket on a wood chair](../../assets/articles/how-to-crochet-a-baby-blanket-result.jpg "Illustration. A plain half double crochet blanket. Not a photograph of a tested sample.")
+## What is a technique, and what is only a plan
 
-## What you need
+| Piece of this page | What it is |
+| --- | --- |
+| Half double in every stitch | A dense fabric. Mesh and filet are a different blanket. |
+| Wash the swatch before you trust the size | The step that makes a blanket different from a scarf. |
+| 30 by 36 inches | A common receiving target, not a measurement from this page. |
+| 90 stitches and about 90 rows | Only if the washed gauge is 3 stitches and 2.5 rows per inch. |
+| No appliqué | A rule for this use. A [flower](/how-to-crochet-a-simple-flower/) is for a bag, not for this blanket. |
 
-- Washable worsted-weight yarn in a light, solid color so stains and dropped stitches show while you work. [Yarn weights](/yarn-weight-chart/). Read the band for machine-wash instructions.
-- US H/8 (5.0 mm) hook, or the hook that matches your swatch to the gauge below. [Hook chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle and a tape measure.
+## Step 1: Write the size, then wash a swatch
 
-Do not promise a yardage. A blanket uses more yarn than a hat, and the only honest method is a washed swatch: weigh 4 in of rows, then scale to the width and length you chose. Buy an extra skein of the same dye lot before you need it.
+Write the width and the length you want before you chain. Thirty inches wide and 36 inches long is the example. A toddler lap blanket is a different pair of numbers.
 
-## Finished size
+Use washable worsted in a light solid color so a dropped stitch shows. [Yarn weights](/yarn-weight-chart/). Read the band. Work a swatch in half double, then wash and dry it the way the blanket will be washed. Cotton often grows. Some acrylic relaxes. Measure after it is dry.
 
-A common receiving size is about 30 in wide and 36 in long. That is a target, not a required measurement. A lap blanket for a toddler can be larger. Write your target down before you chain.
+You need two numbers from that dry swatch: stitches per inch, and rows per inch. They are not interchangeable.
 
-## Gauge (planning numbers, not a measured swatch)
+## Step 2: Two widths for the same 30 inches
 
-About 3 hdc and 2.5 rows to 1 in. At that gauge, 30 in is 90 stitches and 36 in is 90 rows. If your washed swatch is 2.5 hdc to the inch, 30 in is 75 stitches, not 90. [Gauge](/crochet-gauge/).
+Planning gauge, unverified: **3 hdc = 1 inch** and **2.5 rows = 1 inch**, with a US H/8 (5.0 mm) or whatever hook matches the swatch. [Hook chart](/crochet-hook-size-conversion-chart/). [Gauge](/crochet-gauge/).
 
-A second case, so the multiply is obvious. A washed swatch with 14 hdc in 4 inches is 14 ÷ 4 = 3.5 stitches per inch. A 30-inch width then needs 3.5 × 30 = 105 stitches. The foundation chain is 107, because half double starts in the third chain. The 90-stitch pattern further down is only the 3-stitches-per-inch case: 90 ÷ 30 = 3. Wash the swatch before you trust either number. Cotton grows. Some acrylic relaxes.
+At 3 stitches per inch, 30 × 3 = **90 stitches**. The chain is 92, because you start in the third chain.
 
-## Abbreviations (US)
+A second swatch, so the multiply is visible: 14 half doubles in 4 inches is 14 ÷ 4 = **3.5 stitches per inch**. Then 30 × 3.5 = **105 stitches**, and the chain is 107.
 
-ch, hdc. The turning ch-2 does **not** count as a stitch. [Turning chain](/crochet-turning-chain/). US hdc is the stitch between single and double. It is not UK half treble.
+<figure class="diagram">
+<img src="/diagrams/blanket-width.svg" alt="Diagram of two cases for a 30 inch blanket. At 3 half doubles per inch the count is 90 and the chain is 92. At 3.5 per inch the count is 105 and the chain is 107." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Ninety stitches is only the first case. Use the washed swatch.</figcaption>
+</figure>
 
-## Blanket
+Length uses rows per inch. At 2.5 rows per inch, 36 × 2.5 = **90 rows**. If the dry swatch is 3 rows per inch, 36 inches is 108 rows. The 90-row figure is not a partner to the 105-stitch figure. Each direction has its own multiply.
 
-Use your own stitch count. The 90 below matches only the planning gauge.
+Yardage is the swatch scaled up. Weigh a known number of stitches, then scale to stitches times rows. Buy an extra skein of the same dye lot before you are close to the end. A new lot in the middle of a solid blanket shows as a stripe. This page does not name a yardage.
 
-**Row 1.** Ch 92. Hdc in the 3rd ch from the hook and in each ch across. (90 hdc)
+## Step 3: One stitch, the same count, a loose chain
 
-**Row 2.** Ch 2, turn. Hdc in the first stitch and in each stitch across. (90)
+The foundation chain on a blanket is long, and a tight chain makes the first edge shorter than the rows above it. Chain loosely, or use one hook size larger for the chain only, then return to the swatch hook for row 1.
 
-Repeat row 2 until the blanket is 36 in, or the length you wrote down. At the planning gauge that is about 90 rows. Count your own rows per inch after the swatch is dry.
+These rows are the **90-stitch example**. Substitute your count.
 
-Fasten off. Weave ends for several inches inside the fabric, not in a knot on the corner. [Weaving ends](/weaving-in-ends-and-blocking/).
+**Row 1.** Chain 92. Half double in the third chain from the hook and in each chain across. (90)
 
-## What to leave off
+**Row 2.** Chain 2, turn. Half double in the first real stitch and in each stitch across. (90)
 
-No buttons, no beads, no sewn flowers, no long ties. A [flower appliqué](/how-to-crochet-a-simple-flower/) is fine on a bag. It is a bad idea on a blanket for a baby who mouths fabric.
+The chain-2 is not a stitch. [Turning chain](/crochet-turning-chain/). Repeat row 2 until the blanket matches the length you wrote down, measured flat, not stretched.
 
-Openwork and filet look light and photograph well. They also catch fingers. Half double crochet in every stitch stays denser. If you want a softer drape, go up one hook size and remeasure, instead of switching to a mesh stitch.
+Checkpoint every 10 rows: the count is still 90, or your number, and the side is not walking. A blanket that gains a stitch on one edge becomes a trapezoid. It will not lie flat on a mattress. On a piece this wide you will not see the gain in the first foot. Count anyway.
 
-## Washing
+Fasten off. Weave ends for several inches inside the fabric. A knot on the corner is a hard lump. [Weaving ends](/weaving-in-ends-and-blocking/).
 
-Wash and dry the swatch the way the blanket will be washed before you trust the size. Cotton grows. Some acrylic relaxes. A blanket that was 30 in on the blocking mat can be a different blanket after a dryer.
+## What stays off the blanket
+
+No buttons, beads, sewn flowers, or long ties. Open mesh looks light and catches fingers. If you want a softer fabric, go up one hook size, wash a new swatch, and recount. Do not switch to a hole stitch to get drape.
 
 ## Mistakes
 
-**The edges walk sideways.** The stitch count is changing. Count every few rows. The turning chain is not a stitch in this pattern.
+**The first edge is tighter than the rest.** The chain was tight. The next blanket gets a looser chain or a larger hook for that chain only. Pulling the finished edge will not add the missing length.
 
-**One skein looks like enough.** It is not, unless the band's yardage and your swatch math say so. Running out mid-blanket in a new dye lot shows as a stripe.
+**The sides bow outward.** The count crept up. Rip back to the last correct row.
 
-**The chain edge is tighter than the rows.** Chain loosely, or use a hook one size larger for the foundation chain only.
+**One skein looked like enough.** The band's yards were never multiplied by the stitch count. A second dye lot is now a stripe.
 
 ## Frequently asked
 
-### Is this safe for a newborn?
+### Is the plain stitch enough for a newborn?
 
-The stitch is a plain fabric, which is the right kind of structure. Safety still depends on the yarn, the wash, and keeping extras off the surface. Follow the yarn band, and skip anything that can come loose.
+It is a solid fabric without holes and without sewn-on parts. That is the construction this page can stand behind. It is not a safety test. Use the yarn the band says you can wash, and skip anything that can come loose.
 
-### Can I make it in single crochet?
+### Can I use single crochet?
 
-Yes. It will be thicker, slower, and use more yarn. Recalculate the chain from a single-crochet swatch. Do not reuse the 90-stitch number.
+Yes. It is denser, slower, and it uses a different gauge. Swatch single crochet, wash it, and recount. Do not reuse 90.
+
+## Next
+
+The small version of this rectangle, where an inch of error matters less, is the [beginner scarf](/how-to-crochet-a-beginner-scarf/). If the chain edge keeps losing the first stitch, the repair is the [turning chain](/crochet-turning-chain/) page, worked on a swatch before you chain 92.

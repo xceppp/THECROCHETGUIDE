@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Stitches back down a 7-chain leaf</title>
+<desc>Chain 7. Skip the first chain. Then single, half double, double, double, half double, single. That is 6 stitches on 6 chains, one side of the chain only.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">One pass down the chain</text>
+<text class="soft" x="32" y="100">Chain 7. The first chain is skipped.</text>
+<path class="ink" d="M40 160 H560"/>
+<text class="soft" x="40" y="200">sc</text>
+<text class="soft" x="120" y="200">hdc</text>
+<text class="soft" x="210" y="200">dc</text>
+<text class="soft" x="300" y="200">dc</text>
+<text class="soft" x="390" y="200">hdc</text>
+<text class="soft" x="490" y="200">sc</text>
+<text class="label" x="32" y="270">1 + 1 + 2 + 1 + 1 = 6 stitches</text>
+<text class="soft" x="32" y="320">This is a tapered strip, not a leaf with</text>
+<text class="soft" x="32" y="350">stitches on both sides of a spine.</text>
+<text class="soft" x="32" y="384">A second side would be a different count. It is not given here.</text>
+</svg>

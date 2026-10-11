@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Same stitch count, two scarf widths</title>
+<desc>Twenty-four half double crochet at 3 stitches per inch are 8 inches wide. The same 24 stitches at 0.4 inch each are 9.6 inches wide.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 8; stroke-linecap: round; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 8; stroke-linecap: round; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">24 stitches are not one width</text>
+<path class="mark" d="M32 120 H272"/>
+<text class="soft" x="32" y="100">3 per inch: 24 / 3 = 8 in</text>
+<path class="hook" d="M32 210 H368"/>
+<text class="soft" x="32" y="190">0.4 in each: 24 x 0.4 = 9.6 in</text>
+<text class="label" x="32" y="290">Count comes from your swatch.</text>
+<text class="soft" x="32" y="328">An 8 inch scarf at 0.4 inch per stitch</text>
+<text class="soft" x="32" y="358">needs 8 / 0.4 = 20 stitches, then chain 22.</text>
+<text class="soft" x="32" y="388">The chain-2 is skipped. It is not a stitch.</text>
+</svg>

@@ -1,126 +1,117 @@
 ---
 title: "How to Crochet a Simple Flower (Beginner Appliqué)"
-description: "Crochet a flat five-petal flower in the round: magic ring center, petal round, optional leaf. Sew it onto hats, scrunchies, bags, and gifts."
+description: "A flat five-petal flower: five center stitches, one petal in each. US terms. The leaf is one pass down a chain. Not a measured sample."
 pubDate: 2026-10-01
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
 printable: true
 featured: true
-tags:
-  [
-    "flower",
-    "applique",
-    "beginner",
-    "how to",
-    "gift",
-    "in the round",
-  ]
+draft: false
+tags: ["flower", "applique", "beginner", "how to", "gift", "in the round"]
+glance:
+  time: "A center round, then one petal round"
+  size: "Unmeasured. Worsted makes a small appliqué."
+  yarn: "Worsted scraps: center, petals, optional green"
+  hook: "The hook that keeps the petals from cupping hard"
+  yardage: "Scrap. Not weighed."
 ---
 
-A flat crochet flower is an appliqué: one center and one petal round, small enough to sew onto something else. The picture is an illustration.
+This flower is an appliqué: a center of 5 single crochet, then one petal in each of those stitches. It is sewn onto something else. It is not a stem, a rose, or a measured blossom.
 
-This version is one center plus one petal round. If you can work a [magic ring](/crochet-in-the-round/) and a few double crochets, you can finish a flower in about fifteen minutes.
+US terms. [Abbreviations](/crochet-abbreviations-chart/). You need a [magic ring](/crochet-in-the-round/) or the chain substitute below, plus [double crochet](/basic-crochet-stitches/). The pictures are illustrations. No flower for this page was measured across.
 
-Five petals is the sweet spot for “reads as a flower from three feet away.” Four looks sparse. Six still works if you start with six center stitches — just keep petal count and center stitches matched so the circle stays honest.
+![A flat five-petal crochet flower in soft pink and yellow on a linen cloth](../../assets/articles/how-to-crochet-a-simple-flower-result.jpg "Illustration. A small flat flower. Not a measured sample.")
 
-![A flat five-petal crochet flower in soft pink and yellow on a linen cloth](../../assets/articles/how-to-crochet-a-simple-flower-result.jpg "Illustration. The finished look: a small flat flower ready to sew on.")
+## What is a technique, and what is only a plan
 
-## What you need
+| Piece of this page | What it is |
+| --- | --- |
+| 5 single crochet in a ring, joined | The center. Five is this flower's count, not a rule about real flowers. |
+| One petal per center stitch | The construction that keeps the circle even. |
+| Petal = chain 2, 3 double, chain 2, slip stitch, all in one stitch | The stitch formula. |
+| About 2 to 2.5 inches across | An old estimate in worsted. It was not measured. |
+| Leaf = one row back down chain 7 | A tapered strip. Not a leaf worked on both sides of a spine. |
 
-- Worsted-weight yarn in **petal color** and scrap **center color** (yellow or cream) — [yarn weight chart](/yarn-weight-chart/)
-- Optional scrap **green** for a leaf
-- Hook matched to the yarn, often US G/6 (4.0 mm) or H/8 (5.0 mm) — [hook size chart](/crochet-hook-size-conversion-chart/)
-- Yarn needle
+## Step 1: Five stitches in the center
 
-US terms. [Abbreviations chart](/crochet-abbreviations-chart/) if anything is unfamiliar.
+Worsted in a center color and a petal color. A US G/6 (4.0 mm) or H/8 (5.0 mm) is a common match for worsted. Use the hook that lets you see 5 separate stitches. [Yarn weights](/yarn-weight-chart/). [Hook chart](/crochet-hook-size-conversion-chart/).
 
-## Finished size
+**Round 1.** Magic ring, 5 single crochet, slip stitch to the first single crochet to join. (5)
 
-About **2–2.5 in** across in worsted. Smaller hook or DK yarn makes a neater appliqué for thin straps; thicker yarn makes a bold reel prop.
+Pull the ring shut before you start petals. A loose ring is a hole in the middle of the flower.
 
-## Step 1: make the center
+If the ring will not close, chain 2 and work 5 single crochet into the second chain, then join. That center has a small hole. The petals cover some of it. They do not change the count.
 
-![Hands crocheting a small yellow magic-ring center for a flower](../../assets/articles/how-to-crochet-a-simple-flower-1.jpg "Illustration. Step 1 — a tight center. Pull the ring closed before you start petals.")
+![Hands crocheting a small yellow magic-ring center for a flower](../../assets/articles/how-to-crochet-a-simple-flower-1.jpg "Illustration. Close the ring before the petals. The hands are not a gauge.")
 
-With center color:
+Fasten off the center color if you want fewer carried strands. Leave enough tail to weave.
 
-**Rnd 1.** Magic ring, 5 sc. Join with sl st to first sc. (5)
+## Step 2: One petal in each stitch
 
-Pull the ring closed firmly. Fasten off center color, leaving a short tail to weave later — or carry it if you prefer fewer ends.
+Join the petal color in any center stitch.
 
-If magic rings still fight you, ch 2 and work 5 sc in the second chain from the hook, then join. The center will have a tiny hole; that is fine under petals.
+**Petal.** In that same stitch: chain 2, 3 double crochet, chain 2, slip stitch into the same stitch.
 
-## Step 2: work the petals
+Move to the next center stitch and repeat, until there are 5 petals. Slip stitch to the base of the first petal if you want a tidy close. Fasten off and leave a long tail for sewing.
 
-![A crochet hook forming open petals around a small flower center](../../assets/articles/how-to-crochet-a-simple-flower-2.jpg "Illustration. Step 2 — each petal is a short burst of taller stitches into one center stitch.")
+<figure class="diagram">
+<img src="/diagrams/flower-petals.svg" alt="Diagram of five center stitches, with one petal in each. The petal is chain 2, three double crochet, chain 2, and a slip stitch in that same stitch." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Five centers, five petals. The next petal starts in the next stitch, not in the one you just used.</figcaption>
+</figure>
 
-Join petal color in any center stitch.
+Checkpoint: five lobes, and you can still find five center stitches under them. Two petals in one stitch leave another stitch empty. That empty stitch reads as a gap. An extra petal has to steal space, and the circle stops being round.
 
-**Petal.** Into the same stitch: *ch 2, 3 dc, ch 2, sl st.* That is one petal.
+The slip stitch that closed round 1 is not a sixth stitch. If you put a petal in it, you get a sixth lobe and the first petal gets crowded. Petals go in the five single crochets only.
 
-Move to the next center stitch and repeat until you have **5 petals**. Join with a slip stitch to the base of the first petal. Fasten off with a long tail for sewing.
+If a petal looks like a tight knot, the doubles were pulled short. If the petals cup into a bowl, the doubles are too tall for the ring or the hook is small. Go up a hook and make another center. Do not block acrylic with an iron. The petals can melt.
 
-You should see five distinct lobes. If a petal looks skinny, your dc are too tight — loosen the yarn overs. If petals cup hard, go up a hook size.
+![A crochet hook forming open petals around a small flower center](../../assets/articles/how-to-crochet-a-simple-flower-2.jpg "Illustration. Each petal is a short group of taller stitches in one center stitch.")
 
-<div class="tip">
+## Step 3: The leaf is one pass, if you want it
 
-**Count out loud: one petal per center stitch.** Five center stitches, five petals. Skip a stitch and you get a gap that looks like a missing tooth on camera.
+Chain 7 in green. Single crochet in the second chain from the hook, half double in the next, double in the next 2, half double in the next, single crochet in the last.
 
-</div>
+That is 6 stitches on the 6 chains that remain after the skip: 1 + 1 + 2 + 1 + 1.
 
-## Step 3: optional leaf
+<figure class="diagram">
+<img src="/diagrams/flower-leaf.svg" alt="Diagram of chain 7 with the first chain skipped, then single, half double, double, double, half double, single. Six stitches, one side of the chain only." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The two doubles are the wide part of the strip. There is no second side.</figcaption>
+</figure>
 
-![A small green crochet leaf beside a finished flower appliqué](../../assets/articles/how-to-crochet-a-simple-flower-3.jpg "Illustration. Step 3 — a quick leaf: chain, then stitches back down the chain.")
+![A small green crochet leaf beside a finished flower appliqué](../../assets/articles/how-to-crochet-a-simple-flower-3.jpg "Illustration. A tapered strip, not a measured leaf.")
 
-With green: ch 7. Sc in second ch from hook, hdc in next, dc in next 2, hdc in next, sc in last. That is 6 stitches on the 6 chains after the one the first stitch skipped: 1 + 1 + 2 + 1 + 1. Fasten off with a tail. Sew under one side of the flower so only part of the leaf shows.
+Sew it under one side of the flower so part of it shows. Skip it if you only need the flower. A leaf with stitches down both sides of the chain is a second pass. This page does not give that count, because it was not checked.
 
-Skip the leaf for the fastest reel. Add it when you want a gift-ready flat lay.
+## Step 4: Sew the center and the petal bases
 
-## Step 4: sew it on
+Thread the petal tail. Sew the center to the fabric, then catch the base of each petal once. A flower sewn only through the center can flip. Glue is not the method here. It is not a wash test, and it is not a substitute for the stitches.
 
-![A tapestry needle sewing a crochet flower onto fabric](../../assets/articles/how-to-crochet-a-simple-flower-4.jpg "Illustration. Step 4 — stitch through the center and a few petal bases so the flower stays flat.")
+![A tapestry needle sewing a crochet flower onto fabric](../../assets/articles/how-to-crochet-a-simple-flower-4.jpg "Illustration. Sew the center and the base of each petal.")
 
-Thread the long petal-color tail. Sew through the flower center into the host fabric (scrunchie, cozy, hat), then catch the base of each petal once so the flower cannot flip. Weave ends on the back.
+Do not sew this onto the [baby blanket](/how-to-crochet-a-baby-blanket/). A flower that can be pulled off does not belong where a child mouths fabric. A [scrunchie](/how-to-crochet-a-scrunchie/) or the flap of a [mug cozy](/crochet-mug-cozy-for-beginners/) is a place where an appliqué is decoration, not a loose part on a blanket.
 
-Do not glue it for wearables — glue cracks. Sewing holds through washes better.
+## Mistakes
 
-## Where to put them
+**The center is a hole.** The ring was not pulled shut. Close it before the petals, or the petals lock the hole open.
 
-Sew flowers onto a [scrunchie](/how-to-crochet-a-scrunchie/), the flap of a [mug cozy](/crochet-mug-cozy-for-beginners/), a plain beanie, a gift bag, or the corner of a [Halloween card wallet](/halloween-crochet-card-wallet/) when you want a non-ghost option. For Christmas reels, make white petals with a gold or pale yellow center and pin them next to a [snowflake](/how-to-crochet-a-snowflake/).
+**Four petals, or six, on five stitches.** Match the counts. Six petals need six center stitches, which is a different round.
 
-Batch work: finish ten centers first, then all the petal rounds, then sew. Assembly-line order is faster than completing each flower start to finish when you are stocking a craft fair or a teacher gift set.
+**The flower is wider than the strap you sewed it to.** Worsted on a narrow strap looks out of scale. A lighter yarn is a new swatch, not the same five stitches squeezed.
 
-## Mistakes that flatten the charm
-
-**Leaving the magic ring loose.** The center becomes a hole. Pull it shut before petals.
-
-**Six petals on five stitches.** You will steal stitches and warp the circle. Match petal count to center stitches.
-
-**Sewing only the center.** Petals flip up in a bag. Anchor petal bases.
-
-**Giant yarn on a tiny strap.** Scale down with DK if the flower wider than the item looks silly.
-
-**Blocking with an iron on acrylic.** You will melt the petals. Steam from above or skip blocking — flat flowers rarely need it.
+**Petals flipped after washing.** Only the center was sewn. Catch the five bases.
 
 ## Frequently asked
 
-### How long does one flower take?
+### Is this a rose?
 
-About fifteen minutes after the first one. Batch five in an evening for a gift set.
+No. A rose is a long ruffle rolled up. This is one flat round of petals.
 
-### Can I make a rose instead?
+### Do I have to know double crochet?
 
-A rose is a different construction (a long ruffled strip rolled up). This page is the flat appliqué that beginners finish. Master this, then graduate.
+Yes for this petal. The three doubles are what make the lobe. Single crochet in the same places makes a bump, not this petal. The stitch is in [basic stitches](/basic-crochet-stitches/).
 
-### What colors pin best?
+## Next
 
-Bright solids on a neutral background. Variegated yarn muddies petal edges on phone cameras.
-
-### Do I need to know double crochet?
-
-Yes for this petal shape. If you only know single crochet, learn dc in [basic stitches](/basic-crochet-stitches/) first — five minutes of practice, then come back.
-
-### What should I make next?
-
-Sew one onto a [scrunchie](/how-to-crochet-a-scrunchie/) or [mug cozy](/crochet-mug-cozy-for-beginners/). For seasonal makes, try a [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/) or [snowflake](/how-to-crochet-a-snowflake/).
+The ring that starts the center is practiced on [crochet in the round](/crochet-in-the-round/). A flat motif with a different count, six points instead of five petals, is the [snowflake](/how-to-crochet-a-snowflake/).

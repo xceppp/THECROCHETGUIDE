@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>One petal in each center stitch</title>
+<desc>Five single crochet in the center, then one petal in each: chain 2, three double crochet, chain 2, slip stitch in that same stitch.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; }
+  .hook { fill: #b0604a; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">5 center stitches, 5 petals</text>
+<circle cx="160" cy="180" r="36" fill="#f3e6d4" stroke="#6b4428" stroke-width="4"/>
+<circle class="hook" cx="160" cy="150" r="5"/>
+<circle class="hook" cx="186" cy="168" r="5"/>
+<circle class="hook" cx="176" cy="202" r="5"/>
+<circle class="hook" cx="144" cy="202" r="5"/>
+<circle class="hook" cx="134" cy="168" r="5"/>
+<text class="soft" x="280" y="120">In one stitch:</text>
+<text class="label" x="280" y="160">ch 2, 3 dc, ch 2, sl st</text>
+<text class="soft" x="280" y="200">Then the next stitch.</text>
+<text class="soft" x="280" y="240">Do not put two petals in one</text>
+<text class="soft" x="280" y="270">and skip the next.</text>
+<text class="soft" x="32" y="330">A skipped center stitch is a gap. An extra petal</text>
+<text class="soft" x="32" y="364">has no stitch of its own and pulls the circle off round.</text>
+</svg>

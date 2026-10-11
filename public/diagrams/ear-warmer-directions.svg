@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Chain sets width, rows set length</title>
+<desc>On the ear warmer the starting chain is the width of the band. Each row adds length around the head. Adding rows does not make the band wider.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; }
+  .hook { fill: none; stroke: #b0604a; stroke-width: 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">Two directions, two jobs</text>
+<rect x="48" y="90" width="220" height="70" fill="#f3e6d4" stroke="#6b4428" stroke-width="6"/>
+<text class="soft" x="70" y="132">chain = width</text>
+<path class="hook" d="M268 125 H520"/>
+<text class="soft" x="300" y="110">rows = circumference</text>
+<text class="label" x="32" y="230">More chains: a wider band.</text>
+<text class="label" x="32" y="270">More rows: a longer loop.</text>
+<text class="soft" x="32" y="320">12 stitches at 3.5 per inch are about 3.4 in wide.</text>
+<text class="soft" x="32" y="354">20 inches times 3.5 rows is 70 rows only if</text>
+<text class="soft" x="32" y="384">the row gauge really is 3.5. Measure rows apart.</text>
+</svg>

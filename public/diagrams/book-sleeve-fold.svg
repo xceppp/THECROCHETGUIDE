@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Folding the book-sleeve rectangle</title>
+<desc>For the example, 60 rows at 5 rows per inch are 12 inches. Folding row 1 to row 60 makes a 6 inch sleeve. The stitch width stays 5.5 inches and becomes the opening.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 16px; fill: #6d635a; }
+  .ink { fill: none; stroke: #2f2a26; stroke-width: 3; }
+  .mark { fill: none; stroke: #7d8b72; stroke-width: 3; stroke-dasharray: 6 4; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="48">Flat: 22 sts by 60 rows</text>
+<rect x="40" y="70" width="120" height="240" fill="#f3e6d4" stroke="#6b4428" stroke-width="6"/>
+<text class="soft" x="52" y="190">12 in tall</text>
+<text class="soft" x="48" y="330">5.5 in wide</text>
+<path class="mark" d="M40 190 H160"/>
+<text class="label" x="280" y="48">Folded in half</text>
+<rect x="280" y="150" width="120" height="120" fill="#f3e6d4" stroke="#6b4428" stroke-width="6"/>
+<text class="soft" x="292" y="210">6 in tall</text>
+<text class="soft" x="292" y="250">opening on top</text>
+<text class="soft" x="430" y="180">Sew the two side edges.</text>
+<text class="soft" x="430" y="210">Leave the top open.</text>
+<text class="soft" x="32" y="360">60 / 5 = 12, and 12 / 2 = 6. Only at 5 rows per inch.</text>
+<text class="soft" x="32" y="390">22 / 4 = 5.5 in wide. Only at 4 stitches per inch.</text>
+</svg>

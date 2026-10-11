@@ -1,85 +1,118 @@
 ---
 title: "Easy Crochet Scarf for Beginners"
-description: "A straight half double crochet scarf: one width, one stitch, and how to stop the edges from slanting. Not a yarn-tested sample."
+description: "Plan a half double crochet scarf from your swatch. US terms. Width is the stitch count. Length is the rows. Not a tested scarf."
 pubDate: 2026-10-09
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
 printable: true
 draft: false
 tags: ["scarf", "beginner", "half double crochet", "winter"]
+glance:
+  time: "One stitch, repeated until the tape matches"
+  size: "Width from the swatch. Length from a tape."
+  yarn: "Worsted, something with drape"
+  hook: "The hook that matches your swatch"
+  yardage: "Not weighed. Weigh the skein before and after."
 ---
 
-A first scarf should be a rectangle. One stitch, the same count every row, and a width you can check with a tape measure. A [hooded scarf](/how-to-crochet-a-hooded-scarf/) is a later project. This one is the plain version.
+A first scarf is a rectangle of [half double crochet](/basic-crochet-stitches/). The chain decides the width. The rows decide the length. Nothing is shaped, seamed, or fitted. If the edges slant, the stitch count changed.
 
-<div class="warning">
+US terms. US half double crochet is not the UK half treble. [Abbreviations](/crochet-abbreviations-chart/). The picture is an illustration. No scarf for this page was crocheted and measured.
 
-Row counts below come from a planning gauge, not from a finished scarf. The photo is an illustration. Work a short swatch, measure it, and then decide how many rows you need.
+![A folded oatmeal crochet scarf on a wood bench](../../assets/articles/how-to-crochet-a-beginner-scarf-result.jpg "Illustration. A plain half double crochet rectangle. Not a tested scarf.")
 
-</div>
+## What is a technique, and what is only a plan
 
-![A folded oatmeal crochet scarf on a wood bench](../../assets/articles/how-to-crochet-a-beginner-scarf-result.jpg "Illustration. A plain half double crochet scarf. Not a photograph of a tested sample.")
+| Piece of this page | What it is |
+| --- | --- |
+| Half double, chain-2 not counted | The stitch rule. The first stitch of a new row goes into the first real stitch. |
+| Width = stitches times your stitch width | The method. The swatch supplies the width of one stitch. |
+| 3 hdc and 2.5 rows to the inch | An unverified gauge used so the example has numbers. |
+| 24 stitches and about 150 rows | Arithmetic for an 8 inch by 60 inch scarf at that gauge only. |
+| "About 7 to 8 inches wide" | A preference for a first scarf, not a size that was worn. |
 
-## What you need
+## Step 1: Pick a width and a length with a tape
 
-- Worsted-weight yarn, acrylic or a washable wool blend. [Yarn weights](/yarn-weight-chart/).
-- US H/8 (5.0 mm) hook, or the hook on the yarn band. [Hook chart](/crochet-hook-size-conversion-chart/).
-- Yarn needle and a tape measure.
+Decide the width you want against your coat, and the length from one end to the other the way you will wear it. Eight inches wide and 60 inches long is the example. A taller person, or someone who tucks the ends into a coat, needs a longer tape, not a longer guess.
 
-Yardage depends on how long you make it. Do not buy a single small skein and assume it is enough. Weigh the yarn before you start, work until the scarf is the length you want, and weigh what is left.
+<figure class="diagram">
+<img src="/diagrams/half-double-crochet.svg" alt="Diagram of half double crochet: yarn over before inserting, three loops on the hook, then one pull through all three." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Yarn over once before the hook goes in. Three loops, then one pull through all three.</figcaption>
+</figure>
 
-US terms. US half double crochet is not the UK half treble under the same name. If a UK pattern says hdc, stop and translate. [Abbreviations](/crochet-abbreviations-chart/). The stitch itself is in [basic stitches](/basic-crochet-stitches/).
+## Step 2: Turn a swatch into a stitch count
 
-## Finished size
+The planning gauge is **3 hdc = 1 inch** and **2.5 rows = 1 inch** in worsted with a US H/8 (5.0 mm) hook. It was not measured on a finished scarf. [Gauge](/crochet-gauge/). [Hook chart](/crochet-hook-size-conversion-chart/).
 
-A useful beginner scarf is about 7 to 8 in wide and 60 to 70 in long. The pattern below aims at the narrow end of that, so a first project finishes before you hate it.
+Work about 15 half doubles for several rows. Measure 10 stitches in the middle. Two cases:
 
-## Gauge (planning numbers, not a measured swatch)
+- Those 10 stitches are 4 inches. Each stitch is 4 ÷ 10 = **0.4 inch**. An 8 inch width needs 8 ÷ 0.4 = **20 stitches**.
+- The planning gauge holds: 8 × 3 = **24 stitches**.
 
-About 3 hdc and 2.5 rows to 1 in in worsted with a US H hook. If your swatch is tighter, the scarf will be narrower and you will need more rows for the same length. [How to measure gauge](/crochet-gauge/).
+Half double on this page starts in the third chain, so the chain is the stitch count plus 2. Twenty stitches start with chain 22. Twenty-four stitches start with chain 26.
 
-Use your own swatch for the width. Measure 10 half double crochet in the middle of a few rows. If those 10 stitches are 4 inches, each stitch is 0.4 inch, and an 8-inch scarf needs 8 ÷ 0.4 = 20 stitches. Chain 22, because this stitch starts in the third chain (20 + 2). The 24-stitch pattern below only matches the planning gauge of 3 stitches per inch: 24 ÷ 8 = 3. At 0.4 inch per stitch, those same 24 stitches would be 9.6 inches wide.
+The same 24 stitches are not 8 inches if your stitch is 0.4 inch wide. 24 × 0.4 = **9.6 inches**. That is the usual surprise: the pattern count was copied, and the scarf came out wide.
 
-## Abbreviations
+<figure class="diagram">
+<img src="/diagrams/scarf-width.svg" alt="Diagram comparing 24 half double crochet at 3 per inch, which is 8 inches, with the same 24 stitches at 0.4 inch each, which is 9.6 inches. An 8 inch scarf at that looser gauge needs 20 stitches." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>Use the count from the swatch. Twenty-four is only the 3-per-inch case.</figcaption>
+</figure>
 
-ch, hdc, st. The turning chain does **not** count as a stitch. That choice keeps the edge from gaining a stitch every row. [Turning chain](/crochet-turning-chain/).
+Measure rows in that same swatch, separately. Stitches per inch and rows per inch are not the same number. A 60 inch scarf at 2.5 rows per inch is 60 × 2.5 = **150 rows**. If you get 3 rows per inch, 60 inches is 180 rows. Do not treat 150 as required.
 
-## Scarf
+## Materials
 
-**Row 1.** Ch 26. Hdc in the 3rd ch from the hook and in each ch across. (24 hdc)
+Worsted yarn with some drape. Acrylic and a washable wool blend both work if the swatch feels like a scarf and not a mat. Cotton is usually stiffer. [Yarn weights](/yarn-weight-chart/).
 
-**Row 2.** Ch 2, turn. Hdc in the first stitch (the one at the base of the chain) and in each hdc across. (24)
+The hook is the one that made the swatch, not automatically an H. Yarn needle and a tape. Weigh the skein before you start and again when you stop. This page has no weighed yardage.
 
-Repeat row 2 until the scarf is as long as you want. At the planning gauge, 60 in is about 150 rows. Count a 4 in sample of your own rows and multiply. Do not treat 150 as a required number.
+## Step 3: Keep the same count every row
 
-Fasten off. Weave the ends along the edge for an inch so a tug does not pop them out. [Weaving ends](/weaving-in-ends-and-blocking/).
+Chain-2 does not count as a stitch. [Turning chain](/crochet-turning-chain/).
 
-## Check the width
+These rows are the **24-stitch example**. If step 2 gave you another number, use that number. The shape of the row does not change.
 
-After row 2, count 24 stitches. If you have 25, you worked into the turning chain. If you have 23, you skipped the first stitch. Fix it now. A scarf that gains one stitch a row becomes a triangle by the end.
+**Row 1.** Chain 26. Half double in the third chain from the hook and in each chain across. (24)
 
-## Customizing
+**Row 2.** Chain 2, turn. Half double in the first stitch, the one at the base of the chain, and in each stitch across. (24)
 
-**Wider.** Add stitches in multiples of 1. Chain 32 for 30 hdc if you want closer to 10 in at the planning gauge.
+<figure class="diagram">
+<img src="/diagrams/scarf-first-stitch.svg" alt="Diagram of a row of stitches with a chain-2 at the end that is skipped. The first half double of the next row goes into the first real stitch." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>The chain is turned out of the way. The first half double uses the first stitch of the row you just finished.</figcaption>
+</figure>
 
-**Stripes.** Change color at the end of a row, on the last yarn-over of the last hdc. [Changing color](/changing-yarn-color-crochet/).
+Repeat row 2 until the scarf matches the tape. Count the stitches every 10 rows. You want 24, or your own number.
 
-**Warmer and shorter.** Stop near 50 in and wear it doubled. The [ear warmer](/how-to-crochet-an-ear-warmer/) and [fingerless gloves](/how-to-crochet-fingerless-gloves/) use the same yarn if you have some left.
+Checkpoint after row 2: if you have 25, the hook went into the turning chain. If you have 23, the first stitch was skipped. Fix it before the scarf is a wedge. One extra stitch every row, over 150 rows, is 149 extra stitches at the far end.
+
+Fasten off. Weave the ends along the side for an inch or more, not straight out the short end. [Weaving ends](/weaving-in-ends-and-blocking/).
+
+## A wider scarf, or stripes
+
+Add stitches before you chain, using your own stitch width. At the planning gauge only, 30 stitches are 10 inches and the chain is 32. That is a preference, not a tested drape.
+
+Change color on the last yarn-over of the last half double of a row, so the new color starts cleanly on the next row. [Changing color](/changing-yarn-color-crochet/).
 
 ## Mistakes
 
-**The edges slant.** You are counting the turning chain as a stitch on some rows and not others. Pick one rule. This pattern says the chain does not count, and the first hdc goes into the first real stitch.
+**The long edges slant.** The count is changing at the turn. Pick up the rule in the diagram and count.
 
-**The fabric is stiff.** The hook is too small, or the yarn is cotton. A scarf wants drape. Go up a hook size.
+**The scarf is stiff.** The hook is small for the yarn, or the fiber has no give. Go up a hook and remeasure. Do not steam acrylic with an iron. The yarn band is the heat limit.
 
-**The ends look chewed.** Weave in along the side, not straight out the short end.
+**The ends pop out.** They were woven straight off the short edge. Take them back along the side.
 
 ## Frequently asked
 
-### Is half double crochet harder than single crochet?
+### Is half double harder than single crochet?
 
-It is one extra yarn-over. The fabric grows faster, which is why it is a better scarf stitch than single crochet for a first long project.
+It is one yarn-over before the insert, then one pull through three loops. The stitch is taller than single crochet, so a scarf needs fewer rows for the same length. Recalculate if you switch stitches. Do not keep the half-double numbers.
 
-### Do I need to block a scarf?
+### Do I block it?
 
-Only if the edges curl. Wet-block or steam according to the yarn band. Acrylic can be killed by a hot iron.
+Only if the edges curl and the yarn band allows water or steam. A hot iron can flatten acrylic for good.
+
+## Next
+
+A band that goes around the head, with the chain and the rows swapped in meaning, is the [ear warmer](/how-to-crochet-an-ear-warmer/). The same rectangle, made much wider, is the [baby blanket](/how-to-crochet-a-baby-blanket/). A hood on the scarf is a different fold, and the old hood counts on that page do not fit an adult: [how a hooded scarf is folded](/how-to-crochet-a-hooded-scarf/).
