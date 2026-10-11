@@ -29,7 +29,7 @@ glance:
 
 A bare earbud case disappears in a bag. A small black bat with purple wings is easy to spot, but only if the case still fits and the flap still closes once the wings are on. Decorations sewn on the outside take up room and shift the balance. Put them in the wrong place and the pouch either tips over or will not shut.
 
-The pouch itself is a cup sized to the case. The [earbud pouch](/how-to-crochet-an-earbud-pouch/) explains in detail how to size one by measuring around the case, so this page keeps the sizing short. What this page adds is the appliqué: shaping a flat triangle with decreases, adding picots to an edge, and sewing parts on where they stay out of the way.
+The pouch itself is a cup sized to the case. The round-pouch method in the [device case guide](/how-to-crochet-a-device-case/) explains in detail how to size one by measuring around the case, so this page keeps the sizing short. What this page adds is the appliqué: shaping a flat triangle with decreases, adding picots to an edge, and sewing parts on where they stay out of the way.
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pouch for this page was crocheted. Inches are estimates from the example gauge.
 
@@ -200,4 +200,4 @@ Yes. Do not republish the pattern.
 
 ## Next
 
-Sizing a case by its perimeter, in more detail, is the [earbud pouch](/how-to-crochet-an-earbud-pouch/). Another flat piece with a closure and a decoration is the [card wallet](/halloween-crochet-card-wallet/).
+Sizing a case by its perimeter, in more detail, is the round-pouch method in the [device case guide](/how-to-crochet-a-device-case/). Another flat piece with a closure and a decoration is the [card wallet](/halloween-crochet-card-wallet/).

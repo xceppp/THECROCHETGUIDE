@@ -38,7 +38,7 @@ The [ornament ideas](/easy-crochet-christmas-ornaments/) page lists fifteen shap
 - [Chunky beanie](/how-to-crochet-a-chunky-beanie/). Bulky yarn finishes faster than worsted. Measure the head.
 - [Ear warmer](/how-to-crochet-an-ear-warmer/). A good gift when you do not know the hat size.
 - [Fingerless gloves](/how-to-crochet-fingerless-gloves/). Measure the hand first. With the thumb gap opposite the round join, both gloves are worked the same.
-- [Book sleeve](/how-to-crochet-a-book-sleeve/). Measure the book. The same shape fits many e-readers if you measure the device instead of guessing a brand size.
+- [Book or e-reader sleeve](/how-to-crochet-a-device-case/). Measure the device. The same folded shape fits many e-readers if you measure it instead of guessing a brand size.
 - [Wine bottle bag](/how-to-crochet-a-wine-bottle-bag/). The bottle is the form. Crochet to that bottle.
 
 ## If you are starting in October
@@ -52,8 +52,8 @@ The [ornament ideas](/easy-crochet-christmas-ornaments/) page lists fifteen shap
 
 ## People who do not want another hat
 
-- [Ghost candy bag](/how-to-crochet-a-ghost-candy-bag/) if Halloween yarn is still out, or the [makeup pouch](/how-to-crochet-a-makeup-pouch/) and [pumpkin zipper pouch](/how-to-crochet-a-pumpkin-zipper-pouch/).
-- [Laptop sleeve](/how-to-crochet-a-laptop-sleeve/) or [phone case](/how-to-crochet-a-phone-case/) only if you can measure the device. A guessed phone size is a gift that does not fit. A phone with a strap is the [phone crossbody](/how-to-crochet-a-phone-crossbody/).
+- [Drawstring bag](/how-to-crochet-a-drawstring-bag/) if Halloween yarn is still out, or the [makeup pouch](/how-to-crochet-a-makeup-pouch/) and [pumpkin zipper pouch](/how-to-crochet-a-pumpkin-zipper-pouch/).
+- [Laptop sleeve](/how-to-crochet-a-device-case/) or [phone case](/how-to-crochet-a-phone-case/) only if you can measure the device. A guessed phone size is a gift that does not fit. A phone with a strap is the [phone crossbody](/how-to-crochet-a-strap-bag/).
 - [Market bag](/how-to-crochet-a-market-bag/) for someone who actually carries one.
 - [Bowl cozy](/how-to-crochet-a-bowl-cozy/) only if you read the heat section first. It is cotton, it is not a hot pad, and it does not claim to be microwave-safe.
 

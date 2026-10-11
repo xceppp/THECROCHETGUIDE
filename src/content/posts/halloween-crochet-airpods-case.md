@@ -83,7 +83,7 @@ If your gauge is different, keep the method and change the numbers: count the si
 
 ## How the case is built
 
-The sleeve is a flat-bottomed tube with trimmings. An oval base worked around a short foundation chain matches the oblong footprint better than a round circle would. Its two straight sides run along the case's width and the rounded ends curve around its thickness, so the base is shaped by both measurements while the perimeter sets how many stitches it takes to close around them. Once the base is the right size around, the increases stop and the walls go straight up — the same turn-up you see in [crochet in the round](/crochet-in-the-round/). The ears are small flat triangles, the flap is a few rows worked on the back stitches, and the face is embroidered on at the end. If you want the plain version without a Halloween face, the [earbud pouch](/how-to-crochet-an-earbud-pouch/) is the same construction with a round base, and the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) closes the same tube with a drawstring.
+The sleeve is a flat-bottomed tube with trimmings. An oval base worked around a short foundation chain matches the oblong footprint better than a round circle would. Its two straight sides run along the case's width and the rounded ends curve around its thickness, so the base is shaped by both measurements while the perimeter sets how many stitches it takes to close around them. Once the base is the right size around, the increases stop and the walls go straight up — the same turn-up you see in [crochet in the round](/crochet-in-the-round/). The ears are small flat triangles, the flap is a few rows worked on the back stitches, and the face is embroidered on at the end. If you want the plain version without a Halloween face, the round-pouch method in the [device case guide](/how-to-crochet-a-device-case/) is the same construction with a round base, and a [drawstring bag](/how-to-crochet-a-drawstring-bag/) closes the same tube with a cord.
 
 ## The full pattern
 
@@ -216,4 +216,4 @@ Make the base and measure around its edge before you commit to the wall — that
 
 ## Related tutorials
 
-For the plain version of this tube, see [how to crochet an earbud pouch](/how-to-crochet-an-earbud-pouch/). For a spookier earbud case with wings, try the [gothic bat earbuds pouch](/gothic-bat-earbuds-pouch/). And for a flat sleeve that follows the same around-not-across rule, there is [how to crochet a phone case](/how-to-crochet-a-phone-case/).
+For the plain version of this tube, see the round-pouch method in [how to crochet a case for any device](/how-to-crochet-a-device-case/). For a spookier earbud case with wings, try the [gothic bat earbuds pouch](/gothic-bat-earbuds-pouch/). And for a flat sleeve that follows the same around-not-across rule, there is [how to crochet a phone case](/how-to-crochet-a-phone-case/).

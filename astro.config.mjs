@@ -146,12 +146,24 @@ export default defineConfig({
    * proper canonical tag" and it looks like a failed indexation.
    */
   trailingSlash: "always",
-  redirects: Object.fromEntries(
-    Array.from({ length: 20 }, (_, index) => [
-      `/articles/${index + 2}/`,
-      "/articles/",
-    ]),
-  ),
+  redirects: {
+    ...Object.fromEntries(
+      Array.from({ length: 20 }, (_, index) => [
+        `/articles/${index + 2}/`,
+        "/articles/",
+      ]),
+    ),
+    // Consolidated into the device-case hub (see audit/REDIRECT_PLAN.csv).
+    "/how-to-crochet-a-laptop-sleeve/": "/how-to-crochet-a-device-case/",
+    "/how-to-crochet-a-book-sleeve/": "/how-to-crochet-a-device-case/",
+    "/how-to-crochet-an-earbud-pouch/": "/how-to-crochet-a-device-case/",
+    "/how-to-crochet-a-lip-balm-holder/": "/how-to-crochet-a-device-case/",
+    "/how-to-crochet-a-ghost-coin-pouch/": "/how-to-crochet-a-drawstring-bag/",
+    "/how-to-crochet-a-ghost-candy-bag/": "/how-to-crochet-a-drawstring-bag/",
+    "/how-to-crochet-a-pumpkin-treat-bag/": "/how-to-crochet-a-drawstring-bag/",
+    "/how-to-crochet-a-mini-shoulder-bag/": "/how-to-crochet-a-strap-bag/",
+    "/how-to-crochet-a-phone-crossbody/": "/how-to-crochet-a-strap-bag/",
+  },
   integrations: [
     sitemap({
       filter: (page) =>

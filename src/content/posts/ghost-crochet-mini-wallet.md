@@ -178,4 +178,4 @@ Same rows. The fold and face do not change. See [left-handed crochet](/left-hand
 
 ## Next
 
-The method for sizing a flap pocket to any cards is the [Halloween card wallet](/halloween-crochet-card-wallet/). A drawstring pouch for coins in the same white cotton is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/). Decreases are explained in [increase and decrease](/crochet-increase-decrease/). A ghost-shaped wallet with a scalloped hem and no flap is the [ghost crochet wallet](/ghost-crochet-wallet/), part of the [Halloween crochet wallet collection](/halloween-crochet-wallets/).
+The method for sizing a flap pocket to any cards is the [Halloween card wallet](/halloween-crochet-card-wallet/). A drawstring pouch for coins is a [drawstring bag](/how-to-crochet-a-drawstring-bag/). Decreases are explained in [increase and decrease](/crochet-increase-decrease/). A ghost-shaped wallet with a scalloped hem and no flap is the [ghost crochet wallet](/ghost-crochet-wallet/), part of the [Halloween crochet wallet collection](/halloween-crochet-wallets/).

@@ -177,4 +177,4 @@ A plain sleeve sized from published measurements is yours to make. Do not copy s
 
 ## Next
 
-The same "fabric goes around, not across" rule sizes the [book sleeve](/how-to-crochet-a-book-sleeve/) and the [laptop sleeve](/how-to-crochet-a-laptop-sleeve/). A tube sized for a smaller object is the [earbud pouch](/how-to-crochet-an-earbud-pouch/).
+The same "fabric goes around, not across" rule sizes every folded sleeve in the [device case guide](/how-to-crochet-a-device-case/), from a book to a laptop. A round tube sized for a smaller object is the pouch method on that same page.

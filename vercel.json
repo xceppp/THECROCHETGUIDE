@@ -5,6 +5,51 @@
       "source": "/articles/:page(\\d+)",
       "destination": "/articles/",
       "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-a-laptop-sleeve",
+      "destination": "/how-to-crochet-a-device-case/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-a-book-sleeve",
+      "destination": "/how-to-crochet-a-device-case/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-an-earbud-pouch",
+      "destination": "/how-to-crochet-a-device-case/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-a-lip-balm-holder",
+      "destination": "/how-to-crochet-a-device-case/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-a-ghost-coin-pouch",
+      "destination": "/how-to-crochet-a-drawstring-bag/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-a-ghost-candy-bag",
+      "destination": "/how-to-crochet-a-drawstring-bag/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-a-pumpkin-treat-bag",
+      "destination": "/how-to-crochet-a-drawstring-bag/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-a-mini-shoulder-bag",
+      "destination": "/how-to-crochet-a-strap-bag/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-crochet-a-phone-crossbody",
+      "destination": "/how-to-crochet-a-strap-bag/",
+      "permanent": true
     }
   ],
   "headers": [

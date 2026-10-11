@@ -39,7 +39,7 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 Rounds 1 to 8 make a flat circle of 48 stitches. Rounds 9 to 23 are even, so the edge turns up into a cup about 3 inches tall. That cup is the pouch. A zipper is sewn inside the top edge, and a short green chain on the outside is the stem.
 
-It is not stuffed. For a solid round pumpkin, see the [pumpkin pattern](/how-to-crochet-a-pumpkin-step-by-step/). The drawstring version is the [pumpkin treat bag](/how-to-crochet-a-pumpkin-treat-bag/).
+It is not stuffed. For a solid round pumpkin, see the [pumpkin pattern](/how-to-crochet-a-pumpkin-step-by-step/). The drawstring version is the [drawstring bag](/how-to-crochet-a-drawstring-bag/).
 
 ### How a straight zipper meets a round top
 
@@ -151,7 +151,7 @@ Empty it. Hand wash cool if the zipper is nylon. Dry flat with the zipper open s
 
 **Can I skip the zipper?**
 
-Yes. Work an eyelet round near the top on the even count of 48 and use a cord, as in the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/).
+Yes. Work an eyelet round near the top on the even count of 48 and use a cord, as in the [drawstring bag](/how-to-crochet-a-drawstring-bag/).
 
 **Will it hold a phone?**
 
@@ -163,4 +163,4 @@ Crochet stretches and shifts under a presser foot. Hand sewing is easier to cont
 
 ## Next
 
-A drawstring version, sized from what goes inside, is the [makeup pouch](/how-to-crochet-a-makeup-pouch/). A white bag for more candy is the [ghost candy bag](/how-to-crochet-a-ghost-candy-bag/).
+A drawstring version, sized from what goes inside, is the [makeup pouch](/how-to-crochet-a-makeup-pouch/). A larger round drawstring version is the [drawstring bag](/how-to-crochet-a-drawstring-bag/).

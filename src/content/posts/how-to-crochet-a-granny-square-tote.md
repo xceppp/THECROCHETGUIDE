@@ -150,7 +150,7 @@ Overlap each strap end about an inch inside the bag. Sew it through both rounds 
 
 <div class="warning">
 
-A pen, a key, or a lipstick will fall through the holes. Use the [makeup pouch](/how-to-crochet-a-makeup-pouch/) for those. Rain comes through too. A [book sleeve](/how-to-crochet-a-book-sleeve/) helps only on a dry day.
+A pen, a key, or a lipstick will fall through the holes. Use the [makeup pouch](/how-to-crochet-a-makeup-pouch/) for those. Rain comes through too. A [book sleeve](/how-to-crochet-a-device-case/) helps only on a dry day.
 
 </div>
 

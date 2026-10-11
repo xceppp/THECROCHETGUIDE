@@ -50,7 +50,7 @@ Sew the loop to a solid part of the charm, weave the tail through the chain thre
 
 **Pumpkin.** Orange ball, brown seam lines, short stem. A stuffed pumpkin with a full write-up is [how to crochet a pumpkin](/how-to-crochet-a-pumpkin-step-by-step/). Use that if you want a bowl-sized pumpkin. A charm is the same idea at scrap size, and it is not written out here.
 
-**Mini ghost.** White blob and two embroidered eyes. A pouch-sized ghost with a drawstring is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/). A charm has no opening.
+**Mini ghost.** White blob and two embroidered eyes. A pouch-sized ghost with a drawstring is a [drawstring bag](/how-to-crochet-a-drawstring-bag/) with a face. A charm has no opening.
 
 **Tiny purse.** A flat rectangle folded and seamed, with a strap of chain. Beginner. It is a charm, not a coin purse. Do not expect it to hold anything.
 
@@ -139,4 +139,4 @@ Eyelash and mohair. The shape disappears, and the loop grabs every sweater you w
 
 ## Next
 
-A useful scrap that is not a charm is the [lip balm holder](/how-to-crochet-a-lip-balm-holder/). If you want a Halloween piece that holds something, use the [pumpkin treat bag](/how-to-crochet-a-pumpkin-treat-bag/) instead of a mini pumpkin charm.
+A useful scrap that is not a charm is the lip-balm holder in the [device case guide](/how-to-crochet-a-device-case/). If you want a Halloween piece that holds something, use a [drawstring treat bag](/how-to-crochet-a-drawstring-bag/) instead of a mini pumpkin charm.

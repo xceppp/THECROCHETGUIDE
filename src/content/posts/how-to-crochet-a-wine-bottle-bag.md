@@ -173,4 +173,4 @@ Any bottle you measure. Redo the table from its widest point and its height.
 
 ## Next
 
-The same base and eyelet round, smaller, is the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/). A sleeve for a cup is the [tumbler sleeve](/how-to-crochet-a-tumbler-sleeve/).
+The same base and eyelet round, smaller, is a [drawstring bag](/how-to-crochet-a-drawstring-bag/). A sleeve for a cup is the [tumbler sleeve](/how-to-crochet-a-tumbler-sleeve/).

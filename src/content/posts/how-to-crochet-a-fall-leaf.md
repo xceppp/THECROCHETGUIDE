@@ -17,7 +17,7 @@ glance:
   yardage: "Not weighed. A few yards."
 ---
 
-A fall leaf is a small flat appliqué. Sew it to a [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/), a [treat bag](/how-to-crochet-a-pumpkin-treat-bag/), or a [mug cozy](/crochet-mug-cozy-for-beginners/), or string a few into a garland.
+A fall leaf is a small flat appliqué. Sew it to a [pumpkin](/how-to-crochet-a-pumpkin-step-by-step/), a [drawstring treat bag](/how-to-crochet-a-drawstring-bag/), or a [mug cozy](/crochet-mug-cozy-for-beginners/), or string a few into a garland.
 
 It also teaches a technique that shows up in a lot of motifs: **shaping with stitch height alone.** There are no increases or decreases. You chain a short line, then work one row of stitches up one side of the chain and back down the other. Short stitches at the ends and tall stitches in the middle make a pointed oval. Change the order of heights and you change the shape.
 

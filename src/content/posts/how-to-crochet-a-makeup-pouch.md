@@ -122,7 +122,7 @@ Join yarn at one side seam at the opening. You will work around both top edges: 
 
 **Top round:** Ch 1, sc in each sc and in each ch-1 space. Slip stitch to the first sc. (56) Fasten off.
 
-The eyelet round needs an even count, because each repeat uses two stitches. If the seams took a stitch at the corners and you have 55, work 2 sc in one corner stitch before you start. The [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) shows what an odd count does to the last hole.
+The eyelet round needs an even count, because each repeat uses two stitches. If the seams took a stitch at the corners and you have 55, work 2 sc in one corner stitch before you start. The [drawstring bag](/how-to-crochet-a-drawstring-bag/) shows what an odd count does to the last hole.
 
 ## Stage 4: the cord
 
@@ -174,4 +174,4 @@ Finished pouches, yes. Do not republish the rows as your pattern.
 
 ## Next
 
-A pouch with a zipper instead of a cord is the [pumpkin zipper pouch](/how-to-crochet-a-pumpkin-zipper-pouch/). The same rectangle with a strap is the [mini shoulder bag](/how-to-crochet-a-mini-shoulder-bag/).
+A pouch with a zipper instead of a cord is the [pumpkin zipper pouch](/how-to-crochet-a-pumpkin-zipper-pouch/). The same rectangle with a strap is the [strap bag](/how-to-crochet-a-strap-bag/).

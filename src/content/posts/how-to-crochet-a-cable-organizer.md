@@ -149,4 +149,4 @@ Finished straps, yes. Do not republish the rows.
 
 ## Next
 
-A pouch for the earbud case that goes with the cable is the [earbud pouch](/how-to-crochet-an-earbud-pouch/). The same buttonhole on a wider flap closes the [phone crossbody](/how-to-crochet-a-phone-crossbody/).
+A pouch for the earbud case that goes with the cable is the round-pouch method in the [device case guide](/how-to-crochet-a-device-case/). The same buttonhole on a wider flap closes a [strap bag](/how-to-crochet-a-strap-bag/).
