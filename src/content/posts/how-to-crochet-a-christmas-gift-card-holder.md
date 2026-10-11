@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Christmas Gift Card Holder"
-description: "A small crochet pocket for one ID-1 gift card, 3.370 by 2.125 inches, folded off center so the card stays easy to pull out. US terms. Not a yarn-tested sample."
+description: "A small crochet pocket for one ID-1 gift card, 3.370 by 2.125 inches, folded off center so the card stays easy to pull out. US terms."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -56,7 +56,7 @@ Sixteen stitches at 4 per inch is 4 inches. Whipstitched side seams take up roug
 
 ## Yarn and hook
 
-![Green and red yarn, a hook, and a blank card](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-1.jpg "Illustration. The card is a size check. Not a weighed amount of yarn.")
+![Green and red yarn, a hook, and a blank card](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-1.jpg "Illustration. The card is a size check.")
 
 - **Worsted cotton** in green, and a scrap of red. Cotton keeps the pocket flat. Fuzzy yarn catches the card's smooth face. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives 4 stitches per inch. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -79,6 +79,11 @@ Chain 17.
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (16)
 
+<figure class="diagram">
+<img src="/diagrams/gift-card-step-1.svg" alt="A foundation chain of 17. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 16 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 17 for 16 sc, about 4 inches wide.</figcaption>
+</figure>
+
 **Rows 2–24:** Sc in each stitch. Ch 1, turn. (16)
 
 The ch 1 does not count as a stitch. Count every few rows. A 15 or a 17 makes the sides bow, and the seams will not line up.
@@ -96,6 +101,11 @@ Doing this before the fold keeps the edge stitches out of the side seams. It als
 ## Stage 3: fold and seam
 
 Fold the rectangle so the foundation edge sits 9 rows up, with the right sides out. The fold is the bottom. The 9-row front lies against rows 10 to 18 of the back. Rows 19 to 24 stand above it.
+
+<figure class="diagram">
+<img src="/diagrams/gift-card-step-2.svg" alt="Drawn to scale. A flat piece 16 sc, 4 in wide and 24 rows, 4.8 in tall, folded at the dashed line into a pocket. Right sides out. Seam both sides through both layers for the 9 front rows. Front: rows 1 to 9, 1.8 in. Back: rows 10 to 24, 3.0 in. A 2.125 in card shows about 0.33 in above the front." width="480" height="506" loading="lazy" decoding="async" />
+<figcaption>Step 2. Drawn to scale. The fold is off center: 9 rows in front, 15 behind, so the card shows above the front.</figcaption>
+</figure>
 
 Slide the card in before you sew. About a third of an inch should show above the red edge. If almost none shows, fold one row lower.
 

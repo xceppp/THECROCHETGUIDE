@@ -29,9 +29,9 @@ A crochet ghost is a forgiving first stuffed toy. You need a rounded head, a bod
 
 This page gives two answers. The **hanging ghost** stuffs only the head and cinches a round below it, which holds the stuffing and makes a neck at the same time. The **standing ghost** closes the bottom with a flat base and works the wavy skirt separately, into loops left free for that purpose. Both start the same way.
 
-If magic rings still feel shaky, start with [crochet in the round](/crochet-in-the-round/). US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No ghost for this page was made and measured.
+If magic rings still feel shaky, start with [crochet in the round](/crochet-in-the-round/). US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the finished ghost, which has not been made up in yarn here, so its size depends on your yarn, hook, and stuffing.
 
-![A finished white crochet ghost with a wavy hem and two simple embroidered eyes](../../assets/articles/crochet-ghost-amigurumi-for-beginners-result.jpg "Illustration. The intended look. Not a measured sample.")
+![A finished white crochet ghost with a wavy hem and two simple embroidered eyes](../../assets/articles/crochet-ghost-amigurumi-for-beginners-result.jpg "Illustration. The intended look.")
 
 ## Two builds
 
@@ -53,6 +53,11 @@ If magic rings still feel shaky, start with [crochet in the round](/crochet-in-t
 Start at the top of the head and work down in a spiral. Mark the first stitch of each round.
 
 **Round 1:** 6 sc in a magic ring. (6)
+
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring, pulled tight so the top has no hole.</figcaption>
+</figure>
 
 **Round 2:** 2 sc in each stitch. (12)
 
@@ -98,6 +103,11 @@ This leaves the front loops of round 16 free for the skirt, and makes a fold lin
 
 **Round 18:** (Sc 3, sc2tog) 6 times. (24)
 
+<figure class="diagram">
+<img src="/diagrams/invisible-decrease.svg" alt="Three steps. 1: insert the hook into the front loop only of the next stitch. 2: without pulling through, insert into the front loop of the stitch after it, so three loops are on the hook. 3: yarn over and pull through the two front loops, then yarn over and pull through the two loops on the hook. Two stitches become one." width="480" height="752" loading="lazy" decoding="async" />
+<figcaption>Through the front loops only, the decrease disappears into the fabric.</figcaption>
+</figure>
+
 **Round 19:** (Sc 2, sc2tog) 6 times. (18)
 
 Stuff firmly, especially the head. Put the most stuffing at the bottom, so the ghost sits flat.
@@ -105,6 +115,11 @@ Stuff firmly, especially the head. Put the most stuffing at the bottom, so the g
 **Round 20:** (Sc, sc2tog) 6 times. (12)
 
 **Round 21:** Sc2tog 6 times. (6) Fasten off and pull the hole closed.
+
+<figure class="diagram">
+<img src="/diagrams/ghost-profile.svg" alt="Standing ghost, round by round, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Round 5: 30, Rounds 6 to 16: 30, Round 17: 30, Round 18: 24, Round 19: 18, Round 20: 12, Round 21: 6. Rounds 1 to 5 add 6 each. Rounds 6 to 16 stay at 30. Round 17 (terracotta) is back loops only, then rounds 18 to 21 remove 6 each." width="480" height="538" loading="lazy" decoding="async" />
+<figcaption>The standing build by stitch count. The back-loop round 17 is the fold where the base turns in.</figcaption>
+</figure>
 
 **The skirt:** Turn the ghost upside down. Join white in any free front loop of round 16.
 

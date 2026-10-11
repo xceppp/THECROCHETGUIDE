@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet in the Round: Magic Ring, Spirals and Joined Rounds"
 description: "Start a magic ring that actually closes, pick between spirals and joined rounds, and fix the seam, the jog, and the circle that turns into a bowl."
-pubDate: 2026-08-31
-updatedDate: 2026-09-10
+pubDate: 2026-09-10
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -42,6 +42,11 @@ Chain four or five and slip stitch to the first chain when a small hole is fine:
 
 **3. Work the first round over both strands,** the loop and the tail together. The round feels floppy because you are stitching around a loop, not into stitches. That is normal.
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>The round goes over the loop and the tail together. Pulling the tail closes the center.</figcaption>
+</figure>
+
 **4. Close it last.** When the round is finished, pull the tail until the center disappears.
 
 **5. Join or continue.** Slip stitch into the first stitch for joined rounds. For a spiral, put a marker in the first stitch and keep going.
@@ -65,6 +70,11 @@ Taller stitches need more of them in the first round. Use the pattern's number. 
 
 **Joined rounds.** Slip stitch into the first stitch, chain up, and start again. The joins stack into a seam. Use them for granny squares, a new color each round, striped hats, and lace. Motifs join because each round starts in a set place, often a corner. On a plain hat the seam shows.
 
+<figure class="diagram">
+<img src="/diagrams/join-round-slst.svg" alt="Rounds shown unrolled as strips, with the join of each round marked. Correct: slip stitch into the top of the first sc, ch 1, and work the first sc of the next round into that same stitch; the joins stack in a straight line. Mistake: the first sc goes into the next stitch instead, so every join moves one stitch sideways and the seam slants." width="480" height="584" loading="lazy" decoding="async" />
+<figcaption>The join goes into the first real stitch of the round, not the chain that started it.</figcaption>
+</figure>
+
 The join steps up. For a last round, cut the yarn, thread it through the first stitch, and pull until the close looks like a stitch. To skip the chain-up, put a slip knot on the hook and work the first stitch directly. That removes the gap when every round is a new color.
 
 **Spirals.** Do not join. Keep going into the first stitch. No seam. Usual for amigurumi, plain hats, and socks, and simpler to learn. A hat can spiral, then finish the brim with one joined round.
@@ -87,6 +97,11 @@ Mark the first stitch and move the marker each round. A split ring, safety pin, 
 ![A growing cream crochet circle with even increases](../../assets/articles/crochet-in-the-round-2.jpg "Illustration. Six increases per round keep a circle flat in single crochet.")
 
 **Keep increasing** and the fabric stays flat. In single crochet, add as many stitches each round as the first round had: 6, then 12, 18, 24, 30. After the round that should be 18, stop and count. The repeat is one single crochet, then two in the next stitch, six times: 6 × 3 = 18. **Stop increasing** and it becomes a tube. A hat stops once the flat circle matches the crown, then works even for the depth. A toy body is that tube, decreased later. The mechanics are in [increases and decreases](/crochet-increase-decrease/).
+
+<figure class="diagram">
+<img src="/diagrams/flat-circle.svg" alt="A flat circle in single crochet, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: 2 sc in each st, 12 stitches. Round 3: (sc, 2 sc in next) 6 times, 18 stitches. Round 4: (sc 2, 2 sc in next) 6 times, 24 stitches. Round 5: (sc 3, 2 sc in next) 6 times, 30 stitches. Round 3 uses the 12 stitches of round 2: 6 plain and 6 increases make 18." width="480" height="563" loading="lazy" decoding="async" />
+<figcaption>The flat circle in single crochet. Each round adds the 6 stitches round 1 started with.</figcaption>
+</figure>
 
 Cupping means too few increases: a hat or a toy, and a problem only if you wanted a coaster. Ruffling means too many. The edge cannot hold the extra fabric flat.
 

@@ -72,7 +72,17 @@ These rows are the **90-stitch example**. Substitute your count.
 
 **Row 1.** Chain 92. Half double in the third chain from the hook and in each chain across. (90)
 
+<figure class="diagram">
+<img src="/diagrams/blanket-step-1.svg" alt="A foundation chain of 92. The 2 chains nearest the hook are skipped and the first hdc goes into the 3rd chain from the hook, so row 1 has 90 hdc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Chain 92 for 90 hdc at the example washed gauge. The 2 skipped chains do not count.</figcaption>
+</figure>
+
 **Row 2.** Chain 2, turn. Half double in the first real stitch and in each stitch across. (90)
+
+<figure class="diagram">
+<img src="/diagrams/scarf-first-stitch.svg" alt="The chain-2 is turned and does not count. The first half double of the new row goes into the first real stitch, at the base of that chain." width="640" height="420" loading="lazy" decoding="async" />
+<figcaption>On 90 stitches a single gained stitch per row is easy to miss. The first hdc goes into the first real stitch.</figcaption>
+</figure>
 
 The chain-2 is not a stitch. [Turning chain](/crochet-turning-chain/). Repeat row 2 until the blanket matches the length you wrote down, measured flat, not stretched.
 

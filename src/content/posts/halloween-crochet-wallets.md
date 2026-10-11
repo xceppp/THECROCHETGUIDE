@@ -28,23 +28,23 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 **[Black cat crochet wallet](/black-cat-crochet-wallet/).** Beginner. A seamless pocket worked in rounds around both sides of a chain, a 9-row flap with gold eyes, two triangle ears, and a snap.
 
-![Concept illustration of the closed black cat wallet: two ears on the fold, a narrowed flap, gold eyes, a pink nose, and whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the closed black cat wallet: two ears on the fold, a narrowed flap, gold eyes, a pink nose, and whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
 
 **[Ghost crochet wallet](/ghost-crochet-wallet/).** Intermediate. Two shaped panels, a soft embroidered face with pink cheeks, and one edging round that joins the layers and scallops the hem. The snap hides inside.
 
-![Concept illustration of the ghost wallet: a stepped head, four hem scallops, and the face above the pocket opening](../../assets/articles/ghost-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the ghost wallet: a stepped head, four hem scallops, and the face above the pocket opening](../../assets/articles/ghost-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
 
 **[Pumpkin crochet wallet](/pumpkin-crochet-wallet/).** Beginner. One sideways piece in back-loop ribs, folded and seamed, with a jack-o'-lantern face, a rolled stem, and a green leaf tab that snaps shut.
 
-![Concept illustration of the pumpkin wallet: vertical ribs, the stem behind the back rim, and a leaf tab over the front](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the pumpkin wallet: vertical ribs, the stem behind the back rim, and a leaf tab over the front](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
 
 **[Witch hat crochet wallet](/witch-hat-crochet-wallet/).** Intermediate. One purple rectangle with a worked buttonhole, an inner divider for two pockets, and a black and orange hat appliqué.
 
-![Concept illustration of the witch hat wallet: a small hat on the flap, with the button showing through the buttonhole](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the witch hat wallet: a small hat on the flap, with the button showing through the buttonhole](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
 
 **[Spiderweb crochet wallet](/spiderweb-crochet-wallet/).** Intermediate. A black wallet with a pointed flap, a backstitched white web, a tiny purple spider, and a button loop.
 
-![Concept illustration of the spiderweb wallet: five spokes, a spider on the right-hand spoke, and a loop at the point](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![Concept illustration of the spiderweb wallet: five spokes, a spider on the right-hand spoke, and a loop at the point](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
 
 All five pictures are illustrations of the intended look. None is a photograph of a wallet made from these patterns. The diagrams further down are the counted construction.
 
@@ -58,7 +58,7 @@ All five pictures are illustrations of the intended look. None is a photograph o
 | Witch hat | Intermediate | 4.25 x 2.4 in | Button | Buttonhole and a three-layer seam |
 | Spiderweb | Intermediate | 4.25 x 2.6 in | Button loop | Backstitch embroidery |
 
-Sizes are paper geometry at 16 sc and 20 rows to 4 inches. The pumpkin's back-loop rows will measure shorter, which is why that pattern works to a length instead of a fixed row count.
+Sizes are worked out from a gauge of 16 sc and 20 rows to 4 inches. The pumpkin's back-loop rows will measure shorter, which is why that pattern works to a length instead of a fixed row count.
 
 **What you need for all five.** Worsted weight (CYC 4) yarn in black, cream, orange, and purple, scraps of gold, pink, green, and white, a US G/6 (4.0 mm) hook, two 3/8 inch sew-on snaps, two 5/8 inch flat buttons, and a tapestry needle.
 
@@ -72,16 +72,7 @@ Sizes are paper geometry at 16 sc and 20 rows to 4 inches. The pumpkin's back-lo
 
 If you need a wallet for a specific number of cards, or want to work out your own size, start with the sizing method in the [Halloween card wallet](/halloween-crochet-card-wallet/) instead. For a smaller, flap-style ghost, see the [ghost mini wallet](/ghost-crochet-mini-wallet/).
 
-## What is checked, and what is not
-
-| Part of every pattern | What it is |
-| --- | --- |
-| ID-1 card, 3.370 x 2.125 in | The ISO/IEC 7810 size of most US bank cards and licenses |
-| Stitch and row counts | Checked by hand on paper |
-| 16 sc and 20 rows to 4 in | An example gauge, not measured from finished wallets |
-| Sizes and card fit | Geometry from that gauge. Not physically test-crocheted. |
-
-Each pattern tells you where to test the fit with a real card before you commit to the finishing. That test is the one step not to skip.
+Every pattern gives sizes worked out from the example gauge of 16 sc and 20 rows to 4 inches rather than from a finished wallet, so swatch first. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size, and each pattern tells you where to test the fit with a real card before you commit to the finishing. That test is the one step not to skip.
 
 ## Gauge, then a real card
 
@@ -105,7 +96,7 @@ Weigh the plain swatch too. Each pattern gives its fabric area as a multiple of 
 
 ## Frequently asked
 
-**Are these patterns tested?** They are checked on paper: every count, every size, and the card fit at the example gauge. They have not been physically crocheted and measured yet. Each pattern says so and gives a fit test.
+**Are these patterns tested?** The counts and sizes are worked out from the example gauge rather than from a finished wallet, so each pattern gives you a point to test the fit with a real card as you work.
 
 **Do they hold coins?** None of them is designed for loose coins. They are card sleeves with closures.
 

@@ -32,7 +32,7 @@ This page works the method through one example in pumpkin orange, with a black b
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/), and [basic stitches](/basic-crochet-stitches/) if rows are new. The pictures are illustrations. No wallet for this page was crocheted or fitted to a card.
 
-![A close-up of a pumpkin-orange crochet card wallet with a black button closure and a small white ghost applique, held in front of warm Halloween candles and pumpkins](../../assets/articles/halloween-crochet-card-wallet-result.jpg "Illustration. A flap wallet with a button and a ghost. Not a photograph of a fitted wallet.")
+![A close-up of a pumpkin-orange crochet card wallet with a black button closure and a small white ghost applique, held in front of warm Halloween candles and pumpkins](../../assets/articles/halloween-crochet-card-wallet-result.jpg "Illustration. A flap wallet with a button and a ghost.")
 
 ## What is fact, and what is only a plan
 
@@ -118,6 +118,11 @@ Fasten off. Six, four skipped, and six is sixteen, so the loop sits centered and
 ## Stage 4: fold and seam
 
 Fold rows 1 to 12 up against rows 13 to 24. Clip the sides. Whipstitch both sides from the fold to the opening, through the outer loop of each edge stitch. **Stop at the opening.** Sewing into the flap makes a closed pouch. Add an extra stitch at the top of each seam, where cards pull. Weave the ends inside the seams, not loose in the pocket.
+
+<figure class="diagram">
+<img src="/diagrams/card-wallet-fold.svg" alt="Drawn to scale. A flat piece 16 sc, about 4 in wide and 31 rows, 6.2 in tall, folded at the dashed line into a pocket with the flap above. Whipstitch both sides from the fold to the opening. Stop there. Front: rows 1 to 12. Back: rows 13 to 24. Flap: rows 25 to 31, about 1.4 in. The width includes about 0.25 in for the seams." width="480" height="577" loading="lazy" decoding="async" />
+<figcaption>Measure the rectangle flat before seaming. It should be about 4 inches wide at the example gauge, or the card will not fit.</figcaption>
+</figure>
 
 ![A tapestry needle whipstitching one side seam of the folded orange card wallet, stopping below the flap](../../assets/articles/halloween-crochet-card-wallet-4.jpg "Illustration. Seam the pocket sides only. Stop before the flap.")
 

@@ -21,9 +21,9 @@ A Santa is the first amigurumi where the face shows. A [gnome](/how-to-crochet-a
 
 The body is easy: one piece, with no neck seam to sew. The skill is placement, and there is a reliable way to do it. Pick one stitch at the center front, mark it, and place every feature by counting stitches and rounds out from that marker, never by eye. A spiral leans slightly, so placing by eye is how faces end up crooked.
 
-US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No Santa for this page was made and measured, so no finished height is given.
+US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the finished Santa, which has not been made up in yarn here, so no finished height is given.
 
-![A finished beginner crochet Santa amigurumi with red hat](../../assets/articles/crochet-santa-amigurumi-for-beginners-result.jpg "Illustration. The intended look. Not a measured sample.")
+![A finished beginner crochet Santa amigurumi with red hat](../../assets/articles/crochet-santa-amigurumi-for-beginners-result.jpg "Illustration. The intended look.")
 
 ## What you need
 
@@ -46,6 +46,11 @@ Red. Work in a spiral and mark the first stitch of each round.
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring, pulled tight so the top has no hole.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (Sc, 2 sc in next) 6 times. (18)
@@ -60,6 +65,11 @@ That flat circle is the base. Press it on a table. It must sit flat, or Santa ro
 
 **Round 14:** (Sc 3, sc2tog) 6 times. (24) The narrowing makes the shoulders.
 
+<figure class="diagram">
+<img src="/diagrams/invisible-decrease.svg" alt="Three steps. 1: insert the hook into the front loop only of the next stitch. 2: without pulling through, insert into the front loop of the stitch after it, so three loops are on the hook. 3: yarn over and pull through the two front loops, then yarn over and pull through the two loops on the hook. Two stitches become one." width="480" height="752" loading="lazy" decoding="async" />
+<figcaption>Through the front loops only, the decrease disappears into the fabric.</figcaption>
+</figure>
+
 Change to the skin tone at the end of round 14. [Changing yarn color](/changing-yarn-color-crochet/).
 
 **Rounds 15–20:** Sc in each stitch. (24)
@@ -73,6 +83,11 @@ Stuff the body firmly now, firmer than the head will be. A soft base slumps unde
 **Round 22:** (Sc, sc2tog) 6 times. (12) Stuff the head.
 
 **Round 23:** Sc2tog 6 times. (6) Fasten off. Thread the tail through the front loops of the last 6 stitches and pull closed.
+
+<figure class="diagram">
+<img src="/diagrams/santa-profile.svg" alt="Santa body and head, round by round, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Round 5: 30, Rounds 6 to 13: 30, Round 14: 24, Rounds 15 to 20: 24, Round 21: 18, Round 22: 12, Round 23: 6. Body: rounds 6 to 13 at 30. Round 14 drops to 24 for the shoulders. Head: rounds 15 to 20 at 24, then close." width="480" height="541" loading="lazy" decoding="async" />
+<figcaption>Body and head as one piece. Round 14 is the only shaping in the middle, and it makes the shoulders.</figcaption>
+</figure>
 
 ## Step 2: place the face by counting
 
@@ -125,7 +140,30 @@ Red. Worked from the tip down.
 
 **Round 7:** Sc in each stitch. (12)
 
-Keep going the same way, adding 3 stitches every other round, until the hat has 27 stitches: (sc 3, 2 sc in next) for 15, (sc 4, 2 sc in next) for 18, and so on. The head is 24 around, so 27 slips over it.
+Keep going the same way, adding 3 stitches every other round, until the hat has 27 stitches. The head is 24 around, so 27 slips over it.
+
+**Round 8:** (Sc 3, 2 sc in next) 3 times. (15)
+
+**Round 9:** Sc in each stitch. (15)
+
+**Round 10:** (Sc 4, 2 sc in next) 3 times. (18)
+
+**Round 11:** Sc in each stitch. (18)
+
+**Round 12:** (Sc 5, 2 sc in next) 3 times. (21)
+
+**Round 13:** Sc in each stitch. (21)
+
+**Round 14:** (Sc 6, 2 sc in next) 3 times. (24)
+
+**Round 15:** Sc in each stitch. (24)
+
+**Round 16:** (Sc 7, 2 sc in next) 3 times. (27)
+
+<figure class="diagram">
+<img src="/diagrams/santa-hat-profile.svg" alt="Santa hat, tip to brim, as bars sized by stitch count. Rounds 1 to 3: 6, Round 4: 9, Round 5: 9, Round 6: 12, Round 7: 12, Round 8: 15, Round 9: 15, Round 10: 18, Round 11: 18, Round 12: 21, Round 13: 21, Round 14: 24, Round 15: 24, Round 16: 27. Three stitches added every other round from round 4. The white brim adds two rounds of 27." width="480" height="603" loading="lazy" decoding="async" />
+<figcaption>The hat grows 3 stitches every other round, so it stays a slim cone and ends 3 wider than the 24-stitch head.</figcaption>
+</figure>
 
 **Brim:** Change to white. Two rounds of sc. (27) Fasten off with a tail.
 

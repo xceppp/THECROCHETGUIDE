@@ -84,7 +84,7 @@ const websiteSchema = {
    * what lets traffic arriving from Pinterest reinforce the site's own
    * search presence rather than counting as unrelated.
    */
-  sameAs: SOCIALS.map((social) => social.url),
+  ...(SOCIALS.length > 0 && { sameAs: SOCIALS.map((social) => social.url) }),
   publisher: {
     "@type": "Organization",
     name: SITE.name,
@@ -103,7 +103,7 @@ const organizationSchema = {
   url: SITE.url,
   description: SITE.description,
   logo: new URL("/icon-512.png", SITE.url).href,
-  sameAs: SOCIALS.map((social) => social.url),
+  ...(SOCIALS.length > 0 && { sameAs: SOCIALS.map((social) => social.url) }),
 };
 
 const schemas = [

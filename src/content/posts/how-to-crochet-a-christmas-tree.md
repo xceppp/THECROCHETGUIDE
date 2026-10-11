@@ -22,9 +22,9 @@ A tree for a mantel has to stand. A tree for a garland has to lie flat. This pag
 
 A standing cone is worked from the tip down, so it gets wider as you go, and its flat base is made last. Some patterns start at the base and increase upward, which makes a cup that is widest at the top.
 
-US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No tree for this page was made, and the illustration is not evidence that these counts stand up. No finished size is given.
+US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the finished tree, which has not been made up in yarn here, so no finished size is given.
 
-![A finished green crochet Christmas tree standing on a wooden table](../../assets/articles/how-to-crochet-a-christmas-tree-result.jpg "Illustration. The intended look. Not a measured sample.")
+![A finished green crochet Christmas tree standing on a wooden table](../../assets/articles/how-to-crochet-a-christmas-tree-result.jpg "Illustration. The intended look.")
 
 ## Which one do you want
 
@@ -57,6 +57,11 @@ A flat circle of single crochet needs about six new stitches each round to stay 
 Work in a spiral from the tip. Mark the first stitch of each round.
 
 **Round 1:** 6 sc in a magic ring. (6)
+
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring, pulled tight so the top has no hole.</figcaption>
+</figure>
 
 **Round 2:** Sc in each stitch. (6)
 
@@ -113,6 +118,11 @@ Lay the weight bag flat and centered on the stuffing.
 **Round 23:** (Sc, sc2tog) 6 times. (12)
 
 **Round 24:** Sc2tog 6 times. (6) Fasten off and pull the hole closed.
+
+<figure class="diagram">
+<img src="/diagrams/tree-cone-profile.svg" alt="Tiered cone tree, round by round, as bars sized by stitch count. Rounds 1 to 2: 6, Round 3: 9, Round 4: 9, Round 5: 12, Round 6: 12, Round 7: 18, Round 8: 18, Round 9: 18, Round 10: 24, Round 11: 24, Round 12: 24, Round 13: 30, Round 14: 30, Round 15: 30, Round 16: 36, Rounds 17 to 18: 36, Round 19: 36, Round 20: 30, Round 21: 24, Round 22: 18, Round 23: 12, Round 24: 6. Rounds 9, 12 and 15 are back loops only, one per tier. Round 19 is the back-loop fold for the base, then rounds 20 to 24 close it." width="480" height="868" loading="lazy" decoding="async" />
+<figcaption>The cone by stitch count. Each terracotta round is worked in back loops, leaving the ledge that makes a tier.</figcaption>
+</figure>
 
 ## Method 2: the flat triangle
 

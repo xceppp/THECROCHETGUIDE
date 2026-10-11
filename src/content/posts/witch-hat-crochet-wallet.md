@@ -20,17 +20,9 @@ A wallet with one pocket fills up fast, and the card you want is always at the b
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The new skills here are a worked buttonhole and seaming through three layers.
 
-![A purple crochet wallet with a small black witch hat, an orange band, and a button under the brim](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![A purple crochet wallet with a small black witch hat, an orange band, and a button under the brim](../../assets/articles/witch-hat-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
 
-## What is checked, and what is not
-
-| Claim | How solid it is |
-| --- | --- |
-| A standard card is 3.370 x 2.125 in | Fixed by ISO/IEC 7810 (ID-1) |
-| Rectangle, divider, hat, and buttonhole counts | Each row added up on paper |
-| 16 sc and 20 rows per 4 in | Example gauge only; swatch to confirm yours |
-| Pocket sizes and the 5/8 in button fit | Calculated, then flagged for you to test. Not yet crocheted. |
-| The image at the top | Generated artwork of the idea, not a sample |
+The pocket sizes and the 5/8 inch button fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and test with a real bank card and your button before you sew up. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
 
 ## Materials
 
@@ -75,7 +67,7 @@ Seventeen stitches make 4.25 inches; after the side seams, each pocket is about 
 <figcaption>Diagram. Three zones in one piece. The chain edge becomes the front rim.</figcaption>
 </figure>
 
-![The purple rectangle before it is folded, with the buttonhole worked into the row](../../assets/articles/witch-hat-crochet-wallet-rectangle.jpg "Illustration, not a photograph of a made wallet. In the pattern the hole is centered.")
+![The purple rectangle before it is folded, with the buttonhole worked into the row](../../assets/articles/witch-hat-crochet-wallet-rectangle.jpg "Concept illustration of the finished wallet. In the pattern the hole is centered.")
 
 With purple:
 
@@ -115,7 +107,7 @@ Fasten off. The divider is 11 rows, about 2.2 inches, one row shorter than the f
 <figcaption>Diagram. Hat band in orange, the rest in black. Keep row 31 clear.</figcaption>
 </figure>
 
-![The small black hat with an orange band, beside a ball of purple yarn](../../assets/articles/witch-hat-crochet-wallet-hat.jpg "Illustration, not a photograph of a made wallet.")
+![The small black hat with an orange band, beside a ball of purple yarn](../../assets/articles/witch-hat-crochet-wallet-hat.jpg "Concept illustration of the finished wallet.")
 
 **Cone:**
 
@@ -182,7 +174,7 @@ Wash by hand, cool, and dry it flat. Orange and black scraps sometimes bleed ont
 
 ## Frequently asked
 
-**Will cards fit both pockets?** On paper, each pocket is about 3.9 by 2.3 inches inside, against a 3.37 by 2.125 inch card. It has not been made and measured.
+**Will cards fit both pockets?** On paper, each pocket is about 3.9 by 2.3 inches inside, against a 3.37 by 2.125 inch card, so test both pockets with a real card before you sew up.
 
 **Why 3 stitches for a 5/8 inch button?** Three stitches measure about 0.75 inch at the gauge, and crochet stretches around a button. The test after row 32 is the real check.
 

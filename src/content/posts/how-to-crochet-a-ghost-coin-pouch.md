@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Ghost Coin Pouch"
-description: "A small white ghost coin pouch in single crochet with a drawstring, and an explanation of how the eyelet round works. US terms. Not a yarn-tested sample."
+description: "A small white ghost coin pouch in single crochet with a drawstring, and an explanation of how the eyelet round works. US terms."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -21,7 +21,7 @@ Loose change in a coat pocket ends up in the washing machine. A small drawstring
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pouch for this page was crocheted or measured. The inches are estimates from the example gauge.
 
-![A small white crochet ghost coin pouch with a drawstring and coins beside it](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-result.jpg "Illustration. A white pouch with a face and a drawstring. Not a measured sample.")
+![A small white crochet ghost coin pouch with a drawstring and coins beside it](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-result.jpg "Illustration. A white pouch with a face and a drawstring.")
 
 ## What is a technique, and what is only a plan
 
@@ -52,7 +52,7 @@ Each repeat uses two stitches of the round below. Thirty stitches make fifteen r
 
 ## Yarn, hook, and gauge
 
-![White yarn, a hook, a needle, scissors, and a few quarters](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-1.jpg "Illustration. Materials. Not a weighed amount of yarn.")
+![White yarn, a hook, a needle, scissors, and a few quarters](../../assets/articles/how-to-crochet-a-ghost-coin-pouch-1.jpg "Illustration. Materials.")
 
 - **Smooth worsted cotton**, white, and a scrap of black. Fuzzy yarn pills inside the pouch, and coins wear through soft fibers faster. [Yarn weight chart](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook size chart](/crochet-hook-size-conversion-chart/).
@@ -66,6 +66,11 @@ Work in a spiral. Do not join. Mark the first stitch of each round. See [crochet
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring. Pull the tail tight before Round 2.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (Sc, 2 sc in next) 6 times. (18)
@@ -73,6 +78,11 @@ Work in a spiral. Do not join. Mark the first stitch of each round. See [crochet
 **Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
 **Round 5:** (Sc 3, 2 sc in next) 6 times. (30)
+
+<figure class="diagram">
+<img src="/diagrams/coin-pouch-step-1.svg" alt="Base: rounds 1 to 5, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: 2 sc in each st, 12 stitches. Round 3: (sc, 2 sc in next) 6 times, 18 stitches. Round 4: (sc 2, 2 sc in next) 6 times, 24 stitches. Round 5: (sc 3, 2 sc in next) 6 times, 30 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 1. Six increases a round. Round 5 ends on 30, an even count, which the eyelet round needs.</figcaption>
+</figure>
 
 **Checkpoint:** lay the circle on the table. Flat is right. Ruffled means extra increases. A bowl means the ring or the increases are tight. A cupped base tips over and the coins slide to one side.
 
@@ -91,6 +101,11 @@ No increases. The edge turns up on its own once you stop adding stitches. Ten ro
 **Round 17:** Sc in each sc and 1 sc in each ch-1 space. (30)
 
 **Round 18:** Sc in each stitch. (30)
+
+<figure class="diagram">
+<img src="/diagrams/coin-pouch-step-2.svg" alt="The whole pouch by stitch count, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Rounds 5 to 15: 30, Round 16: 15+15, Round 17: 30, Round 18: 30. Round 16 is the eyelet round: (sc, ch 1, skip 1) 15 times. Round 17 puts 1 sc in each sc and each space, back to 30." width="480" height="451" loading="lazy" decoding="async" />
+<figcaption>Step 2. The whole pouch by stitch count. The eyelet round, 16, keeps 30 stitches: 15 sc and 15 chains.</figcaption>
+</figure>
 
 Slip stitch into the next stitch to smooth the end of the spiral. Fasten off and weave in the end.
 

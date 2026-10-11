@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Makeup Pouch"
-description: "A cotton drawstring makeup pouch sized from the widest, thickest, and tallest things you carry. US terms. Gauge estimates, not a yarn-tested pouch."
+description: "A cotton drawstring makeup pouch sized from the widest, thickest, and tallest things you carry. US terms."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -60,7 +60,7 @@ Lay out what you will carry and find three numbers:
 
 ## Yarn, hook, and gauge
 
-![Worsted cotton, a hook, and a short crochet chain for a tie](../../assets/articles/how-to-crochet-a-makeup-pouch-1.jpg "Illustration. Cotton. The tie is a chain. Not a weighed amount.")
+![Worsted cotton, a hook, and a short crochet chain for a tie](../../assets/articles/how-to-crochet-a-makeup-pouch-1.jpg "Illustration. Cotton. The tie is a chain.")
 
 - **Smooth worsted cotton.** It washes. It also stains: makeup oil and dark lipstick will not come out of pale cotton just because it is cotton. Pick a color that can wear a mark. Fuzzy yarn grabs powder and pills. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the hook that gives dense fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -84,7 +84,17 @@ Chain 29. Keep the chain loose. The foundation edge becomes half of the opening,
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (28)
 
+<figure class="diagram">
+<img src="/diagrams/makeup-pouch-step-1.svg" alt="A foundation chain of 29. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 28 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 29 for 28 sc. The foundation edge becomes half of the opening, so keep it loose.</figcaption>
+</figure>
+
 **Rows 2–50:** Sc in each stitch. Ch 1, turn. (28)
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>The first sc of each row goes into the edge stitch, not the ch 1. That keeps 28 stitches, and the opening count of 56.</figcaption>
+</figure>
 
 The ch 1 does not count as a stitch. Count every 10 rows. An extra stitch makes one side seam longer than the other, and the pouch twists.
 
@@ -94,9 +104,19 @@ The ch 1 does not count as a stitch. Count every 10 rows. An extra stitch makes 
 
 Fold so row 1 meets row 50, right sides together. The fold is the bottom. Join yarn at the fold on one side and single crochet through both layers, one stitch in each row end, up to the opening. Fasten off. Repeat on the other side. Start each seam in the fold itself, not one row above it, or powder leaks out of the corner. Turn the pouch right side out.
 
+<figure class="diagram">
+<img src="/diagrams/makeup-pouch-step-2.svg" alt="Drawn to scale. A flat piece 28 sc, 7 in wide and 50 rows, 10 in tall, folded at the dashed line into a pocket. Right sides together. Sc through both layers up each side, one sc per row end." width="480" height="455" loading="lazy" decoding="async" />
+<figcaption>Step 2. Drawn to scale: a 7 by 10 inch rectangle folds into a 7 by 5 inch pouch. Row 1 and row 50 together make the 56-stitch opening.</figcaption>
+</figure>
+
 ## Stage 3: eyelets and the top round
 
 Join yarn at one side seam at the opening. You will work around both top edges: 28 stitches along row 50 and 28 along the foundation chain, 56 in all.
+
+<figure class="diagram">
+<img src="/diagrams/sc-seam-two-layers.svg" alt="Two steps. 1: hold the pieces wrong sides together with the edges lined up stitch for stitch. 2: insert the hook through both layers at once, matching stitch to stitch, and work one sc in each pair; work 3 sc in a corner stitch to turn a corner flat." width="480" height="559" loading="lazy" decoding="async" />
+<figcaption>Each side seam is one sc in each row end, through both layers, starting in the fold itself.</figcaption>
+</figure>
 
 **Eyelet round:** Ch 1, (sc in the next stitch, ch 1, skip 1) 28 times. Slip stitch to the first sc. (28 sc, 28 ch-1 spaces)
 

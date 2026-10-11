@@ -1,7 +1,7 @@
 ---
 title: "Crochet Increases and Decreases: Shaping Explained"
 description: "How to increase and decrease in single, half double and double crochet, including the invisible decrease for amigurumi and where to place them for clean edges."
-pubDate: 2026-09-01
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: skills
 level: beginner
@@ -69,6 +69,11 @@ Standard `sc2tog` leaves a small bump. On a stuffed toy those bumps sit in plain
 3. Yarn over and pull through both front loops.
 4. Yarn over and pull through the two loops left on the hook.
 
+<figure class="diagram">
+<img src="/diagrams/invisible-decrease.svg" alt="Three steps. 1: insert the hook into the front loop only of the next stitch. 2: without pulling through, insert into the front loop of the stitch after it, so three loops are on the hook. 3: yarn over and pull through the two front loops, then yarn over and pull through the two loops on the hook. Two stitches become one." width="480" height="752" loading="lazy" decoding="async" />
+<figcaption>Front loops only. The back loops stay on the outside, so the decrease does not show.</figcaption>
+</figure>
+
 If a decrease leaves a hole, snug the last yarn-over a little as you close it. On amigurumi, use the invisible decrease instead.
 
 ## Where to put them
@@ -76,6 +81,11 @@ If a decrease leaves a hole, snug the last yarn-over a little as you close it. O
 **One stitch in from the edge** on garments. Decreasing in the first or last stitch makes a stepped edge that is hard to seam. Work one stitch, then the decrease: `sc in first st, sc2tog`. The edge stays a straight column.
 
 **Spaced evenly** on circles and crowns. Six increases bunched in one place make corners. `[sc in next 3 sts, 2 sc in next st] 6 times` spaces them so the fabric curves.
+
+<figure class="diagram">
+<img src="/diagrams/increase-stagger.svg" alt="Correct: the increase in each round is moved, for example by working half the plain stitches before the first increase on alternate rounds, so the edge stays round. Mistake: every increase lands directly above the last one, which builds six corners and the circle becomes a hexagon." width="480" height="679" loading="lazy" decoding="async" />
+<figcaption>Shifting where each round's increases fall keeps a circle round instead of hexagonal.</figcaption>
+</figure>
 
 **Stacked on the same stitch each row** when you want a line you can see, such as a raglan or the panels of a beret.
 
@@ -90,6 +100,11 @@ Count at the end of every shaped row. The number in parentheses is there so one 
 In single crochet, each round adds as many stitches as the first round had. Start with 6 and add 6 every round: 6, 12, 18, 24, 30.
 
 The third round is the one worth counting out loud. The previous round has 12 stitches. The instruction `(sc, 2 sc in the next st)` six times uses 2 stitches per repeat and makes 3. Six repeats use all 12 stitches and make 6 × 3 = 18. A count of 17 or 19 means one increase was skipped or worked twice. Fix that round before you continue. On the next round the repeat becomes `(sc in next 2 sts, 2 sc in the next st)`. Each repeat uses 3 stitches and makes 4, and six repeats use all 18: 6 × 4 = 24.
+
+<figure class="diagram">
+<img src="/diagrams/flat-circle.svg" alt="A flat circle in single crochet, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: 2 sc in each st, 12 stitches. Round 3: (sc, 2 sc in next) 6 times, 18 stitches. Round 4: (sc 2, 2 sc in next) 6 times, 24 stitches. Round 5: (sc 3, 2 sc in next) 6 times, 30 stitches. Round 3 uses the 12 stitches of round 2: 6 plain and 6 increases make 18." width="480" height="563" loading="lazy" decoding="async" />
+<figcaption>Six increases a round, and one more plain stitch between them each time.</figcaption>
+</figure>
 
 Taller stitches need a larger start. A double crochet circle typically starts at 12 and adds 12 each round.
 

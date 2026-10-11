@@ -54,7 +54,7 @@ The bag is flat. It has no base, so a bulky item takes height out of it. The rou
 
 ## Materials
 
-![Worsted cotton, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-granny-square-tote-1.jpg "Illustration. Worsted cotton and tools. Not a weighed amount.")
+![Worsted cotton, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-granny-square-tote-1.jpg "Illustration. Worsted cotton and tools.")
 
 - **Worsted cotton.** It gives crisp clusters and a firm fabric. Every yarn lengthens when a loaded bag hangs from it, and cotton does not spring back once stretched. That is why the straps are single crochet, not chain, and why the bag should not be overloaded. [Yarn weights](/yarn-weight-chart/).
 - **A US H/8 (5.0 mm) hook**, or the hook that gives eight matching squares. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -70,13 +70,33 @@ The beginning ch-3 counts as a double crochet. Clusters go into chain spaces, ne
 
 **Round 1:** Ch 4, slip stitch in the first chain to form a ring. Ch 3, 2 dc in the ring, ch 2. (3 dc in the ring, ch 2) 3 times. Slip stitch in the top of the beginning ch-3. (12 dc, 4 corner spaces)
 
+<figure class="diagram">
+<img src="/diagrams/granny-round-1.svg" alt="Granny square round 1. Four clusters of three double crochet worked into the ring, 12 double crochet in all, with a chain-2 corner between each pair. There are no side spaces yet." width="480" height="639" loading="lazy" decoding="async" />
+<figcaption>Round 1: four clusters with a ch-2 corner between each. The ch 3 counts as the first dc.</figcaption>
+</figure>
+
 **Round 2:** Slip stitch in the next 2 dc and into the ch-2 space. Ch 3, (2 dc, ch 2, 3 dc) in the same space. *Ch 1, (3 dc, ch 2, 3 dc) in the next ch-2 space.* Repeat from * twice more. Ch 1. Slip stitch in the top of the beginning ch-3. (24 dc)
+
+<figure class="diagram">
+<img src="/diagrams/granny-round-2.svg" alt="Granny square round 2. 24 double crochet in all. Each of the four corners holds 3 dc, ch 2, 3 dc. Each side has 1 chain-1 space, still empty; round 3 fills them." width="480" height="667" loading="lazy" decoding="async" />
+<figcaption>Round 2: each corner space gets two clusters, and a ch 1 sits between corners.</figcaption>
+</figure>
 
 **Round 3:** Slip stitch into the next ch-2 corner space. Ch 3, (2 dc, ch 2, 3 dc) in the same space. *Ch 1, 3 dc in the next ch-1 space, ch 1, (3 dc, ch 2, 3 dc) in the next corner space.* Repeat from * twice more. Ch 1, 3 dc in the next ch-1 space, ch 1. Slip stitch in the top of the beginning ch-3. (36 dc)
 
 **Round 4:** Slip stitch into the next corner space. Ch 3, (2 dc, ch 2, 3 dc) in that corner. *Ch 1, 3 dc in the next space, ch 1, 3 dc in the next space, ch 1, (3 dc, ch 2, 3 dc) in the next corner.* Repeat from * twice more. Ch 1, 3 dc in the next space, ch 1, 3 dc in the next space, ch 1. Join and fasten off. (48 dc)
 
-**Checkpoint each round:** round n has 12 × n double crochet, and n clusters along each side if you count the corner halves. A count that is not a multiple of 12 means a cluster went into a stitch top.
+<figure class="diagram">
+<img src="/diagrams/granny-round-4.svg" alt="Granny square round 4. 48 double crochet in all. Each of the four corners holds 3 dc, ch 2, 3 dc. Each side has 3 chain-1 spaces and 2 clusters worked into the chain-1 spaces of the round below." width="480" height="746" loading="lazy" decoding="async" />
+<figcaption>Round 4: the corner spaces (ch 2) and the side spaces (ch 1) are worked differently. Mixing them up is the usual reason a square twists.</figcaption>
+</figure>
+
+**Checkpoint each round:** round n has 12 × n double crochet, and n clusters along each side if you count the corner halves. A count that is not a multiple of 12 means a cluster was added or missed, often because one went into a stitch top instead of a space.
+
+<figure class="diagram">
+<img src="/diagrams/granny-side-space.svg" alt="One side of a granny square, round 3 worked over round 2. Correct: the side cluster of round 3 sits in the chain-1 space between round 2's two corner halves, with a chain-1 on each side of it. Common mistake: the cluster goes into the top of a double crochet instead. The gap closes, the side goes stiff, and the square starts to cup." width="480" height="721" loading="lazy" decoding="async" />
+<figcaption>Clusters go in the gaps between the clusters below, never on top of them.</figcaption>
+</figure>
 
 Make **8 squares** and weave in the ends as you finish each one. Then stack them. Measure each one flat, without pulling the corners. If one is noticeably smaller, make it again rather than easing it into a seam. Some people turn the square over between rounds to reduce a slight twist. Whichever you choose, do it the same way on all eight.
 
@@ -94,6 +114,11 @@ Hold two squares right sides together and single crochet through both layers, ma
 ## Assembly
 
 **Panels.** Join square A to square B along one edge (19). Join C to D the same way. Then join the AB pair to the CD pair along their long edge: 19 + 19 = **38**. Make the second panel the same.
+
+<figure class="diagram">
+<img src="/diagrams/sc-seam-two-layers.svg" alt="Two steps. 1: hold the pieces wrong sides together with the edges lined up stitch for stitch. 2: insert the hook through both layers at once, matching stitch to stitch, and work one sc in each pair; work 3 sc in a corner stitch to turn a corner flat." width="480" height="559" loading="lazy" decoding="async" />
+<figcaption>Squares are joined right sides together with one sc in each stitch and space along the edge, 19 per square.</figcaption>
+</figure>
 
 Where the long seam crosses the short seam in the middle, four corners meet. Keep to the count: 2 sc in the corner space of each square. Skip there and you leave a hole a finger can pass through. Add stitches and the center bunches.
 

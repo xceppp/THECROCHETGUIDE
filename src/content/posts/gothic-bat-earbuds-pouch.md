@@ -33,7 +33,7 @@ The pouch itself is a cup sized to the case. The [earbud pouch](/how-to-crochet-
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pouch for this page was crocheted. Inches are estimates from the example gauge.
 
-![A small black crochet bat pouch with purple wings, ears, a wood button, and a yarn loop](../../assets/articles/gothic-bat-earbuds-pouch-result.jpg "Illustration. A black body, purple wings, ears, button flap, loop. Not a measured sample.")
+![A small black crochet bat pouch with purple wings, ears, a wood button, and a yarn loop](../../assets/articles/gothic-bat-earbuds-pouch-result.jpg "Illustration. A black body, purple wings, ears, button flap, loop.")
 
 ## What is a technique, and what is only a plan
 
@@ -72,6 +72,11 @@ Black. Work in a spiral, without joining, and move a marker up each round. [Work
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring. The ch 1 that closes the first loop is not a stitch.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (Sc, 2 sc in next) 6 times. (18)
@@ -79,6 +84,11 @@ Black. Work in a spiral, without joining, and move a marker up each round. [Work
 **Round 4:** (Sc 2, 2 sc in next) 6 times. (24)
 
 **Round 5:** (Sc 3, 2 sc in next) 6 times. (30)
+
+<figure class="diagram">
+<img src="/diagrams/bat-pouch-step-1.svg" alt="Body base: rounds 1 to 5, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: 2 sc in each st, 12 stitches. Round 3: (sc, 2 sc in next) 6 times, 18 stitches. Round 4: (sc 2, 2 sc in next) 6 times, 24 stitches. Round 5: (sc 3, 2 sc in next) 6 times, 30 stitches. Each round adds 6. A 36-stitch body adds round 6: (sc 4, 2 sc in next) 6 times." width="480" height="563" loading="lazy" decoding="async" />
+<figcaption>Step 1. Six increases a round to 30, the example body for a small case. Your case may need round 6.</figcaption>
+</figure>
 
 For a 36-stitch body: **Round 6:** (Sc 4, 2 sc in next) 6 times. (36)
 
@@ -95,6 +105,11 @@ Worked in rows over one third of the rim.
 **Rows 2–5:** Ch 1, sc in each stitch. Turn. (10)
 
 **Row 6:** Ch 1, sc 4, ch 4, skip 2, sc 4. (8 sc and a 4-chain loop) For 12, sc 5, ch 4, skip 2, sc 5.
+
+<figure class="diagram">
+<img src="/diagrams/bat-pouch-step-2.svg" alt="A flap of 6 rows worked over 10 of the 30 stitches on the last round, with a chain loop on the top row. Rows 1 to 5: 10 sc. Row 6: sc 4, ch 4, skip 2, sc 4. For a 36-stitch body the flap is 12 wide: sc 5, ch 4, skip 2, sc 5." width="480" height="449" loading="lazy" decoding="async" />
+<figcaption>Step 2. The flap uses 10 of the 30 stitches. The other 20 stay open as the mouth of the cup.</figcaption>
+</figure>
 
 Fasten off. Close the flap over the case and mark where the loop lands. Sew the button there.
 

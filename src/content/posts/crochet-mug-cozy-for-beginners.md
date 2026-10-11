@@ -1,6 +1,6 @@
 ---
 title: "Crochet Mug Cozy for Beginners (Button Closure)"
-description: "Size a single-crochet mug cozy from your mug: a strip worked sideways, a loop that passes inside the handle, and one button. US terms. Not a fitted sample."
+description: "Size a single-crochet mug cozy from your mug: a strip worked sideways, a loop that passes inside the handle, and one button. US terms."
 pubDate: 2026-10-01
 updatedDate: 2026-10-11
 category: skills
@@ -29,7 +29,7 @@ A mug cozy is a strip of single crochet that wraps the mug from one side of the 
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). If your [single crochet](/basic-crochet-stitches/) is even, you are ready. The pictures are illustrations. No cozy for this page was crocheted or fitted on a mug. The 10 inch mug below is an example for the arithmetic.
 
-![A handmade crochet mug cozy in cream and sage wrapped around a ceramic mug with a wood-button closure](../../assets/articles/crochet-mug-cozy-for-beginners-result.jpg "Illustration. It draws a textured stripe and a round button tab. This page makes plain single crochet with a chain loop. Not a fitted sample.")
+![A handmade crochet mug cozy in cream and sage wrapped around a ceramic mug with a wood-button closure](../../assets/articles/crochet-mug-cozy-for-beginners-result.jpg "Illustration. It draws a textured stripe and a round button tab. This page makes plain single crochet with a chain loop.")
 
 ## What is a technique, and what is only a plan
 
@@ -95,6 +95,11 @@ Chain 13.
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (12)
 
+<figure class="diagram">
+<img src="/diagrams/mug-cozy-step-1.svg" alt="A foundation chain of 13. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 12 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 1. The chain sets the cozy's height: chain 13 for 12 sc, 3 inches at 4 sc per inch.</figcaption>
+</figure>
+
 **Checkpoint:** hold the row upright against the mug. It should reach from just above the base curve to about half an inch below the rim. If it does not, change the chain now. This is the only point where the height is cheap to fix.
 
 ## Stage 2: rows around the mug
@@ -102,6 +107,16 @@ Chain 13.
 ![A growing single-crochet rectangle for a mug cozy held against a mug](../../assets/articles/crochet-mug-cozy-for-beginners-3.jpg "Illustration. Wrap the strip as it grows until the ends reach the sides of the handle.")
 
 **Row 2 and on:** Sc in each stitch. Ch 1, turn. (12)
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>The usual way a 12-stitch cozy grows: a stitch worked into the ch 1.</figcaption>
+</figure>
+
+<figure class="diagram">
+<img src="/diagrams/mug-cozy-step-2.svg" alt="Rows around the mug. Rows of 12 sc drawn one symbol per stitch and worked back and forth, each starting with a turning chain (ch 1, not a st). Row 45 is highlighted. Every row: 12 sc. About 45 rows in the example. Stop when the strip reaches from one side of the handle to the other, relaxed." width="480" height="591" loading="lazy" decoding="async" />
+<figcaption>Step 2. Rows build the length around the mug. Each row is 12 sc, and the ch 1 is not a stitch.</figcaption>
+</figure>
 
 Count the stitches every 10 rows. A gained stitch makes one long edge longer than the other, and the ends will not line up beside the handle.
 

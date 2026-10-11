@@ -1,6 +1,6 @@
 ---
 title: "How a Hooded Scarf Is Folded"
-description: "How a crochet hood is folded from a rectangle, and why a 12-inch panel will not fit an adult head. US terms. Not a worn pattern."
+description: "How a crochet hood is folded from a rectangle, and why a 12-inch panel will not fit an adult head. US terms."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -19,9 +19,9 @@ glance:
 
 This is a construction and sizing guide, not a fitted pattern. A hooded scarf is two rectangles. The long one is the scarf. The shorter one is folded in half, seamed along the crown, and sewn to the middle of the scarf. The stitches are [half double crochet](/basic-crochet-stitches/). The part that decides whether a person can wear it is the fold: which edge becomes the face opening, and how that edge gets its length.
 
-US terms. US half double crochet is not the UK half treble. On this page it is: yarn over, insert the hook, pull up a loop, yarn over, pull through all three loops. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. This scarf has not been crocheted, worn, or measured in yarn.
+US terms. US half double crochet is not the UK half treble. On this page it is: yarn over, insert the hook, pull up a loop, yarn over, pull through all three loops. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations, and the sizes come from gauge, so measure against your own head as you work.
 
-![An oatmeal crochet hooded scarf with the hood open](../../assets/articles/how-to-crochet-a-hooded-scarf-result.jpg "Illustration. Intended look of a long scarf with a hood at the center. Not a worn sample, and not the 12 inch panel.")
+![An oatmeal crochet hooded scarf with the hood open](../../assets/articles/how-to-crochet-a-hooded-scarf-result.jpg "Illustration. Intended look of a long scarf with a hood at the center.")
 
 <div class="warning">
 
@@ -64,7 +64,7 @@ This is why the old "about 6 inches" line was only half the diagnosis. At 3 half
 <figcaption>The stitch itself is not the sizing problem. The width of the rectangle is.</figcaption>
 </figure>
 
-## The failed hood, checked on paper
+## Why a 12-inch hood does not fit
 
 Gauge used for this check, and not taken from a swatch: **3 hdc = 1 inch. 2.5 rows = 1 inch.**
 
@@ -120,6 +120,11 @@ Chain-2 does not count.
 Chain 26, only if your swatch really gives 3 half doubles to the inch and you really want 8 inches.
 
 **Row 1:** Half double in the third chain from the hook and across. Chain 2, turn. (24)
+
+<figure class="diagram">
+<img src="/diagrams/hooded-scarf-step-1.svg" alt="A foundation chain of 26. The 2 chains nearest the hook are skipped and the first hdc goes into the 3rd chain from the hook, so row 1 has 24 hdc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Chain 26 for 24 hdc. On this page the 2 skipped chains do not count, so the row is 24, not 26.</figcaption>
+</figure>
 
 **Row 2:** Half double in each stitch. Chain 2, turn. (24)
 

@@ -31,9 +31,9 @@ Two facts fix most of it. A spider's body is in two parts, a larger rear section
 
 The web has its own rule: it is a flat mesh worked in rounds, and each round's chain loops have to be longer than the last, because each round goes around a bigger circle. Get that wrong and the web cups or ruffles.
 
-You should be comfortable with [magic rings and spirals](/crochet-in-the-round/). US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No spider or web for this page was made and measured.
+You should be comfortable with [magic rings and spirals](/crochet-in-the-round/). US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the finished spider and web, which have not been made up in yarn here, so their size depends on your yarn and hook.
 
-![A finished black crochet spider beside a pale gray flat crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-result.jpg "Illustration. The intended look. Not a measured sample.")
+![A finished black crochet spider beside a pale gray flat crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-result.jpg "Illustration. The intended look.")
 
 ## The plan
 
@@ -56,6 +56,11 @@ Black. Work in a spiral and mark the first stitch of each round.
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring, pulled tight so the top has no hole.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (Sc, 2 sc in next) 6 times. (18)
@@ -65,6 +70,11 @@ Black. Work in a spiral and mark the first stitch of each round.
 **Rounds 5–7:** Sc in each stitch. (24)
 
 **Round 8:** (Sc 2, sc2tog) 6 times. (18)
+
+<figure class="diagram">
+<img src="/diagrams/invisible-decrease.svg" alt="Three steps. 1: insert the hook into the front loop only of the next stitch. 2: without pulling through, insert into the front loop of the stitch after it, so three loops are on the hook. 3: yarn over and pull through the two front loops, then yarn over and pull through the two loops on the hook. Two stitches become one." width="480" height="752" loading="lazy" decoding="async" />
+<figcaption>Through the front loops only, the decrease disappears into the fabric.</figcaption>
+</figure>
 
 **Round 9:** (Sc, sc2tog) 6 times. (12) Stuff firmly.
 

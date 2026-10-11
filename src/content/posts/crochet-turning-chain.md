@@ -1,7 +1,8 @@
 ---
 title: "The Turning Chain: Why Your Edges Slant"
 description: "Turning chains cause more crooked edges and lost stitches than anything else in crochet. Here is exactly how many to work and whether it counts as a stitch."
-pubDate: 2026-09-06
+pubDate: 2026-09-10
+updatedDate: 2026-10-11
 category: skills
 level: beginner
 howTo: true
@@ -75,6 +76,11 @@ You are losing a stitch each row.
 **The last stitch is missing.** In double crochet, the previous turning chain looks like part of the edge. If your pattern counts it, that chain is the last stitch. Work into the top of it.
 
 **The first stitch is skipped when it should not be.** If the turning chain does not count, the first real stitch goes into the first stitch of the row.
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>In single crochet the ch 1 never counts, so the first stitch of the row goes into the first stitch, at the base of the chain.</figcaption>
+</figure>
 
 ### The work gets wider
 

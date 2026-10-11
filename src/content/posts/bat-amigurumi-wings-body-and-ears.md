@@ -29,9 +29,9 @@ Bats look complicated because of the wings. The body is a small oval and the ear
 
 The mirror problem has a simple answer, and it is the lesson of this page. You do not write a separate pattern for the left wing. You make two identical wings and turn one over. Single crochet looks almost the same on both sides, so the flipped wing reads as the opposite hand. The same trick works for any lopsided flat piece: a leaf, a foot, a pair of ears.
 
-You should be comfortable [working in the round](/crochet-in-the-round/) and sewing pieces with a yarn needle. US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bat for this page was made and measured.
+You should be comfortable [working in the round](/crochet-in-the-round/) and sewing pieces with a yarn needle. US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the finished bat, which has not been made up in yarn here, so its size depends on your yarn and hook.
 
-![A finished black crochet bat with matching wings and small triangular ears](../../assets/articles/bat-amigurumi-wings-body-and-ears-result.jpg "Illustration. The intended look. Not a measured sample.")
+![A finished black crochet bat with matching wings and small triangular ears](../../assets/articles/bat-amigurumi-wings-body-and-ears-result.jpg "Illustration. The intended look.")
 
 ## What you need
 
@@ -49,6 +49,11 @@ A short oval: the same increase, even, decrease shape as the [pumpkin](/how-to-c
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring, pulled tight so the top has no hole.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (Sc, 2 sc in next) 6 times. (18)
@@ -56,6 +61,11 @@ A short oval: the same increase, even, decrease shape as the [pumpkin](/how-to-c
 **Rounds 4–8:** Sc in each stitch. (18)
 
 **Round 9:** (Sc, sc2tog) 6 times. (12)
+
+<figure class="diagram">
+<img src="/diagrams/invisible-decrease.svg" alt="Three steps. 1: insert the hook into the front loop only of the next stitch. 2: without pulling through, insert into the front loop of the stitch after it, so three loops are on the hook. 3: yarn over and pull through the two front loops, then yarn over and pull through the two loops on the hook. Two stitches become one." width="480" height="752" loading="lazy" decoding="async" />
+<figcaption>Through the front loops only, the decrease disappears into the fabric.</figcaption>
+</figure>
 
 Stuff firmly. A soft body lets the wings drag it out of shape.
 

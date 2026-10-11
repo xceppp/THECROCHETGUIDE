@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Laptop Sleeve"
-description: "Size a single-crochet laptop sleeve from the closed machine's width, depth, and thickness, then fold and seam it. Not waterproof, not padding, not yarn-tested."
+description: "Size a single-crochet laptop sleeve from the closed machine's width, depth, and thickness, then fold and seam it. Not waterproof and not padding."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -73,7 +73,7 @@ The earlier version of this page added 1 inch to the width and called the result
 
 ## Yarn and hook
 
-![Gray worsted cotton, a hook, and a closed laptop](../../assets/articles/how-to-crochet-a-laptop-sleeve-1.jpg "Illustration. Yarn and a hook. Not a weighed amount.")
+![Gray worsted cotton, a hook, and a closed laptop](../../assets/articles/how-to-crochet-a-laptop-sleeve-1.jpg "Illustration. Yarn and a hook.")
 
 - **Smooth worsted cotton**, in one dye lot. A different lot partway through a large solid piece can show as a band. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives dense fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -95,7 +95,17 @@ Chain 54 with a larger hook, then switch to your working hook. Or work 53 founda
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (53)
 
+<figure class="diagram">
+<img src="/diagrams/laptop-step-1.svg" alt="A foundation chain of 54. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 53 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 54 for 53 sc. A larger hook for the chain keeps the bottom edge from pulling in.</figcaption>
+</figure>
+
 **Rows 2–90:** Sc in each stitch. Ch 1, turn. (53)
+
+<figure class="diagram">
+<img src="/diagrams/laptop-step-2.svg" alt="Rows 2 to 90: 53 sc. Rows of 53 sc drawn one symbol per stitch and worked back and forth, each starting with a turning chain (ch 1, not a st). Row 46 is highlighted. Every row: 53 sc. Count every 10 rows. The fold falls between rows 45 and 46." width="480" height="532" loading="lazy" decoding="async" />
+<figcaption>Step 2. 53 sc on every row. Counting every 10 rows catches a gained stitch before it costs width.</figcaption>
+</figure>
 
 The ch 1 does not count as a stitch.
 
@@ -105,7 +115,17 @@ The ch 1 does not count as a stitch.
 
 Fold so row 1 meets row 90, right sides together. Join yarn at the fold and single crochet through both layers along each side, one stitch per row end, to the top. Turn it right side out so the seam ridges are inside.
 
+<figure class="diagram">
+<img src="/diagrams/laptop-step-3.svg" alt="Drawn to scale. A flat piece 53 sc, 13.1 in wide and 90 rows, 18 in tall, folded at the dashed line into a pocket. Right sides together. Sc through both layers, one per row end. Reinforce the bottom corners." width="480" height="448" loading="lazy" decoding="async" />
+<figcaption>Step 3. Drawn to scale: 13.1 by 18 inches folds into a 13.1 by 9 inch sleeve.</figcaption>
+</figure>
+
 Single crochet seams hold better than a whipstitch under the weight of a laptop. At each bottom corner, work back over the first inch of seam a second time with a yarn needle. That keeps the corner from opening in ordinary carrying. It is not drop protection.
+
+<figure class="diagram">
+<img src="/diagrams/sc-seam-two-layers.svg" alt="Two steps. 1: hold the pieces wrong sides together with the edges lined up stitch for stitch. 2: insert the hook through both layers at once, matching stitch to stitch, and work one sc in each pair; work 3 sc in a corner stitch to turn a corner flat." width="480" height="559" loading="lazy" decoding="async" />
+<figcaption>One sc per row end through both layers, from the fold to the top.</figcaption>
+</figure>
 
 Slide the laptop in. It should go in without bending the lid, and the opening should come at least to the top edge of the machine.
 

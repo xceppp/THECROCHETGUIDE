@@ -1,7 +1,7 @@
 ---
 title: "Finishing Crochet: Weaving In Ends and Blocking"
 description: "How to weave in yarn ends so they never come loose, plus when blocking is worth doing and when it does nothing at all."
-pubDate: 2026-08-29
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: skills
 level: beginner

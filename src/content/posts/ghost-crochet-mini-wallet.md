@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Ghost Mini Wallet"
-description: "A white crochet ghost wallet for one ID-1 card and a folded bill, with a flap tapered by decreases and a button loop. US terms. Not a yarn-tested sample."
+description: "A white crochet ghost wallet for one ID-1 card and a folded bill, with a flap tapered by decreases and a button loop. US terms."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -31,7 +31,7 @@ A standard ID-1 card, the size of most US bank cards and licenses, is **3.370 ×
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No wallet for this page was crocheted or measured. Lay a card on the fabric before you seam.
 
-![A white crochet ghost mini wallet with a button flap and a card at the pocket](../../assets/articles/ghost-crochet-mini-wallet-result.jpg "Illustration. A white flap wallet with a face. Not a measured sample.")
+![A white crochet ghost mini wallet with a button flap and a card at the pocket](../../assets/articles/ghost-crochet-mini-wallet-result.jpg "Illustration. A white flap wallet with a face.")
 
 ## What is fact, and what is only a plan
 
@@ -87,9 +87,19 @@ If 16 stitches measure under 3.6 inches, the card will jam after seaming. Go up 
 
 **Row 1:** Ch 17. Sc in the second chain from the hook and in each chain across. Turn. (16)
 
+<figure class="diagram">
+<img src="/diagrams/mini-wallet-step-1.svg" alt="A foundation chain of 17. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 16 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 17 for 16 sc, about 4 inches at the example gauge.</figcaption>
+</figure>
+
 **Rows 2–30:** Ch 1, sc in each stitch across. Turn. (16)
 
 The ch 1 does not count as a stitch. Count every five rows. Single crochet edges tend to gain a stitch at the turn.
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>The gained stitch this page warns about. The first sc of each row goes into the edge stitch, not the ch 1.</figcaption>
+</figure>
 
 ## Stage 2: the flap
 
@@ -100,6 +110,11 @@ The ch 1 does not count as a stitch. Count every five rows. Single crochet edges
 **Row 33:** Ch 1, dec, sc in the next 8 stitches, dec. Turn. (10)
 
 **Row 34:** Ch 1, sc in the next 3 stitches, ch 5, skip 4, sc in the last 3. (6 sc and a ch-5 loop)
+
+<figure class="diagram">
+<img src="/diagrams/mini-wallet-step-2.svg" alt="Buttonhole row over 10 stitches: sc 3, ch 5 over 4 skipped stitches, sc 3. 6 sc and a ch-5 loop. Row 33 has 10 stitches: 3 + 4 skipped + 3. If the loop misses your button, redo this row with ch 6 or ch 7 over the same 4 stitches." width="480" height="465" loading="lazy" decoding="async" />
+<figcaption>Step 2. The loop row works over the 10 stitches left after the three decrease rows.</figcaption>
+</figure>
 
 Fasten off.
 

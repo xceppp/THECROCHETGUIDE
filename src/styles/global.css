@@ -502,9 +502,33 @@ html.dark .prose img {
     --color-rule: #e6ddd1;
   }
 
+  /* The screen layout is a min-height:100vh flex column with a flex-1 main so
+     the footer sticks to the bottom. In paged media that 100vh becomes one page
+     height and pushes an empty trailing page. Print does not need the sticky
+     footer, so fall back to normal block flow. */
   body {
+    display: block;
+    min-height: 0;
     background: white;
     font-size: 11pt;
+  }
+
+  main {
+    display: block;
+    flex: none;
+  }
+
+  /* Trailing whitespace is what tips the last line onto an empty extra sheet:
+     the page wrapper's vertical padding and the last block's bottom margin. */
+  main > div {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  article,
+  .prose,
+  .prose > :last-child {
+    margin-bottom: 0 !important;
   }
 
   .prose a {
@@ -545,5 +569,37 @@ html.dark .prose img {
   /* Paper has no scroll edge to hint at. */
   .prose .table-scroll::after {
     display: none;
+  }
+
+  /* Step diagrams are instructions and must print; illustrations are not,
+     so their figure and caption go too. */
+  .prose img[src*="/diagrams/"] {
+    display: block !important;
+    width: 100%;
+    max-width: 5.5in;
+    height: auto;
+    margin: 0.5em auto;
+    break-inside: avoid;
+  }
+
+  .prose figure:has(img:not([src*="/diagrams/"])) {
+    display: none !important;
+  }
+
+  .pin-source,
+  .author-box {
+    display: none !important;
+  }
+
+  .prose .tip,
+  .prose .warning {
+    border: 1px solid #999;
+    break-inside: avoid;
+  }
+
+  .prose ol li,
+  .prose ul li,
+  .prose blockquote {
+    break-inside: avoid;
   }
 }

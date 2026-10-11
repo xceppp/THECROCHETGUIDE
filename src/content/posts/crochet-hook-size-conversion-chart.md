@@ -1,7 +1,7 @@
 ---
 title: "Crochet Hook Size Chart: US Letters to Millimeters"
 description: "A complete crochet hook conversion chart covering US letter and number sizes, millimeters, legacy UK sizes, and steel hooks for thread crochet."
-pubDate: 2026-09-09
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: charts
 level: beginner

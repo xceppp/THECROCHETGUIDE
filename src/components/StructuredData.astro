@@ -21,7 +21,7 @@ const organization = {
     "@type": "ImageObject",
     url: new URL("/icon-512.png", SITE.url).href,
   },
-  sameAs: SOCIALS.map((social) => social.url),
+  ...(SOCIALS.length > 0 && { sameAs: SOCIALS.map((social) => social.url) }),
 };
 
 const graph = {
@@ -36,9 +36,10 @@ const graph = {
       dateModified: modified,
       inLanguage: "en-US",
       author: {
-        "@type": "Organization",
+        "@type": "Person",
         name: SITE.author.name,
-        url: new URL("/about/", SITE.url).href,
+        jobTitle: SITE.author.role,
+        url: new URL(SITE.author.url, SITE.url).href,
       },
       publisher: organization,
       mainEntityOfPage: pageUrl,

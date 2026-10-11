@@ -22,9 +22,9 @@ A crochet gnome is a body, a hat, a nose, and a beard. None of those pieces is h
 
 The second is direction. A gnome is wider at the bottom than at the top, and it has to stand. The body is worked **from the top down**: a flat top, then a few spaced increase rounds so it widens, then a flat base made last, with a weight inside before it closes. Starting at the base and increasing upward makes the opposite shape, a cup that is widest at the top.
 
-US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No gnome for this page was made and measured.
+US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the finished gnome, which has not been made up in yarn here, so its size depends on your yarn, hook, and stuffing.
 
-![A finished crochet Christmas gnome with tall hat and beard](../../assets/articles/how-to-crochet-a-gnome-result.jpg "Illustration. The intended look. Not a measured sample.")
+![A finished crochet Christmas gnome with tall hat and beard](../../assets/articles/how-to-crochet-a-gnome-result.jpg "Illustration. The intended look.")
 
 ## How it fits together
 
@@ -48,6 +48,11 @@ US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illus
 Body color. Work in a spiral and mark the first stitch of each round.
 
 **Round 1:** 6 sc in a magic ring. (6)
+
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring, pulled tight so the top has no hole.</figcaption>
+</figure>
 
 **Round 2:** 2 sc in each stitch. (12)
 
@@ -93,6 +98,11 @@ Stuff the body firmly, then lay the weight bag flat on top of the stuffing, agai
 
 **Round 21:** Sc2tog 6 times. (6) Fasten off and pull the hole closed.
 
+<figure class="diagram">
+<img src="/diagrams/gnome-body-profile.svg" alt="Gnome body, top down, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Round 5: 30, Rounds 6 to 7: 30, Round 8: 36, Rounds 9 to 10: 36, Round 11: 42, Rounds 12 to 14: 42, Round 15: 42, Round 16: 36, Round 17: 30, Round 18: 24, Round 19: 18, Round 20: 12, Round 21: 6. Round 15 (terracotta) is back loops only at 42. Rounds 16 to 21 remove 6 each to close a flat base." width="480" height="693" loading="lazy" decoding="async" />
+<figcaption>The body widens in steps with even rounds between, then the back-loop round 15 turns the base flat.</figcaption>
+</figure>
+
 Stand it on a table. If it rocks, the base domed: press it flat with your palm while it is still easy to adjust the weight.
 
 ## Step 3: the hat
@@ -130,6 +140,11 @@ Hat color. Worked from the tip down.
 **Round 19:** (Sc 5, 2 sc in next) 6 times. (42)
 
 **Rounds 20–21:** Sc in each stitch. (42) Fasten off with a long tail.
+
+<figure class="diagram">
+<img src="/diagrams/gnome-hat-profile.svg" alt="Gnome hat, tip down, as bars sized by stitch count. Rounds 1 to 4: 6, Round 5: 9, Rounds 6 to 7: 9, Round 8: 12, Rounds 9 to 10: 12, Round 11: 18, Round 12: 18, Round 13: 24, Round 14: 24, Round 15: 30, Round 16: 30, Round 17: 36, Round 18: 36, Round 19: 42, Rounds 20 to 21: 42. A thin tip first: 3 added every third round to 12. Then 6 every other round to 42." width="480" height="633" loading="lazy" decoding="async" />
+<figcaption>The hat ends at 42, the same as the body, so it sits over the top instead of perching on it.</figcaption>
+</figure>
 
 The hat opening, 42, is slightly wider than the body's 36-stitch middle where it will sit, so it drops over instead of perching. Do not stuff the hat. A stuffed hat stands stiff and loses the flop.
 

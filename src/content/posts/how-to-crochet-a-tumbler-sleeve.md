@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Tumbler Sleeve"
-description: "A cotton sleeve for a tapered travel tumbler: a sideways strip with short rows for a handled cup, or rounds with spaced increases. Not yarn-tested."
+description: "A cotton sleeve for a tapered travel tumbler: a sideways strip with short rows for a handled cup, or rounds with spaced increases."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -84,6 +84,11 @@ Chain 19.
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (18)
 
+<figure class="diagram">
+<img src="/diagrams/tumbler-step-1.svg" alt="A foundation chain of 19. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 18 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 1. The chain is the height of the sleeve, 18 sc for a 4.5 inch cup. Rows run around the cup.</figcaption>
+</figure>
+
 Put a marker in the last stitch of row 1. That end is the **top edge**. Every odd row ends there, and every even row starts there.
 
 **Rows 2–17:** Sc in each stitch. Ch 1, turn. (18)
@@ -103,6 +108,11 @@ Work these from the top edge. Each short row turns partway down.
 **Short row 4:** Sc in each of the 6 stitches back to the top edge. Ch 1, turn.
 
 You are at the top edge again, ready for a full row.
+
+<figure class="diagram">
+<img src="/diagrams/tumbler-step-2.svg" alt="The sleeve strip drawn with each row as a column 18 stitches tall and the top edge at the top. Between rows 17 and 18 sit four short rows worked from the top edge: two of 12 stitches and two of 6. The top edge gains four rows and the bottom edge none, which is what makes the top 39 rows long and the bottom 35." width="480" height="585" loading="lazy" decoding="async" />
+<figcaption>Step 2. The short rows add length only to the top edge, which is what lets a straight strip follow a wider rim.</figcaption>
+</figure>
 
 At each turning point the fabric steps, and a small gap can open. When you work the next full row past it, put the stitch firmly into the stitch below the step. A tiny gap is normal in single crochet short rows.
 

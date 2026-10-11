@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet an Ear Warmer"
-description: "A ribbed band sized from the head. US terms. The chain is the width and the rows are the circumference. Not a worn sample."
+description: "A ribbed band sized from the head. US terms. The chain is the width and the rows are the circumference."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -21,7 +21,7 @@ An ear warmer is a ribbed strip joined into a loop. The starting chain is the wi
 
 US terms. US single crochet is UK double crochet. The rib is single crochet in the back loop only. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. This band has not been worn.
 
-![An oatmeal crochet ear warmer headband](../../assets/articles/how-to-crochet-an-ear-warmer-result.jpg "Illustration. A wide ribbed loop. Not a fitted sample.")
+![An oatmeal crochet ear warmer headband](../../assets/articles/how-to-crochet-an-ear-warmer-result.jpg "Illustration. A wide ribbed loop.")
 
 ## What is a technique, and what is only a plan
 
@@ -70,7 +70,17 @@ Chain 13.
 
 **Row 1:** Single crochet in the second chain from the hook and across. Chain 1, turn. (12)
 
+<figure class="diagram">
+<img src="/diagrams/ear-warmer-step-1.svg" alt="A foundation chain of 13. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 12 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Chain 13 for 12 sc. The chain is the band's width, about 3.4 inches at 3.5 per inch.</figcaption>
+</figure>
+
 **Row 2:** Single crochet in the back loop only across. Chain 1, turn. (12)
+
+<figure class="diagram">
+<img src="/diagrams/blo-rib.svg" alt="Two steps. 1: the top of each stitch has a front loop, nearer you, and a back loop, farther away. For the rib, insert the hook under the back loop only. 2: the front loops left behind form a raised ridge on every row. The fabric stretches across the ridges, in the direction the rows stack up, so a band worked sideways stretches around the head." width="480" height="593" loading="lazy" decoding="async" />
+<figcaption>Every row from row 2 goes into the back loop only. The unworked front loops become the ribs.</figcaption>
+</figure>
 
 ![Back-loop single crochet in oatmeal yarn](../../assets/articles/how-to-crochet-an-ear-warmer-2.jpg "Illustration. The rib is the back loop. The strip is still flat.")
 

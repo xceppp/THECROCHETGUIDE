@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Lace Bandana"
-description: "A granny-triangle bandana in DK cotton, grown from the middle of the long edge until it fits. US terms. Not a worn, yarn-tested sample."
+description: "A granny-triangle bandana in DK cotton, grown from the middle of the long edge until it fits. US terms."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -19,7 +19,7 @@ glance:
 
 This bandana is a granny triangle: rows of three-double-crochet shells separated by chain spaces, with one corner that becomes the point. What surprises most people is where it starts. The first stitches sit in the middle of the long edge, not at the point. Every row wraps around the one before it like a V, so the long edge grows at both ends while the point moves away from it. Once that picture is clear, the row counts, the sizing, and most of the mistakes make sense.
 
-US terms. US double crochet is UK treble. Names are on the [abbreviations chart](/crochet-abbreviations-chart/). The pictures are illustrations. No bandana for this page was crocheted or worn. The 16 inch long edge below is a common stopping point used for arithmetic, not a fitted size.
+US terms. US double crochet is UK treble. Names are on the [abbreviations chart](/crochet-abbreviations-chart/). The pictures are illustrations. The 16 inch long edge below is a common stopping point for the math, not a fitted size, so keep going until the triangle fits you.
 
 ![A cream crochet lace bandana worn tied at the nape](../../assets/articles/how-to-crochet-a-lace-bandana-result.jpg "Illustration. A worn cotton bandana with ties at the nape. The drawn mesh is not a stitch map of this pattern, and no sample was made.")
 
@@ -51,7 +51,7 @@ That has a consequence the earlier version of this page missed. You cannot stop 
 
 ## Yarn, hook, and tools
 
-![Cream yarn and a hook](../../assets/articles/how-to-crochet-a-lace-bandana-1.jpg "Illustration. DK cotton and a hook. Not a weighed amount.")
+![Cream yarn and a hook](../../assets/articles/how-to-crochet-a-lace-bandana-1.jpg "Illustration. DK cotton and a hook.")
 
 - **DK-weight cotton.** It keeps the shells crisp and does not fuzz into the spaces. It also does not spring back after it is pulled, so block it to size rather than tugging it there. Worsted makes a stiff triangle that sits like a napkin. Thread needs a much smaller hook and many more rows. [Yarn weights](/yarn-weight-chart/).
 - **A US G/6 (4.0 mm) hook** as a starting point for DK, or the size that keeps the shells open without the fabric looking like a net. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -80,6 +80,11 @@ Inside the row, every shell goes into a chain space, never into the top of a dou
 
 **Row 1:** Ch 4. In the 4th chain from the hook, work 2 dc, ch 2, 3 dc. Turn. (6 dc counting the skipped chains as the first, 1 ch-2 corner)
 
+<figure class="diagram">
+<img src="/diagrams/bandana-step-1.svg" alt="A chain of 4. Every stitch of row 1 goes into the 4th chain from the hook: 2 double crochet, a chain-2 corner, then 3 double crochet. The 3 skipped chains stand up as the first double crochet, so the row has 6 double crochet and one corner." width="480" height="514" loading="lazy" decoding="async" />
+<figcaption>Step 1. All of row 1 goes into one chain. The 3 skipped chains count as the first dc on this page.</figcaption>
+</figure>
+
 Mark the ch-2. You should see two shells and one corner. A third shell means extra stitches went into the chain.
 
 **Row 2:** Ch 3, 2 dc in the same stitch. Ch 1. (3 dc, ch 2, 3 dc) in the corner. Ch 1. 3 dc in the top of the turning chain. Turn. (12 dc, 2 ch-1, 1 corner)
@@ -96,6 +101,11 @@ The earlier version of this page gave 9 dc for this row. Four shells are 12.
 **Row 4 and after:** Ch 3, 2 dc in the same stitch, ch 1. Work (3 dc in the next ch-1 space, ch 1) in each space up to the corner. Corner. Ch 1. Work (3 dc in the next ch-1 space, ch 1) in each remaining space. 3 dc in the top of the turning chain. Turn.
 
 Row n has n shells on each side of the corner, counting the corner halves, 6n double crochet, and 2(n − 1) chain-1 spaces. Row 10 is 60 dc and 18 spaces. Count the shells on each side of the marker before you turn. They should be equal, and equal to the row number.
+
+<figure class="diagram">
+<img src="/diagrams/bandana-step-2.svg" alt="The bandana drawn as nested V shapes hanging from the long edge. Each row is a V with its corner at the point. Row 4 is drawn in full: four shells of three double crochet on each arm, counting the corner halves, one ch-2 corner at the point, and six ch-1 spaces. Row n has 6n double crochet: 6, 12, 18, 24." width="480" height="504" loading="lazy" decoding="async" />
+<figcaption>Step 2. Every row adds one shell to each arm and keeps one corner, so the counts go 6, 12, 18, 24.</figcaption>
+</figure>
 
 ### Forecasting rows and yarn from your own swatch
 

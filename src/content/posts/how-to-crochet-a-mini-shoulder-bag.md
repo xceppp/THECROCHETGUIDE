@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Mini Shoulder Bag"
-description: "A small single-crochet bag sized from what you carry, with a short strap attached so it holds. US terms. Size and strap are estimates, not yarn-tested."
+description: "A small single-crochet bag sized from what you carry, with a short strap attached so it holds. US terms. Size and strap are estimates."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -23,7 +23,7 @@ Most of the work is the strap. A strap carries the weight of everything in the b
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bag for this page was crocheted, filled, or worn. The item sizes are an invented example.
 
-![A small oatmeal crochet bag with a short strap](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-result.jpg "Illustration. A small rectangle bag and a short strap. Not a fitted sample.")
+![A small oatmeal crochet bag with a short strap](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-result.jpg "Illustration. A small rectangle bag and a short strap.")
 
 ## What is a technique, and what is only a plan
 
@@ -57,7 +57,7 @@ The width is widest + stack + half an inch of ease + about a quarter inch for th
 
 ## Yarn and hook
 
-![Oatmeal worsted cotton, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-1.jpg "Illustration. Yarn and a hook. Not a weighed amount.")
+![Oatmeal worsted cotton, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-1.jpg "Illustration. Yarn and a hook.")
 
 - **Smooth worsted cotton.** It holds the rectangle's shape. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -71,7 +71,17 @@ Chain 28.
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (27)
 
+<figure class="diagram">
+<img src="/diagrams/shoulder-bag-step-1.svg" alt="A foundation chain of 28. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 27 sc." width="480" height="439" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 28 for 27 sc, 6.75 inches at 4 sc per inch.</figcaption>
+</figure>
+
 **Rows 2–65:** Sc in each stitch. Ch 1, turn. (27)
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>Each row starts in the edge stitch. A gained stitch here shows up as a crooked side seam.</figcaption>
+</figure>
 
 The ch 1 does not count as a stitch. Count every 10 rows.
 
@@ -83,6 +93,11 @@ Fold with right sides together so row 1 meets row 65. Single crochet through bot
 
 Join yarn at one side seam on the opening. Ch 1, sc in each stitch around both edges: 27 along row 65 and 27 along the foundation chain. Slip stitch to the first sc. (54) Fasten off.
 
+<figure class="diagram">
+<img src="/diagrams/shoulder-bag-step-2.svg" alt="Drawn to scale. A flat piece 27 sc, 6.75 in wide and 65 rows, 13 in tall, folded at the dashed line into a pocket. Seam both sides, then work 27 sc along row 65 and 27 along the foundation chain." width="480" height="547" loading="lazy" decoding="async" />
+<figcaption>Step 2. Drawn to scale. The 65 rows fold in half to about 6.5 inches a side, and the top round joins both edges: 54 sc.</figcaption>
+</figure>
+
 This round firms the opening so it does not stretch out of shape when you reach in. It also gives the strap something solid to be sewn to.
 
 ## Stage 3: the strap
@@ -90,6 +105,11 @@ This round firms the opening so it does not stretch out of shape when you reach 
 Chain 5.
 
 **Row 1:** Sc in the second chain from the hook and across. Ch 1, turn. (4)
+
+<figure class="diagram">
+<img src="/diagrams/shoulder-bag-step-3.svg" alt="A foundation chain of 5. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 4 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 3. The strap is a narrow strip: chain 5 for 4 sc.</figcaption>
+</figure>
 
 **Next rows:** Sc in each stitch. Ch 1, turn. (4)
 

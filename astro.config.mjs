@@ -1,6 +1,22 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
+import { readdirSync, readFileSync } from "node:fs";
+
+/**
+ * Article slug -> last real modification day, for sitemap `lastmod`. Pages
+ * that are not articles get no lastmod rather than a made-up one.
+ */
+const articleLastmod = Object.fromEntries(
+  readdirSync("src/content/posts")
+    .filter((file) => file.endsWith(".md"))
+    .map((file) => {
+      const text = readFileSync(`src/content/posts/${file}`, "utf8");
+      const field = (key) =>
+        text.match(new RegExp(`^${key}:\\s*(\\S+)`, "m"))?.[1];
+      return [file.replace(/\.md$/, ""), field("updatedDate") ?? field("pubDate")];
+    }),
+);
 
 /**
  * Wraps every Markdown table in a positioned container so the scroll-hint
@@ -88,10 +104,16 @@ function rehypeFigures() {
       if (typeof caption !== "string" || caption.trim() === "") return child;
 
       delete image.properties.title;
-      const detail = caption.replace(/^Illustration\.?\s*/i, "").trim();
-      const captionText = detail.toLowerCase().startsWith("ai illustration")
-        ? detail
-        : `AI illustration: ${detail}`;
+      // Caption text is rendered as written. Finished-object pictures carry
+      // their own "Concept illustration" or "Illustration" wording; anything
+      // that is not already labeled gets a plain "Illustration." so a reader
+      // never mistakes a drawing for a photograph. How those illustrations are
+      // produced is explained once, on the disclosures page, not in every
+      // caption.
+      const text = caption.trim();
+      const captionText = /^(concept\s+)?illustration\b|^diagram\b/i.test(text)
+        ? text
+        : `Illustration. ${text}`;
 
       return {
         type: "element",
@@ -136,6 +158,12 @@ export default defineConfig({
         !["/tools/", "/cookie-settings/", "/privacy-eu/", "/privacy-us/"].some(
           (path) => page.includes(path),
         ),
+      serialize(item) {
+        const slug = new URL(item.url).pathname.replace(/^\/|\/$/g, "");
+        const day = articleLastmod[slug];
+        if (day) item.lastmod = new Date(`${day}T00:00:00Z`).toISOString();
+        return item;
+      },
     }),
   ],
   markdown: {

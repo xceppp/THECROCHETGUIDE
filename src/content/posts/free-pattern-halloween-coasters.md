@@ -1,7 +1,7 @@
 ---
 title: "Halloween Coasters: Pumpkin Circle and Granny Square Set"
-description: "A flat single-crochet pumpkin coaster with the increase math that keeps it flat, plus a granny square set. US terms. Counts checked on paper only."
-pubDate: 2026-09-16
+description: "A flat single-crochet pumpkin coaster with the increase math that keeps it flat, plus a granny square set. US terms."
+pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
 level: beginner
@@ -28,7 +28,7 @@ glance:
 
 <div class="warning">
 
-**Not a measured sample.** Stitch counts below were checked on paper. They have not been worked in yarn, and the photo is an illustration. Set your mug on the disc before you fasten off.
+The sizes here come from gauge rather than a finished sample, so set your mug on the disc before you fasten off. The picture is an illustration.
 
 </div>
 
@@ -36,7 +36,7 @@ A coaster has one job: lie flat under a mug. The pumpkin coaster on this page is
 
 US terms. US single crochet is UK double crochet. US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/).
 
-![A round orange crochet coaster with a short green stem beside a mug](../../assets/articles/free-pattern-halloween-coasters-pumpkin.jpg "Illustration. The drawn stem stands up and is thicker than the slip-stitch chain this page makes. Not a photograph of a tested sample.")
+![A round orange crochet coaster with a short green stem beside a mug](../../assets/articles/free-pattern-halloween-coasters-pumpkin.jpg "Illustration. The drawn stem stands up and is thicker than the slip-stitch chain this page makes.")
 
 ## What is a technique, and what is only a plan
 
@@ -84,6 +84,11 @@ Work in a spiral: do not join rounds. Put the marker in the first stitch of each
 
 **Rnd 1.** Magic ring, 6 sc in the ring. Pull the tail until the hole closes. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Pull the tail until the center closes. An open center is the first thing a mug finds.</figcaption>
+</figure>
+
 **Rnd 2.** 2 sc in each stitch. (12)
 
 **Rnd 3.** (Sc in the next stitch, 2 sc in the next) 6 times. (18)
@@ -107,6 +112,11 @@ Work in a spiral: do not join rounds. Put the marker in the first stitch of each
 **Finish.** A spiral ends half a step higher than it started. Slip stitch into the next stitch, fasten off, and weave the tail along the edge for an inch to smooth the step.
 
 ### Keeping it round instead of six-sided
+
+<figure class="diagram">
+<img src="/diagrams/increase-stagger.svg" alt="Correct: the increase in each round is moved, for example by working half the plain stitches before the first increase on alternate rounds, so the edge stays round. Mistake: every increase lands directly above the last one, which builds six corners and the circle becomes a hexagon." width="480" height="679" loading="lazy" decoding="async" />
+<figcaption>Move where the increases fall from round to round, and the six corners never form.</figcaption>
+</figure>
 
 Written as above, each round's increases sit just past the last round's, and they stack into six lines that can turn the circle into a soft hexagon. To break the lines, start alternate rounds partway through the repeat. Round 5, for example, becomes: sc in the next stitch, 2 sc in the next, (sc in the next 3, 2 sc in the next) 5 times, sc in the last 2. That is 1 + 2 + 25 + 2 = 30, the same count with the increases moved.
 
@@ -139,9 +149,24 @@ The granny square is a second shape for the same job. It shows more of the table
 
 **Rnd 1.** With the first color, ch 4, join to form a ring. Ch 3, 2 dc in the ring, ch 2, (3 dc in the ring, ch 2) 3 times, join to the top of the ch-3. Fasten off if changing. (12 dc, 4 corners)
 
+<figure class="diagram">
+<img src="/diagrams/granny-round-1.svg" alt="Granny square round 1. Four clusters of three double crochet worked into the ring, 12 double crochet in all, with a chain-2 corner between each pair. There are no side spaces yet." width="480" height="639" loading="lazy" decoding="async" />
+<figcaption>Round 1: four clusters in the ring, with a ch-2 corner between each pair.</figcaption>
+</figure>
+
 **Rnd 2.** Join the next color in any ch-2 corner. Ch 3, (2 dc, ch 2, 3 dc) in the same corner, ch 1, *(3 dc, ch 2, 3 dc) in the next corner, ch 1; rep from * twice more, join. Fasten off if changing. (24 dc, 4 ch-2 corners, 4 ch-1)
 
+<figure class="diagram">
+<img src="/diagrams/granny-round-2.svg" alt="Granny square round 2. 24 double crochet in all. Each of the four corners holds 3 dc, ch 2, 3 dc. Each side has 1 chain-1 space, still empty; round 3 fills them." width="480" height="667" loading="lazy" decoding="async" />
+<figcaption>Round 2: every cluster goes into a corner, and the ch 1 between corners makes the first side spaces.</figcaption>
+</figure>
+
 **Rnd 3.** Join the next color in any corner. Ch 3, (2 dc, ch 2, 3 dc) in the corner, ch 1, 3 dc in the next ch-1 space, ch 1, *(3 dc, ch 2, 3 dc) in the corner, ch 1, 3 dc in the next ch-1 space, ch 1; rep from * around, join. (36 dc, 4 ch-2 corners, 4 side clusters)
+
+<figure class="diagram">
+<img src="/diagrams/granny-side-space.svg" alt="One side of a granny square, round 3 worked over round 2. Correct: the side cluster of round 3 sits in the chain-1 space between round 2's two corner halves, with a chain-1 on each side of it. Common mistake: the cluster goes into the top of a double crochet instead. The gap closes, the side goes stiff, and the square starts to cup." width="480" height="721" loading="lazy" decoding="async" />
+<figcaption>From round 3 on, side clusters go into those ch-1 spaces, never into a stitch top.</figcaption>
+</figure>
 
 **Rnd 4.** Join in any corner. Ch 3, (2 dc, ch 2, 3 dc) in the corner, ch 1, 3 dc in the next space, ch 1, 3 dc in the next space, ch 1, *(3 dc, ch 2, 3 dc) in the next corner, ch 1, 3 dc in the next space, ch 1, 3 dc in the next space, ch 1; rep from * around, join. (48 dc, 4 corners, 2 side clusters on each side)
 

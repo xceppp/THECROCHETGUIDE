@@ -1,6 +1,6 @@
 ---
 title: "15 Easy Crochet Christmas Ornament Ideas"
-description: "Fifteen small Christmas ornament ideas, plus one complete flat star in US terms. Trees and snowflakes link out. The star is not a yarn-tested sample."
+description: "Fifteen small Christmas ornament ideas, plus one complete flat star in US terms. Trees and snowflakes link out."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -13,7 +13,7 @@ tags: ["christmas", "ornament", "star", "beginner"]
 
 A crochet ornament has one job: hang flat enough that it does not curl into a tube by New Year. The hanging loop matters more than the color.
 
-This page lists 15 shapes. The flat star is a full pattern. Two other shapes already have patterns on this site, and those links are the instructions. The rest are ideas for planning yarn and difficulty. They are not stitch-by-stitch tutorials, and the group photo is an illustration, not a set of tested samples. For the star that is written out, the hanging loop has to pass over the hook you will actually use. Chain it, slip stitch it to the top, and check the hook before you weave the tail. If the star cups, block it flat before it hangs. A cupped star twists on the tree.
+This page lists 15 shapes. The flat star is a full pattern. Two other shapes already have patterns on this site, and those links are the instructions. The rest are ideas for planning yarn and difficulty. They are not stitch-by-stitch tutorials, and the group picture is an illustration of the shapes. For the star that is written out, the hanging loop has to pass over the hook you will actually use. Chain it, slip stitch it to the top, and check the hook before you weave the tail. If the star cups, block it flat before it hangs. A cupped star twists on the tree.
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/).
 

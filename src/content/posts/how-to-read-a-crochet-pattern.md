@@ -1,7 +1,7 @@
 ---
 title: "How to Read a Crochet Pattern, Line by Line"
 description: "Crochet patterns are written in shorthand nobody teaches you. Here is how to decode a real pattern from the materials list to the last row."
-pubDate: 2026-09-08
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: skills
 level: beginner

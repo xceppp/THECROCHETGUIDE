@@ -1,0 +1,74 @@
+---
+/**
+ * Optional "mark this stage done" list for step-by-step projects. Built from
+ * the article's own step headings, so it never drifts from the text. Ticks are
+ * saved in the reader's browser only (localStorage), per article.
+ */
+interface Props {
+  slug: string;
+  stages: Array<{ slug: string; text: string }>;
+}
+
+const { slug, stages } = Astro.props;
+---
+
+<details class="stage-checklist no-print mt-6 rounded-lg border border-rule bg-paper-deep px-5 py-3" data-stage-list={slug}>
+  <summary class="min-h-11 cursor-pointer py-2 text-xs font-semibold tracking-wider text-ink-faint uppercase">
+    Track your progress <span class="font-normal normal-case tracking-normal" data-stage-count></span>
+  </summary>
+  <ol class="mt-2 space-y-1 text-sm">
+    {
+      stages.map((stage) => (
+        <li class="flex items-center gap-3">
+          <input
+            type="checkbox"
+            id={`stage-${stage.slug}`}
+            value={stage.slug}
+            class="h-5 w-5 shrink-0 accent-terracotta"
+          />
+          <label for={`stage-${stage.slug}`} class="min-h-11 flex-1 py-2.5 text-ink-soft">
+            {stage.text}
+          </label>
+          <a href={`#${stage.slug}`} class="text-xs text-terracotta-deep no-underline hover:underline">
+            Go<span class="sr-only"> to {stage.text}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ol>
+  <p class="mt-3 border-t border-rule pt-3 text-xs leading-relaxed text-ink-faint">
+    Ticks are saved on this device only. Counting rows? Keep the
+    <a href="/crochet-stitch-counter/" class="text-terracotta-deep">stitch counter</a> open in another tab.
+  </p>
+</details>
+
+<script>
+  for (const list of document.querySelectorAll<HTMLElement>("[data-stage-list]")) {
+    const key = `ce-stages:${list.dataset.stageList}`;
+    const boxes = [...list.querySelectorAll<HTMLInputElement>("input[type=checkbox]")];
+    const count = list.querySelector<HTMLElement>("[data-stage-count]");
+    let saved: string[] = [];
+    try {
+      saved = JSON.parse(localStorage.getItem(key) ?? "[]");
+    } catch {
+      saved = [];
+    }
+    const sync = () => {
+      const done = boxes.filter((box) => box.checked).length;
+      if (count) count.textContent = done ? `(${done} of ${boxes.length} done)` : "";
+    };
+    for (const box of boxes) {
+      box.checked = saved.includes(box.value);
+      box.addEventListener("change", () => {
+        const values = boxes.filter((b) => b.checked).map((b) => b.value);
+        try {
+          localStorage.setItem(key, JSON.stringify(values));
+        } catch {
+          /* Storage blocked: ticks still work for this visit. */
+        }
+        sync();
+      });
+    }
+    sync();
+  }
+</script>

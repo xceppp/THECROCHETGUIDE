@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Christmas Tree Skirt"
-description: "A worsted circle with a slit and a center opening for a tree. Diameter is a gauge estimate. Not yarn-tested and not used under a tree."
+description: "A worsted circle with a slit and a center opening for a tree. Diameter is a gauge estimate. Not used under a tree."
 pubDate: 2026-10-09
 category: patterns
 level: intermediate

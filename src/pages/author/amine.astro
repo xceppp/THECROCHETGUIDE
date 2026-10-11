@@ -1,0 +1,116 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { SITE, CATEGORIES, type CategoryId } from "../../config";
+
+const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime(),
+);
+const order: CategoryId[] = ["skills", "patterns", "charts", "gear"];
+const groups = order
+  .map((id) => ({ id, label: CATEGORIES[id].label, posts: posts.filter((p) => p.data.category === id) }))
+  .filter((group) => group.posts.length > 0);
+
+const pageUrl = new URL(SITE.author.url, SITE.url).href;
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  url: pageUrl,
+  mainEntity: {
+    "@type": "Person",
+    name: SITE.author.name,
+    jobTitle: SITE.author.role,
+    description: SITE.author.bio,
+    url: pageUrl,
+    worksFor: { "@type": "Organization", name: SITE.name, url: SITE.url },
+  },
+};
+---
+
+<BaseLayout
+  title={`${SITE.author.name}, publisher and editor`}
+  description={`Who publishes ${SITE.name} and how its crochet instructions are checked for accuracy.`}
+  schema={schema}
+>
+  <div class="mx-auto max-w-3xl px-6 py-10 sm:px-8 sm:py-14">
+    <div class="flex items-center gap-5">
+      <div
+        aria-hidden="true"
+        class="flex h-20 w-20 shrink-0 items-center justify-center rounded-full border border-rule bg-paper-deep font-serif text-2xl text-terracotta-deep"
+      >
+        MA
+      </div>
+      <div>
+        <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">{SITE.author.name}</h1>
+        <p class="mt-1 text-ink-soft">{SITE.author.role}, {SITE.name}</p>
+      </div>
+    </div>
+
+    <div class="prose mt-8">
+      <p>
+        I publish {SITE.name} and I am responsible for everything on it. I am
+        not a crochet designer and I do not claim a teaching qualification.
+        The aim of the site is simple: crochet instructions that a beginner
+        can follow, with a clear count, a picture of where the hook goes, and
+        an honest note about what usually goes wrong.
+      </p>
+
+      <h2>What I do on each page</h2>
+      <ul>
+        <li>Decide what gets published and keep the 12-step course in a sensible order.</li>
+        <li>
+          Check stitch arithmetic on paper: every increase and decrease adds up
+          to the count in parentheses, every round total follows from the one
+          before, and panel sizes follow from the stated gauge.
+        </li>
+        <li>
+          Check reference charts against published standards, such as Craft Yarn
+          Council yarn weights and manufacturer hook sizes, rather than other
+          blogs.
+        </li>
+        <li>Make sure every diagram matches the written step it sits beside.</li>
+        <li>Fix pages when a reader reports a mistake, and change the updated date when I do.</li>
+      </ul>
+
+      <h2>What I do not claim</h2>
+      <p>
+        The sizes on this site are worked out from gauge rather than measured
+        from a finished sample, so a finished size is a calculation and yardage
+        is an estimate. Each pattern page says this near the top. Pictures of
+        finished items are illustrations of the intended look, labeled as such,
+        never photographs of a made sample. How those illustrations are produced
+        is explained on the <a href="/disclosures/">disclosures page</a>.
+      </p>
+
+      <h2>Report an error</h2>
+      <p>
+        If a count, a chart value, or a diagram looks wrong, use the
+        <a href="/contact/">contact page</a> and name the page and the row. A
+        correct report gets the page fixed.
+      </p>
+    </div>
+
+    <section class="mt-12 border-t border-rule pt-8">
+      <h2 class="font-serif text-2xl tracking-tight">Pages I publish and edit</h2>
+      <p class="mt-2 text-sm text-ink-soft">{posts.length} published articles.</p>
+      {
+        groups.map((group) => (
+          <div class="mt-6">
+            <h3 class="text-xs font-semibold tracking-wider text-ink-faint uppercase">
+              {group.label} ({group.posts.length})
+            </h3>
+            <ul class="mt-2 space-y-1.5 text-sm">
+              {group.posts.map((post) => (
+                <li>
+                  <a href={`/${post.id}/`} class="text-ink no-underline hover:text-terracotta-deep hover:underline">
+                    {post.data.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </section>
+  </div>
+</BaseLayout>

@@ -27,11 +27,11 @@ glance:
 
 The crochet part of a snowflake is three short rounds. The part that decides whether it looks like an ornament or a limp doily is the finishing: soaking it in stiffener, pinning every point, and letting it dry hard. This page covers both, and spends more time on the second, because that is where most snowflakes go wrong.
 
-The crochet is ordinary [work in the round](/crochet-in-the-round/), with the stitches spread apart on purpose. The pictures are illustrations, not photographs of a blocked sample.
+The crochet is ordinary [work in the round](/crochet-in-the-round/), with the stitches spread apart on purpose. The finished size depends on your thread and how you block it, so the inch sizes here are a guide rather than a measured result. The pictures are illustrations of the intended shape.
 
 ![Hands working a white thread snowflake with a fine steel crochet hook](../../assets/articles/how-to-crochet-a-snowflake-1.jpg "Illustration. The crochet is quick. The blocking decides how it looks.")
 
-![A finished white crochet snowflake with open stiff points](../../assets/articles/how-to-crochet-a-snowflake-result.jpg "Illustration. Flat points after stiffening. Not a photographed sample.")
+![A finished white crochet snowflake with open stiff points](../../assets/articles/how-to-crochet-a-snowflake-result.jpg "Illustration. Flat points after stiffening.")
 
 ## What you need
 

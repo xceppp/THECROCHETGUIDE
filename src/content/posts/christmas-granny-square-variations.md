@@ -14,6 +14,8 @@ tags:
 
 A granny square is the same move over and over: clusters of three double crochets worked into the **gaps**, never into the tops of the stitches. Once that is in your hands, the interesting part is color. Christmas is where those choices go muddy. Four layouts below. None of them changes the stitch. The [Halloween granny squares](/halloween-granny-square-variations/) use this same cluster. Their problem is a candy-corn order and a dark join. This page's problem is red sitting against green.
 
+US terms throughout. The rounds are the standard granny square. The pictures are illustrations of the finished look, so treat the color layouts as a plan you can change to suit your yarn.
+
 
 ![A set of Christmas granny squares in red green and cream](../../assets/articles/christmas-granny-square-variations-result.jpg "Illustration. The finished look these color variations build toward.")
 ## What you need
@@ -46,6 +48,11 @@ There is a count, and it is easy to check. Count the clusters along one side, in
 <div class="tip">
 
 **Work into the spaces, not the stitches.** The hook goes into the gap between clusters, not into the top of a double crochet. A square that goes stiff and loses its holes is what happens when you work into the stitch tops.
+
+<figure class="diagram">
+<img src="/diagrams/granny-side-space.svg" alt="One side of a granny square, round 3 worked over round 2. Correct: the side cluster of round 3 sits in the chain-1 space between round 2's two corner halves, with a chain-1 on each side of it. Common mistake: the cluster goes into the top of a double crochet instead. The gap closes, the side goes stiff, and the square starts to cup." width="480" height="721" loading="lazy" decoding="async" />
+<figcaption>A side cluster in the chain-1 space, and the same cluster pushed into a stitch top.</figcaption>
+</figure>
 
 </div>
 

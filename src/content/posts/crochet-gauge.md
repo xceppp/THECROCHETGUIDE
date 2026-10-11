@@ -1,7 +1,7 @@
 ---
 title: "Crochet Gauge: How to Measure It and Fix It"
 description: "Gauge is why your hat came out too small even though you followed the pattern. How to swatch, measure properly, and adjust when you are off."
-pubDate: 2026-09-02
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: skills
 level: beginner

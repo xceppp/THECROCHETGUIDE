@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Wine Bottle Bag"
-description: "A drawstring tube for a bottle you measure, with the base, sides, and cord point worked out, and a handle so you never lift it by the cord. Not yarn-tested."
+description: "A drawstring tube for a bottle you measure, with the base, sides, and cord point worked out, and a handle so you never lift it by the cord."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -57,7 +57,7 @@ Add about half an inch of ease to the circumference. Glass that has to be forced
 
 ## Yarn and hook
 
-![Sage cotton yarn, a hook, and a plain bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-1.jpg "Illustration. Yarn and a hook. Not a weighed amount.")
+![Sage cotton yarn, a hook, and a plain bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-1.jpg "Illustration. Yarn and a hook.")
 
 - **Smooth worsted cotton.** A cold bottle sweats; cotton handles that better than acrylic. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -81,6 +81,11 @@ Joined rounds: slip stitch to the first stitch and ch 1 (does not count) at the 
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>The base starts in a magic ring, closed tight so the bottle cannot push through.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (2 sc in next, sc in next) 6 times. (18)
@@ -95,6 +100,11 @@ Joined rounds: slip stitch to the first stitch and ch 1 (does not count) at the 
 
 Round 7 adds only four stitches, to land on 40. Stand the bottle on the circle. The base should be a little wider than the bottle. If your bottle needs a different count, stop increasing when you reach it, keeping the count even for the eyelets.
 
+<figure class="diagram">
+<img src="/diagrams/wine-bag-step-1.svg" alt="Base: rounds 1 to 7, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: 2 sc in each st, 12 stitches. Round 3: (2 sc in next, sc in next) 6 times, 18 stitches. Round 4: (2 sc in next, sc 2) 6 times, 24 stitches. Round 5: (2 sc in next, sc 3) 6 times, 30 stitches. Round 6: (2 sc in next, sc 4) 6 times, 36 stitches. Round 7: (2 sc in next, sc 8) 4 times, 40 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 1. Rounds 2 to 6 add 6 each. Round 7 adds 4 to land on 40, an even count for the eyelets.</figcaption>
+</figure>
+
 ## Stage 2: the sides
 
 **Rounds 8–52:** Sc in each stitch. (40)
@@ -105,9 +115,19 @@ Slide the bottle in every 10 rounds. Stop when the fabric reaches the cord point
 
 **Eyelet round:** (Sc in next, ch 1, skip 1) 20 times. (20 sc, 20 ch-1 spaces)
 
+<figure class="diagram">
+<img src="/diagrams/wine-bag-step-2.svg" alt="Eyelet round on 40, drawn as rings from the center out. Round 52: undefined, 40 stitches. Eyelet round: (sc in next, ch 1, skip 1) 20 times: 20 sc, 20 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 2. The eyelet round keeps the stitch positions: 20 sc and 20 chain spaces, back to 40 sc on the next round.</figcaption>
+</figure>
+
 **Next round:** Sc in each sc and in each ch-1 space. (40)
 
 **Last round:** Sc in each stitch. (40) Fasten off.
+
+<figure class="diagram">
+<img src="/diagrams/wine-bag-step-3.svg" alt="The whole bag by stitch count, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Round 5: 30, Round 6: 36, Round 7: 40, Rounds 8 to 52: 40, Round 53: 20+20, Round 54: 40, Round 55: 40. R53 to R55 are the pattern's eyelet round (20 sc and 20 chain spaces), next round, and last round." width="480" height="541" loading="lazy" decoding="async" />
+<figcaption>Step 3. The whole bag by stitch count. The 7 base rounds lie flat and add no height.</figcaption>
+</figure>
 
 **Cord:** chain to 26 inches, then slip stitch back along the chain so it does not stretch. Thread it in and out of the eyelets, starting and ending at the front. Knot each end.
 

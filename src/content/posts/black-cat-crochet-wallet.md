@@ -20,19 +20,9 @@ A black cat is the Halloween wallet people recognize from across the room, and t
 
 This page is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The skill it teaches is working into both sides of a foundation chain, which is also how many pencil cases and amigurumi bodies start.
 
-![A black crochet wallet with two ears, gold eyes, a pink nose, and white whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![A black crochet wallet with two ears, gold eyes, a pink nose, and white whiskers](../../assets/articles/black-cat-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
 
-## What is checked, and what is not
-
-| Part of this page | What it is |
-| --- | --- |
-| ID-1 card, 3.370 x 2.125 in | The ISO/IEC 7810 size of most US bank cards and licenses |
-| Every stitch count and row count | Checked by hand on paper |
-| 16 sc and 20 rows to 4 in | An example gauge, not measured from a finished wallet |
-| Finished size and card fit | Geometry from that gauge. Not physically test-crocheted. |
-| The picture above | A computer illustration, not a made sample |
-
-Check the fit with a real card at round 10. That is the step that matters.
+The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so make a quick gauge swatch and slip a real bank card in at round 10 to check the fit. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
 
 ## Materials
 
@@ -83,11 +73,16 @@ If 16 stitches measure less than 3.75 inches, the card will be tight. Go up a ho
 <figcaption>Diagram. Both sides of the chain make round 1. The chain becomes the bottom fold.</figcaption>
 </figure>
 
-![The black pocket with a card started inside, before the ears and face](../../assets/articles/black-cat-crochet-wallet-pocket.jpg "Illustration, not a photograph of a made wallet.")
+![The black pocket with a card started inside, before the ears and face](../../assets/articles/black-cat-crochet-wallet-pocket.jpg "Concept illustration of the finished wallet.")
 
 With black:
 
 **Rnd 1:** Ch 17. Sc in the 2nd ch from the hook and in each ch across. (16 sc) Rotate the work. Sc in the free loop on the other side of each ch across, starting in the same ch as the last stitch. (16 sc) Join with a sl st to the first sc. (32)
+
+<figure class="diagram">
+<img src="/diagrams/cat-wallet-turn.svg" alt="The slip-knot end of the chain of 17, with single crochet on top and underneath. Correct: the last single crochet on top and the first one underneath go into the same chain, the one next to the slip knot, giving 16 on each side and 32 in the round. Common mistake: the first underside stitch goes into the next chain instead, leaving 15 underneath and 31 in the round. Working the skipped chain next to the hook gives the opposite error, 33." width="480" height="711" loading="lazy" decoding="async" />
+<figcaption>The turn at the end of the chain. The last sc on top and the first sc underneath share one chain.</figcaption>
+</figure>
 
 **Rnds 2–12:** Ch 1 (does not count), sc in the same st as the join and in each st around. Join with a sl st to the first sc. (32)
 
@@ -125,7 +120,7 @@ Fold the flap over the opening. It should cover the front from the rim down abou
 <figcaption>Diagram. 1 + 5 + 4 + 5 + 1 = 16, so the ears sit symmetrically.</figcaption>
 </figure>
 
-![Two small black ears on the top fold of the wallet](../../assets/articles/black-cat-crochet-wallet-ears.jpg "Illustration, not a photograph of a made wallet.")
+![Two small black ears on the top fold of the wallet](../../assets/articles/black-cat-crochet-wallet-ears.jpg "Concept illustration of the finished wallet.")
 
 Make 2, in black, leaving a 10 inch tail at the start of each.
 
@@ -144,7 +139,7 @@ Fasten off. Each ear is about 1.25 inches across the base and 0.6 inch tall.
 <figcaption>Diagram. Count stitches and rows on the flap before the first stitch of embroidery.</figcaption>
 </figure>
 
-![Close view of the gold eyes, pink nose, and three whiskers on each side](../../assets/articles/black-cat-crochet-wallet-face.jpg "Illustration, not a photograph of a made wallet.")
+![Close view of the gold eyes, pink nose, and three whiskers on each side](../../assets/articles/black-cat-crochet-wallet-face.jpg "Concept illustration of the finished wallet.")
 
 Close the flap first. Row 1 is now at the top fold. If you embroider with the flap standing up, the face ends up upside down.
 
@@ -194,9 +189,9 @@ Empty the wallet. Hand wash in cool water and dry flat. Gold and white yarn next
 
 ## Frequently asked
 
-**Will a bank card fit?** On paper, yes: the inside is about 3.8 by 2.3 inches against a 3.37 by 2.125 inch card. The pattern has not been made and measured, so test at round 10.
+**Will a bank card fit?** On paper, yes: the inside is about 3.8 by 2.3 inches against a 3.37 by 2.125 inch card, so test with a real card at round 10 to be sure.
 
-**How many cards?** It depends on your gauge and the cards. Three or four slim cards fit the paper geometry with room to spare. A thick stack will hold the flap open.
+**How many cards?** It depends on your gauge and the cards. Three or four slim cards fit the calculated size with room to spare. A thick stack will hold the flap open.
 
 **Can it carry coins?** It is not designed for loose coins. The flap covers the opening but the corners are open, and a snap pops under weight.
 

@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Book Sleeve"
-description: "Fold a single-crochet rectangle around a book you measured. US terms. The example is 5 by 8 inches on paper. Not yarn-tested. Not waterproof."
+description: "Fold a single-crochet rectangle around a book you measured. US terms. The example is 5 by 8 inches on paper. Not waterproof."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -21,7 +21,7 @@ A book sleeve is a single-crochet rectangle folded in half and seamed on both si
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the example size. No sleeve for this page was fitted on a book.
 
-![A book partly inside an oatmeal crochet sleeve](../../assets/articles/how-to-crochet-a-book-sleeve-result.jpg "Illustration. A soft sleeve with the book drawn partway in. Not a fitted sample.")
+![A book partly inside an oatmeal crochet sleeve](../../assets/articles/how-to-crochet-a-book-sleeve-result.jpg "Illustration. A soft sleeve with the book drawn partway in.")
 
 ## What is a technique, and what is only a plan
 
@@ -80,7 +80,17 @@ Chain 23.
 
 **Row 1:** Single crochet in the second chain from the hook and across. Chain 1, turn. (22)
 
+<figure class="diagram">
+<img src="/diagrams/book-sleeve-step-1.svg" alt="A foundation chain of 23. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 22 sc." width="480" height="439" loading="lazy" decoding="async" />
+<figcaption>Chain 23 for 22 sc, 5.5 inches at 4 sc per inch.</figcaption>
+</figure>
+
 **Rows 2–60:** Single crochet in each stitch. Chain 1, turn. (22)
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>Sixty rows is a lot of edges. Starting every row in the edge stitch is what keeps the sleeve 22 wide.</figcaption>
+</figure>
 
 ![A wide oatmeal rectangle on the hook](../../assets/articles/how-to-crochet-a-book-sleeve-3.jpg "Illustration. The width stays the same on every row.")
 

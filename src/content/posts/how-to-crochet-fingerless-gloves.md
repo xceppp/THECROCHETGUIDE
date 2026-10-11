@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet Fingerless Gloves"
-description: "Fingerless gloves from a ribbed cuff and single-crochet rounds, sized from your wrist, knuckles, and thumb. US terms. Not a yarn-tested pair."
+description: "Fingerless gloves from a ribbed cuff and single-crochet rounds, sized from your wrist, knuckles, and thumb. US terms."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -62,7 +62,7 @@ The example takes half an inch off the wrist and the knuckles so the glove stays
 
 ## Yarn, hook, and gauge
 
-![Worsted yarn and a hook for a pair of gloves](../../assets/articles/how-to-crochet-fingerless-gloves-1.jpg "Illustration. Worsted yarn and a hook. Not a weighed amount for a pair.")
+![Worsted yarn and a hook for a pair of gloves](../../assets/articles/how-to-crochet-fingerless-gloves-1.jpg "Illustration. Worsted yarn and a hook.")
 
 - **Smooth worsted yarn**, ideally with some wool. Wool recovers after it stretches. Cotton has little spring, so a cotton glove that fits in the morning can be loose by the evening. Fuzzy yarn hides the stitches you need to count. [Yarn weights](/yarn-weight-chart/).
 - **A US G/6 (4.0 mm) hook** as a starting point, or whatever hook matches your swatch. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -93,7 +93,17 @@ Chain 9.
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (8)
 
+<figure class="diagram">
+<img src="/diagrams/gloves-step-1.svg" alt="A foundation chain of 9. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 8 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 9 for an 8-stitch cuff, about 2 inches deep. The cuff is worked sideways.</figcaption>
+</figure>
+
 **Row 2:** Sc in the back loop only of each stitch across. Ch 1, turn. (8)
+
+<figure class="diagram">
+<img src="/diagrams/blo-rib.svg" alt="Two steps. 1: the top of each stitch has a front loop, nearer you, and a back loop, farther away. For the rib, insert the hook under the back loop only. 2: the front loops left behind form a raised ridge on every row. The fabric stretches across the ridges, in the direction the rows stack up, so a band worked sideways stretches around the head." width="480" height="593" loading="lazy" decoding="async" />
+<figcaption>Back loop only from row 2 gives the cuff its stretch around the wrist.</figcaption>
+</figure>
 
 Repeat row 2 until you have 30 rows. The ch 1 does not count as a stitch.
 
@@ -111,7 +121,17 @@ The cuff edge is 6 inches. At 4 stitches per inch, 6 inches holds 24 stitches. O
 
 **Round 2:** Ch 1. (Sc in the next 5 stitches, 2 sc in the next) 4 times. Slip stitch to the first sc. (28)
 
+<figure class="diagram">
+<img src="/diagrams/gloves-step-2.svg" alt="Round 2: 24 to 28, drawn as rings from the center out. Round 1: undefined, 24 stitches. Round 2: (sc 5, 2 sc in next) 4 times, 28 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 2. Four increases take the hand from the wrist's 24 stitches to the knuckles' 28.</figcaption>
+</figure>
+
 **Rounds 3–7:** Ch 1, sc in each stitch, slip stitch to the first sc. (28)
+
+<figure class="diagram">
+<img src="/diagrams/join-round-slst.svg" alt="Rounds shown unrolled as strips, with the join of each round marked. Correct: slip stitch into the top of the first sc, ch 1, and work the first sc of the next round into that same stitch; the joins stack in a straight line. Mistake: the first sc goes into the next stitch instead, so every join moves one stitch sideways and the seam slants." width="480" height="584" loading="lazy" decoding="async" />
+<figcaption>These rounds are joined. Starting each round in the same stitch as the join keeps the seam straight and the count at 28.</figcaption>
+</figure>
 
 Put the marker in the first stitch of each round. The join of a joined round tends to drift a little to one side. That is normal. Count from the marker, not from where the seam seems to be.
 

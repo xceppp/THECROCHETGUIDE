@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Lip Balm Holder"
-description: "A small crochet sleeve for a lip balm tube, sized from the tube's width and hung from the rim so the tube stays in. US terms. Not a yarn-tested sample."
+description: "A small crochet sleeve for a lip balm tube, sized from the tube's width and hung from the rim so the tube stays in. US terms."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -79,7 +79,17 @@ Work in a spiral. Mark the first stitch of each round. [Crochet in the round](/c
 
 **Round 1:** 6 sc in a magic ring. Pull the ring tight. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>The magic ring closes completely, so the base has no hole for the tube to push through.</figcaption>
+</figure>
+
 **Round 2, for 9:** (Sc, 2 sc in next) 3 times. (9)
+
+<figure class="diagram">
+<img src="/diagrams/lip-balm-step-1.svg" alt="Base: rounds 1 and 2, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: (sc, 2 sc in next) 3 times, 9 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 1. Only 3 increases: the base cups on purpose and starts the tube.</figcaption>
+</figure>
 
 For 8: (sc 2, 2 sc in next) 2 times. For 10: (2 sc in next, 2 sc in next, sc) 2 times.
 
@@ -88,6 +98,11 @@ Round 2 adds fewer than six stitches, so the base will cup a little. That is wha
 ## Stage 2: the tube
 
 **Rounds 3–12:** Sc in each stitch. (9)
+
+<figure class="diagram">
+<img src="/diagrams/lip-balm-step-2.svg" alt="The whole holder by stitch count, as bars sized by stitch count. Round 1: 6, Round 2: 9, Rounds 3 to 12: 9. Rounds 3 to 12 are even, so the fabric turns straight up into a tube." width="480" height="276" loading="lazy" decoding="async" />
+<figcaption>Step 2. Nine stitches on every round from Round 2 to Round 12. The tube is about 2.25 inches around at 4 sc per inch.</figcaption>
+</figure>
 
 Slide the tube in after round 7. The bottom of the tube should touch the base. Stop when the rim sits just below the cap.
 

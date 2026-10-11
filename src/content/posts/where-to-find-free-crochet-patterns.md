@@ -1,7 +1,7 @@
 ---
 title: "Where to Find Free Crochet Patterns"
 description: "Where to find free crochet patterns, which databases are aggregators, and how to spot a fake or AI-scam pattern before you buy yarn."
-pubDate: 2026-08-26
+pubDate: 2026-09-10
 updatedDate: 2026-10-08
 category: patterns
 level: beginner
@@ -88,7 +88,7 @@ Pinterest and Facebook are full of crochet pictures that were never made. The li
 
 **Do not pay a stranger for a "secret" PDF** that the pin describes as free. The databases above are the free ones.
 
-This site's own project photos are labeled as AI illustrations in the caption. That label is the opposite of a scam: the words say the picture is not a finished object. A scam hides that.
+This site's own project pictures are labeled as illustrations. That label is the opposite of a scam: the words say the picture is not a finished object. A scam hides that.
 
 ## Patterns on this site
 

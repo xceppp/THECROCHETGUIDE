@@ -23,7 +23,7 @@ That flare is the mistake this page is built around. The brim is worked sideways
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No hat for this page was crocheted or worn. The example gauges are invented to show the arithmetic.
 
-![An oatmeal chunky crochet beanie with a folded brim](../../assets/articles/how-to-crochet-a-chunky-beanie-result.jpg "Illustration. A bulky hat with the brim folded once. Not a fitted sample.")
+![An oatmeal chunky crochet beanie with a folded brim](../../assets/articles/how-to-crochet-a-chunky-beanie-result.jpg "Illustration. A bulky hat with the brim folded once.")
 
 ## What is a technique, and what is only a plan
 
@@ -90,7 +90,17 @@ Chain 9.
 
 **Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (8)
 
+<figure class="diagram">
+<img src="/diagrams/beanie-step-1.svg" alt="A foundation chain of 9. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 8 sc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 9 for an 8-stitch brim. The chain is the brim's height, not the hat's width.</figcaption>
+</figure>
+
 **Row 2:** Sc in the back loop only of each stitch. Ch 1, turn. (8)
+
+<figure class="diagram">
+<img src="/diagrams/blo-rib.svg" alt="Two steps. 1: the top of each stitch has a front loop, nearer you, and a back loop, farther away. For the rib, insert the hook under the back loop only. 2: the front loops left behind form a raised ridge on every row. The fabric stretches across the ridges, in the direction the rows stack up, so a band worked sideways stretches around the head." width="480" height="593" loading="lazy" decoding="async" />
+<figcaption>Back loop only on every row from row 2 makes the stretchy rib.</figcaption>
+</figure>
 
 Repeat row 2 until the band, relaxed, measures the hat size. In the example, about 60 rows. Then wrap it around the head. It should feel snug and stay put without pressing. Add or remove rows until it does, and use that row count.
 
@@ -120,6 +130,11 @@ Each round removes 5 stitches, which keeps the crown nearly flat in single croch
 
 **Round 1:** (Sc 8, sc2tog) 5 times. (45)
 
+<figure class="diagram">
+<img src="/diagrams/beanie-step-2.svg" alt="Crown round 1: 50 to 45, drawn as rings from the center out. Body: undefined, 50 stitches. Crown 1: (sc 8, sc2tog) 5 times, 45 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 3. Five decreases a round, spaced evenly, keep the crown flat.</figcaption>
+</figure>
+
 **Round 2:** (Sc 7, sc2tog) 5 times. (40)
 
 **Round 3:** (Sc 6, sc2tog) 5 times. (35)
@@ -135,6 +150,11 @@ Each round removes 5 stitches, which keeps the crown nearly flat in single croch
 **Round 8:** (Sc, sc2tog) 5 times. (10)
 
 **Round 9:** Sc2tog 5 times. (5)
+
+<figure class="diagram">
+<img src="/diagrams/beanie-step-3.svg" alt="The crown by stitch count, as bars sized by stitch count. Round 0: 50, Round 1: 45, Round 2: 40, Round 3: 35, Round 4: 30, Round 5: 25, Round 6: 20, Round 7: 15, Round 8: 10, Round 9: 5. R0 is the last even body round. Each crown round removes 5." width="480" height="458" loading="lazy" decoding="async" />
+<figcaption>Step 4. The crown by stitch count: 50 down to 5 in nine rounds, then the gap is closed with the tail.</figcaption>
+</figure>
 
 For another count that is a multiple of 5, start with the round whose repeat matches: 55 stitches starts with (sc 9, sc2tog), 60 with (sc 10, sc2tog). Thread the tail through the last 5 stitches, pull closed, and weave it down inside. A knot on the crown shows through bulky yarn.
 

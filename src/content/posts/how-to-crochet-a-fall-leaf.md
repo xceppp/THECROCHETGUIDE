@@ -21,9 +21,9 @@ A fall leaf is a small flat appliqué. Sew it to a [pumpkin](/how-to-crochet-a-p
 
 It also teaches a technique that shows up in a lot of motifs: **shaping with stitch height alone.** There are no increases or decreases. You chain a short line, then work one row of stitches up one side of the chain and back down the other. Short stitches at the ends and tall stitches in the middle make a pointed oval. Change the order of heights and you change the shape.
 
-US terms. US single crochet is UK double crochet, and US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/). The stitch counts were checked on paper. No leaf for this page was made, and the picture is an illustration.
+US terms. US single crochet is UK double crochet, and US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the finished leaf, and the inch sizes come from gauge, so measure as you go.
 
-![A small rust-orange crochet leaf on linen](../../assets/articles/how-to-crochet-a-fall-leaf-result.jpg "Illustration. The flat leaf this page describes. Not a photograph of a made sample.")
+![A small rust-orange crochet leaf on linen](../../assets/articles/how-to-crochet-a-fall-leaf-result.jpg "Illustration. The flat leaf this page describes.")
 
 ## How the shape works
 

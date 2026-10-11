@@ -1,7 +1,7 @@
 ---
 title: "Left-Handed Crochet: How to Follow Any Pattern"
 description: "Almost every crochet tutorial is filmed right-handed. Here is how to mirror patterns, diagrams and videos so you can follow any of them left-handed."
-pubDate: 2026-09-05
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: skills
 level: beginner

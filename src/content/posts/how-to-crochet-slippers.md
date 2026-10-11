@@ -23,7 +23,7 @@ The shape is a clog: a flat sole, a cap over the toes, and a low wall around the
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pair for this page was crocheted or worn. The example measurements are invented to show the arithmetic.
 
-![A pair of simple crochet slippers with a toe cap and a heel tab](../../assets/articles/how-to-crochet-slippers-result.jpg "Illustration. A flat sole, a toe cap, and a heel. Not a worn pair.")
+![A pair of simple crochet slippers with a toe cap and a heel tab](../../assets/articles/how-to-crochet-slippers-result.jpg "Illustration. A flat sole, a toe cap, and a heel.")
 
 <div class="warning">
 
@@ -86,11 +86,21 @@ The sole is a little longer than the foot so the toes do not press against the e
 
 Ch 1 does not count as a stitch.
 
+<figure class="diagram">
+<img src="/diagrams/slipper-step-1.svg" alt="Sole: 14 sc, 48 rows. Toe cap: 24 sc, 16 rows. Heel wall: 26 sc, 8 rows." width="480" height="486" loading="lazy" decoding="async" />
+<figcaption>The three pieces of one slipper, drawn to the same scale from the example counts.</figcaption>
+</figure>
+
 Chain 15.
 
 **Row 1:** Sc in the 2nd chain from the hook and across. Ch 1, turn. (14)
 
 **Rows 2–48:** Sc in each stitch. Ch 1, turn. (14)
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>All three pieces are plain sc rows. Start each row in the edge stitch so the widths stay at 14, 24, and 26.</figcaption>
+</figure>
 
 **Checkpoint:** Stand on it. The longest toe should sit just inside the far end. Add rows if not. If the width is tight, restart with more stitches.
 

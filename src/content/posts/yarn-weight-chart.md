@@ -1,7 +1,7 @@
 ---
 title: "Yarn Weight Chart: All 8 Categories, Plainly Explained"
 description: "A complete yarn weight chart from lace to jumbo, with the hook size and crochet gauge for each, and how to substitute one yarn for another safely."
-pubDate: 2026-09-07
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: charts
 level: beginner

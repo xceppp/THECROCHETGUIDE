@@ -10,19 +10,25 @@ export const SITE = {
     "Free crochet charts, conversion tables and step-by-step tutorials written in plain English. No fluff, no guesswork.",
   url: "https://www.crochetexplained.com",
   locale: "en-US",
-  /** Shown on the About page and in every article byline. */
+  /**
+   * The real publisher, shown in every byline and on /author/amine/. The bio
+   * must stay within what the owner has confirmed: M. Amine publishes and
+   * edits the site and checks instructions on paper. It must not claim that
+   * the owner crochets, designed the patterns, or made and tested the
+   * projects, and it uses no pronoun because none has been confirmed.
+   */
   author: {
-    name: "Crochet Explained Editorial Team",
-    role: "Editorial team",
-    bio: "The Crochet Explained Editorial Team creates and maintains crochet tutorials, pattern guides, and project inspiration to help readers explore practical and creative crochet ideas.",
+    name: "M. Amine",
+    role: "Publisher and editor",
+    url: "/author/amine/",
+    bio: "M. Amine publishes and edits Crochet Explained: choosing what goes on the site, checking stitch counts and charts on paper before they are published, and correcting pages when readers report a problem.",
   },
   /**
-   * Contact address. Still the live inbox until a crochetexplained.com mailbox
-   * exists. Note the double "i" in "guiide" — that is the real address, not a
-   * typo. Setting this to an empty string makes every page hide its email link
-   * and routes the contact page to social instead.
+   * Contact address, confirmed by the owner. Setting this to an empty string
+   * makes every page hide its email link and routes the contact page to the
+   * fallback instead.
    */
-  email: "thecrochetguiide@gmail.com",
+  email: "crochetexplained@gmail.com",
 } as const;
 
 /**
@@ -66,8 +72,9 @@ export const GTM_CONTAINER_ID = "GTM-5PCLM4W5";
  * Only accounts that actually exist belong here. Every entry is rendered as a
  * live link in the footer and is published as a `sameAs` claim in the site's
  * structured data, so a handle that does not resolve is a broken link and a
- * false claim to Google at the same time. Add TikTok and Instagram once those
- * accounts are real.
+ * false claim to Google at the same time. These two are owner-confirmed; the
+ * canonical www URLs are used rather than a regional subdomain. Add TikTok and
+ * Instagram here once those accounts are real.
  */
 export const SOCIALS = [
   { name: "Pinterest", url: "https://www.pinterest.com/crochetexplained/" },

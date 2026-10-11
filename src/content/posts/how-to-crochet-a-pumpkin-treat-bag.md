@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Pumpkin Treat Bag"
-description: "An orange crochet drawstring bag shaped with a gentle pumpkin bulge and a green stem. US terms. Every count checked. Inches are gauge estimates."
+description: "An orange crochet drawstring bag shaped with a gentle pumpkin bulge and a green stem. US terms. Inches are gauge estimates."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -23,7 +23,7 @@ That is the lesson here: you can shape a straight tube without starting over, by
 
 It holds a handful of wrapped candy, not a night of trick-or-treating. US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bag for this page was crocheted. Inches are estimates from the example gauge.
 
-![An orange crochet pumpkin bag with a green stem and wrapped candy](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-result.jpg "Illustration. An orange bag, green stem, drawstring. Not a measured sample.")
+![An orange crochet pumpkin bag with a green stem and wrapped candy](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-result.jpg "Illustration. An orange bag, green stem, drawstring.")
 
 ## What is a technique, and what is only a plan
 
@@ -46,7 +46,7 @@ Six extra stitches at 4 per inch add 1.5 inches around. Divided by pi, that is a
 
 ## Yarn and hook
 
-![Orange yarn, green yarn, a hook, and a needle](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-1.jpg "Illustration. Yarn and tools. Not a weighed amount.")
+![Orange yarn, green yarn, a hook, and a needle](../../assets/articles/how-to-crochet-a-pumpkin-treat-bag-1.jpg "Illustration. Yarn and tools.")
 
 - **Worsted cotton**, orange, plus a scrap of green. Cotton holds the bulge better than a soft acrylic, and candy wrappers do not stick to it. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -94,11 +94,21 @@ Work in a spiral. Do not join. Mark the first stitch of each round and move the 
 
 **Round 13:** (Sc 7, 2 sc in next) 6 times. (54)
 
+<figure class="diagram">
+<img src="/diagrams/treat-bag-step-1.svg" alt="Round 13: widen to 54, drawn as rings from the center out. Round 12: undefined, 48 stitches. Round 13: (sc 7, 2 sc in next) 6 times, 54 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 1. Six spaced increases widen the belly from 48 to 54.</figcaption>
+</figure>
+
 Each repeat covers 8 stitches of the 48 and makes 9. Six repeats make 54.
 
 **Rounds 14–21:** Sc in each stitch. (54)
 
 **Round 22:** (Sc 7, sc2tog) 6 times. (48)
+
+<figure class="diagram">
+<img src="/diagrams/treat-bag-step-2.svg" alt="Round 22: back to 48, drawn as rings from the center out. Round 21: undefined, 54 stitches. Round 22: (sc 7, sc2tog) 6 times, 48 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 2. Six decreases in the same rhythm take it back to 48 for the neck.</figcaption>
+</figure>
 
 Each repeat covers 9 stitches of the 54 and makes 8. Six repeats make 48.
 
@@ -113,6 +123,11 @@ The increases in round 13 sit directly over the base increases, which can make s
 **Round 29:** (Sc, ch 1, skip 1) 24 times. (24 sc, 24 ch-1 spaces)
 
 **Rounds 30–31:** Sc in each sc and in each ch-1 space. (48) Fasten off.
+
+<figure class="diagram">
+<img src="/diagrams/treat-bag-step-3.svg" alt="The bag by stitch count, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Round 5: 30, Round 6: 36, Round 7: 42, Round 8: 48, Rounds 9 to 12: 48, Round 13: 54, Rounds 14 to 21: 54, Round 22: 48, Rounds 23 to 28: 48, Round 29: 24+24, Rounds 30 to 31: 48. Round 29 is the eyelet round: 24 sc and 24 chain spaces." width="480" height="608" loading="lazy" decoding="async" />
+<figcaption>Step 3. The bag by stitch count: flat base, the belly from round 13 to 21, then the neck and the eyelet round.</figcaption>
+</figure>
 
 ## Stage 4: the cord
 

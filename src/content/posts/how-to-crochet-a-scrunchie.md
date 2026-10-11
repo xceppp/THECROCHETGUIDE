@@ -27,11 +27,11 @@ glance:
 
 A crochet scrunchie is a fabric tube gathered on a hair elastic. It uses scrap yarn, and the only measurement that matters is the elastic you already own.
 
-You crochet a flat strip, fold it around a covered hair tie, seam it into a tube, and join the ends. If you can [single crochet](/basic-crochet-stitches/) in rows, you can make one. The picture is an illustration, not a worn sample.
+You crochet a flat strip, fold it around a covered hair tie, seam it into a tube, and join the ends. If you can [single crochet](/basic-crochet-stitches/) in rows, you can make one. The picture is an illustration of the finished scrunchie.
 
 There is a second method, working single crochet directly over the elastic. It is faster for some people. The strip method is easier to size, easier to undo, and gives a fuller scrunchie, so it is the one written out here. The other is described at the end.
 
-![A soft yarn crochet scrunchie in warm terracotta on a wooden vanity beside a hairbrush](../../assets/articles/how-to-crochet-a-scrunchie-result.jpg "Illustration. A gathered crochet tube on a regular hair elastic. Not a worn sample.")
+![A soft yarn crochet scrunchie in warm terracotta on a wooden vanity beside a hairbrush](../../assets/articles/how-to-crochet-a-scrunchie-result.jpg "Illustration. A gathered crochet tube on a regular hair elastic.")
 
 ## What you need
 
@@ -87,6 +87,11 @@ A foundation chain is usually tighter than the rows above it, which makes the st
 
 Ch 1 and turn at the end of each row. The ch 1 does not count as a stitch. Keep the count identical.
 
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>Keeping the count identical means starting each row in the edge stitch, not the ch 1.</figcaption>
+</figure>
+
 Stop when the strip is 2.5 to 3 inches wide. In worsted that is usually 12 to 15 rows. The fabric should be soft. If it feels stiff, go up a hook size on the next one.
 
 For a stripe, work the last two rows in a second color. [Changing yarn color](/changing-yarn-color-crochet/).
@@ -96,6 +101,11 @@ For a stripe, work the last two rows in a second color. [Changing yarn color](/c
 ![A tapestry needle seaming a crochet strip into a tube around a hair elastic](../../assets/articles/how-to-crochet-a-scrunchie-3.jpg "Illustration. Fold the long edges together around the elastic and whipstitch closed.")
 
 Lay the elastic along the middle of the wrong side. Fold the long edges together over it. Whipstitch the long edges closed along the full length, catching both edges but not the elastic. Push the fabric along the elastic as you go, because the strip is twice as long.
+
+<figure class="diagram">
+<img src="/diagrams/scrunchie-step-3.svg" alt="Three cross-section steps. 1: lay the elastic along the middle of the strip's wrong side. 2: fold both long edges up over it so they meet. 3: whipstitch the two long edges together along the full length, catching only the crochet and never the elastic, pushing the fabric along as you go because the strip is twice as long as the elastic." width="480" height="731" loading="lazy" decoding="async" />
+<figcaption>Step 3 in cross-section. The seam closes the fabric around the elastic without piercing it.</figcaption>
+</figure>
 
 Do not sew through the elastic. If you catch it, it will not stretch.
 

@@ -1,7 +1,7 @@
 ---
 title: "What You Need to Start Crocheting: One Hook, One Yarn"
 description: "The single hook and single yarn worth buying first, why light solid acrylic makes stitches visible, and the popular yarns and gadgets that make learning harder."
-pubDate: 2026-08-27
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: gear
 level: beginner

@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Market Bag"
-description: "A cotton market bag with a solid single-crochet base, mesh sides, a firm band, and handles placed by count. US terms. Not yarn-tested and not load-rated."
+description: "A cotton market bag with a solid single-crochet base, mesh sides, a firm band, and handles placed by count. US terms. Not load-rated."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -58,7 +58,7 @@ There is no load rating for this bag, and this page gives no weight limit. Cotto
 
 ## Yarn and hook
 
-![Natural cotton yarn, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-market-bag-1.jpg "Illustration. Yarn, hook, and needle. Not a weighed amount.")
+![Natural cotton yarn, a hook, and a yarn needle](../../assets/articles/how-to-crochet-a-market-bag-1.jpg "Illustration. Yarn, hook, and needle.")
 
 - **Smooth worsted cotton.** Every fiber stretches under a load. Acrylic mesh tends to stay stretched once it has gone. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives the base gauge. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -84,6 +84,11 @@ Joined rounds: slip stitch to the first stitch, ch 1 (does not count), then work
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>The base starts in a magic ring.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (2 sc in next, sc in next) 6 times. (18)
@@ -92,9 +97,19 @@ Joined rounds: slip stitch to the first stitch, ch 1 (does not count), then work
 
 Keep going, with one more plain stitch between increases each round. Round 8 is 48. Round 12 is 72. **Round 16 is 96.**
 
+<figure class="diagram">
+<img src="/diagrams/market-bag-step-1.svg" alt="Base: rounds 1 to 17, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Round 5: 30, Round 6: 36, Round 7: 42, Round 8: 48, Round 9: 54, Round 10: 60, Round 11: 66, Round 12: 72, Round 13: 78, Round 14: 84, Round 15: 90, Round 16: 96, Round 17: 96. Round 16 is 96, about 7.6 in across. Round 17 is even and starts the turn." width="480" height="668" loading="lazy" decoding="async" />
+<figcaption>Step 1. Sixteen rounds of six increases each. Round 16 is 96.</figcaption>
+</figure>
+
 **Checkpoint:** lay the base flat. It should be flat, not cupped or ruffled, and about 7.6 inches across. Set your usual shopping on it. If the footprint is bigger, keep increasing by six a round. The final count must be even.
 
 To keep the edge round rather than hexagonal, move the increases: in alternate rounds, start the repeat with half the plain stitches, put the increase in the middle, and end with the rest. [Increase and decrease](/crochet-increase-decrease/) explains staggering.
+
+<figure class="diagram">
+<img src="/diagrams/increase-stagger.svg" alt="Correct: the increase in each round is moved, for example by working half the plain stitches before the first increase on alternate rounds, so the edge stays round. Mistake: every increase lands directly above the last one, which builds six corners and the circle becomes a hexagon." width="480" height="679" loading="lazy" decoding="async" />
+<figcaption>Sixteen rounds of stacked increases make a clear hexagon. Moving them keeps the base round.</figcaption>
+</figure>
 
 ## Stage 2: the turn
 
@@ -109,6 +124,11 @@ Put a marker in this round. Measure the side height from here.
 Decide now whether the starting ch 3 counts as a double crochet. On this page it does. If you count the ch 3 and then also work a dc into the same place, you add a mesh unit every round.
 
 **Mesh round 1:** Ch 3 (counts as dc), ch 1, skip the next stitch. (Dc in the next stitch, ch 1, skip the next stitch) around. Slip stitch to the top of the ch 3. (48 dc, 48 ch-1 spaces)
+
+<figure class="diagram">
+<img src="/diagrams/market-bag-step-2.svg" alt="Mesh round 1 on 96, drawn as rings from the center out. Round 17: undefined, 96 stitches. Mesh round 1: (dc in next, ch 1, skip 1) around: 48 dc, 48 stitches. Count the dc every few rounds. 47 or 49 means a unit was lost or added." width="480" height="563" loading="lazy" decoding="async" />
+<figcaption>Step 3. The mesh: 48 dc with a chain space over every skipped stitch. The ch 3 counts as the first dc.</figcaption>
+</figure>
 
 **Mesh round 2:** Slip stitch into the first ch-1 space. Ch 3 (counts as dc), ch 1. (Dc in the next ch-1 space, ch 1) around. Slip stitch to the top of the ch 3. (48 dc, 48 ch-1 spaces)
 

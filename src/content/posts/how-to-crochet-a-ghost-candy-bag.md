@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Ghost Candy Bag"
-description: "A white crochet ghost bag with large eyelets and a twisted cord, sized for a handful of wrapped candy. US terms. Gauge estimates, not a yarn-tested sample."
+description: "A white crochet ghost bag with large eyelets and a twisted cord, sized for a handful of wrapped candy. US terms."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -23,7 +23,7 @@ The construction is the same flat base and tube as the [ghost coin pouch](/how-t
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No bag for this page was crocheted or filled. Inches are estimates from the example gauge.
 
-![A white crochet ghost drawstring bag with black eyes](../../assets/articles/how-to-crochet-a-ghost-candy-bag-result.png "Illustration. A white bag with eyes and a drawstring top. Not a measured sample.")
+![A white crochet ghost drawstring bag with black eyes](../../assets/articles/how-to-crochet-a-ghost-candy-bag-result.png "Illustration. A white bag with eyes and a drawstring top.")
 
 ## What is a technique, and what is only a plan
 
@@ -56,7 +56,7 @@ Either way, the repeat has to divide the count. The large-hole repeat uses six s
 
 ## Yarn and hook
 
-![White yarn, black yarn, a hook, and a needle](../../assets/articles/how-to-crochet-a-ghost-candy-bag-1.jpg "Illustration. Yarn and a hook. Not a weighed amount.")
+![White yarn, black yarn, a hook, and a needle](../../assets/articles/how-to-crochet-a-ghost-candy-bag-1.jpg "Illustration. Yarn and a hook.")
 
 - **Worsted cotton**, white or cream, and a scrap of black for the eyes. Cotton keeps a rounder bag. Fuzzy acrylic looks more ghostly and grabs candy wrappers. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -95,6 +95,11 @@ Joined rounds: slip stitch to the first stitch and ch 1 (does not count) at each
 
 **Round 9:** (Sc 7, 2 sc in next) 6 times. (54)
 
+<figure class="diagram">
+<img src="/diagrams/candy-bag-step-1.svg" alt="Base: rounds 1 to 9, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: 2 sc in each st, 12 stitches. Round 3: (sc, 2 sc in next) 6 times, 18 stitches. Round 4: (sc 2, 2 sc in next) 6 times, 24 stitches. Round 5: (sc 3, 2 sc in next) 6 times, 30 stitches. Round 6: (sc 4, 2 sc in next) 6 times, 36 stitches. Round 7: (sc 5, 2 sc in next) 6 times, 42 stitches. Round 8: (sc 6, 2 sc in next) 6 times, 48 stitches. Round 9: (sc 7, 2 sc in next) 6 times, 54 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 1. Nine rounds of 6 increases give a 54-stitch base, about 4.3 inches across.</figcaption>
+</figure>
+
 **Checkpoint:** flat and about 4.3 inches across. If it ruffles, stop at round 8 and use the 48-stitch version below.
 
 ## Stage 2: the tube
@@ -108,6 +113,11 @@ Drop in some candy around round 25. It should sit well below the top. Add rounds
 **Round 33:** (Sc in the next 4 stitches, ch 2, skip 2) 9 times. (36 sc, 9 ch-2 spaces)
 
 **Round 34:** Sc in each sc and 2 sc in each ch-2 space. (54)
+
+<figure class="diagram">
+<img src="/diagrams/candy-bag-step-2.svg" alt="Round 33: nine large eyelets, drawn as rings from the center out. Round 32: undefined, 54 stitches. Round 33: (sc 4, ch 2, skip 2) 9 times: 36 sc, 36 stitches. Each open circle is one ch-2 space over 2 skipped stitches." width="480" height="563" loading="lazy" decoding="async" />
+<figcaption>Step 2. Nine ch-2 spaces, 6 stitches apart. Round 34 puts 2 sc in each space to restore 54.</figcaption>
+</figure>
 
 **Rounds 35–36:** Sc in each stitch. (54) Fasten off.
 

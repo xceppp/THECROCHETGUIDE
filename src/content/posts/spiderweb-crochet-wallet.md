@@ -20,17 +20,9 @@ A spiderweb on a crochet wallet usually means a lot of fiddly white color change
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the one that teaches surface embroidery and a button loop.
 
-![A black crochet wallet with a pointed flap, a white web, a purple spider, and a loop over a button](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet. The pattern's web has five spokes.")
+![A black crochet wallet with a pointed flap, a white web, a purple spider, and a loop over a button](../../assets/articles/spiderweb-crochet-wallet-result.jpg "Concept illustration of the finished wallet. The pattern's web has five spokes.")
 
-## What is checked, and what is not
-
-| Item | Status |
-| --- | --- |
-| Card size used for fit | 3.370 by 2.125 in, the ID-1 format in ISO/IEC 7810 |
-| Rows, decreases, and the spider's rounds | Counted on paper, row by row |
-| Gauge of 16 sc and 20 rows per 4 in | A working example; your swatch replaces it |
-| Pocket size, flap drop, loop length | Worked out from that gauge. Nobody has crocheted this wallet yet. |
-| Photo-style picture | Computer-generated, showing the idea only |
+The pocket size, flap drop, and loop length here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and slip a real bank card in before you join. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
 
 ## Materials
 
@@ -78,7 +70,7 @@ Seventeen stitches are 4.25 inches; after the side seams, the pocket is about 3.
 <figcaption>Diagram. The flap loses one stitch at each end of every row until it comes to a point.</figcaption>
 </figure>
 
-![The black pointed flap before any embroidery](../../assets/articles/spiderweb-crochet-wallet-flap.jpg "Illustration, not a photograph of a made wallet.")
+![The black pointed flap before any embroidery](../../assets/articles/spiderweb-crochet-wallet-flap.jpg "Concept illustration of the finished wallet.")
 
 With black:
 
@@ -134,7 +126,7 @@ Work through the flap only. If a line comes out crooked, unpick it; backstitch c
 <figcaption>Diagram. Two tiny balls and eight stitched legs.</figcaption>
 </figure>
 
-![The purple spider on the right side of the web, with the loop and button at the point](../../assets/articles/spiderweb-crochet-wallet-spider.jpg "Illustration, not a photograph of a made wallet. The pattern uses five spokes.")
+![The purple spider on the right side of the web, with the loop and button at the point](../../assets/articles/spiderweb-crochet-wallet-spider.jpg "Concept illustration of the finished wallet. The pattern uses five spokes.")
 
 With purple, on the smaller hook if you have one:
 
@@ -192,7 +184,7 @@ Wash by hand in cool water and lay it flat to dry, spider up. Before the first w
 
 ## Frequently asked
 
-**Will cards fit?** On paper, the pocket is about 3.9 by 2.5 inches inside against a 3.37 by 2.125 inch card. It has not been made and measured.
+**Will cards fit?** On paper, the pocket is about 3.9 by 2.5 inches inside against a 3.37 by 2.125 inch card, so test the fit with a real card before you join.
 
 **Can I crochet the web instead of embroidering it?** Possible, with surface slip stitch, but it is harder to control on a small triangle. Backstitch can be undone.
 

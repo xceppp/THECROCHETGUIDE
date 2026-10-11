@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Simple Flower (Beginner Appliqué)"
-description: "A flat five-petal flower: five center stitches, one petal in each. US terms. The leaf is one pass down a chain. Not a measured sample."
+description: "A flat five-petal flower: five center stitches, one petal in each. US terms. The leaf is one pass down a chain."
 pubDate: 2026-10-01
 updatedDate: 2026-10-11
 category: skills
@@ -20,9 +20,9 @@ glance:
 
 This flower is an appliqué: a center of 5 single crochet, then one petal in each of those stitches. It is sewn onto something else. It is not a stem, a rose, or a measured blossom.
 
-US terms. [Abbreviations](/crochet-abbreviations-chart/). You need a [magic ring](/crochet-in-the-round/) or the chain substitute below, plus [double crochet](/basic-crochet-stitches/). The pictures are illustrations. No flower for this page was measured across.
+US terms. [Abbreviations](/crochet-abbreviations-chart/). You need a [magic ring](/crochet-in-the-round/) or the chain substitute below, plus [double crochet](/basic-crochet-stitches/). The pictures are illustrations of the finished flower, which has not been made up in yarn here, so its size depends on your yarn and hook.
 
-![A flat five-petal crochet flower in soft pink and yellow on a linen cloth](../../assets/articles/how-to-crochet-a-simple-flower-result.jpg "Illustration. A small flat flower. Not a measured sample.")
+![A flat five-petal crochet flower in soft pink and yellow on a linen cloth](../../assets/articles/how-to-crochet-a-simple-flower-result.jpg "Illustration. A small flat flower.")
 
 ## What is a technique, and what is only a plan
 
@@ -31,7 +31,7 @@ US terms. [Abbreviations](/crochet-abbreviations-chart/). You need a [magic ring
 | 5 single crochet in a ring, joined | The center. Five is this flower's count, not a rule about real flowers. |
 | One petal per center stitch | The construction that keeps the circle even. |
 | Petal = chain 2, 3 double, chain 2, slip stitch, all in one stitch | The stitch formula. |
-| About 2 to 2.5 inches across | An old estimate in worsted. It was not measured. |
+| About 2 to 2.5 inches across | A gauge estimate in worsted; yours will vary. |
 | Leaf = one row back down chain 7 | A tapered strip. Not a leaf worked on both sides of a spine. |
 
 ## Step 1: Five stitches in the center

@@ -23,6 +23,8 @@ Halloween granny squares are ordinary granny squares with a deliberate palette: 
 
 If you have not changed colors cleanly before, read [How to Change Yarn Color in Crochet](/changing-yarn-color-crochet/) first.
 
+US terms throughout. The rounds are the standard granny square. The pictures are illustrations of the finished look, so treat the color layouts as a plan you can change to suit your yarn.
+
 ![A set of finished Halloween granny squares in candy-corn, orange, and dark seasonal colors](../../assets/articles/halloween-granny-square-variations-result.jpg "Illustration. The finished look these color variations build toward.")
 
 ## What you need
@@ -42,6 +44,11 @@ Abbreviations: [chart](/crochet-abbreviations-chart/). Classic granny uses dc cl
 **Rnd 2.** Slip to next corner space (or start with a standing dc). *(3 dc, ch 2, 3 dc) in corner, ch 1; repeat from * around, join. (24 dc, 4 ch-2 corners, 4 ch-1)
 
 **Later rounds.** Corners always get (3 dc, ch 2, 3 dc). Each ch-1 space along the sides gets 3 dc, with ch 1 between groups. Some patterns leave out the ch 1. Either works, but use the same style on every square, or they will not match when you join them.
+
+<figure class="diagram">
+<img src="/diagrams/granny-side-space.svg" alt="One side of a granny square, round 3 worked over round 2. Correct: the side cluster of round 3 sits in the chain-1 space between round 2's two corner halves, with a chain-1 on each side of it. Common mistake: the cluster goes into the top of a double crochet instead. The gap closes, the side goes stiff, and the square starts to cup." width="480" height="721" loading="lazy" decoding="async" />
+<figcaption>The one rule every variation on this page keeps: clusters go into spaces, never into stitch tops.</figcaption>
+</figure>
 
 <figure class="diagram">
 <img src="/diagrams/granny-square-anatomy.svg" alt="A granny square in three rounds. Corners are 3 double crochet, chain 2, 3 double crochet in the chain-2 space. Sides are 3 double crochet in each chain-1 space with chain 1 between groups. Round 1 has 1 cluster per side, round 2 has 2, round 3 has 3." width="640" height="420" loading="lazy" decoding="async" />

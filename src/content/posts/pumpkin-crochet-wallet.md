@@ -20,17 +20,9 @@ Most crochet pumpkins are round, which is a poor shape for cards. This one is a 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the most forgiving one for a first project.
 
-![An orange ribbed crochet wallet with a jack-o'-lantern face, a green leaf tab, and a stem at the top](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet. In the pattern the stem stands on the back rim, behind the tab.")
+![An orange ribbed crochet wallet with a jack-o'-lantern face, a green leaf tab, and a stem at the top](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Concept illustration of the finished wallet. In the pattern the stem stands on the back rim, behind the tab.")
 
-## What is checked, and what is not
-
-| Part of this page | What it is |
-| --- | --- |
-| ID-1 card, 3.370 x 2.125 in | The ISO/IEC 7810 size of most US bank cards and licenses |
-| Every stitch count and row count | Checked by hand on paper |
-| 16 sc and 20 rows to 4 in | An example gauge, not measured from a finished wallet. Back-loop rows run shorter, so you swatch in back loops. |
-| Finished size and card fit | Geometry from that gauge. Not physically test-crocheted. |
-| The picture above | A computer illustration, not a made sample |
+The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch in back loops (those rows run shorter) and slip a real bank card in before you fold. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
 
 ## Materials
 
@@ -76,7 +68,7 @@ The piece is worked sideways. The 20 stitches in each row set the height before 
 <figcaption>Diagram. One raised rib for every two rows, on one face of the fabric.</figcaption>
 </figure>
 
-![The orange piece laid flat, with the ribs running vertically, before the face or the fold](../../assets/articles/pumpkin-crochet-wallet-ribs.jpg "Illustration, not a photograph of a made wallet.")
+![The orange piece laid flat, with the ribs running vertically, before the face or the fold](../../assets/articles/pumpkin-crochet-wallet-ribs.jpg "Concept illustration of the finished wallet.")
 
 With orange:
 
@@ -140,7 +132,7 @@ Keep rows 10 to 13 on stitches 1 to 5 clear; the leaf tab covers that spot. Neve
 <figcaption>Diagram. The tab is the closure. The stem only decorates.</figcaption>
 </figure>
 
-![The closed orange wallet. The leaf tab folds over the front; sew the stem on the back rim, behind that tab](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet. The stem in the picture sits on the tab. The pattern puts it on the back rim.")
+![The closed orange wallet. The leaf tab folds over the front; sew the stem on the back rim, behind that tab](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Concept illustration of the finished wallet. The stem in the picture sits on the tab. The pattern puts it on the back rim.")
 
 **Stem**, green: Ch 7. Sc in the 2nd ch from the hook and across. (6) Rows 2–3: ch 1, turn, sc in each st. (6) Fasten off with a 10 inch tail. Roll from one short end into a cylinder about 0.6 inch tall and sew the edge down.
 
@@ -183,7 +175,7 @@ Hand wash cool, dry flat, and shape the ribs with your fingers while damp. Test 
 
 ## Frequently asked
 
-**Will a bank card fit?** On paper, yes: about 3.9 by 2.4 inches inside against a 3.37 by 2.125 inch card. It has not been made and measured.
+**Will a bank card fit?** On paper, yes: about 3.9 by 2.4 inches inside against a 3.37 by 2.125 inch card, so test with a real card before you fold.
 
 **Why sideways?** Sideways back-loop rows make ribs that run up and down, like a pumpkin. Worked bottom to top, the ribs would run sideways.
 

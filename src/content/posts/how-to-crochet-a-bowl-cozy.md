@@ -21,7 +21,7 @@ A bowl cozy is a cotton square made of two layers, with the four corners sewn so
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No cozy for this page was crocheted, fitted on a bowl, or held against heat. The 12 inch square below is arithmetic for one example bowl. It is not a size to copy onto a different bowl.
 
-![A cream cotton cozy gathered around a plain bowl](../../assets/articles/how-to-crochet-a-bowl-cozy-result.jpg "Illustration. Two cotton layers with the corners pinched and a bowl drawn inside. Not a heat test and not a fitted sample.")
+![A cream cotton cozy gathered around a plain bowl](../../assets/articles/how-to-crochet-a-bowl-cozy-result.jpg "Illustration. Two cotton layers with the corners pinched and a bowl drawn inside.")
 
 <div class="warning">
 
@@ -102,7 +102,17 @@ Chain 49.
 
 **Row 1:** Single crochet in the second chain from the hook and in each chain across. Chain 1, turn. (48)
 
+<figure class="diagram">
+<img src="/diagrams/bowl-cozy-step-1.svg" alt="A foundation chain of 49. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 48 sc." width="480" height="439" loading="lazy" decoding="async" />
+<figcaption>Chain 49 for 48 sc, 12 inches at 4 sc per inch. Make two squares from the same count.</figcaption>
+</figure>
+
 **Rows 2–60:** Single crochet in each stitch across. Chain 1, turn. (48)
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>Two squares only match if both keep 48. The first stitch of each row goes in the edge stitch.</figcaption>
+</figure>
 
 Checkpoint every 10 rows: the row still has 48 stitches, and the piece is still a rectangle. At the example row gauge, 10 rows are 2 inches and 60 rows are 12. If your rows per inch are different, 60 rows will not match the width. Stop at your own row count, then measure both sides. They should match each other before you join.
 

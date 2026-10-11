@@ -76,6 +76,11 @@ These rows are the **24-stitch example**. If step 2 gave you another number, use
 
 **Row 1.** Chain 26. Half double in the third chain from the hook and in each chain across. (24)
 
+<figure class="diagram">
+<img src="/diagrams/hooded-scarf-step-1.svg" alt="A foundation chain of 26. The 2 chains nearest the hook are skipped and the first hdc goes into the 3rd chain from the hook, so row 1 has 24 hdc." width="480" height="466" loading="lazy" decoding="async" />
+<figcaption>Chain 26 for 24 hdc. The 2 skipped chains next to the hook are the turning chain, not a stitch.</figcaption>
+</figure>
+
 **Row 2.** Chain 2, turn. Half double in the first stitch, the one at the base of the chain, and in each stitch across. (24)
 
 <figure class="diagram">

@@ -65,13 +65,18 @@ standards, not from other blogs. Verify every external link returns a live page
 before publishing it. If a source cannot be verified, name it without linking.
 
 **3. Never present a computer-generated image as a real finished object.** The
-`/disclosures` page promises this publicly. AI illustrations and diagrams are
-allowed and must be labeled in the caption. An AI image of a finished crochet
-item may show the intended look of a pattern only when its caption says it is
-an illustration and not a photograph of a made sample. A pattern nobody has
+`/disclosures` page promises this publicly. Illustrations and diagrams are
+allowed and must be labeled in the caption as an "Illustration" or "Concept
+illustration" so a reader never mistakes a drawing for a photograph. Keep
+captions concise and reader-facing: do not prefix "AI illustration" or append
+"not a photograph of a made sample" to every caption. The explanation that
+illustrations are computer-generated (including with AI tools) lives once on
+`/disclosures`, which About and the author page link to. A pattern nobody has
 physically made may be published only if every count has been checked on paper
-and the page states plainly, near the top, that it is technically checked and
-not test-crocheted, matching the wording on `/disclosures`.
+and the page states, near the top in plain reader language, that the sizes are
+worked out from gauge rather than from a finished sample and the pictures are
+illustrations. State genuine fit or safety limits explicitly; do not hide them,
+and do not dress them up as an internal validation table.
 
 **4. Never ship an empty ad container.** `AdSlot.astro` renders nothing while
 `ADSENSE_CLIENT` is empty. Keep it that way until AdSense approves the site —
@@ -203,15 +208,35 @@ not print gets `class="no-print"`.
 
 ## Current status
 
-- 14 articles, 26 pages, `npm run check` at 0 errors.
-- `gear` is down to one article after the two buying guides merged. A nav
- category with a single entry looks unfinished to an AdSense reviewer, so it
- wants a second one before applying.
+- 69 published articles and 10 drafts, 89 built pages, `npm run check` at 0
+ errors. `gear` has two articles.
+- Public copy reads like a crochet publication, not an internal report. No
+ visitor-facing "AI illustration" / "checked on paper" / "not test-crocheted"
+ text and no "What is checked" validation tables; the AI and testing disclosure
+ lives once on `/disclosures`. `scripts/cleanup-public-copy.mjs` did the caption
+ and description pass; a regression sweep is in
+ `planning/FINAL_WEBSITE_TRANSFORMATION_PROGRESS.md`.
+- Step diagrams are generated, not hand-drawn: see `scripts/step-diagrams/`
+ and `planning/SVG_STEP_BY_STEP_INVENTORY.md`. They are 480 wide with text of
+ at least 20 units so they read on a 320 px phone; `validate-diagrams.mjs`
+ enforces it. After changing a generator, run `build.mjs` then `refresh.mjs`.
+- Changing `astro.config.mjs` markdown plugins does not re-render cached
+ posts. Delete `node_modules/.astro/data-store.json` before building.
+- Release checks: `check-internal-links.mjs`, `verify-release.mjs`,
+ `check-dist-seo.mjs`, `visual-audit.mjs`, `quality-matrix.mjs`.
 - Repo: `github.com/xceppp/THECROCHETGUIDE`.
 - Domain not yet live. AdSense not yet applied for — needs the custom domain,
   a real inbox, and a real author identity first.
-- `SITE.author` is the Crochet Explained Editorial Team. Do not restore a fictional personal byline.
-- `SITE.email` is empty, kept deliberately.
+- `SITE.author` is the real publisher, M. Amine (profile at `/author/amine/`).
+ The owner confirmed the bio may describe a publisher and editor who checks
+ instructions on paper, not a maker: never claim the owner crochets, designed,
+ or yarn-tested a project, and use no pronoun until one is confirmed. Do not
+ restore Nora Bell or any other fictional byline.
+- Publication dates come from git: `node scripts/audit-pub-dates.mjs` rebuilds
+ `planning/PUBLICATION_DATE_AUDIT.csv`. `pubDate` is the first commit in which
+ the article was public (not a draft); `updatedDate` is the last material edit.
+- `SITE.email` holds `thecrochetguiide@gmail.com`, an older value the owner
+ has not reconfirmed. Replace it only with an inbox the owner names.
 - Social URLs in `SOCIALS` are placeholder handles awaiting the real accounts.
 - Empty sections are an AdSense problem, so every nav category has content.
 

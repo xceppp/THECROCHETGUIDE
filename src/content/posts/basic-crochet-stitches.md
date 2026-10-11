@@ -1,7 +1,7 @@
 ---
 title: "The 5 Basic Crochet Stitches, in the Order to Learn Them"
 description: "Slip stitch, single, half double, double and treble crochet explained step by step, plus what each one is actually good for."
-pubDate: 2026-09-04
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: skills
 level: beginner
@@ -24,7 +24,7 @@ Use medium worsted in a light solid color and a 5 mm (H/8) hook. Dark yarn and v
 
 <figure class="diagram">
 <img src="/diagrams/yarn-over.svg" alt="Diagram of a yarn over. The working yarn wraps over the hook from back to front." width="640" height="420" loading="lazy" decoding="async" />
-<figcaption>Diagram. Yarn over moves from the back of the hook toward the front. It is not a photograph.</figcaption>
+<figcaption>Diagram. Yarn over moves from the back of the hook toward the front.</figcaption>
 </figure>
 
 **Pull through** — draw the hook, with yarn on it, back through a loop or a stitch.

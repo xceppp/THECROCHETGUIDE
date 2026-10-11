@@ -1,7 +1,7 @@
 ---
 title: "How to Change Yarn Color in Crochet Cleanly"
 description: "Change colors without a visible knot or a wrong-colored turning chain, plus when to carry the old yarn up the side and when to cut it."
-pubDate: 2026-08-30
+pubDate: 2026-09-10
 updatedDate: 2026-10-11
 category: skills
 level: beginner

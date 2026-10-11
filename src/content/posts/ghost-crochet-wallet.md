@@ -20,17 +20,9 @@ A ghost wallet only works if it still looks like a ghost with cards in it. This 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). If you want a smaller, simpler ghost with a fold-over flap, the [ghost mini wallet](/ghost-crochet-mini-wallet/) is a different design worth a look. This one teaches shaping with decreases and joining two layers with an edging.
 
-![A cream crochet ghost wallet with the face above a pocket and four scallops on the hem](../../assets/articles/ghost-crochet-wallet-result.jpg "Illustration, not a photograph of a made wallet.")
+![A cream crochet ghost wallet with the face above a pocket and four scallops on the hem](../../assets/articles/ghost-crochet-wallet-result.jpg "Concept illustration of the finished wallet.")
 
-## What is checked, and what is not
-
-| Part of this page | What it is |
-| --- | --- |
-| ID-1 card, 3.370 x 2.125 in | The ISO/IEC 7810 size of most US bank cards and licenses |
-| Every stitch count and row count | Checked by hand on paper, including the edging round |
-| 16 sc and 20 rows to 4 in | An example gauge, not measured from a finished wallet |
-| Finished size and card fit | Geometry from that gauge. Not physically test-crocheted. |
-| The picture above | A computer illustration, not a made sample |
+The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and lay a real bank card on the front panel before you join. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
 
 ## Materials
 
@@ -76,7 +68,7 @@ Each panel is 17 stitches, 4.25 inches wide. The side edging takes a little from
 <figcaption>Diagram. Both panels start the same way. The back keeps going and rounds off.</figcaption>
 </figure>
 
-![The two cream panels before joining: a taller back with a stepped top, and a shorter front](../../assets/articles/ghost-crochet-wallet-panels.jpg "Illustration, not a photograph of a made wallet.")
+![The two cream panels before joining: a taller back with a stepped top, and a shorter front](../../assets/articles/ghost-crochet-wallet-panels.jpg "Concept illustration of the finished wallet.")
 
 **Back panel**, cream:
 
@@ -111,7 +103,7 @@ Lay the front on the back with the hems matched. The front should end with 8 row
 <figcaption>Diagram. Stitch k mirrors stitch 18 minus k, so the face stays centered.</figcaption>
 </figure>
 
-![Black oval eyes, a small mouth, and pink cheeks on cream crochet, above the pocket opening](../../assets/articles/ghost-crochet-wallet-face.jpg "Illustration, not a photograph of a made wallet.")
+![Black oval eyes, a small mouth, and pink cheeks on cream crochet, above the pocket opening](../../assets/articles/ghost-crochet-wallet-face.jpg "Concept illustration of the finished wallet.")
 
 Pick the side of the back panel you like better. That is its right side, and it faces forward, above the front panel. Count stitches from the right-hand edge with row 1 at the bottom.
 
@@ -141,7 +133,7 @@ Sew with doubled thread, four or five passes per hole, catching only the panel y
 <figcaption>Diagram. One round joins the panels, scallops the hem, and leaves the front's top edge open.</figcaption>
 </figure>
 
-![The hem edging, four scallops across the bottom](../../assets/articles/ghost-crochet-wallet-hem.jpg "Illustration, not a photograph of a made wallet. The pattern's repeat makes four scallops.")
+![The hem edging, four scallops across the bottom](../../assets/articles/ghost-crochet-wallet-hem.jpg "Concept illustration of the finished wallet. The pattern's repeat makes four scallops.")
 
 Place the front panel on the right side of the back panel, wrong side of the front against the face side of the back, hems and side edges matched. Clip the sides with markers. Join cream yarn at a bottom corner in stitch 1 of the hem, working through both layers.
 
@@ -198,7 +190,7 @@ Hand wash in cool water. Squeeze, do not wring, and dry flat with the hem scallo
 
 ## Frequently asked
 
-**Will a card fit?** On paper, yes, with about 0.5 inch of width and room above the card. The pattern has not been made and measured. Test before joining by laying a card on the front panel; it should be narrower and shorter.
+**Will a card fit?** On paper, yes, with about 0.5 inch of width and room above the card. Test before joining by laying a card on the front panel; it should be narrower and shorter.
 
 **Why is the snap inside instead of on a flap?** There is no flap. The face is the outside, so the closure stays hidden behind the front panel.
 

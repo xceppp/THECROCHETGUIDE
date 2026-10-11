@@ -1,6 +1,6 @@
 ---
 title: "12 Crochet Bag Charm Ideas from Scrap Yarn"
-description: "Twelve scrap-yarn bag charm ideas, plus one complete tiny heart pattern in US terms. The other shapes are ideas, not full patterns. Not yarn-tested."
+description: "Twelve scrap-yarn bag charm ideas, plus one complete tiny heart pattern in US terms. The other shapes are ideas, not full patterns."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns

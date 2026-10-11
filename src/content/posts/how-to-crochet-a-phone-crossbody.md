@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Phone Crossbody"
-description: "A single-crochet phone sleeve on a crossbody strap, with the sleeve sized around the phone and the strap measured around you. US terms. Not yarn-tested."
+description: "A single-crochet phone sleeve on a crossbody strap, with the sleeve sized around the phone and the strap measured around you. US terms."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -63,7 +63,7 @@ The strap does not need to cover all of it. The sleeve's top edge, 3.75 inches, 
 
 ## Yarn and hook
 
-![Cotton yarn, a hook, and a plain phone](../../assets/articles/how-to-crochet-a-phone-crossbody-1.jpg "Illustration. Cotton. Fuzzy yarn traps grit against the phone. Not a weighed amount.")
+![Cotton yarn, a hook, and a plain phone](../../assets/articles/how-to-crochet-a-phone-crossbody-1.jpg "Illustration. Cotton. Fuzzy yarn traps grit against the phone.")
 
 - **Smooth worsted cotton.** Fuzzy yarn holds grit against the glass. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives dense fabric. A loose hook leaves holes. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -77,7 +77,17 @@ Chain 16. Keep the chain loose.
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (15)
 
+<figure class="diagram">
+<img src="/diagrams/crossbody-step-1.svg" alt="A foundation chain of 16. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 15 sc." width="480" height="439" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 16 for 15 sc, 3.75 inches: the phone's width plus its thickness, seams, and ease.</figcaption>
+</figure>
+
 **Rows 2–67:** Sc in each stitch. Ch 1, turn. (15)
+
+<figure class="diagram">
+<img src="/diagrams/crossbody-step-2.svg" alt="Drawn to scale. A flat piece 15 sc, 3.75 in wide and 67 rows, 13.4 in tall, folded at the dashed line into a pocket. Fold so row 1 meets row 67. Seam both sides. The top stays open." width="480" height="541" loading="lazy" decoding="async" />
+<figcaption>Step 2. To scale: 67 rows, about 13.4 inches, fold to a sleeve about 6.7 inches deep.</figcaption>
+</figure>
 
 The ch 1 does not count as a stitch. Count every 10 rows.
 
@@ -118,6 +128,11 @@ Join yarn in the fifth stitch of the back opening, counting from one side seam, 
 **Row 7:** Sc 2, ch 4, skip 3, sc 2. (4 sc and a ch-4 loop)
 
 Fasten off. Two, three skipped, and two is seven, so the loop is centered. Sew a button on the front where the loop reaches, with the phone inside.
+
+<figure class="diagram">
+<img src="/diagrams/crossbody-step-3.svg" alt="A flap of 7 rows worked over 7 of the 15 stitches on the last round, with a chain loop on the top row. Rows 1 to 6: 7 sc. Row 7: sc 2, ch 4, skip 3, sc 2." width="480" height="444" loading="lazy" decoding="async" />
+<figcaption>Step 3. The flap covers the middle 7 of the 15 back stitches. On row 7 the ch 4 spans 3 skipped stitches.</figcaption>
+</figure>
 
 <div class="warning">
 

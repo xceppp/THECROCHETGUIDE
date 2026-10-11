@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { SITE } from "../config";
 
 const aboutUrl = new URL("/about/", SITE.url).href;
+const authorUrl = new URL(SITE.author.url, SITE.url).href;
 
 const schema = {
   "@context": "https://schema.org",
@@ -12,75 +13,90 @@ const schema = {
     "@type": "Organization",
     name: SITE.name,
     url: SITE.url,
-    description: SITE.author.bio,
+    description: SITE.description,
+    founder: { "@type": "Person", name: SITE.author.name, url: authorUrl },
   },
 };
 ---
 
 <BaseLayout
   title="About"
-  description="Crochet Explained is an independent site of crochet tutorials and pattern guides, published by the Crochet Explained Editorial Team."
+  description={`${SITE.name} is an independent site of crochet tutorials, charts, and beginner-friendly patterns, published by ${SITE.author.name}.`}
   schema={schema}
 >
-  <div class="mx-auto max-w-3xl px-6 sm:px-8 py-10 sm:py-14">
+  <div class="mx-auto max-w-3xl px-6 py-10 sm:px-8 sm:py-14">
     <h1 class="font-serif text-3xl tracking-tight sm:text-4xl">
       About {SITE.name}
     </h1>
 
     <div class="prose mt-8">
       <p>
-        {SITE.name} is an independent website dedicated to making crochet
-        patterns, tutorials, and creative projects easier to discover and
-        understand.
+        {SITE.name} teaches crochet to beginners in plain US English: what to
+        buy, how to read a pattern, the basic stitches, shaping, color changes,
+        finishing, and gauge, followed by small projects that use those skills.
       </p>
       <p>
-        We publish step-by-step crochet guides, practical project ideas, and
-        seasonal inspiration for makers of different skill levels.
-      </p>
-      <p>
-        Our content may be developed with assistance from digital tools. We aim
-        to provide clear, useful instructions and continually improve our
-        guides.
-      </p>
-      <p>Our editorial identity is {SITE.author.name}.</p>
-
-      <h2>{SITE.author.name}</h2>
-      <p>{SITE.author.bio}</p>
-
-      <h2>How articles are developed</h2>
-      <p>
-        The teaching sequence is the <a href="/start-here/">12-step course</a>:
-        what to buy, how to read a pattern, the basic stitches, shaping, color,
-        and gauge. Charts sit beside that course for when you need a number.
-      </p>
-      <p>
-        Technique pages use standard US crochet terminology, the terms used by
-        the Craft Yarn Council, because that is what most patterns written for
-        American crocheters use. Where a UK term names a different stitch, the
-        page says so.
-      </p>
-      <p>
-        Conversion charts are checked against published standards, such as
-        manufacturer hook sizing and Craft Yarn Council yarn weights, rather
-        than copied from other blogs.
-      </p>
-      <p>
-        Stitch counts on a project page are checked as written arithmetic: the
-        increases in a round should add up to the number in parentheses. That
-        check is not the same as making the object. A page that has not been
-        worked in yarn says so. It does not claim a finished size, a fit, or a
-        photograph of a sample.
-      </p>
-      <p>
-        Digital tools may help draft, edit, or illustrate a guide. That help is not a yarn test and not a review by a named instructor. Illustrations made that way are labeled in the caption. A pattern page does not claim the project was handmade or yarn-tested unless that is stated on the page itself. Stitch explanations are written here in ordinary US terms. They are not copied from a textbook.
+        I'm <a href={SITE.author.url}>{SITE.author.name}</a>, and I publish
+        and edit the site. I am not a crochet designer or a certified
+        instructor. My job here is to make sure the instructions are clear, the
+        numbers add up, and the pictures match the words.
       </p>
 
-      <h2>Corrections</h2>
+      <h2>What the site teaches</h2>
       <p>
-        If a stitch count, measurement, or step looks wrong, tell us through the
-        <a href="/contact/">contact page</a> and name the page. Reported errors
-        are checked and, when the report is right, the page is corrected. When
-        a published fact changes, the article's updated date changes with it.
+        The spine is the <a href="/start-here/">12-step course</a>. Beside it
+        sit reference <a href="/charts/">charts</a> for when you need a number,
+        <a href="/tutorials/">tutorials</a> that teach one technique each, and
+        <a href="/free-patterns/">free patterns</a> for small projects. Every
+        page uses US crochet terms. Where a UK term names a different stitch,
+        the page says so.
+      </p>
+
+      <h2>How instructions are checked</h2>
+      <ul>
+        <li>
+          <strong>Stitch arithmetic.</strong> Every round and row total is
+          checked on paper: the increases in a round add up to the number in
+          parentheses, and a panel's size follows from its stated gauge.
+        </li>
+        <li>
+          <strong>Charts.</strong> Hook and yarn tables are written from
+          published standards, such as the Craft Yarn Council yarn weight system
+          and manufacturer hook sizing, not copied from other blogs.
+        </li>
+        <li>
+          <strong>Diagrams.</strong> Step diagrams are drawn for the page they
+          sit on and are checked against its written counts.
+        </li>
+      </ul>
+
+      <h2>What has and has not been tested</h2>
+      <p>
+        Checking a pattern on paper is not the same as making it. The sizes on
+        this site are worked out from gauge rather than measured from a finished
+        sample, so a finished size is a calculation and yardage is an estimate.
+        Each pattern page says so near the top. Pictures of finished projects
+        are illustrations of the intended look, labeled as such, and never
+        photographs of a made sample. How those illustrations are produced is
+        explained on the <a href="/disclosures/">disclosures page</a>.
+      </p>
+
+      <h2>Publishing history</h2>
+      <p>
+        The site went live on September 10, 2026 as The Crochet Guide with the
+        first technique articles and charts. Halloween and Christmas tutorials
+        followed in mid-September. It was renamed {SITE.name} on September 30,
+        2026, and most of the project patterns were published in early October
+        2026. Every article shows the day it was first published and, if it
+        has changed since, the day it was last materially updated.
+      </p>
+
+      <h2>Report an error</h2>
+      <p>
+        If a stitch count, a measurement, or a step looks wrong, tell me through
+        the <a href="/contact/">contact page</a> and name the page and the row.
+        Correct reports get the page fixed, and the article's updated date
+        changes with it.
       </p>
 
       <h2>What this site will not do</h2>
@@ -91,22 +107,20 @@ const schema = {
           own page so they get the visit.
         </li>
         <li>
-          Pretend a photograph is something it is not. Where an illustration or
-          diagram is computer-generated, it is labelled as such on the page.
+          Present an illustration as a photograph of something that was made.
         </li>
         <li>
-          Recommend a product nobody has any reason to recommend. The
-          <a href="/disclosures/">disclosures page</a> explains exactly how the
-          gear guides work.
+          Recommend a product for a commission. The
+          <a href="/disclosures/">disclosures page</a> explains how the gear
+          guides work.
         </li>
       </ul>
 
       <h2>How the site pays for itself</h2>
       <p>
-        Two ways: display advertising, and affiliate links in the hooks and yarn
-        guides. Both are disclosed on the <a href="/disclosures/">disclosures page</a
-        >, and neither one costs you anything. Every tutorial and chart on this
-        site is free and always will be.
+        Display advertising and affiliate links in the hooks and yarn guides.
+        Both are explained on the <a href="/disclosures/">disclosures page</a>,
+        and neither costs you anything. Every tutorial and chart is free.
       </p>
     </div>
   </div>

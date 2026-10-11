@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Phone Case for iPhone 18 Pro Max"
-description: "Size a single-crochet sleeve from the iPhone 18 Pro Max body, 3.07 by 6.43 inches, and the edge it also has to cover. US terms. Not a fitted sample."
+description: "Size a single-crochet sleeve from the iPhone 18 Pro Max body, 3.07 by 6.43 inches, and the edge it also has to cover. US terms."
 pubDate: 2026-10-07
 updatedDate: 2026-10-11
 category: patterns
@@ -84,6 +84,11 @@ The earlier version of this page said to chain "just over 3.07 inches". At 4 sti
 
 Chain 17. Single crochet in the second chain from the hook and in each chain across. Ch 1, turn. (16)
 
+<figure class="diagram">
+<img src="/diagrams/phone-case-step-1.svg" alt="A foundation chain of 17. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 16 sc. Checkpoint: the first row lying flat measures about 3.9 in." width="480" height="524" loading="lazy" decoding="async" />
+<figcaption>Step 1. The chain next to the hook is skipped and does not count, so 17 chains give 16 sc.</figcaption>
+</figure>
+
 Keep the chain looser than the rows, or use a hook one size larger for the chain only. A tight chain pulls the bottom edge in, and the fold will pucker.
 
 **Checkpoint:** lay the first row flat. It should measure about 3.9 inches. Fold a strip of paper of that width around the phone. It should close with a little overlap.
@@ -92,9 +97,19 @@ Keep the chain looser than the rows, or use a hook one size larger for the chain
 
 Single crochet in each stitch across. Ch 1, turn. The ch 1 does not count as a stitch. (16)
 
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>Where the first stitch of each row goes. Working into the ch 1 is the usual reason a 16-stitch sleeve grows to 17.</figcaption>
+</figure>
+
 Count the stitches every 10 rows. Single crochet edges often gain a stitch when the first stitch goes into the turning chain, and each gained stitch is a quarter inch of looseness at that row.
 
 Stop at about 70 rows, or when the rectangle folded in half covers the phone with a little collar above the top edge. Measure it lying flat, not hanging.
+
+<figure class="diagram">
+<img src="/diagrams/phone-case-step-2.svg" alt="Rows 2 to 70: 16 sc every row. Rows of 16 sc drawn one symbol per stitch and worked back and forth, each starting with a turning chain (ch 1, not a st). Row 36 is highlighted. Every row: 16 sc. Count every 10 rows. Row 35 is the middle. With 70 rows, the fold lands between rows 35 and 36." width="480" height="585" loading="lazy" decoding="async" />
+<figcaption>Step 2. The same 16 stitches on every row. The two halves of the sleeve meet at the middle row.</figcaption>
+</figure>
 
 **Checkpoint:** fold the rectangle with the phone inside, without seaming. The two long edges should meet beside the phone with no strain. If they gap, the sleeve is too narrow. Start again with more stitches. Do not stretch it.
 
@@ -102,7 +117,17 @@ Stop at about 70 rows, or when the rectangle folded in half covers the phone wit
 
 Fold the rectangle in half with the right side inside. Whipstitch each side from the fold to the top, through the outer loop of each edge stitch only. Going deeper into the stitch takes width from the inside. Turn it right side out so the seams are inside.
 
+<figure class="diagram">
+<img src="/diagrams/phone-case-step-3.svg" alt="Drawn to scale. A flat piece 16 sc, 3.9 in wide and 70 rows, 14 in tall, folded at the dashed line into a pocket. Right side in. Whipstitch each side from the fold up, through the outer loops only. Top stays open. Each side ends up about 7 in deep: the phone's 6.43 in plus the fold and a collar." width="480" height="678" loading="lazy" decoding="async" />
+<figcaption>Step 3. Drawn to scale: a 3.9 by 14 inch strip folds into a 3.9 by 7 inch pocket.</figcaption>
+</figure>
+
 Slide the phone in before you weave the tails. It should go in without force and stay put when you tip the sleeve. If the opening fights you, the last rows are tighter than the rest. Redo them more loosely. Weave ends on the inside, where they cannot catch on the buttons. See [weaving in ends](/weaving-in-ends-and-blocking/).
+
+<figure class="diagram">
+<img src="/diagrams/whipstitch-outer-loops.svg" alt="Two edges laid side by side, right sides together. Correct: the needle passes through the outer loop of each edge stitch only, so the seam is flat and takes almost no width. Mistake: the needle goes through the whole stitch on both sides, which builds a thick ridge and takes width from the inside." width="480" height="580" loading="lazy" decoding="async" />
+<figcaption>A seam through the outer loops keeps the inside width the sleeve was sized for.</figcaption>
+</figure>
 
 ## Color
 

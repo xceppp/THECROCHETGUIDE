@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Cable Organizer"
-description: "A short crochet strap that holds one coiled charging cable with a button, sized from a paper strip around your coil. US terms. Not a yarn-tested sample."
+description: "A short crochet strap that holds one coiled charging cable with a button, sized from a paper strip around your coil. US terms."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -52,7 +52,7 @@ Wrap a strip of paper around the bundle where the strap will go, snug but not sq
 
 ## Yarn and hook
 
-![Oatmeal yarn, a hook, and a wood button](../../assets/articles/how-to-crochet-a-cable-organizer-2.jpg "Illustration. Yarn, hook, and button. Not a weighed amount.")
+![Oatmeal yarn, a hook, and a wood button](../../assets/articles/how-to-crochet-a-cable-organizer-2.jpg "Illustration. Yarn, hook, and button.")
 
 - **Smooth worsted cotton**, from scraps. It is firm and does not stretch much once buttoned. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or one that makes firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -82,7 +82,17 @@ Chain 9.
 
 **Row 1:** Sc in the second chain from the hook and in each chain across. Ch 1, turn. (8)
 
+<figure class="diagram">
+<img src="/diagrams/cable-step-1.svg" alt="A foundation chain of 9. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 8 sc." width="480" height="439" loading="lazy" decoding="async" />
+<figcaption>Step 1. Chain 9 for an 8-stitch strap, about 2 inches wide at 4 sc per inch.</figcaption>
+</figure>
+
 **Rows 2–23:** Sc in each stitch. Ch 1, turn. (8)
+
+<figure class="diagram">
+<img src="/diagrams/turn-first-stitch.svg" alt="Two rows of single crochet. Correct: the turning ch 1 sits beside the edge and the first sc of the new row goes into the first stitch, the last one made on the row below, so the count stays the same. Mistake: the first sc goes into the ch 1, outside the edge, which adds a stitch and makes the edge flare." width="480" height="551" loading="lazy" decoding="async" />
+<figcaption>A narrow strap shows a gained stitch at once. Start each row in the edge stitch, not the ch 1.</figcaption>
+</figure>
 
 The ch 1 does not count as a stitch. Count the eight stitches every few rows. A ninth makes the end wider than the buttonhole row.
 
@@ -91,6 +101,11 @@ The ch 1 does not count as a stitch. Count the eight stitches every few rows. A 
 ## Stage 2: the buttonhole
 
 **Row 24:** Sc 3, ch 3, skip 2, sc 3. (6 sc and a ch-3 space)
+
+<figure class="diagram">
+<img src="/diagrams/cable-step-2.svg" alt="Buttonhole row over 8 stitches: sc 3, ch 3 over 2 skipped stitches, sc 3. Rows 1 to 23 are 8 sc. The button goes on row 3, centered." width="480" height="415" loading="lazy" decoding="async" />
+<figcaption>Step 2. The ch 3 spans 2 skipped stitches. One extra chain keeps the hole from pinching the button.</figcaption>
+</figure>
 
 Fasten off. Three plus two skipped plus three is eight, so the end keeps its width, and the chain lies flat across the gap.
 

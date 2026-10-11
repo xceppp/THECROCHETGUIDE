@@ -31,7 +31,8 @@ const legal = [
       <div class="col-span-2 sm:col-span-1">
         <p class="font-serif text-lg text-ink">{SITE.name}</p>
         <p class="mt-2 max-w-xs text-sm leading-relaxed text-ink-soft">
-          {SITE.tagline}. Written and maintained by {SITE.author.name}.
+          {SITE.tagline}. Published and edited by
+          <a href={SITE.author.url} class="text-ink-soft underline">{SITE.author.name}</a>.
         </p>
       </div>
 
@@ -85,21 +86,23 @@ const legal = [
         {halloween && <HalloweenIcon class="text-terracotta-deep" />}
         <span>&copy; {year} {SITE.name}. All rights reserved.</span>
       </p>
-      <ul class="flex flex-wrap gap-x-5 gap-y-1">
-        {
-          SOCIALS.map((social) => (
-            <li>
-              <a
-                href={social.url}
-                rel="me noopener"
-                class="no-underline hover:text-terracotta-deep"
-              >
-                {social.name}
-              </a>
-            </li>
-          ))
-        }
-      </ul>
+      {
+        SOCIALS.length > 0 && (
+          <ul class="flex flex-wrap gap-x-5 gap-y-1">
+            {SOCIALS.map((social) => (
+              <li>
+                <a
+                  href={social.url}
+                  rel="me noopener"
+                  class="no-underline hover:text-terracotta-deep"
+                >
+                  {social.name}
+                </a>
+              </li>
+            ))}
+          </ul>
+        )
+      }
     </div>
   </div>
 </footer>

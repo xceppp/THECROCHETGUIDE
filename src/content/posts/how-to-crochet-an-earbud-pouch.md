@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet an Earbud Pouch"
-description: "A small crochet pouch with a button flap, sized from your charging case's perimeter, not its width. US terms. Not drop-proof, waterproof, or yarn-tested."
+description: "A small crochet pouch with a button flap, sized from your charging case's perimeter, not its width. US terms. Not drop-proof or waterproof."
 pubDate: 2026-10-08
 updatedDate: 2026-10-11
 category: patterns
@@ -55,7 +55,7 @@ The perimeter of the footprint is 2 × (1.9 + 0.9) = **5.6 inches**. That is how
 
 ## Yarn, hook, and gauge
 
-![Sage yarn, a hook, a wood button, and a white charging case](../../assets/articles/how-to-crochet-an-earbud-pouch-1.jpg "Illustration. The case is the size guide. Not a weighed amount of yarn.")
+![Sage yarn, a hook, a wood button, and a white charging case](../../assets/articles/how-to-crochet-an-earbud-pouch-1.jpg "Illustration. The case is the size guide.")
 
 - **Smooth worsted cotton.** Fuzzy yarn sheds into the speaker mesh and the charging port. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -80,6 +80,11 @@ Work in a spiral without joining. Put a marker in the first stitch of each round
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring. The ch 1 that closes the first loop is not a stitch.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (Sc, 2 sc in next) 6 times. (18)
@@ -88,6 +93,11 @@ Work in a spiral without joining. Put a marker in the first stitch of each round
 
 **Round 5, for 27:** (Sc 7, 2 sc in next) 3 times. (27)
 
+<figure class="diagram">
+<img src="/diagrams/earbud-step-1.svg" alt="Base: rounds 1 to 5, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: 2 sc in each st, 12 stitches. Round 3: (sc, 2 sc in next) 6 times, 18 stitches. Round 4: (sc 2, 2 sc in next) 6 times, 24 stitches. Round 5: (sc 7, 2 sc in next) 3 times, 27 stitches. Rounds 1 to 4 add 6 each. Round 5 adds 3, for the 27 the case needs." width="480" height="563" loading="lazy" decoding="async" />
+<figcaption>Step 1. Round 5 adds only 3 stitches, one in every eighth, to land on 27.</figcaption>
+</figure>
+
 A flat circle adds six stitches a round. Round 5 adds only three, which keeps the base nearly flat while landing on a count between 24 and 30. For 30, work (sc 3, 2 sc in next) 6 times instead. For 24, skip round 5.
 
 **Checkpoint:** lay the base flat. A slight cup is fine, because it will turn into the wall. A ruffle means extra stitches.
@@ -95,6 +105,11 @@ A flat circle adds six stitches a round. Round 5 adds only three, which keeps th
 ## Stage 2: the wall
 
 **Rounds 6–18:** Sc in each stitch. (27)
+
+<figure class="diagram">
+<img src="/diagrams/earbud-step-2.svg" alt="The whole pouch by stitch count, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Round 5: 27, Rounds 6 to 18: 27. Base: rounds 1 to 5. Wall: 13 even rounds of 27, about 2.6 in tall at 5 rounds per inch." width="480" height="391" loading="lazy" decoding="async" />
+<figcaption>Step 2. Rounds 1 to 5 lie flat as the base. With no more increases, rounds 6 to 18 turn up into the wall.</figcaption>
+</figure>
 
 The wall turns up on its own once increases stop. Stand the case in the pouch every few rounds. Stop when the top of the lid sits just below the rim. Thirteen rounds is the example. Your count is whatever covers your case.
 
@@ -107,6 +122,11 @@ The flap is worked in rows over 9 of the 27 stitches. The other 18 stay unworked
 **Rows 2–5:** Sc in each stitch. Ch 1, turn. (9)
 
 **Row 6:** Sc 3, ch 4, skip 3, sc 3. (6 sc and a ch-4 loop)
+
+<figure class="diagram">
+<img src="/diagrams/earbud-step-3.svg" alt="A flap of 6 rows worked over 9 of the 27 stitches on the last round, with a chain loop on the top row. Rows 1 to 5: 9 sc, ch 1 and turn. Row 6: sc 3, ch 4, skip 3, sc 3. The other 18 stitches stay open." width="480" height="421" loading="lazy" decoding="async" />
+<figcaption>Step 3. The flap is 9 of the 27 stitches. On row 6 the ch 4 replaces 3 skipped stitches and becomes the button loop.</figcaption>
+</figure>
 
 Three stitches, three skipped, three stitches: 3 + 3 + 3 = 9, so the loop sits centered across the flap. Fasten off.
 

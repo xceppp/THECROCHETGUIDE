@@ -16,7 +16,7 @@ const schema = {
     "@type": "Organization",
     name: SITE.name,
     ...(hasEmail && { email: SITE.email }),
-    sameAs: SOCIALS.map((social) => social.url),
+    ...(SOCIALS.length > 0 && { sameAs: SOCIALS.map((social) => social.url) }),
   },
 };
 ---
@@ -34,8 +34,8 @@ const schema = {
         hasEmail ? (
           <>
             <p>
-              The fastest way to reach the editorial team is email, and it comes
-              to that inbox directly rather than to a support queue.
+              The fastest way to reach me, {SITE.author.name}, is email. It
+              comes to my inbox directly rather than to a support queue.
             </p>
             <p>
               <a href={`mailto:${SITE.email}`} class="text-lg font-semibold">
@@ -46,8 +46,8 @@ const schema = {
         ) : (
           <>
             <p>
-              The quickest way to reach the editorial team right now is a direct
-              message on any of the accounts below.
+              The quickest way to reach me, {SITE.author.name}, right now is a
+              direct message on any of the accounts below.
             </p>
             <ul>
               {SOCIALS.map((social) => (
@@ -66,7 +66,7 @@ const schema = {
       <ul>
         <li>
           <strong>A correction.</strong> If a chart or a tutorial step is wrong,
-          tell us which page and what you found. These go to the front of the
+          tell me which page and what you found. These go to the front of the
           queue and the page gets fixed.
         </li>
         <li>
@@ -89,19 +89,10 @@ const schema = {
         <li>Anything sent to a hundred blogs at once.</li>
       </ul>
 
-      {
-        !hasEmail && (
-          <div class="warning">
-            <p>
-              <strong>Note for the site owner:</strong> AdSense requires a working
-              way for readers to reach you. Set up a real inbox, put the address
-              in <code>SITE.email</code> in <code>src/config.ts</code>, and this
-              page will switch to showing it automatically. Do that before you
-              apply.
-            </p>
-          </div>
-        )
-      }
+      {/*
+        Owner reminder (never rendered to visitors): if SITE.email is empty,
+        set a real inbox in src/config.ts and this page shows it automatically.
+      */}
     </div>
   </div>
 </BaseLayout>

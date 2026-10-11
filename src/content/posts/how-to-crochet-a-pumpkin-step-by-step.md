@@ -29,9 +29,9 @@ A crochet pumpkin is a stuffed ball, slightly squashed, with grooves pulled in f
 
 The lesson here is the shape. Every amigurumi ball has three parts: rounds that increase, rounds that stay even, and rounds that decrease. The increases set how wide it gets. The even rounds set how tall. Change only the number of even rounds and the same ball becomes a pumpkin, an egg, or a cylinder. Once you see that, most stuffed toys stop looking mysterious.
 
-If you can work [in the round](/crochet-in-the-round/) and make a [basic increase and decrease](/crochet-increase-decrease/), you can make this. US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pumpkin for this page was stuffed and measured, so no finished size is given.
+If you can work [in the round](/crochet-in-the-round/) and make a [basic increase and decrease](/crochet-increase-decrease/), you can make this. US terms. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations of the finished pumpkin, which has not been made up in yarn here, so no finished size is given.
 
-![A finished orange crochet pumpkin with vertical grooves and a short brown stem](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-result.jpg "Illustration. The intended shape. Not a measured sample.")
+![A finished orange crochet pumpkin with vertical grooves and a short brown stem](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-result.jpg "Illustration. The intended shape.")
 
 ## How the shape works
 
@@ -56,6 +56,11 @@ Work in a spiral. Mark the first stitch of every round and move the marker up.
 
 **Round 1:** 6 sc in a magic ring. (6)
 
+<figure class="diagram">
+<img src="/diagrams/magic-ring.svg" alt="Four steps. 1: wrap the yarn around two fingers so the tail crosses over the working yarn. 2: insert the hook under the ring, catch the working yarn, and pull up a loop, then ch 1; the ch 1 is not a stitch. 3: work the stated number of sc into the ring, over both strands of the ring and the tail. 4: pull the tail to close the center, then count the stitches." width="480" height="1011" loading="lazy" decoding="async" />
+<figcaption>Round 1 starts in a magic ring, pulled tight so the top has no hole.</figcaption>
+</figure>
+
 **Round 2:** 2 sc in each stitch. (12)
 
 **Round 3:** (Sc, 2 sc in next) 6 times. (18)
@@ -79,6 +84,11 @@ Four even rounds is squat on purpose. For a rounder pumpkin, work five or six. F
 ![An orange crochet sphere being stuffed and closed with a yarn needle through the last stitches](../../assets/articles/how-to-crochet-a-pumpkin-step-by-step-4.jpg "Illustration. Stuff firmly while the opening is still wide.")
 
 **Round 11:** (Sc 4, sc2tog) 6 times. (30)
+
+<figure class="diagram">
+<img src="/diagrams/invisible-decrease.svg" alt="Three steps. 1: insert the hook into the front loop only of the next stitch. 2: without pulling through, insert into the front loop of the stitch after it, so three loops are on the hook. 3: yarn over and pull through the two front loops, then yarn over and pull through the two loops on the hook. Two stitches become one." width="480" height="752" loading="lazy" decoding="async" />
+<figcaption>Through the front loops only, the decrease disappears into the fabric.</figcaption>
+</figure>
 
 **Round 12:** (Sc 3, sc2tog) 6 times. (24)
 

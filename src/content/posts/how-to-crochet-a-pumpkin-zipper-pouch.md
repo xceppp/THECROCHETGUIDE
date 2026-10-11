@@ -1,6 +1,6 @@
 ---
 title: "How to Crochet a Pumpkin Zipper Pouch"
-description: "A small orange crochet pouch with a hand-sewn zipper and a green stem, and how a straight zipper fits a round opening. US terms. Not a yarn-tested sample."
+description: "A small orange crochet pouch with a hand-sewn zipper and a green stem, and how a straight zipper fits a round opening. US terms."
 pubDate: 2026-10-09
 updatedDate: 2026-10-11
 category: patterns
@@ -23,7 +23,7 @@ The crochet is a flat circle with straight sides. The real lesson is the zipper.
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No pouch for this page was crocheted or zipped. Sizes are estimates from the example gauge.
 
-![A small orange crochet pumpkin zipper pouch with a green stem](../../assets/articles/how-to-crochet-a-pumpkin-zipper-pouch-result.png "Illustration. An orange pouch with a stem and a zipper across the top. Not a measured sample.")
+![A small orange crochet pumpkin zipper pouch with a green stem](../../assets/articles/how-to-crochet-a-pumpkin-zipper-pouch-result.png "Illustration. An orange pouch with a stem and a zipper across the top.")
 
 ## What is a technique, and what is only a plan
 
@@ -54,7 +54,7 @@ The zipper's teeth should be a little shorter than that. A 5 inch zipper leaves 
 
 ## Yarn, zipper, and tools
 
-![Orange yarn, green yarn, a hook, and a short zipper](../../assets/articles/how-to-crochet-a-pumpkin-zipper-pouch-1.png "Illustration. Yarn, hook, and zipper. Not a weighed amount of yarn.")
+![Orange yarn, green yarn, a hook, and a short zipper](../../assets/articles/how-to-crochet-a-pumpkin-zipper-pouch-1.png "Illustration. Yarn, hook, and zipper.")
 
 - **Worsted cotton**, orange, and a few yards of green for the stem. Cotton holds its edge against the zipper tape. Fuzzy yarn gets caught in the teeth. [Yarn weights](/yarn-weight-chart/).
 - **US G/6 (4.0 mm) hook**, or the size that gives firm fabric. [Hook chart](/crochet-hook-size-conversion-chart/).
@@ -93,11 +93,21 @@ These counts are for joined rounds: slip stitch to the first stitch, then ch 1, 
 
 **Round 8:** (Sc 6, 2 sc in next) 6 times. (48)
 
+<figure class="diagram">
+<img src="/diagrams/zipper-pouch-step-1.svg" alt="Base: rounds 1 to 8, drawn as rings from the center out. Round 1: 6 sc in a magic ring, 6 stitches. Round 2: 2 sc in each st, 12 stitches. Round 3: (sc, 2 sc in next) 6 times, 18 stitches. Round 4: (sc 2, 2 sc in next) 6 times, 24 stitches. Round 5: (sc 3, 2 sc in next) 6 times, 30 stitches. Round 6: (sc 4, 2 sc in next) 6 times, 36 stitches. Round 7: (sc 5, 2 sc in next) 6 times, 42 stitches. Round 8: (sc 6, 2 sc in next) 6 times, 48 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<figcaption>Step 1. Round 8 ends on 48 stitches, 12 inches around at 4 sc per inch.</figcaption>
+</figure>
+
 **Checkpoint:** lay it flat. About 3.8 inches across at the example gauge. A cup means the tension is tight; a ruffle means extra increases. Fix it now. A wavy base rocks on the table.
 
 ## Stage 2: the sides
 
 **Rounds 9–23:** Sc in each stitch. (48)
+
+<figure class="diagram">
+<img src="/diagrams/zipper-pouch-step-2.svg" alt="The pouch by stitch count, as bars sized by stitch count. Round 1: 6, Round 2: 12, Round 3: 18, Round 4: 24, Round 5: 30, Round 6: 36, Round 7: 42, Round 8: 48, Rounds 9 to 23: 48. The zipper is sewn behind the top of round 23. Flattened, 48 stitches make a 6 in opening." width="480" height="453" loading="lazy" decoding="async" />
+<figcaption>Step 2. Fifteen even rounds turn the flat base up into a 3 inch wall.</figcaption>
+</figure>
 
 Fifteen even rounds, about 3 inches. Count once in the middle. A gained stitch makes the rim longer than the zipper expects. Fasten off and weave the end down the inside.
 
