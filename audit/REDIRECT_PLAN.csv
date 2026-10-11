@@ -1,0 +1,10 @@
+old_url,new_url,type,implemented_in,status_local,production_verified,notes
+/how-to-crochet-a-laptop-sleeve/,/how-to-crochet-a-device-case/,301,vercel.json + astro.config.mjs,pending-build,no,"Folded-rectangle sleeve absorbed as Method 1 (laptop/tablet) in the hub."
+/how-to-crochet-a-book-sleeve/,/how-to-crochet-a-device-case/,301,vercel.json + astro.config.mjs,pending-build,no,"Folded-rectangle sleeve absorbed as Method 1 (book/e-reader) in the hub."
+/how-to-crochet-an-earbud-pouch/,/how-to-crochet-a-device-case/,301,vercel.json + astro.config.mjs,pending-build,no,"Round-base tube absorbed as Method 2 (earbud case, flap closure) in the hub."
+/how-to-crochet-a-lip-balm-holder/,/how-to-crochet-a-device-case/,301,vercel.json + astro.config.mjs,pending-build,no,"Round-base tube absorbed as Method 2 (lip balm, hang loop) in the hub."
+/how-to-crochet-a-ghost-coin-pouch/,/how-to-crochet-a-drawstring-bag/,301,vercel.json + astro.config.mjs,pending-build,no,"Round drawstring bag absorbed as the coin-pouch worked size in the drawstring-bag hub."
+/how-to-crochet-a-ghost-candy-bag/,/how-to-crochet-a-drawstring-bag/,301,vercel.json + astro.config.mjs,pending-build,no,"Round drawstring bag absorbed as the candy-bag worked size (large eyelets, twisted cord)."
+/how-to-crochet-a-pumpkin-treat-bag/,/how-to-crochet-a-drawstring-bag/,301,vercel.json + astro.config.mjs,pending-build,no,"Round drawstring bag absorbed as the shaped-belly worked size (increase/decrease, stem)."
+/how-to-crochet-a-mini-shoulder-bag/,/how-to-crochet-a-strap-bag/,301,vercel.json + astro.config.mjs,pending-build,no,"Folded-rectangle body + strap absorbed as the shoulder-bag size in the strap-bag hub."
+/how-to-crochet-a-phone-crossbody/,/how-to-crochet-a-strap-bag/,301,vercel.json + astro.config.mjs,pending-build,no,"Folded-rectangle phone sleeve + crossbody strap absorbed as the crossbody size in the strap-bag hub."
