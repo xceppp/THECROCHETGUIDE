@@ -2,10 +2,10 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import PostCard from "../components/PostCard.astro";
+import ResumeCard from "../components/ResumeCard.astro";
 import AdSlot from "../components/AdSlot.astro";
-import ArticleIndex from "../components/ArticleIndex.astro";
 import { getPathStages } from "../lib/learningPath";
-import { ARTICLE_PAGE_SIZE } from "../lib/articlePages";
+import { getPostThumbnail } from "../lib/postThumbnails";
 import { SITE, CATEGORIES } from "../config";
 import { resolveSeasonalOccasion } from "../lib/seasonalTheme";
 
@@ -14,280 +14,288 @@ const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
 );
 const byId = new Map(posts.map((post) => [post.id, post]));
 
+/** Only articles that have a real cover image belong in the visual grids. */
+const withThumb = (slug: string) => {
+  const post = byId.get(slug);
+  return post && getPostThumbnail(post.id) ? post : undefined;
+};
+
+const stages = await getPathStages();
+const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
+
+/**
+ * Featured projects. In season the timely picks come first so the home page
+ * matches the seasonal skin; the rest are evergreen beginner projects. Every
+ * entry is filtered to ones that actually have a cover image, and the list is
+ * capped at six so the home never turns back into an archive.
+ */
 const occasion = resolveSeasonalOccasion();
 const seasonalTag = occasion?.contentTag?.toLowerCase();
-const seasonalPosts = seasonalTag
+
+const seasonalFeatured = seasonalTag
   ? posts
       .filter((post) =>
         post.data.tags.some((tag) => tag.toLowerCase() === seasonalTag),
       )
       .sort((a, b) => Number(b.data.featured) - Number(a.data.featured))
+      .filter((post) => getPostThumbnail(post.id))
   : [];
 
-const archiveLast = Math.max(1, Math.ceil(posts.length / ARTICLE_PAGE_SIZE));
-const archivePosts = posts.slice(0, ARTICLE_PAGE_SIZE);
-
-const stages = await getPathStages();
-const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
-const coursePosts = stages.flatMap((stage) => stage.steps.map((step) => step.post));
-
-const chartSlugs = [
-  "crochet-abbreviations-chart",
-  "crochet-hook-size-conversion-chart",
-  "yarn-weight-chart",
-];
-const charts = chartSlugs
-  .map((slug) => byId.get(slug))
-  .filter((post) => post != null);
-
-/**
- * Distinct written guides. Several say on the page that they have not been
- * made in yarn. They are listed after the course, not as proven samples.
- */
-const practicalSlugs = [
+const evergreenSlugs = [
   "how-to-crochet-a-beginner-scarf",
   "crochet-mug-cozy-for-beginners",
-  "how-to-crochet-a-pumpkin-step-by-step",
-  "crochet-ghost-amigurumi-for-beginners",
-  "how-to-crochet-a-spider-and-web",
+  "how-to-crochet-a-book-sleeve",
+  "how-to-crochet-an-earbud-pouch",
+  "how-to-crochet-a-wine-bottle-bag",
   "how-to-crochet-a-simple-flower",
 ];
-const practical = practicalSlugs
-  .map((slug) => byId.get(slug))
+const evergreenFeatured = evergreenSlugs
+  .map(withThumb)
   .filter((post) => post != null);
 
-const seasonalHeading =
+const featured = [...seasonalFeatured, ...evergreenFeatured]
+  .filter(
+    (post, index, list) => list.findIndex((p) => p.id === post.id) === index,
+  )
+  .slice(0, 6);
+
+const seasonalName =
   seasonalTag === "halloween"
-    ? "Halloween ideas"
+    ? "Halloween"
     : seasonalTag === "christmas"
-      ? "Christmas ideas"
-      : occasion
-        ? `${occasion.name}`
-        : "";
+      ? "Christmas"
+      : occasion?.name ?? "";
+const featuredHeading =
+  seasonalFeatured.length > 0 && seasonalName
+    ? `${seasonalName} projects to make`
+    : "Projects worth making";
+
+/** Newest six, shown as a simple list — no archive pager on the home page. */
+const latest = posts.slice(0, 6);
+
+/** Interactive helpers plus the printable reference charts, in one place. */
+const tools = [
+  {
+    href: "/crochet-gauge-calculator/",
+    label: "Gauge calculator",
+    blurb: "Compare your swatch with the pattern and see the predicted width.",
+  },
+  {
+    href: "/crochet-stitch-counter/",
+    label: "Stitch counter",
+    blurb: "Tap to add, subtract, or reset. The count stays in your browser.",
+  },
+  {
+    href: "/crochet-pattern-practice/",
+    label: "Pattern practice",
+    blurb: "Five quick questions on US abbreviations, repeats, and counts.",
+  },
+  {
+    href: "/charts/",
+    label: "Reference charts",
+    blurb: "Printable abbreviations, hook-size, and yarn-weight tables.",
+  },
+];
 ---
 
 <BaseLayout
   title="Crochet Explained: Beginner Crochet Tutorials, Charts & Free Patterns"
   description={SITE.description}
 >
+  {/* Hero */}
   <section class="border-b border-rule bg-paper-deep">
-    <div class="mx-auto max-w-4xl px-6 py-14 sm:px-8 sm:py-20">
+    <div class="mx-auto max-w-5xl px-6 py-14 sm:px-8 sm:py-20">
       <p class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">
         {SITE.name}
       </p>
       <h1 class="mt-3 max-w-2xl font-serif text-4xl leading-tight tracking-tight sm:text-5xl">
-        Learn crochet with clear, step-by-step guides
+        Clear crochet tutorials, charts, and free patterns
       </h1>
       <p class="mt-5 max-w-xl text-lg leading-relaxed text-ink-soft">
-        Start with the {totalSteps}-step course, keep the charts handy for the
-        numbers, and work through clear project guides with step-by-step
-        diagrams for the parts beginners get stuck on.
+        Learn the stitches, keep the reference charts close, and follow
+        step-by-step project guides written in plain US crochet terms. No fluff,
+        no guesswork.
       </p>
       <div class="mt-8 flex flex-wrap gap-3">
         <a
-          href="/start-here/"
+          href="/free-patterns/"
           class="rounded-full bg-terracotta px-6 py-2.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
         >
-          Start the {totalSteps}-step course
+          Explore patterns
         </a>
         <a
-          href="/crochet-abbreviations-chart/"
+          href="/start-here/"
           class="rounded-full border border-rule bg-paper px-6 py-2.5 font-medium text-ink-soft no-underline transition-colors hover:border-terracotta hover:text-terracotta-deep"
         >
-          Stitch abbreviations
+          Start learning
         </a>
       </div>
-      <p class="mt-6 text-sm text-ink-soft">
-        <a href="/about/" class="text-terracotta-deep no-underline hover:underline">About</a>
-        <span aria-hidden="true"> · </span>
-        <a href="/disclosures/" class="text-terracotta-deep no-underline hover:underline">Disclosures</a>
-      </p>
     </div>
   </section>
 
+  <ResumeCard />
+
+  {/* Featured projects */}
   {
-    stages.length > 0 && (
+    featured.length > 0 && (
       <section class="border-b border-rule">
-        <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
+        <div class="mx-auto max-w-5xl px-6 py-12 sm:px-8 sm:py-16">
           <div class="flex flex-wrap items-baseline justify-between gap-2">
-            <h2 class="font-serif text-2xl tracking-tight">
-              The course, start to finish
+            <h2 class="font-serif text-2xl tracking-tight sm:text-3xl">
+              {featuredHeading}
             </h2>
             <a
-              href="/start-here/"
+              href="/free-patterns/"
               class="text-sm text-terracotta-deep no-underline hover:underline"
             >
-              See all {totalSteps} steps
+              All free patterns
             </a>
           </div>
-          <p class="mt-2 leading-relaxed text-ink-soft">
-            Six stages, in teaching order. Each page ends with a link to the next
-            one, so you never have to work out what to read after this.
+          <p class="mt-2 max-w-2xl leading-relaxed text-ink-soft">
+            Approachable projects with step-by-step diagrams for the parts
+            beginners get stuck on.
           </p>
-          <ol class="mt-6 divide-y divide-rule border-y border-rule">
-            {stages.map((stage, index) => (
-              <li>
-                <a
-                  href={`/${stage.steps[0].post.id}/`}
-                  class="group flex items-baseline gap-4 py-3.5 no-underline"
-                >
-                  <span class="font-serif text-sm text-ink-faint" aria-hidden="true">
-                    {String(index + 1).padStart(2, "0")}
-                  </span>
-                  <span class="min-w-0 flex-1">
-                    <span class="font-medium text-ink group-hover:text-terracotta-deep">
+          <div class="mt-8 grid grid-cols-2 gap-x-4 gap-y-7 sm:grid-cols-3 sm:gap-x-6 sm:gap-y-9">
+            {featured.map((post, index) => (
+              <PostCard post={post} compact eager={index < 3} />
+            ))}
+          </div>
+        </div>
+      </section>
+    )
+  }
+
+  {/* Start Here — the guided course, introduced once */}
+  {
+    stages.length > 0 && (
+      <section class="border-b border-rule bg-paper-deep">
+        <div class="mx-auto max-w-5xl px-6 py-12 sm:px-8 sm:py-16">
+          <div class="grid gap-8 sm:grid-cols-[minmax(0,1fr)_minmax(0,1.1fr)] sm:items-start sm:gap-12">
+            <div>
+              <p class="text-xs font-semibold tracking-wider text-terracotta-deep uppercase">
+                Start here
+              </p>
+              <h2 class="mt-2 font-serif text-2xl tracking-tight sm:text-3xl">
+                A free {totalSteps}-step beginner course
+              </h2>
+              <p class="mt-3 leading-relaxed text-ink-soft">
+                The same material most sites scatter, arranged as a route. Begin
+                at step one and follow the link at the bottom of each page.
+                Nothing is locked, and nothing needs an email address.
+              </p>
+              <a
+                href="/start-here/"
+                class="mt-6 inline-block rounded-full bg-terracotta px-6 py-2.5 font-medium text-paper no-underline transition-colors hover:bg-terracotta-deep"
+              >
+                See the {totalSteps}-step course
+              </a>
+            </div>
+            <ol class="divide-y divide-rule border-y border-rule">
+              {stages.map((stage, index) => (
+                <li>
+                  <a
+                    href={`/${stage.steps[0].post.id}/`}
+                    class="group flex items-baseline gap-4 py-3.5 no-underline"
+                  >
+                    <span
+                      class="font-serif text-sm text-ink-faint"
+                      aria-hidden="true"
+                    >
+                      {String(index + 1).padStart(2, "0")}
+                    </span>
+                    <span class="min-w-0 flex-1 font-medium text-ink group-hover:text-terracotta-deep">
                       {stage.stage}
                     </span>
-                    <span class="mt-0.5 block text-sm text-ink-soft">{stage.blurb}</span>
-                  </span>
-                </a>
-              </li>
-            ))}
-          </ol>
-        </div>
-      </section>
-    )
-  }
-
-  {
-    coursePosts.length > 0 && (
-      <section class="border-b border-rule">
-        <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
-          <h2 class="font-serif text-2xl tracking-tight">Beginner techniques</h2>
-          <p class="mt-2 leading-relaxed text-ink-soft">
-            The course lessons, in order. Read these before a shaped project.
-          </p>
-          <div class="mt-6 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
-            {coursePosts.slice(0, 6).map((post) => (
-              <PostCard post={post} />
-            ))}
-          </div>
-          <p class="mt-6 text-sm">
-            <a href="/start-here/" class="text-terracotta-deep no-underline hover:underline">
-              All {totalSteps} lessons
-            </a>
-          </p>
-        </div>
-      </section>
-    )
-  }
-
-  {
-    charts.length > 0 && (
-      <section class="border-b border-rule">
-        <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
-          <h2 class="font-serif text-2xl tracking-tight">Stitches, hooks, and yarn</h2>
-          <p class="mt-2 leading-relaxed text-ink-soft">
-            Lookup pages. Open one when a pattern uses a term or a number you do not know yet.
-          </p>
-          <div class="mt-6 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
-            {charts.map((post) => (
-              <PostCard post={post} />
-            ))}
+                  </a>
+                </li>
+              ))}
+            </ol>
           </div>
         </div>
       </section>
     )
   }
 
+  {/* Browse by topic */}
   <section class="border-b border-rule">
-    <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
-      <h2 class="font-serif text-2xl tracking-tight">Check a number while you work</h2>
-      <p class="mt-2 leading-relaxed text-ink-soft">
-        Three small tools. The calculator predicts a width from a swatch. It does not measure the piece in your hands.
-      </p>
-      <ul class="mt-6 space-y-3 text-ink-soft">
-        <li>
-          <a href="/crochet-gauge-calculator/" class="font-medium text-terracotta-deep no-underline hover:underline">Gauge calculator</a>
-          . Compare your stitch count with the pattern and see the predicted width.
-        </li>
-        <li>
-          <a href="/crochet-stitch-counter/" class="font-medium text-terracotta-deep no-underline hover:underline">Stitch counter</a>
-          . Add one, take one away, or reset. The number stays in this browser tab.
-        </li>
-        <li>
-          <a href="/crochet-pattern-practice/" class="font-medium text-terracotta-deep no-underline hover:underline">Pattern practice</a>
-          . Five questions on US abbreviations, repeats, and stitch counts.
-        </li>
-      </ul>
+    <div class="mx-auto max-w-5xl px-6 py-12 sm:px-8 sm:py-16">
+      <h2 class="font-serif text-2xl tracking-tight sm:text-3xl">
+        Browse by topic
+      </h2>
+      <div class="mt-6 grid gap-3 sm:grid-cols-2">
+        {
+          Object.values(CATEGORIES).map((category) => (
+            <a
+              href={`/${category.slug}/`}
+              class="rounded-lg border border-rule bg-paper px-5 py-4 no-underline transition-colors hover:border-terracotta"
+            >
+              <span class="block font-medium text-ink">{category.label}</span>
+              <span class="mt-1 block text-sm leading-relaxed text-ink-soft">
+                {category.blurb}
+              </span>
+            </a>
+          ))
+        }
+      </div>
     </div>
   </section>
 
-  {
-    practical.length > 0 && (
-      <section class="border-b border-rule">
-        <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
-          <h2 class="font-serif text-2xl tracking-tight">Written project guides</h2>
-          <p class="mt-2 leading-relaxed text-ink-soft">
-            Each one walks through the shape step by step. Sizes are worked out from gauge, so swatch and measure as you go.
-          </p>
-          <div class="mt-6 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
-            {practical.map((post) => (
-              <PostCard post={post} />
-            ))}
-          </div>
-        </div>
-      </section>
-    )
-  }
-
-  {
-    seasonalPosts.length > 0 && (
-      <section class="border-b border-rule">
-        <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
-          <h2 class="font-serif text-2xl tracking-tight">{seasonalHeading}</h2>
-          <p class="mt-2 leading-relaxed text-ink-soft">
-            Projects and techniques to make for the season.
-          </p>
-          <div class="mt-6 space-y-8 divide-y divide-rule [&>*:not(:first-child)]:pt-8">
-            {seasonalPosts.slice(0, 4).map((post) => (
-              <PostCard post={post} />
-            ))}
-          </div>
-        </div>
-      </section>
-    )
-  }
-
-  {
-    posts.length > 0 && (
-      <section class="border-b border-rule">
-        <div class="mx-auto max-w-4xl px-4 py-8 sm:px-8 sm:py-12">
-          <ArticleIndex
-            posts={archivePosts}
-            current={1}
-            last={archiveLast}
-            heading="All articles"
-          />
-        </div>
-      </section>
-    )
-  }
-
-  <div class="mx-auto max-w-4xl px-6 py-12 sm:px-8">
-    <h2 class="font-serif text-2xl tracking-tight">Browse by topic</h2>
-    <div class="mt-6 grid gap-3 sm:grid-cols-2">
-      {
-        Object.values(CATEGORIES).map((category) => (
-          <a
-            href={`/${category.slug}/`}
-            class="rounded-lg border border-rule bg-paper px-5 py-4 no-underline transition-colors hover:border-terracotta"
-          >
-            <span class="block font-medium text-ink">{category.label}</span>
-            <span class="mt-1 block text-sm leading-relaxed text-ink-soft">
-              {category.blurb}
-            </span>
-          </a>
-        ))
-      }
+  {/* Tools & charts */}
+  <section class="border-b border-rule bg-paper-deep">
+    <div class="mx-auto max-w-5xl px-6 py-12 sm:px-8 sm:py-16">
+      <h2 class="font-serif text-2xl tracking-tight sm:text-3xl">
+        Crochet tools and charts
+      </h2>
+      <p class="mt-2 max-w-2xl leading-relaxed text-ink-soft">
+        Open one when you need a number mid-project, not an essay.
+      </p>
+      <div class="mt-6 grid gap-3 sm:grid-cols-2">
+        {
+          tools.map((tool) => (
+            <a
+              href={tool.href}
+              class="rounded-lg border border-rule bg-paper px-5 py-4 no-underline transition-colors hover:border-terracotta"
+            >
+              <span class="block font-medium text-terracotta-deep">
+                {tool.label}
+              </span>
+              <span class="mt-1 block text-sm leading-relaxed text-ink-soft">
+                {tool.blurb}
+              </span>
+            </a>
+          ))
+        }
+      </div>
     </div>
-    <p class="mt-6 text-sm text-ink-soft">
-      <a href="/about/" class="text-terracotta-deep no-underline hover:underline">How this site is written</a>
-      <span aria-hidden="true"> · </span>
-      <a href="/disclosures/" class="text-terracotta-deep no-underline hover:underline">Disclosures</a>
-      <span aria-hidden="true"> · </span>
-      <a href="/contact/" class="text-terracotta-deep no-underline hover:underline">Report an error</a>
-    </p>
+  </section>
+
+  {/* Latest articles — newest six, no archive pager */}
+  {
+    latest.length > 0 && (
+      <section class="border-b border-rule">
+        <div class="mx-auto max-w-5xl px-6 py-12 sm:px-8 sm:py-16">
+          <div class="flex flex-wrap items-baseline justify-between gap-2">
+            <h2 class="font-serif text-2xl tracking-tight sm:text-3xl">
+              Latest from the blog
+            </h2>
+            <a
+              href="/articles/"
+              class="text-sm text-terracotta-deep no-underline hover:underline"
+            >
+              Browse all articles
+            </a>
+          </div>
+          <div class="mt-8 grid grid-cols-2 gap-x-4 gap-y-7 sm:grid-cols-3 sm:gap-x-6 sm:gap-y-9">
+            {latest.map((post) => (
+              <PostCard post={post} compact />
+            ))}
+          </div>
+        </div>
+      </section>
+    )
+  }
+
+  <div class="mx-auto max-w-5xl px-6 py-12 sm:px-8">
     <AdSlot placement="footer" />
   </div>
 </BaseLayout>
