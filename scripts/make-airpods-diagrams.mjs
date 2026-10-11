@@ -62,7 +62,7 @@ const diagrams = {};
   const seam = cy + 34; // lid seam line
   diagrams["airpods-measure-map"] = {
     desc:
-      "Front and side view of the AirPods Pro 2 charging case. Width 2.39 inches / 60.6 mm, height 1.78 inches / 45.2 mm, depth 0.85 inches / 21.7 mm. The lid seam runs across the upper third; the charging port is centered on the bottom.",
+      "Front and side view of the AirPods Pro 2 USB-C charging case. Width 2.39 inches / 60.6 mm, height 1.78 inches / 45.2 mm, depth 0.85 inches / 21.7 mm. The lid seam runs across the upper third; the charging port is centered on the bottom.",
     svg:
       head(1, "Measure the case", h) +
       // front view

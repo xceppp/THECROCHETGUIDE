@@ -10,7 +10,7 @@ draft: false
 tags: ["airpods case", "halloween", "black cat", "beginner", "how to"]
 glance:
   time: "An oval base, a short tube, two ears, a flap (an evening, as a planning estimate)"
-  size: "Sized from the charging case you measure; worked example fits an AirPods Pro 2 case"
+  size: "Sized from the charging case you measure; worked example planned for the AirPods Pro 2 USB‑C charging case"
   yarn: "Smooth worsted cotton, black"
   hook: "US G/6 (4.0 mm) to start"
   yardage: "Not weighed. A scrap project, likely well under 30 yards. Planning estimate only."
@@ -18,7 +18,7 @@ glance:
 
 An AirPods case rides loose in a bag, picks up lint in the hinge, and then the lid stops seating cleanly. A snug cozy keeps the grit out and makes a small case easy to find by feel. This one is a black cat for Halloween: a deep black sleeve with two ears, an embroidered face, and a small pumpkin by the hem. It is a cover, not armor. It does not cushion a drop and it does not keep out a spill.
 
-Most AirPods case patterns hand you one stitch count and hope your case fits it. This one is sized from the case. The number that matters is the distance around the case, its perimeter, not its width. The worked example is built for an AirPods Pro 2 case, and a short table below retargets it for the AirPods 4 and AirPods 3 cases.
+Most AirPods case patterns hand you one stitch count and hope your case fits it. This one is sized from the case. The number that matters is the distance around the case, its perimeter, not its width. The worked example is planned for the AirPods Pro 2 USB‑C charging case — the MagSafe Charging Case (USB‑C) that ships with the AirPods Pro 2 — and a short table below retargets it for the AirPods 4 and AirPods 3 cases.
 
 US crochet terms throughout. US single crochet is UK double crochet; see the [abbreviations chart](/crochet-abbreviations-chart/). The case dimensions here are Apple's own published figures, linked below. This is an independent accessory. It is not made, sold, or endorsed by Apple, and "AirPods" is used only to say which case it fits.
 
@@ -34,14 +34,14 @@ Measure your own case with the lid closed, because that is the only reliable gui
 
 | Charging case | Height × Width × Depth (Apple) | Footprint perimeter | Start count |
 | --- | --- | --- | --- |
-| AirPods Pro 2 (USB‑C) | 45.2 × 60.6 × 21.7 mm (1.78 × 2.39 × 0.85 in) | 6.48 in | 26 sts — the worked example |
+| AirPods Pro 2 — MagSafe Charging Case (USB‑C) | 45.2 × 60.6 × 21.7 mm (1.78 × 2.39 × 0.85 in) | 6.48 in | 26 sts — the worked example |
 | AirPods 4 | 46.2 × 50.1 × 21.2 mm (1.82 × 1.97 × 0.83 in) | 5.60 in | 22 sts |
 | AirPods 3 | 46.40 × 54.40 × 21.38 mm (1.83 × 2.14 × 0.84 in) | 5.96 in | 24 sts |
 
-Apple publishes these figures for the [AirPods Pro 2](https://support.apple.com/en-us/111851), the [AirPods 4](https://support.apple.com/en-us/121203), and the [AirPods 3](https://support.apple.com/en-us/111863). The footprint perimeter is 2 × (width + depth): the case stands with the lid up, so its standing height becomes the wall and its width and depth become the loop the wall has to close around.
+Apple publishes these figures for the [AirPods Pro 2 USB‑C charging case](https://support.apple.com/en-us/111834), the [AirPods 4](https://support.apple.com/en-us/121203), and the [AirPods 3](https://support.apple.com/en-us/111863). The footprint perimeter is 2 × (width + depth): the case stands with the lid up, so its standing height becomes the wall and its width and depth become the loop the wall has to close around.
 
 <figure class="diagram">
-<img src="/diagrams/airpods-measure-map.svg" alt="Front and side view of the AirPods Pro 2 case. Width 2.39 inches or 60.6 millimeters, height 1.78 inches or 45.2 millimeters, side depth 0.85 inches. The lid seam runs across the upper part and the charging port is on the bottom. Footprint perimeter is 2 times 2.39 plus 0.85, which is 6.48 inches." width="480" height="520" loading="lazy" decoding="async" />
+<img src="/diagrams/airpods-measure-map.svg" alt="Front and side view of the AirPods Pro 2 USB‑C charging case. Width 2.39 inches or 60.6 millimeters, height 1.78 inches or 45.2 millimeters, side depth 0.85 inches. The lid seam runs across the upper part and the charging port is on the bottom. Footprint perimeter is 2 times 2.39 plus 0.85, which is 6.48 inches." width="480" height="520" loading="lazy" decoding="async" />
 <figcaption>Measure width, depth, and height with the lid closed. The sleeve is built around the footprint, so the perimeter is the number that decides the stitch count.</figcaption>
 </figure>
 
@@ -70,6 +70,10 @@ The worked example uses 4 sc to the inch and 5 rounds to the inch. From there th
 
 Two things keep this honest. First, crochet stretches, so pick the count that lands **at or just under** the perimeter rather than over it; a cozy that measures a hair small grips, while one worked loose slides off. Second, the number of wall rounds is set by where your case's lid seam sits, which you find by fitting, not from a spec sheet, so treat "about 6 rounds" as the example and stop at your own seam.
 
+The oval base uses more than the perimeter. Its stitch count comes from the perimeter and your stitch gauge, its two straight sides follow the case **width** and its rounded ends follow the case **thickness** (depth), and the wall stops below the lid seam for **lid clearance** set by your row gauge. So all four measurements shape the piece, not the perimeter alone.
+
+These finished figures are a planning example, worked out on paper from Apple's published dimensions and the example gauge rather than measured from a crocheted sample. They are a starting point, not a promise of fit: measure against your own case at each checkpoint and change the stitch count or hook if the cozy runs large or small.
+
 If your gauge is different, keep the method and change the numbers: count the single crochet across one inch of your own flat base, multiply the perimeter by that figure, round to the nearest even number, and use the base count formula below.
 
 <figure class="diagram">
@@ -79,7 +83,7 @@ If your gauge is different, keep the method and change the numbers: count the si
 
 ## How the case is built
 
-The sleeve is a flat-bottomed tube with trimmings. An oval base worked around a short foundation chain matches the oblong footprint better than a round circle would. Once the base is the right size around, the increases stop and the walls go straight up — the same turn-up you see in [crochet in the round](/crochet-in-the-round/). The ears are small flat triangles, the flap is a few rows worked on the back stitches, and the face is embroidered on at the end. If you want the plain version without a Halloween face, the [earbud pouch](/how-to-crochet-an-earbud-pouch/) is the same construction with a round base, and the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) closes the same tube with a drawstring.
+The sleeve is a flat-bottomed tube with trimmings. An oval base worked around a short foundation chain matches the oblong footprint better than a round circle would. Its two straight sides run along the case's width and the rounded ends curve around its thickness, so the base is shaped by both measurements while the perimeter sets how many stitches it takes to close around them. Once the base is the right size around, the increases stop and the walls go straight up — the same turn-up you see in [crochet in the round](/crochet-in-the-round/). The ears are small flat triangles, the flap is a few rows worked on the back stitches, and the face is embroidered on at the end. If you want the plain version without a Halloween face, the [earbud pouch](/how-to-crochet-an-earbud-pouch/) is the same construction with a round base, and the [ghost coin pouch](/how-to-crochet-a-ghost-coin-pouch/) closes the same tube with a drawstring.
 
 ## The full pattern
 
@@ -100,7 +104,7 @@ Work both long sides of the foundation chain and put three stitches in each end 
 <figcaption>Stage 1. A flat oval grows at the ends only, not along the straight sides, so it stays the shape of the case footprint.</figcaption>
 </figure>
 
-**Checkpoint:** lay the base flat. A gentle cup is fine, since it becomes the wall. A ruffled, wavy edge means too many increases — the extra stitches belong only at the two ends.
+**Checkpoint:** lay the base flat. A gentle cup is fine, since it becomes the wall. A ruffled, wavy edge means too many increases — the extra stitches belong only at the two ends. Then set it against the bottom of the case: the straight sides should run the length of the footprint (the case width) and the ends should sit around its thickness. If the oval is clearly longer or wider than the case bottom, change the straight-side count or drop a hook size before you build the wall.
 
 ### Stage 2: the body
 
@@ -162,7 +166,7 @@ Sew one ear near each end of the top front, angled slightly outward, using the l
 
 ## Check the fit
 
-Three checkpoints catch almost every problem. **The base** should lie flat with at most a gentle cup — a ruffle is too many increases. **The body** should hug the case with light tension; if the case drops in without touching the sides, go down two stitches (a shorter straight side) or a hook size. **The rim** should sit just below the lid seam so the lid opens without fighting the fabric. When all three are right, the buttoned flap holds the case for a bag and releases in a second to open.
+Three checkpoints catch almost every problem. **The base** should lie flat with at most a gentle cup and sit close to the case bottom — straight sides along the width, ends around the thickness; a ruffle is too many increases. **The body** should hug the case with light tension; if the case drops in without touching the sides, go down two stitches (a shorter straight side) or a hook size. **The rim** should sit just below the lid seam so the lid opens without fighting the fabric. When all three are right, the buttoned flap holds the case for a bag and releases in a second to open.
 
 ## Make it your own
 
