@@ -169,6 +169,8 @@ Where the long seam crosses the short seam in the middle, four corners meet. Kee
 
 ### Step 7: three seams, and leave the top open
 
+![Eight granny squares in two panels with a strap on each](../../assets/articles/tote-panels-illustration.jpg "Illustration. Two panels of four squares, and a strap on each panel.")
+
 <figure class="diagram">
 <img src="/diagrams/tote-step-bag-seams.svg" alt="Front and back right sides together. 38 down one side, 38 across the bottom, 38 up the other side. Leave the top open." width="480" height="322" loading="lazy" decoding="async" />
 <figcaption>Diagram. Three edges of 38. The opening is not a seam.</figcaption>
@@ -239,39 +241,9 @@ A pen, a key, or a lipstick will fall through the holes. Use the [makeup pouch](
 4. Both straps have the same number of rows.
 5. Each strap end is sewn through both edge rounds, 8 stitches in from a side seam.
 
-## While you crochet it
-
-**The ring.** Chain 4, slip stitch into the first chain. Every stitch of round 1 goes into the ring, not into the individual chains. Chain 3 counts as the first double crochet. Two more double crochet in the ring finish the first cluster. Chain 2. That chain 2 is a corner, and you do not work into it until the next round. Three more times: 3 double crochet in the ring, chain 2. Slip stitch to the top of the first chain 3. Count 12 double crochet and 4 corners. No side spaces yet.
-
-**Round 2.** Slip stitch across the next two double crochet and into a corner space. You are moving, not adding a cluster. In that corner: chain 3, 2 double crochet, chain 2, 3 double crochet. Chain 1. In the next corner: 3 double crochet, chain 2, 3 double crochet. Chain 1. Do that until four corners are done, then chain 1 and join. Count 24 double crochet. Each side has one empty chain-1. Clusters in this round go in corners only.
-
-**Round 3.** Start in a corner the same way: chain 3, 2 double crochet, chain 2, 3 double crochet. Chain 1. The next hole is a side space, the gap between clusters, not the top of a stitch. Put 3 double crochet in the gap. Chain 1. Next corner. Repeat around. Count 36. If a side looks solid, with no gap, the cluster went into a stitch top. That square will cup. Pull the round.
-
-**Round 4.** Same corners. Each side now has two gaps. Chain 1, 3 double crochet in the first gap, chain 1, 3 double crochet in the second gap, chain 1, then the corner. Count 48 and fasten off. Weave the ends before the next square. Make eight. Turn between rounds on all of them, or on none of them. Measure them flat. Remake any square that is smaller. Do not ease it into a seam.
-
-**A seam of 19.** From one corner space to the next: 2 single crochet in the first corner, 1 in each of 12 double crochet, 1 in each of 3 chain spaces, 2 in the far corner. Count 19 before you fasten off. Hold the squares right sides together so the ridge ends up inside. If the first seam is 18 or 20, pull it out. The long seam that joins two pairs is 19 + 19 = 38, and where four corners meet you still put 2 single crochet in each square's corner space.
-
-**The bag.** Front and back right sides together. Down one side 38, across the bottom 38, up the other side 38. At each bottom corner the two corner spaces already give you 4 single crochet. Do not add a chain to turn. Leave the top open. Turn the bag right side out.
-
-**The edge.** Each square's top is 17: the side stitches and spaces, with the corners counted once because they are shared with the seam. Four tops are 68. Work 68, join, then another 68. More than 68 ruffles. Fewer draws the mouth in. The straps sew into this edge.
-
-**The straps.** Chain 6, single crochet 5, then repeat the row of 5 until the strap is about 22 inches lying flat, not pulled. Write down the row count. The second strap uses that count. On one panel's 34 stitches: skip 8, place a strap over 5, skip 8, place the other end over 5, skip 8. Overlap about an inch inside and sew through both rounds and into the clusters under them. A strap sewn only through a chain space tears out when the bag is picked up.
-
 ## Make the joins visible before sewing straps
 
 For a four-round square, a complete side includes twelve dc and three side ch-1 spaces. The two corner allocations determine whether it has nineteen seam positions or seventeen top-edge positions; they are not interchangeable. Mark the center seam of each two-square top edge and divide the full opening into two thirty-four-position panels. At each strap overlap, sew through both solid edging rounds and several underlying crochet stitches without crossing the opening. A one-inch overlap is longer than two sc rounds at the example gauge, so its lower end must also be anchored to solid cluster stitches rather than dangling behind a chain gap.
-
-## One square, then the seams, as separate checks
-
-Finish round 1 and stop. You want four clusters and four chain-2 corners, 12 double crochet. The center hole should be a small ring, not a spiral. If you worked into the chains instead of the ring, you have a small arc, not a square. Pull it out. This round is the one that is worth redoing, because every later round copies it.
-
-On round 3 and round 4, stop at the first side cluster and look at where the hook is. It should be in a chain space, with a cluster to the left of the hook and a cluster to the right, and empty chain on both sides of the new cluster. If the hook is under the top two loops of a double crochet, you are in the wrong place even if the stitch looks neat. Move it. A whole square of stitches in the wrong place will not block flat.
-
-When eight squares are piled up, measure one side of each without pulling the corner. They do not have to match a 5 inch guess. They have to match each other. The odd one out gets remade. A seam can hide a quarter inch, and then the panel twists.
-
-The first seam is the pattern for the rest. Count 19 and fasten off. Only then make the second 19. The long seam is 38, and you count it in two halves of 19 so you notice the middle, where four corners meet. Two single crochet in each of those corner spaces. After both panels lie flat, the bag seams are the same 38, three times, right sides together, top left open.
-
-The 68 around the mouth is two rounds. Count the first round at each side seam, 17 per square, before you work the second. Straps use the row count of the first strap for the second strap. On the bag, skip 8 edge stitches, cover 5, skip 8, cover 5, skip 8. Sew the inch of overlap through both rounds and down into the clusters. Picking the bag up by a strap sewn only through a chain space is how the strap comes off.
 
 ## Troubleshooting
 
@@ -293,16 +265,6 @@ The 68 around the mouth is two rounds. Count the first round at each side seam, 
 
 Empty the bag. Hand wash cool. Dry flat, including the straps. Wet cotton stretches at the seams, so do not load the bag until it is dry.
 
-## Corner spaces and side spaces
-
-A corner is chain 2. A side is chain 1. They are not interchangeable, and round 4 is where they get mixed up because the side now has several chains in a row. On round 4, the chain 2 always has a cluster on both sides of it and sits at the turn. The chain 1 sits between clusters along a straight side. When you start a round, you slip stitch into a chain-2 corner, not into the first chain-1 you see. If you build a "corner" in a side space, that side grows a point and the square becomes a diamond.
-
-In a corner the repeat is 3 double crochet, chain 2, 3 double crochet, all in the same hole. In a side space the repeat is only 3 double crochet, then a chain 1 to travel to the next hole. Putting a chain 2 in a side space opens a hole big enough to be a corner, and the next round will treat it as one. Putting a chain 1 in a corner pulls that corner in, and the square will not lie flat no matter how you block it.
-
-Count double crochet at the end of the round, before you weave anything. Round 1 is 12, round 2 is 24, round 3 is 36, round 4 is 48. Each is 12 times the round number. A count of 45 on round 4 means one cluster of 3 was missed, usually a side cluster that went into a stitch instead of a space and then got skipped because the space had closed. Pull back to the last correct corner and do the side again.
-
-Make all eight squares before you seam any of them. Seaming as you go hides the square that came out smaller, and you only notice it when the panel will not lie flat.
-
 ## Frequently asked
 
 **Can I use two colors?**
@@ -321,9 +283,6 @@ Yes. Work both squares to the same number of rounds, n. Seam three sides at 4n +
 
 Finished bags, yes. Do not republish these rounds as your pattern.
 
-The bag's size is the square's size, twice. Measure one finished square flat. Double that measurement for the panel. The opening is about four of those sides. A 5 inch square makes a panel about 10 by 10 and an opening about 20 inches around. A 4 inch square shrinks all of those by about a fifth. Do not promise yourself a 10 inch bag and then crochet a 4 inch square. Make one square, measure it, and only then make the other seven to the same hook and the same round count.
-
-Weigh that first square and multiply by eight for the body. For the straps, weigh 10 rows of the 5-stitch strap and multiply by 11 for one 110-row strap, then double it for two straps. Add yarn for the seams and the two edge rounds. That is an estimate from pieces you can weigh, not from a finished tote on a scale. No tote for this page was loaded or carried, so the strap length of about 22 inches is a hand-carry length at the example gauge, not a tested fit on a shoulder. Measure the shoulder path yourself if you want it longer, and make both straps to that new row count.
 
 ## Next
 

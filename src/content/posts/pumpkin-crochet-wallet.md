@@ -78,6 +78,8 @@ Use orange.
 
 ### Step 2: every row after row 1, back loop only
 
+![Orange ribbed crochet with a hook in one stitch](../../assets/articles/pumpkin-rib-illustration.jpg "Illustration. The raised lines are the loops left unworked.")
+
 <figure class="diagram">
 <img src="/diagrams/pumpkin-step-blo.svg" alt="After row 1, every row is worked under the back loop. The front loop stays on the surface and makes the rib." width="480" height="322" loading="lazy" decoding="async" />
 <figcaption>Diagram. The near loop stays free. That free loop is the rib.</figcaption>
@@ -213,46 +215,9 @@ Weave in ends inside the pocket along the seams. See [weaving in ends](/weaving-
 - **A white or green pumpkin.** Same counts, different yarn.
 - **Lining.** Cut fabric 4.25 by 5 inches plus a 1/4 inch fold all around, sew it to the wrong side before folding, and fold the two together.
 
-## While you crochet it
-
-**Row 1 is ordinary single crochet.** Chain 21, skip the chain next to the hook, one single crochet in each remaining chain, count 20. Both loops. The ribs do not start here. If you work row 1 in the back loop of the chain, the bottom edge is loose and the first rib is missing.
-
-**Every later row.** Turn. Chain 1 and ignore it. Look at the first stitch. You should see two strands. Leave the strand closer to you sitting on the surface. Put the hook under the strand farther from you, yarn over, pull up a loop, yarn over, pull through both loops. That is one back-loop single crochet. Do it 20 times. The front loops you left behind stack into vertical ribs on the right side. If a row suddenly looks flat, that row was worked through both loops. Pull it out. Do not try to make the next row "more ribbed" to compensate.
-
-**When to stop.** Measure from the chain edge to the top of the current row, without stretching. Stop at 4.25 inches, and only on an even row number. At the example gauge that is about 22 rows. If your piece is 4.25 inches at row 20 or row 24, use that number. Write it down. The face diagram assumes 22. If you have a different even number, the nose goes on the middle two rows, not on rows 11 and 12 copied from the diagram.
-
-**The rims.** A row end is the bump on the side of a finished row. Count the bumps on the stitch-20 edge and write the number. Join the yarn at the right-hand corner, chain 1, and put exactly one single crochet in each bump. The stitch count must match the number you wrote. Then do the stitch-1 edge the same way. Two stitches in one bump makes a wavy opening. A skipped bump pulls the opening in. Either one is fixed by pulling the rim out, not by blocking it flatter.
-
-**The face stays on stitches 1 to 10.** Stitch 1 is the front rim you chose, not "whichever edge is on the left today." Turned rows swap left and right. The paper note from step 2 is the authority. Eyes: rows 5 to 7 and rows 16 to 18, stitches 3 to 5, a backstitched triangle filled with straight stitches. Nose: rows 11 and 12, or your real middle rows, stitches 6 and 7. Mouth: backstitch from row 6 to row 17, stepping between stitch 8 and stitch 9 every two rows. Leave rows 10 to 13 on stitches 1 to 5 empty. That rectangle is the tab. If the needle passes stitch 10, you have sewn the fold shut. Pick that stitch out before you fold.
-
-**The fold and the seams.** Fold between stitch 10 and stitch 11, right side out, rims together at the top. On a short edge, stitch 10 meets stitch 11, stitch 9 meets stitch 12, and so on until stitch 1 meets stitch 20. Whipstitch each pair through both layers. Catch the rim stitch at the top. Leave the rims themselves unsewn. A tight whipstitch makes a ridge the card cannot pass. If the card sticks, loosen that seam rather than forcing the card.
-
-**The stem.** Chain 7, single crochet 6, then two more rows of 6. The long edges are the 6-stitch sides. Roll those long edges so the two short, 3-row edges meet, and sew the short edges together. The height of the tube is the 3-row direction. Rolling from a short end makes a skinny tube that will not sit on the rim.
-
-**The tab and the snap.** Chain 4, single crochet 3. Rows 2 through 6 are also 3. Row 7 is one decrease across all three stitches: a loop in each, yarn over, pull through four loops. Sew the chain edge of the tab to the inside of the back rim, over the middle 3 rim stitches. Put a card in. Fold the tab over and mark where the tip lands. Sew the ball of the snap under the tab at row 6, and the socket on the front at the mark, through the front layer only. Stand the stem on the back rim over the tab's base and sew through the rim and the tab. Fold the tab again. It has to swing without the stem pinning it down.
-
 ## Label the two rims before embroidery
 
 Lay the twenty-stitch rows horizontally and the row-count direction vertically. Choose one row-end edge as the front rim; label the stitch positions from that edge as 1–20 on every row, regardless of the direction in which that row was worked. The fold is between positions 10 and 11, and both row-end edges become the opening. Pair positions 10/11, 9/12, continuing to 1/20 when seaming the foundation and last-row edges. Work each rim into exactly one row end per completed row and use that actual rim count to center the tab. If it is not twenty-two rows, recenter the face from the measured midpoint rather than copying rows 11 and 12.
-
-## The seam pairs, in order
-
-After the fold, the chain edge is one seam and the last row is the other. On both, the pairs are the same. Whipstitch them in this order so you do not skip the middle and discover a hole after the stem is on.
-
-1. Stitch 10 against stitch 11, right beside the fold.
-2. Stitch 9 against stitch 12.
-3. Stitch 8 against stitch 13.
-4. Stitch 7 against stitch 14.
-5. Stitch 6 against stitch 15.
-6. Stitch 5 against stitch 16.
-7. Stitch 4 against stitch 17.
-8. Stitch 3 against stitch 18.
-9. Stitch 2 against stitch 19.
-10. Stitch 1 against stitch 20, and catch the rim stitch on both layers.
-
-That is the whole short edge. Ten pairs. If you have yarn left and no stitches, you doubled a pair. If you have stitches left, you skipped one. The rims stay open above this last pair. Then repeat the same ten pairs on the other short edge.
-
-The back-loop ridge can hide stitch 1. Feel for the end stitch with the needle before you take the first whipstitch. A seam that starts on stitch 2 leaves a notch at the rim, and the card catches on it.
 
 ## Common mistakes and fixes
 
@@ -272,16 +237,6 @@ The back-loop ridge can hide stitch 1. Feel for the end stitch with the needle b
 
 Hand wash cool, dry flat, and shape the ribs with your fingers while damp. Test the black and green for color running on a white paper towel before the first wash.
 
-## Back loops after you turn
-
-The rib is only on one face, but turned rows make that face switch sides every row. Before each row, look at the fabric, not at the hook hand. The right side is the side where the unused front loops already form ridges. If you are about to work a row and you cannot see those ridges, you are looking at the wrong side, or the last row was worked through both loops and there is no ridge yet.
-
-On the stitch itself, tilt the work toward a lamp. The front loop is the strand closer to you. It often sits slightly higher after a turn. The back loop is the lower, farther strand. Slide the hook under that farther strand only. If the hook goes under both, the stitch looks like ordinary single crochet and the rib stops on that row. Pull the row out as soon as you see a flat stripe. A later back-loop row will not fill the stripe in.
-
-Count 20 at the end of row 2, row 6, row 10, and every even row after that. The first stitch is the one that gets missed, because its back loop hides beside the turning chain. If the count is 19, the first stitch was skipped. If it is 21, you worked into the turning chain. Fix it before the next row. A piece that drifts from 20 to 19 to 18 gets narrower toward the last row, and the fold will not meet.
-
-Measure only when the row is even and the count is 20. Stretching the piece to reach 4.25 inches makes a pouch that shrinks back and will not take the card. If you are at 4 inches on row 20 and the stitches look even, work row 21 and row 22 and measure again. Stop on the even row that reaches 4.25 without a pull. Then write that row count on the paper next to "front rim" and "back rim," because the face and the tab are centered on the real middle, not on row 11.
-
 ## Frequently asked
 
 **Will a bank card fit?** On paper, yes: about 3.9 by 2.4 inches inside against a 3.37 by 2.125 inch card, so test with a real card before you fold.
@@ -294,9 +249,6 @@ Measure only when the row is even and the count is 20. Stretching the piece to r
 
 **Can I sell the finished pouches?** Yes. Link here rather than reposting the pattern.
 
-Work the swatch in back loop too, not in plain single crochet. Chain about 24, single crochet 20 or so across, then turn and work back loop only for at least 24 rows. Measure 16 stitches in the middle of a row, and 20 rows in the middle of the swatch. Back-loop rows are often shorter than plain single crochet rows, which is why a plain swatch will lie to you about this pouch. The 20 stitches set the height before folding, about 5 inches at the example gauge, folding to about 2.5. The rows set the width, and you stop the real piece at 4.25 inches rather than at a row number copied from someone else's tension. After seaming, the inside is estimated at about 3.9 by 2.4 inches against a 3.37 by 2.125 inch card. Those are paper estimates. The card you slide in before the fold is the measurement that counts.
-
-If you want two oranges, change color on the last yarn over of every second row and carry the waiting color up the edge that will sit under a rim. Do not carry it up the fold. Cut and rejoin if the carried strand shows at stitch 10. The ribbing diagram shows the stripe option. The stitch count stays 20 either way.
 
 ## More Halloween wallets
 

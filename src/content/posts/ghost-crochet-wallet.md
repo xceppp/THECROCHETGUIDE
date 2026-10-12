@@ -100,7 +100,7 @@ After row 18 the panel is still a rectangle. Do not decrease yet.
 ### Step 3: narrow the top, one row at a time
 
 <figure class="diagram">
-<img src="/diagrams/ghost-step-decreases.svg" alt="Each row decreases at both ends. Counts are 15, then 13, then 11, then 9. The wide hem stays at the bottom." width="480" height="400" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-step-decreases.svg" alt="Rows 1 to 18 stay 17 stitches wide. Only rows 19 to 22 step inward at the top, ending at 9 stitches. The hem is the wide bottom." width="480" height="560" loading="lazy" decoding="async" />
 <figcaption>Diagram. The hem stays wide. Only rows 19 to 22 get smaller.</figcaption>
 </figure>
 
@@ -208,6 +208,8 @@ The snap lives inside the pocket. Nothing should show on the ghost's face.
 
 ### Step 9: four scallops across the hem
 
+![Four fans along the bottom of a cream rectangle](../../assets/articles/ghost-scallop-illustration.jpg "Illustration. Four fans across the hem.")
+
 <figure class="diagram">
 <img src="/diagrams/ghost-step-scallops.svg" alt="Slip stitch in stitch 1, then four repeats of skip 1, 5 half double crochet, skip 1, slip stitch. That uses all 17 hem stitches." width="480" height="322" loading="lazy" decoding="async" />
 <figcaption>Diagram. Four scallops use the 17 hem stitches exactly.</figcaption>
@@ -281,37 +283,9 @@ The top edge of the front panel is the pocket opening. The edging passes it at t
 - **A glow-in-the-dark ghost.** Glow yarns are often thicker or stiffer. Swatch first; the stitch counts only work at the gauge.
 - **Lining.** Cut fabric to the front panel's size plus a 1/4 inch fold on every edge and hand-sew it inside the front before joining. The pocket loses a little width, so check with a card first.
 
-## While you crochet it
-
-This is the same pattern as the steps above, written as the checks that keep the ghost the right shape. Read a step, make it, then use the matching check here before you go on.
-
-**The chain.** Eighteen chains are eighteen bumps you can count with a fingertip, not including the loop on the hook. The first single crochet goes in the second bump. After that, one stitch per bump until the last bump has a stitch. Count the stitches, not the chains: 17. If you count chains again now you will get 18 and think you are short a stitch. You are not. One chain was skipped on purpose so the edge can turn.
-
-**A straight row.** Chain 1 and turn. The chain sits at the end and is easy to mistake for a stitch. Ignore it. The first real stitch is the V directly under it. Work that V, then every V across, including the last. The row is finished when the count is 17, not when the yarn "looks done." Rows 2 through 18 are this same row. Keep a tally on paper. The side edge grows one ridge per row. At row 18 you can count 18 ridges from the chain up. If you count 17 ridges, you stopped a row early and the head will start too soon.
-
-**A decrease row.** The first decrease uses stitches 1 and 2 of the row below. Insert, pull up a loop, insert in the next stitch, pull up a loop, yarn over, pull through all three loops. That is one stitch. Then work the plain single crochet in the middle, counting them. The last decrease uses the last two stitches and nothing else. There should be no stitch left over and no stitch skipped in the middle. Row 19's middle is 13, so the row reads decrease, 13, decrease, and the count in your hand is 15. Row 20's middle is 11, count 13. Row 21's middle is 9, count 11. Row 22's middle is 7, count 9. If a decrease row is an even number, one end did not decrease. Pull that row out. Do not "fix it" on the next row. The head will lean.
-
-**The front.** It is the back's first 14 rows and then you stop. Its chain is the hem. Its last row is the opening. When you lay it on the back, rows 15, 16, 17, 18 and the four narrowed rows of the back are visible above it. That is 8 rows. If you see 7, the front has 15 rows. If you see 9, the front has 13. Unravel to 14 rather than hiding the difference in the join.
-
-**The face.** Stitch 9 is the center. Pin it. Eyes sit on rows 17 and 18, at stitches 6 and 12, the same distance from the center. The mouth and cheeks are one row lower, on row 16. Cheeks are stitches 5 and 13. If you count from the left edge on one eye and the right edge on the other, the face slides. Count from the right edge every time, with the hem at the bottom. Each eye is 3 or 4 short vertical stitches sitting next to each other, through the back panel only. On the wrong side, slide the needle under the backs of those stitches and cut. A knot on that side is on the outside back of the finished wallet.
-
-**The snap.** Row 13, stitch 9, on the face side of the back, gets the socket. The same row and stitch on the wrong side of the front gets the ball. Both halves face into the pocket. Sew with doubled thread, four or five passes in each hole, through one panel only. Lay the panels together and close the snap with your fingers before any joining stitch. Then lay your real cards on the front. If the metal sits on the cards, move both halves up the same number of rows. Moving only one makes them miss.
-
-**The hem, stitch by stitch, through both layers.** Join in stitch 1 and slip stitch. Skip stitch 2. Put 5 half double crochet in stitch 3. Skip stitch 4. Slip stitch in stitch 5. That is scallop 1. Skip stitch 6, 5 half double crochet in stitch 7, skip stitch 8, slip stitch in stitch 9. Scallop 2. Skip stitch 10, 5 half double crochet in stitch 11, skip stitch 12, slip stitch in stitch 13. Scallop 3. Skip stitch 14, 5 half double crochet in stitch 15, skip stitch 16, slip stitch in stitch 17. Scallop 4. You are out of hem stitches. If stitch 17 was not the last slip stitch, a skip was missed or a fan took an extra stitch. Pull back to stitch 1 and repeat this list. Five half double crochet in one stitch should open into a fan. If you yank each one tight, the hem cups. This edge has not been checked on a finished yarn sample, so a flat hem is the test you have.
-
-**The first side.** Chain 1. Find the row-end hole of row 1, the little hole at the side of the row, not the V on top. Go through that hole on the front and the matching hole on the back with one stitch. Do the same for rows 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, and 14. Say the row number as you make the stitch. At 14, stop. The top of the front is beside the hook. Leave it. Rows 15, 16, 17, and 18 are back only: four stitches. Then the slope: one stitch in the edge of row 19, one in row 20, two spread along row 21, one in the side of row 22. The side is 14 + 4 + 5 = 23.
-
-**The top and the return.** Nine single crochet in the nine top stitches of row 22. The slope stitch does not count as one of the nine. Coming down the other side, reverse the slope: one in the other side of row 22, two along row 21, one in row 20, one in row 19, then four through the back only, then fourteen through both layers from row 14 down to row 1. Count 23. Slip stitch into the first hem slip stitch. Slide a card through the opening. If it will not go, the front's top edge was crocheted. Pull back to the row-14 marker on that side and leave the edge bare.
-
-**Pulling back.** If a row is wrong, remove the hook, pull the yarn, and the stitches come out one at a time until you reach the last correct count. Do not cut in the middle of a panel. Rejoin only if the yarn has already been fastened off: put a slip knot on the hook, insert in the stitch where you stopped, and pull the new loop through.
-
 ## Keep the pocket opening visible while joining
 
 Clip the two panels together and slide a card in before stitching. Mark both ends of the front's row 14 in a contrasting color. During the joining round, count paired row ends 1–14 up the first side, then switch to the taller back alone. On the other side, work the exposed back first and switch to both panels when you reach the other row-14 marker. The horizontal top of the front remains completely unworked. After the first side and hem are joined, check that the card still slides in before completing the second side.
-
-## If you crochet with your left hand
-
-The counts do not change. The hem still uses stitches 1 through 17 in the same order. You will start the joining round at the other bottom corner from a right-handed diagram, and you will count the face from the edge that is on your right when the hem is at the bottom of the table. Pin stitch 9 before the eyes so the center does not depend on which hand is holding the hook. The row-end holes are the same holes. Spread both layers flat so you can see them. Do not work into the turning chain just because it is the loop your hook reaches first.
 
 ## Common mistakes and fixes
 
@@ -331,12 +305,6 @@ The counts do not change. The hem still uses stitches 1 through 17 in the same o
 
 Hand wash in cool water. Squeeze, do not wring, and dry flat with the hem scallops pinned. Black embroidery on cream is the risk in the first wash: test a scrap of the black on a white paper towel first, or use a colorfast cotton.
 
-## Swatch before the 18 chains
-
-The wallet uses 16 single crochet and 20 rows to 4 inches. Chain 22, skip the first chain, and single crochet across so you have more than 16 stitches to measure in the middle. Work 24 rows. Lay the swatch flat, without pinning it out. Count 16 stitches in the center and measure them. Count 20 rows in the center and measure those. Edges lie, so do not measure from the side of the swatch. If 16 stitches are wider than 4 inches, use a smaller hook and swatch again. If they are narrower than 4 inches, use a larger hook. The G/6 hook is only the starting suggestion. The card fit on this page is calculated from that 4 inch gauge, not from a wallet that has been crocheted and measured.
-
-When the swatch matches, weigh it if you want a yarn estimate. The two panels and the edging are about twice a 4 inch square, plus a fifth. That is an estimate from area, not from a finished wallet on a scale.
-
 ## Frequently asked
 
 **Will a card fit?** On paper, yes, with about 0.5 inch of width and room above the card. Test before joining by laying a card on the front panel; it should be narrower and shorter.
@@ -349,7 +317,6 @@ When the swatch matches, weigh it if you want a yarn estimate. The two panels an
 
 **Can I sell the finished wallets?** Yes. Please link here instead of reposting the pattern.
 
-The card math is the reason the counts are what they are. Seventeen stitches at 16 to 4 inches are 4.25 inches wide. The side edging uses a little of that, which is why the pocket is described as about 3.9 inches inside. A US bank card is 3.37 inches wide, so the difference is the ease. Fourteen front rows at 20 rows to 4 inches are 2.8 inches, and the hem join uses some of that depth, which is why the pocket is described as about 2.7 inches against a 2.125 inch card. If your swatch is not 16 stitches to 4 inches, those ease numbers move. That is why the card goes on the fabric before the join, and why a tight swatch means a new hook rather than a hope that the edging will stretch.
 
 ## More Halloween wallets
 

@@ -172,6 +172,8 @@ Every stitch goes through the flap only. On the underside, keep the threads shor
 
 ### Step 6: ears on the fold
 
+![Two black triangles on the top edge of a black rectangle](../../assets/articles/cat-ears-illustration.jpg "Illustration. Two ears on the fold, with a gap between them.")
+
 <figure class="diagram">
 <img src="/diagrams/cat-step-ears-on.svg" alt="Skip 1 stitch, ear over 5, gap of 4, ear over 5, skip 1. The bases must not bridge the opening." width="480" height="244" loading="lazy" decoding="async" />
 <figcaption>Diagram. The two ears and the gap between them use all 16 fold stitches.</figcaption>
@@ -218,35 +220,9 @@ Weave the tails inside the tube along a fold, then change direction once, as in 
 - **Lining.** A fabric lining takes up the ease the card needs. Chain 19 instead of 17, then hand-sew a fabric tube inside with the raw edge folded under at the rim.
 - **Reinforcement.** Sew a small felt circle behind the socket half of the snap on the inside of the front, so the snap pulls on felt rather than on two stitches.
 
-## While you crochet it
-
-**Round 1 is the whole trick.** Chain 17. Skip the chain nearest the hook. Single crochet in each of the other 16 chains along the top. Stop and count 16 before you rotate. Turn the chain over. The first stitch on the underside goes into the same chain as the last top stitch, the chain next to the slip knot. Then one stitch in each free underside loop back to the start: another 16. Slip stitch to the first single crochet. The round is 32. A count of 31 means the underside started one chain late. A count of 33 means you used the skipped chain beside the hook. Pull back to the rotate and do only that part again. The chain you started with becomes the bottom fold. There is no side seam later, so this round has to be right.
-
-**Rounds 2 to 12.** Do not turn the tube. Chain 1, which is not a stitch. Single crochet in the same stitch as the join, then in each stitch around, slip stitch to the first single crochet, count 32. Move a marker up so the start of the round stays visible. A leaning join is normal if the count is 32. Do not add a stitch to "straighten" it. At the end of round 10, flatten the tube and slide a card in. It should lie flat with a little room at each side. Tight: start over on a larger hook. Loose: a smaller hook. Do not wait until the flap is on to discover the card will not fit.
-
-**The flap.** Flatten the tube and mark both side folds so each face has 16 stitches. The flap is one of those sets of 16. If the round's join is not on a fold, fasten off and rejoin at the first stitch of the back you chose. Row 1 is those 16 stitches, then you turn. Rows 2 to 7 are 16, turned, like ordinary rows. Row 8 is decrease, 12 single crochet, decrease, count 14. Row 9 is decrease, 10 single crochet, decrease, count 12. The 2 + 12 + 2 and 2 + 10 + 2 checks tell you the decrease used the whole row below. Fold the flap over. It should cover the opening. Embroider only after it is closed, so row 1 is at the top fold. Stitching with the flap standing up turns the face upside down.
-
-**Eyes, nose, whiskers.** On the closed flap, rows 1 to 7 still have 16 stitches. Rows 3 and 4, stitches 4 and 5, are one gold oval of 4 or 5 straight stitches. Stitches 12 and 13 are the other. A black vertical stitch in the middle of each oval is the pupil. The nose is a small downward triangle between stitches 8 and 9 on rows 5 and 6. Whiskers are three straight stitches each side, across rows 5 to 7, ending near stitch 2 and stitch 15, each shorter than half an inch, each tacked at its middle. Through the flap only. The underside rubs the wallet, so no knots there.
-
-**Ears.** Each ear is chain 6, 5 single crochet, then decrease to 3, then 3 together to 1. On the fold: skip 1, ear over 5, gap of 4, ear over 5, skip 1. Tack them, open the flap fully, and check the bases do not cross the opening. Then whipstitch each base twice.
-
-**Snap.** Card inside, flap closed, wallet flat. Mark the front at the middle of flap row 8 with a clip or a thread loop. Row 8 has 14 stitches, so its middle is stitches 7 and 8 of that row, not stitch 8 of the 16-stitch rows. Ball on the underside of the flap there. Socket on the front at the mark, through the front wall only. Open and close it before you bury the tails. Weave tails inside the tube along a fold, then change direction once.
-
 ## Check the flap and closures before sewing
 
 Number embroidery positions across the closed flap, from the same physical edge each time. Rows 1–7 are 16 stitches, row 8 is 14 and row 9 is 12: the narrowed rows have different local center numbers. Temporarily tack the ears to the back-fold edge, open the flap fully, and check that the ear bases do not bridge the opening. Place the loaded wallet on the table to mark the snap; use a clip or removable thread marker instead of pushing a pin toward your hand. Open and close it several times before securing sewing tails. Wider versions need recentered decoration and a new closure mark.
-
-## Round, flap, and face as three separate checks
-
-After round 1, flatten the tube with your hands, not by pulling the sides. You should see 16 stitches on the top face and 16 on the bottom face, and the starting chain along the bottom fold. If one face has 15, do not keep going. The missing stitch is at one end of the chain, and every later round will inherit it. The flap cannot be centered on a 31-stitch tube.
-
-At round 10, use the card you mean to carry, not a scrap of cardboard. Leave the hook in the work. If the card bends, the fabric is tight. A larger hook from round 1 is the fix. Starting the larger hook at round 11 makes a pouch that is tight at the bottom and loose at the rim.
-
-The flap's first row must start on a side fold. Count 16 between the two markers you placed, and work only those. The other 16 are the front and they stay unworked for the whole flap. If row 1 has 17, you crossed a marker. The decreases will not land in the middle, and the ears will not match the diagram's 1 + 5 + 4 + 5 + 1.
-
-Close the flap before the gold yarn comes out. Row 1 of the flap is at the fold, under the ears. Rows 8 and 9 are the narrow end, down on the front. Eyes on rows 3 and 4. If the eyes are on the narrow end, the flap was open when you stitched and the face is upside down. Pick the embroidery out. The crochet is still fine.
-
-The snap's ball goes on the underside of row 8, between that row's own middle stitches. Row 8 has 14 stitches, so count 7 from its edge, not from the 16-stitch edge above it. The socket goes on the front at the mark you made with a card inside. Sew, then open and close three times. A snap that only meets when you pinch the flap will pop open in a pocket.
 
 ## Common mistakes and fixes
 
@@ -266,14 +242,6 @@ The snap's ball goes on the underside of row 8, between that row's own middle st
 
 Empty the wallet. Hand wash in cool water and dry flat. Gold and white yarn next to black can pick up dye in the first wash, so test a scrap of the black first if it is a new yarn: wet it, press it in a white paper towel, and look for color.
 
-## The join at the end of every round
-
-The slip stitch that closes a round is not a single crochet, and the chain 1 after it is not a stitch either. After you slip stitch into the first single crochet, chain 1, then put the first single crochet of the new round into that same first stitch, the one under the slip stitch. If you put it into the next stitch, you have skipped one, and the round will come out 31 once you "fix" it by adding a stitch somewhere else. If you work into the slip stitch itself as an extra stitch, the round comes out 33 and the join leans harder.
-
-Count by moving the marker. The marker sits in the first single crochet. At the end of the round you should be back at the marker with 32 stitches made, then you slip stitch into the marked stitch and move the marker up into the first stitch of the new round. Do not count the slip stitch in the 32. Do not count the chain.
-
-When you leave the rounds and start the flap, you stop joining. Row 1 is a row: chain 1, 16 single crochet, turn. The front half of the tube is not turned and not worked. It waits. If you keep going around by habit, you will close the opening and there is no flap. The moment you notice you have crocheted past the second marker, pull back to the first marker and turn.
-
 ## Frequently asked
 
 **Will a bank card fit?** On paper, yes: the inside is about 3.8 by 2.3 inches against a 3.37 by 2.125 inch card, so test with a real card at round 10 to be sure.
@@ -288,7 +256,6 @@ When you leave the rounds and start the flap, you stop joining. Row 1 is a row: 
 
 **Can I sell what I make?** Yes, the finished wallets. Please link to this page rather than reposting the pattern.
 
-Each face of the tube is 16 stitches. At 4 stitches to the inch that is 4 inches outside. The folds use some of the width, so the inside is estimated at about 3.8 inches against a 3.37 inch card. Twelve rounds at 5 rounds to the inch are 2.4 inches outside and about 2.3 inside, against a 2.125 inch card. If 16 stitches of your swatch measure under 3.75 inches, the card will be tight even before the ears and the snap. Go up a hook, or chain 18 so each side has 17 stitches. A wider tube needs a wider flap: the plain flap rows become 17, and the decrease rows have to be recounted from that 17, not copied from the 16-stitch chart. The ears move too. Do not keep the 1 + 5 + 4 + 5 + 1 spacing on a 17-stitch fold. Recenter them with the same gap between the ears and the same inset from each end.
 
 ## More Halloween wallets
 

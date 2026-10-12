@@ -121,6 +121,8 @@ The flap edges will be a little bumpy where each row decreases. A round of slip 
 
 ### Step 4: mark the five spoke ends
 
+![A black pointed flap with white lines from the tip and a small purple spider](../../assets/articles/spiderweb-flap-illustration.jpg "Illustration. The lines start at the point. The rings go on after the spokes.")
+
 <figure class="diagram">
 <img src="/diagrams/spiderweb-wallet-web.svg" alt="Diagram. The closed flap with five white spokes running from the point at row 34 to row 27 at stitches 2, 5, 8, 11, and 14, and three rings at rows 29, 31, and 33, each made of four segments that dip toward the point. A purple spider sits between the rings at rows 29 and 31 on the fourth spoke." width="480" height="684" loading="lazy" decoding="async" />
 <figcaption>Diagram. Spokes first, inner ring first, spider last.</figcaption>
@@ -199,31 +201,9 @@ Use purple. A hook one size smaller than the wallet hook makes a tighter ball. I
 - **Snap closure.** Skip the loop. Sew a 3/8 inch snap under the flap point and on the front.
 - **Lining.** Line the back only, so the pocket keeps its width. Cut fabric 4.25 by 2.6 inches plus a 1/4 inch fold.
 
-## While you crochet it
-
-**The rectangle.** Chain 18, single crochet 17. Then chain 1, turn, single crochet 17, for every row through row 26. Mark the last stitch of row 13 and the last stitch of row 26 as you pass them. Those marks are the folds. If you mark them later from memory, the pocket and the flap will be different depths. Count the side ridges if you lose the tally: 26 ridges, two marks, at 13 and 26.
-
-**The point.** Each flap row decreases at both ends and nowhere else. Say the count before you turn: 15, 13, 11, 9, 7, 5, 3. Row 34 is the three remaining stitches worked together, one stitch left. An even number means one end was plain single crochet. Pull that row. The edges look bumpy where each row lost a stitch. A loose slip-stitch round along both slanted edges, done before the web, smooths them. A tight slip stitch pulls the point into a cup, so if the edge draws in, pull the slip stitches out and leave the bumps.
-
-**The loop.** From the one stitch, chain 8 and slip stitch back into that same stitch. Hold the button in the loop. It should need a small push. If it falls through, redo with 7 chains. If it will not enter, redo with 9 or 10. Do not leave a loop that only fits the button before the flap is folded. Yarn loops stretch. Test again after the side seams, with cards in.
-
-**The web, on the closed flap.** Fold the front up and the flap down before you mark anything, so the point is at the bottom of what you are looking at, the way it will be worn. On row 27, pin stitches 2, 5, 8, 11, and 14, counting from the same edge. Backstitch from the point to each pin. Five lines, one start. Then the rings, inner first: at row 33, one stitch from spoke to spoke, four segments, each left long enough to bow toward the point. Then row 31, then row 29. A tight ring looks like a straight bar and cups the flap. Unpick a crooked line. Backstitch comes out clean. Secure the white by running it under the stitches on the back of the flap. No knot. That back rubs the wallet.
-
-**The spider.** Abdomen: magic ring of 6, increase to 12, one plain round of 12, six decreases back to 6, a scrap of yarn inside, then close by running the tail through the six front loops. Head: magic ring of 6, one plain round of 6, close the same way. Sew head to abdomen. Sew both to the spoke that ends at stitch 11, between the rings at rows 29 and 31, with a tack at the head and a tack at the back of the abdomen. Eight legs, four a side, each leg two straight stitches, the second one bent toward the point.
-
-**The seams and the button.** Fold between rows 13 and 14, right side out. Pair row 13 with row 14, row 12 with row 15, down to row 1 with row 26. The chain edge is now the front rim. The flap stays free. Join at the bottom fold and work 13 single crochet up the side through both layers, one per paired row end. Repeat on the other side. Put the cards in. Lower the flap without pulling it. Mark where the loop lands. Take the cards out. Sew the button through the front wall only. If the thread shows inside the pocket, the needle went too deep and the pocket is partly sewn shut.
-
 ## Pair the folded pocket rows before marking the button
 
 Fold between rows 13 and 14. Pair front row 13 with back row 14, row 12 with 15, continuing to front row 1 with back row 26. Row 1 is now the top front rim, not the bottom. Sew only those thirteen row-end pairs on each side. The flap starts at row 27 and ends at row 34, so it remains free. With cards inside, lower the flap and mark the loop's actual landing place; ignore any estimated front-row number if your fit differs. Embroider only after fixing the flap's closed orientation, and keep the needle out of the pocket.
-
-## The flap counts, one row at a sitting
-
-Do not start a decrease row until you have said the target out loud. Row 27 uses the 17 stitches of row 26 as decrease, 13 single crochet, decrease, and you must be holding 15. Row 28 uses those 15 as decrease, 11, decrease, and you are holding 13. Row 29: decrease, 9, decrease, holding 11. Row 30: decrease, 7, decrease, holding 9. Row 31: decrease, 5, decrease, holding 7. Row 32: decrease, 3, decrease, holding 5. Row 33: decrease, 1 single crochet, decrease, holding 3. Row 34: one decrease across all 3, holding 1. The loop is chained from that 1 and slip stitched back into it.
-
-When you backstitch the spokes, finish one line and look at it before you start the next. The line should sit on top of the flap, not pull the point toward the pin. If the point curls after a spoke, that spoke is tight. Unpick it and restitch it looser before you add the next spoke. Five tight spokes will not relax when the rings go in. The rings are only as flat as the spokes under them.
-
-Place the spider only after all three rings are in. The fourth spoke, the one at stitch 11, is the perch, and only the part of it that lies between row 29 and row 31. Sewing it on the point covers the loop. Sewing it on row 27 puts it on the fold, where the flap bends, and the legs catch the pocket.
 
 ## Common mistakes and fixes
 
@@ -243,16 +223,6 @@ Place the spider only after all three rings are in. The fourth spoke, the one at
 
 Wash by hand in cool water and lay it flat to dry, spider up. Before the first wash, press a damp scrap of the black yarn on a white paper towel; if color transfers, the web will gray.
 
-## Backstitch on the black flap
-
-Cut a length of white you can manage, about an arm's length. A longer strand picks up black fiber and comes out gray. Thread a sharp needle if you are using floss. A blunt tapestry needle is right for the yarn, but it will snag if you try to split the black stitches. Come up at the point, where row 34 is. Go down one stitch-length along the path to the first pin, at stitch 2 on row 27. Come up one stitch-length farther along that same path, then go down in the hole you just left. That overlap is the backstitch. Each stitch should be about as long as one single crochet on the flap. Shorter stitches pile up and pull the point. Longer stitches gap, and the spoke looks dashed.
-
-Finish the spoke at the pin. Do not carry the white across the back to the next pin in a long straight pull. That pull is what cups the flap. End the strand, or leave it loose on the back and start the next spoke at the point again. Five separate starts at the point look like one center. One strand dragged between the ends of the spokes draws a second web on the back and shows through at the edge.
-
-For a ring segment, come up on one spoke at the row you are on, and go down on the next spoke at that same row, leaving the white a little longer than the gap. With the needle tip, push the middle of that segment toward the point until it bows. Then backstitch along that bowed line in short stitches so it stays. Do the inner ring, at row 33, before the middle ring, at row 31, before the outer ring, at row 29. An outer ring stitched first has nothing to sit outside of, and the spacing goes uneven.
-
-When the white is done, turn the flap. The back should show short white dashes, not loops. Run the tails under those dashes. Clip them close. A tail left long will felt into the black and make a pale smear on the front of the wallet.
-
 ## Frequently asked
 
 **Will cards fit?** On paper, the pocket is about 3.9 by 2.5 inches inside against a 3.37 by 2.125 inch card, so test the fit with a real card before you join.
@@ -265,9 +235,6 @@ When the white is done, turn the flap. The back should show short white dashes, 
 
 **May I sell wallets made from this?** Go ahead. Share a link to this page instead of copying the instructions.
 
-Seventeen stitches at 16 to 4 inches are 4.25 inches. After the side seams the pocket is about 3.9 inches inside, against a 3.37 inch card. Thirteen rows at 20 rows to 4 inches are 2.6 inches for the front and 2.6 for the back, so the pocket depth is about 2.5 inches against a 2.125 inch card. The flap is 8 decrease rows, about 1.6 inches to the point at that gauge, and the loop hangs a bit past the point. None of that has been measured on a finished wallet. Put the card in before you seam. If it bends, the swatch was tighter than 16 stitches to 4 inches and the fix is a larger hook from row 1.
-
-Sew the button with the same doubled thread you would use for a snap: through each hole, through the front wall, through a small extra stitch on the inside of the front only if the yarn is soft, and never through the back. The inside stitch is a backer, not a second button. It keeps the button from tearing the front. It must not catch the back panel, or the pocket will not open.
 
 ## More Halloween wallets
 

@@ -17,25 +17,26 @@ export function extractFaqItems(body: string | undefined): FaqItem[] {
 
   const chunk = section[1];
   const items: FaqItem[] = [];
-  const questionRe = /###\s+(.+?)\n([\s\S]*?)(?=\n###\s+|$)/g;
+  const questionRe =
+    /(?:###\s+(.+)|^\*\*([^*]+)\*\*)\s*\n?([\s\S]*?)(?=\n###\s+|\n\*\*[^*]+\*\*|\n##\s+|$)/gm;
   let match: RegExpExecArray | null;
 
   while ((match = questionRe.exec(chunk)) !== null) {
-    const question = cleanInline(match[1]);
-    const answer = cleanBlock(match[2]);
+    const question = cleanInline(match[1] || match[2] || "");
+    const answer = cleanBlock(match[3] || "");
     if (question && answer) items.push({ question, answer });
   }
 
   return items;
 }
 
-/** Pull "## Step N: …" blocks for HowTo schema. */
+/** Pull "## Step N" or "### Step N" blocks for HowTo schema. */
 export function extractHowToSteps(body: string | undefined): HowToStep[] {
   if (!body) return [];
 
   const steps: HowToStep[] = [];
   const stepRe =
-    /##\s+(Step\s+\d+[^\n]*)\n([\s\S]*?)(?=\n##\s+(?:Step\s+\d+|[^#])|$)/gi;
+    /^#{2,3}\s+(Step\s+\d+[^\n]*)\n([\s\S]*?)(?=\n#{2,3}\s+|$)/gim;
   let match: RegExpExecArray | null;
 
   while ((match = stepRe.exec(body)) !== null) {

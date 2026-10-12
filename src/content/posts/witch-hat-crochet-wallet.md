@@ -154,6 +154,8 @@ At the example gauge the hat is about 1.25 inches wide at the band and about 1.2
 
 ### Step 5: fold, sew the divider to the bottom, then seam the sides
 
+![Three purple layers with a needle through the side](../../assets/articles/witch-layers-illustration.jpg "Illustration. The seam goes through the front, the divider, and the back.")
+
 <figure class="diagram">
 <img src="/diagrams/witch-wallet-divider.svg" alt="Count the side seam upward from the bottom fold. Positions 1 to 11 pass through front, divider, and back. Position 12 is at the top pocket opening and passes through front and back only. The flap stays free." width="480" height="1320" loading="lazy" decoding="async" />
 <figcaption>Diagram. Stitch 1 is at the fold. Stitch 12 is at the opening.</figcaption>
@@ -186,35 +188,9 @@ Check the continuous divider-bottom seam before closing the sides. Sparse tacks 
 - **Other hat colors.** A green or purple band, or a black hat with a silver band. Keep the band a color that shows against the flap.
 - **Lining.** Line the back only, so the divider still fits. Cut fabric 4.25 by 2.4 inches plus a 1/4 inch fold.
 
-## While you crochet it
-
-**Rows 1 to 30.** Chain 18, single crochet 17, then the same plain row until row 30. Mark the last stitch of row 12 and of row 24 when you make them. Row 12 is the bottom fold. Row 24 is where the flap begins. Losing those marks means guessing the pockets later.
-
-**Row 31, counted out loud.** Chain 1, turn. Single crochet 7. Chain 3. Skip 3 stitches. Single crochet 7. You have 14 single crochet and a hole. The hole covers stitches 8, 9, and 10. If you chained before you finished the 7, the hole sits to one side and the hat will not center over it.
-
-**Row 32.** Single crochet 7, then 3 single crochet into the chain-3 hole, then single crochet 7. Count 17. The 3 stitches replace the 3 you skipped. Two stitches in the hole leaves 16 for the rest of the flap. Four leaves 18. Push the button through now. A little resistance is right. If it falls through, pull rows 31 and 32 and use chain 2, skip 2, with 7 single crochet before the chain and 8 after, and only 2 single crochet in the hole on the return. If the button will not pass, use chain 4, skip 4, with 6 before and 7 after, and 4 single crochet in the hole. Do not keep a hole that only works because you stretched it with the button.
-
-**Row 33.** Decrease, 13 single crochet, decrease. Count 15. This is the row that lets the flap corners lie down. Skip it and the corners stick up.
-
-**The divider.** A separate piece: 17 stitches, 11 rows, then stop. It is one row shorter than the front so it hides. Twelve rows on the divider show a stripe above the rim. Sew its chain edge to the inside of the bottom fold in a continuous whipstitch across all 17 stitches before you seam the sides. Gaps between tacks are holes between the two pockets.
-
-**The hat.** Orange row of 5, changing to black on the last yarn over of that row. Black row of 5. Decrease row to 3. Plain row of 3. Three together, one stitch left. Brim: chain 9, single crochet 8. Fold the flap down so you see the closed wallet, then pin. Brim on row 30, stitch 9 in the middle of the brim. Cone on top of the brim, tip reaching row 25. Whipstitch through the flap only. Row 31 stays clear. A stitch in the buttonhole means the brim is one row too low. Move it. Do not sew the hat through the pocket.
-
-**The side seam, counted from the fold.** Position 1 is the bottom fold. Positions 1 through 11 go through front, divider, and back. Position 12 goes through front and back only, because the divider has ended. Count 12, fasten off, repeat the other side. Put one card in each pocket. A card that slides under the divider means the bottom whipstitch skipped some of the 17. Open the side and close that gap. Then close the flap, mark the button through the hole with cards in, and sew the button through the front layer only.
-
 ## Keep the hat above the buttonhole and the divider below the rim
 
 The rectangle divides into front rows 1–12, back rows 13–24 and flap rows 25–33. Fold first to see the closed flap orientation, then pin the hat on the flap only, leaving row 31's hole clear. For a resized buttonhole, use the specified reversed left/right counts on its return row so the extra stitches do not shift the hole. Anchor the divider's entire lower edge inside the fold before seaming the eleven three-layer positions and final two-layer position. Test one card in each compartment separately; neither should pass underneath the divider.
-
-## Buttonhole, divider, and seam as three separate checks
-
-Finish row 32 and put the hook down. Count 17 from the edge that is not the hole, across the 3 stitches in the hole, to the other edge. Then push the button through and take it back out. Only then work row 33. A buttonhole that fails this test gets worse when the flap is seamed, because you can no longer see both sides of the hole at once.
-
-The hat goes on while the flap is still one layer, but only after you have folded the rectangle the way it will close. Otherwise you sew the hat on the wrong face, or with the tip pointing at the buttonhole. Brim on row 30. Tip toward row 25. Hole on row 31 completely outside the brim. Whipstitch the outline and stop. Tug the flap. If the hat shifts over the hole, the stitches were only through the back bump of the yarn. Sew through both loops of the flap's edge stitches.
-
-The divider's chain is sewn to the fold before either side seam. Count those whipstitches: 17, with no bare chain between them. Then the side. Start at the fold so position 1 is the bottom, not the rim. The first 11 stitches go through three layers. You will feel the hook get thicker there. Stitch 12 suddenly goes through two layers. That change is the check. If stitch 12 is still thick, the divider has 12 rows and its top is in the seam. Pull the seam, remove the extra divider row, and seam again. If stitch 11 is already thin, the divider was not caught and one pocket is open at the side.
-
-Cards go in after the seams and before the button. One card on each side of the divider. Close the flap and mark through the hole. The mark on a loaded wallet is the one you sew. An empty wallet sits flatter, and the button ends up too high for the cards you actually carry.
 
 ## Common mistakes and fixes
 
@@ -234,14 +210,6 @@ Cards go in after the seams and before the button. One card on each side of the 
 
 Wash by hand, cool, and dry it flat. Orange and black scraps sometimes bleed onto purple, so blot a wet scrap of each on paper towel first. Wash it on its own; the button can scratch.
 
-## The color change on the hat, and the three-layer seam
-
-The cone starts in orange. Chain 6, single crochet across until one chain is left, five stitches if you count the last one. On that last stitch, insert the hook, yarn over with orange, pull up a loop. Two loops are on the hook, both orange. Drop the orange. Put the black over the hook and pull the black through both loops. The stitch is black on top and orange underneath. Cut the orange, leave a tail to weave later, and do not carry orange up the side. Row 2 is black in every stitch, chain 1 and turn, count 5. If row 2 has an orange stitch, the color change happened one stitch early. Pull row 2 and the last stitch of row 1.
-
-The side seam is where people drop a layer. Hold the three edges together with a clip at the fold and a clip near the rim. Insert the hook under the row-end of the front, then under the row-end of the divider, then under the row-end of the back, and only then yarn over and finish the single crochet. One stitch, three holes. If you yarn over after two holes, the divider is not in that stitch. Count to 11 this way. On stitch 12, skip the divider on purpose: front hole, back hole, finish the stitch. Fasten off. Do the other side from the fold upward, not from the rim downward. Starting at the rim makes stitch 12 land at the fold, and the divider's top gets sewn into the bottom.
-
-Before the button, open the wallet and look between the pockets. You should see a line of yarn along the fold and no gap a card can slip through. Then load one card each side, close the flap, and mark through the hole you already tested.
-
 ## Frequently asked
 
 **Will cards fit both pockets?** On paper, each pocket is about 3.9 by 2.3 inches inside, against a 3.37 by 2.125 inch card, so test both pockets with a real card before you sew up.
@@ -254,9 +222,6 @@ Before the button, open the wallet and look between the pockets. You should see 
 
 **Can I sell wallets I make from it?** Yes. If you share the design, link to this page; do not republish the rows.
 
-Seventeen stitches at 16 to 4 inches are 4.25 inches wide, and the side seams take a little, which is why each pocket is described as about 3.9 inches inside against a 3.37 inch card. Twelve rows at 20 rows to 4 inches are 2.4 inches, so each pocket is about 2.3 inches deep against a 2.125 inch card. The flap adds 9 rows, about 1.8 inches. The buttonhole is 3 stitches, about 0.75 inch at that gauge, which is the usual start for a 5/8 inch button because the hole stretches. If your swatch is off, the button test after row 32 matters more than the 0.75 inch estimate. Redo the hole, as the pattern says, rather than forcing the button.
-
-The hat's orange row is the band. It has to read as a stripe from arm's length, so do not change to black in the middle of that row. Five orange stitches, then black. The brim is a separate strip of 8 so you can move it. Sewing the cone and the brim on as one piece before you pin them makes it harder to keep row 31 clear. Pin first, sew second, then check that a finger can still find the hole without lifting the brim.
 
 ## More Halloween wallets
 
