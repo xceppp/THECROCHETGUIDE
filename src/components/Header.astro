@@ -1,8 +1,8 @@
 ---
 import { Image } from "astro:assets";
 import { getCollection } from "astro:content";
-import mark from "../assets/mark.png";
-import { SITE, NAV, SOCIALS, CATEGORIES } from "../config";
+import logo from "../assets/logo-lockup.png";
+import { NAV, SOCIALS, CATEGORIES } from "../config";
 import HalloweenIcon from "./HalloweenIcon.astro";
 import ThemeToggle from "./ThemeToggle.astro";
 
@@ -53,22 +53,15 @@ const searchIndex = (
   <div
     class="mx-auto flex max-w-5xl items-center justify-between gap-4 px-6 py-3.5 sm:px-8"
   >
-    <a href="/" class="group flex items-center gap-2.5 no-underline">
-      {/* Empty alt on purpose: the site name sits right beside it, and a
-          screen reader announcing the brand twice is noise. */}
+    <a href="/" class="shrink-0 no-underline">
       <Image
-        src={mark}
+        src={logo}
         alt="Crochet Explained"
-        height={32}
+        height={48}
         loading="eager"
-        class="h-8 w-auto"
+        class="h-10 w-auto rounded-md sm:h-12"
         data-pin-nopin="true"
       />
-      <span
-        class="font-serif text-lg tracking-tight text-ink group-hover:text-terracotta-deep sm:text-xl"
-      >
-        {SITE.name}
-      </span>
     </a>
 
     <div class="flex items-center gap-2 sm:gap-3">

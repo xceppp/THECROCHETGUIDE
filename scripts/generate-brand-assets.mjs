@@ -5,7 +5,8 @@
  *   node scripts/generate-brand-assets.mjs
  *
  * Produces:
- *   src/assets/mark.png        yarn-ball mark, background cut to transparency
+ *   src/assets/logo-lockup.png full wordmark used in the header
+ *   src/assets/mark.png        yarn-ball mark, only if the lockup is absent
  *   src/assets/cover.jpg       hero art, enlarged so wide screens downscale it
  *   public/og-default.jpg      1200x630 social share card
  *   public/favicon-32.png      browser tab
@@ -15,6 +16,7 @@
  * sharp comes in with Astro's image service, so this adds no dependency.
  */
 import sharp from "sharp";
+import { existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 
@@ -22,8 +24,10 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const at = (...p) => path.join(root, ...p);
 
 const LOGO = at("src", "assets", "logo.png");
+const LOCKUP = at("src", "assets", "logo-lockup.png");
 const BANNER = at("src", "assets", "banner.png");
 const COVER_SOURCE = at("src", "assets", "cover-source.png");
+const BLACK = { r: 0, g: 0, b: 0 };
 
 /**
  * The hero spans the full viewport, but the cover art is only 1024px wide, so
@@ -201,7 +205,64 @@ function cutToAlpha({ data, width, height, ch }, ink) {
   return out;
 }
 
-const logo = await readRaw(LOGO);
+/**
+ * The lockup is the full wordmark on black: yarn, hook, and the name.
+ * The header uses that file directly. Icons are a square of the yarn ball,
+ * and the share card is the whole lockup on a 1200x630 black field.
+ */
+async function writeLockupAssets() {
+  const meta = await sharp(LOCKUP).metadata();
+  const side = meta.height;
+  const icon = await sharp(LOCKUP)
+    .extract({ left: 0, top: 0, width: side, height: side })
+    .png()
+    .toBuffer();
+
+  for (const [file, size] of [
+    ["favicon-32.png", 32],
+    ["icon-512.png", 512],
+  ]) {
+    await sharp(icon)
+      .resize(size, size)
+      .png({ palette: true, quality: 92, effort: 10 })
+      .toFile(at("public", file));
+  }
+
+  await sharp({
+    create: { width: 180, height: 180, channels: 3, background: BLACK },
+  })
+    .composite([
+      {
+        input: await sharp(icon).resize(168, 168).toBuffer(),
+        gravity: "center",
+      },
+    ])
+    .png()
+    .toFile(at("public", "apple-touch-icon.png"));
+
+  await sharp({
+    create: { width: 1200, height: 630, channels: 3, background: BLACK },
+  })
+    .composite([
+      {
+        input: await sharp(LOCKUP)
+          .resize({ width: 1080, height: 560, fit: "inside" })
+          .toBuffer(),
+        gravity: "center",
+      },
+    ])
+    .jpeg({ quality: 90, chromaSubsampling: "4:4:4", mozjpeg: true })
+    .toFile(at("public", "og-default.jpg"));
+
+  console.log("lockup brand assets written");
+}
+
+if (existsSync(LOCKUP)) {
+  await writeLockupAssets();
+}
+
+const logo = existsSync(LOCKUP) ? null : await readRaw(LOGO);
+if (logo) {
 const box = findMarkBox(logo);
 console.log(
   `mark detected at ${box.width}x${box.height} (offset ${box.left},${box.top}) in ${logo.width}x${logo.height}`,
@@ -282,6 +343,7 @@ await sharp({
   ])
   .jpeg({ quality: 86, chromaSubsampling: "4:4:4", mozjpeg: true })
   .toFile(at("public", "og-default.jpg"));
+}
 
 const coverMeta = await sharp(COVER_SOURCE).metadata();
 await sharp(COVER_SOURCE)
