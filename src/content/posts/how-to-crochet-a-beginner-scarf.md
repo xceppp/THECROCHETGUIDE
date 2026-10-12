@@ -26,6 +26,8 @@ US terms. US half double crochet is UK half treble. [Abbreviations](/crochet-abb
 
 ## Step 1: Pick a width and a length with a tape
 
+![A long narrow crochet scarf](../../assets/articles/beginner-scarf-illustration.jpg "Illustration. One width, the same stitch count on every row.")
+
 Decide the width you want against your coat, and the length from one end to the other the way you will wear it. Eight inches wide and 60 inches long is the example. A taller person, or someone who tucks the ends into a coat, needs a longer tape, not a longer guess.
 
 <figure class="diagram">

@@ -102,6 +102,11 @@ Fasten off. Three plus two skipped plus three is eight, so the end keeps its wid
 
 ## Stage 3: the button
 
+<figure class="diagram">
+<img src="/diagrams/cable-button.svg" alt="The button closes the strip." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The button is at the end of the strip.</figcaption>
+</figure>
+
 Sew the button on row 3, centered across the eight stitches, through several stitches. Wrap the strap around the coil and button it. The button should meet the buttonhole without stretching the strap and without bending the cable tighter than it sat.
 
 ## Optional: keep the strap on the cable

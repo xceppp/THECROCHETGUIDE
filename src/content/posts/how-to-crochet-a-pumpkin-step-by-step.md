@@ -75,6 +75,11 @@ Each repeat covers one more old stitch than the last round's repeat and makes on
 
 ## Step 2: a short even section
 
+<figure class="diagram">
+<img src="/diagrams/pumpkin-even.svg" alt="Rounds with no increase and no decrease." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The same stitch count.</figcaption>
+</figure>
+
 **Rounds 7–10:** Sc in each stitch. (36)
 
 Four even rounds is squat on purpose. For a rounder pumpkin, work five or six. For a flatter one, three.

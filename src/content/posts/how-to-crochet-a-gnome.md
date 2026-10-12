@@ -150,6 +150,11 @@ The hat opening, 42, is slightly wider than the body's 36-stitch middle where it
 
 ## Step 4: the nose
 
+<figure class="diagram">
+<img src="/diagrams/gnome-nose.svg" alt="A small ball on the face." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The nose sits on the face.</figcaption>
+</figure>
+
 Skin tone.
 
 **Round 1:** 6 sc in a magic ring. (6)
@@ -163,6 +168,11 @@ Skin tone.
 Stuff lightly before round 5. After round 5, fasten off with a sewing tail, thread it through the six remaining front loops, pull closed, and secure it. Pin the nose in place before sewing; its size is a design choice.
 
 ## Step 5: the beard
+
+<figure class="diagram">
+<img src="/diagrams/gnome-beard.svg" alt="The beard hangs under the nose." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The beard is under the nose.</figcaption>
+</figure>
 
 Cut strands about twice the finished length you want. Fold each in half, pull the fold through a stitch with the hook, then pull the ends through the fold. Work an upside-down arc across the front of the body, starting about round 10. Use more strands than you think. Fringe looks full in your hand and sparse on the gnome. Trim straight or to a point.
 

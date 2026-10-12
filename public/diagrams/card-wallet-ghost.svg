@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>A flat ghost</title>
+<desc>A small flat ghost sewn on the front.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">A flat ghost</text><ellipse cx="240" cy="120" rx="50" ry="60" fill="#fdfaf6" stroke="#2f2a26" stroke-width="3"/><circle cx="222" cy="110" r="5" fill="#2f2a26"/><circle cx="258" cy="110" r="5" fill="#2f2a26"/><text x="240" y="230" font-size="22" fill="#2f2a26" text-anchor="middle">flat, on the front</text>
+</svg>

@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 322" role="img">
-<title>Pumpkin wallet: back loop only</title>
-<desc>After row 1, every row is worked under the back loop. The front loop stays on the surface and makes the rib.</desc>
+<title>Back loop only makes the ribs</title>
+<desc>After row 1, each row is worked in the back loop so the front loop shows as a rib.</desc>
 <rect width="480" height="322" fill="#fdfaf6"/>
 <style>text{font-family:Georgia,"Times New Roman",serif}</style>
-<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Pumpkin wallet: back loop only</text>
-<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">See the two strands of the V</text>
-<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">The near strand is the front loop.</text>
-<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Hook under the far strand only</text>
-<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">That is the back loop.</text>
-<rect x="16" y="228" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="256" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Count 20 every row</text>
-<text x="32" y="282" font-size="20" fill="#6d635a" text-anchor="start">Stop at 4.25 inches on an even row.</text>
+<text x="240" y="40" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Back loop only</text>
+<rect x="150" y="70" width="180" height="200" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<line x1="178" y1="70" x2="178" y2="270" stroke="#b0604a" stroke-width="4"/><line x1="210" y1="70" x2="210" y2="270" stroke="#b0604a" stroke-width="4"/><line x1="242" y1="70" x2="242" y2="270" stroke="#b0604a" stroke-width="4"/><line x1="274" y1="70" x2="274" y2="270" stroke="#b0604a" stroke-width="4"/><line x1="306" y1="70" x2="306" y2="270" stroke="#b0604a" stroke-width="4"/>
+<text x="240" y="300" font-size="22" fill="#2f2a26" text-anchor="middle">ribs run with the rows</text>
 </svg>

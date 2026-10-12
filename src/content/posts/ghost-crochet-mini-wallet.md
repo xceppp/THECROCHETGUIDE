@@ -113,6 +113,11 @@ Each decrease row uses every stitch of the row below: 2 + 12 + 2 = 16, then 2 + 
 
 ## Stage 3: fold and seam
 
+<figure class="diagram">
+<img src="/diagrams/mini-wallet-fold.svg" alt="Fold the rectangle, then seam the sides." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Fold, then seam the sides.</figcaption>
+</figure>
+
 Lay the rectangle with the foundation chain at the bottom. Fold it up so the fold falls between rows 14 and 15. The chain edge now lies against row 28. Rows 29 to 34 stand above as the flap.
 
 Slide the card in before you sew. It should go in flat and sit below the opening. Then try the folded bill behind it.
@@ -120,6 +125,11 @@ Slide the card in before you sew. It should go in flat and sit below the opening
 Whipstitch each side from the fold to the opening, through both layers, catching only the outer loop of each edge stitch. Going deeper takes width from the inside. Go back along each side a second time. A card corner works at a single seam line until it opens. Weave the tails inside the seam.
 
 ## Stage 4: button and face
+
+<figure class="diagram">
+<img src="/diagrams/mini-wallet-face.svg" alt="The button closes the flap and the face sits on the front." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Button above the face.</figcaption>
+</figure>
 
 Close the flap with the card inside. Mark where the loop lands on the front. Sew the button there, through the front layer only.
 

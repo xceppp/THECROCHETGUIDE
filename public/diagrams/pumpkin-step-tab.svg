@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 244" role="img">
-<title>Pumpkin wallet: the leaf tab</title>
-<desc>Chain 4 for 3 stitches, work rows 2 to 6 even, then single crochet three together on row 7.</desc>
+<title>The leaf tab</title>
+<desc>A short strip that narrows to a point.</desc>
 <rect width="480" height="244" fill="#fdfaf6"/>
 <style>text{font-family:Georgia,"Times New Roman",serif}</style>
-<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Pumpkin wallet: the leaf tab</text>
-<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Rows 1 to 6 are 3 stitches</text>
-<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">Count at the end of each row.</text>
-<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Row 7 is one stitch</text>
-<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">A loop in each stitch, yarn over, pull through.</text>
+<text x="240" y="40" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Leaf tab</text>
+<polygon points="190,70 290,70 270,150 240,190 210,150" fill="#7d8b72" stroke="#2f2a26" stroke-width="3"/>
+<text x="240" y="224" font-size="22" fill="#2f2a26" text-anchor="middle">wide, then a point</text>
 </svg>

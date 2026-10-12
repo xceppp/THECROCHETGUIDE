@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 244" role="img">
-<title>Witch hat wallet: the divider</title>
-<desc>The divider is 17 stitches and 11 rows, one row shorter than the 12-row front, so it hides under the rim.</desc>
+<title>Divider is one row shorter</title>
+<desc>The divider hides under the front rim.</desc>
 <rect width="480" height="244" fill="#fdfaf6"/>
 <style>text{font-family:Georgia,"Times New Roman",serif}</style>
-<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Witch hat wallet: the divider</text>
-<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Same width as the body</text>
-<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">18 chains, 17 single crochet.</text>
-<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Stop at row 11</text>
-<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">A 12th row would show above the rim.</text>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The divider</text>
+<rect x="130" y="58" width="220" height="140" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<rect x="146" y="86" width="188" height="96" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<text x="240" y="224" font-size="22" fill="#2f2a26" text-anchor="middle">one row shorter</text>
 </svg>

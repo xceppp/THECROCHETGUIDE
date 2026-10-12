@@ -106,6 +106,11 @@ Fasten off. Close the flap over the case and mark where the loop lands. Sew the 
 
 ## Stage 3: the ears (make 2)
 
+<figure class="diagram">
+<img src="/diagrams/bat-ears.svg" alt="Two matching ears." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Make two ears.</figcaption>
+</figure>
+
 Black. A triangle loses one stitch at each edge every row.
 
 **Row 1:** Ch 6. Sc in the 2nd chain from the hook and each chain across. Turn. (5)
@@ -117,6 +122,11 @@ Black. A triangle loses one stitch at each edge every row.
 Fasten off with a sewing tail. The chain edge is the base.
 
 ## Stage 4: the wings (make 2)
+
+<figure class="diagram">
+<img src="/diagrams/bat-wings.svg" alt="Two wings, one for each side." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Make two wings.</figcaption>
+</figure>
 
 Purple. The same shaping, made larger.
 

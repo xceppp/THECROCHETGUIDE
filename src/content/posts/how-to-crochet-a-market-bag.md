@@ -131,6 +131,11 @@ A key or a loose berry will find a hole. Put small things inside something large
 
 ## Stage 4: the band
 
+<figure class="diagram">
+<img src="/diagrams/market-bag-band.svg" alt="A firmer round at the top of the bag." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The band is the top round.</figcaption>
+</figure>
+
 **Round 1:** Ch 1, (sc in the next dc, sc in the next ch-1 space) around. Slip stitch to the first sc. (96)
 
 **Rounds 2–3:** Ch 1, sc in each stitch. Slip stitch to the first sc. (96)

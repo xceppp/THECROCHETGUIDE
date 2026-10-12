@@ -147,6 +147,11 @@ If the edge of the hole cuts into the web of your thumb, pull out rounds 8 and 9
 
 ## Stage 4: the upper hand and the edge
 
+<figure class="diagram">
+<img src="/diagrams/gloves-upper.svg" alt="Work past the thumb gap, then edge the opening." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Past the thumb gap.</figcaption>
+</figure>
+
 **Rounds 10–17:** Ch 1, sc in each stitch, slip stitch to the first sc. (28)
 
 Try it on at round 14. Stop when the fabric reaches the base of the fingers and the fingers still bend freely. Seventeen rounds is the example's 3.5 inches at 5 rounds per inch. Your round count is whatever reaches your knuckles.

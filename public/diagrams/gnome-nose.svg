@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>The nose</title>
+<desc>A small ball on the face.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The nose</text><circle cx="240" cy="130" r="70" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><circle cx="240" cy="150" r="22" fill="#b0604a"/><text x="240" y="250" font-size="22" fill="#2f2a26" text-anchor="middle">on the face</text>
+</svg>

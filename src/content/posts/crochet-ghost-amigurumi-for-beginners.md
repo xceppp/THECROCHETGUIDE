@@ -83,6 +83,11 @@ Embroidered eyes are safer than glued or plastic ones for anything a child might
 
 ## Step 3A: the hanging ghost
 
+<figure class="diagram">
+<img src="/diagrams/ghost-ami-hanging.svg" alt="A loop sits on the top of the hanging ghost." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The loop is on top.</figcaption>
+</figure>
+
 **Stuff the head.** Fill rounds 1 to 9 firmly.
 
 **Close the stuffing compartment.** Run white yarn through every stitch around round 10. Pull the circumference closed, not merely finger-wide, so no stuffing can migrate into the skirt. Secure it with a small knot tucked inward, then weave both tails through nearby stitches in different directions. Do not force a large amount of stuffing against the closure. This cinch changes the silhouette and must be checked on a sample. For a separate compartment, sew a small lining closed below the stuffed head instead.

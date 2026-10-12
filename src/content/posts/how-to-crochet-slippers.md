@@ -129,6 +129,11 @@ Chain 27.
 
 ## Stage 4: finishing
 
+<figure class="diagram">
+<img src="/diagrams/slippers-finish.svg" alt="Seam the heel." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The heel seam.</figcaption>
+</figure>
+
 Weave the ends in on the inside. [Weaving in ends](/weaving-in-ends-and-blocking/). Sew without pulling hard, because a puckered seam cups the sole and makes it rock when you stand.
 
 Left and right slippers are identical, so the second is made to the same counts.

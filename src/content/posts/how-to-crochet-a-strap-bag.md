@@ -25,6 +25,8 @@ US terms throughout. US single crochet is UK double crochet. See the [abbreviati
 
 ## The body: a folded rectangle, sized to what you carry
 
+![A folded crochet bag with a wide strap](../../assets/articles/strap-bag-illustration.jpg "Illustration. The strap is a crocheted strip sewn to the bag.")
+
 The body is a single-crochet rectangle folded in half and seamed up the sides, open at the top, with one round worked around the opening to firm it. That full method — measuring the contents, adding the stack's thickness to the width, and keeping the stitch count honest over many rows — is the folded-sleeve method in the [device case guide](/how-to-crochet-a-device-case/). Work the body at the size you need:
 
 - **A phone crossbody** uses a small sleeve sized around one phone: each face covers the phone's width plus its thickness, plus a little ease and the seams. For a 3.0 x 6.0 x 0.35 in phone at 4 stitches to the inch, that is about 15 stitches wide and 70 rows, folded to a sleeve about 7.0 inches deep.

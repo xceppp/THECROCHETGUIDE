@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>Chain and check</title>
+<desc>Count the foundation chain before the first row.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Chain and check</text><path d="M60 140 Q100 100 140 140 T220 140 T300 140 T380 140 T420 100" fill="none" stroke="#b0604a" stroke-width="5"/><text x="240" y="220" font-size="22" fill="#2f2a26" text-anchor="middle">count the chain</text>
+</svg>

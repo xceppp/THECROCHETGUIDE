@@ -29,6 +29,8 @@ Lay the reference hood sideways, folded at the center back. Measure **D**, from 
 
 ## The fold and the three edges
 
+![A crochet scarf with a hood at the center](../../assets/articles/hooded-scarf-illustration.jpg "Illustration. The hood sits at the center of the scarf.")
+
 Let W be the rectangle width in the stitch direction and H its height in the row direction. Choose W = 2D. Fold W in half by bringing its two short H-length edges together. The folded piece is D deep and H tall. The fold is center back.
 
 - **Crown:** the two upper half-width edges are sewn together from the fold to the face. The seam is D long.

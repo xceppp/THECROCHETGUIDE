@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>The front body</title>
+<desc>A smaller ball in front of the abdomen.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The front body</text><ellipse cx="180" cy="150" rx="80" ry="60" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><circle cx="300" cy="140" r="40" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/><text x="240" y="260" font-size="22" fill="#2f2a26" text-anchor="middle">smaller, in front</text>
+</svg>

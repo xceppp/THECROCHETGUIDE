@@ -91,6 +91,11 @@ The beginning ch-3 counts as a double crochet. Clusters go into chain spaces, ne
 
 ### Step 3: round 3, one side cluster between corners
 
+<figure class="diagram">
+<img src="/diagrams/tote-round-3.svg" alt="One side cluster between the corners." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. One cluster on each side.</figcaption>
+</figure>
+
 1. Slip stitch across into the next chain-2 corner space.
 2. Chain 3, then 2 double crochet, chain 2, 3 double crochet, all in that same corner.
 3. Chain 1.
@@ -136,6 +141,11 @@ Some people turn the square over between rounds to reduce a slight twist. The in
 </figure>
 
 ### Step 5: count 19 along one edge before you join anything
+
+<figure class="diagram">
+<img src="/diagrams/tote-count-19.svg" alt="Count the stitches on one side before joining." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Count one edge first.</figcaption>
+</figure>
 
 Lay one square flat. Walk one side from corner to corner and touch each spot:
 

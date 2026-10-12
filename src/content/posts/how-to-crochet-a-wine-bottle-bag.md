@@ -98,6 +98,11 @@ Round 7 adds only four stitches, to land on 40. Stand the bottle on the circle. 
 
 ## Stage 2: the sides
 
+<figure class="diagram">
+<img src="/diagrams/wine-sides.svg" alt="Even rounds above the base." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Even rounds above the base.</figcaption>
+</figure>
+
 **Rounds 8–52:** Sc in each stitch. (40)
 
 Slide the bottle in every 10 rounds. Stop when the fabric reaches the cord point you chose, just above the shoulder. Forty-five rounds is the example. Count the stitches now and then. A gained stitch turns the tube into a slow cone.
@@ -125,6 +130,11 @@ Slide the bottle in every 10 rounds. Stop when the fabric reaches the cord point
 **Checkpoint:** with the cord loose, the bottle should slide in and out. With the cord pulled, the top should close around the neck.
 
 ## Stage 4: a carry handle
+
+<figure class="diagram">
+<img src="/diagrams/wine-handle.svg" alt="A short handle across the top." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The handle crosses the top.</figcaption>
+</figure>
 
 Do not lift the bag by the cord. The cord passes through 20 chain-1 loops in a single round, and lifting by it hangs the full bottle from those loops. They stretch, and the eyelet round can tear.
 

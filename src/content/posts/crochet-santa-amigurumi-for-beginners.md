@@ -120,6 +120,11 @@ Stuff lightly with a pinch of stuffing, fasten off with a tail, and sew it on at
 
 ## Step 4: the beard
 
+<figure class="diagram">
+<img src="/diagrams/santa-beard.svg" alt="The beard sits under the face." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The beard is under the face.</figcaption>
+</figure>
+
 Two options. **Fringe** is faster: cut white strands about twice the finished length, fold each in half, pull the fold through a stitch with the hook, then pull the ends through the fold. Work a curve from one side of the face, under the nose, to the other side, then trim. **A crocheted beard** uses the four numbered rows below.
 
 Either way, the beard starts just under the nose and covers the bottom of the face.
@@ -174,6 +179,11 @@ Keep going the same way, adding 3 stitches every other round, until the hat has 
 **Pom-pom:** Make a second nose in white and sew it to the tip. Do not stuff the hat. Sew it on at a slight angle, all the way round the brim.
 
 ## Step 6: the belt
+
+<figure class="diagram">
+<img src="/diagrams/santa-belt.svg" alt="A band around the middle of the body." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The belt goes around the middle.</figcaption>
+</figure>
 
 Black. Chain until the chain wraps the body at about round 9, then sc back along the chain. Sew it around the body. A small square of yellow, either a few stitches of embroidery or a tiny crocheted square, makes a buckle at the center front, on the marker line.
 

@@ -69,6 +69,8 @@ Measure the base of the mug you will use. The coaster should be wider than that 
 
 ## The pumpkin disc, round by round
 
+![An orange circle coaster with a stem and a small granny square](../../assets/articles/halloween-coaster-illustration.jpg "Illustration. A flat circle for the pumpkin, and a granny square beside it.")
+
 Work in a spiral: do not join rounds. Put the marker in the first stitch of each round and move it up as you go. [Working in the round](/crochet-in-the-round/) covers the spiral and the magic ring.
 
 **Rnd 1.** Magic ring, 6 sc in the ring. Pull the tail until the hole closes. (6)

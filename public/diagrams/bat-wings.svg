@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>Two wings</title>
+<desc>Make two wings, one for each side.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Two wings</text><polygon points="40,150 200,70 180,190" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><polygon points="440,150 280,70 300,190" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><text x="240" y="250" font-size="22" fill="#2f2a26" text-anchor="middle">make 2</text>
+</svg>

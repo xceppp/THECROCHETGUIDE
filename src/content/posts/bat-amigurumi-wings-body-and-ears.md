@@ -116,6 +116,11 @@ The increases alternate between the end and the start of a row on purpose. Becau
 
 ## Step 4: make the pair mirror
 
+<figure class="diagram">
+<img src="/diagrams/bat-step-mirror.svg" alt="One wing is the flip of the other." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. One wing is flipped.</figcaption>
+</figure>
+
 Lay both wings flat, scallops at the bottom. Their straight edges point the same way. Turn one wing over, front to back. Now one straight edge faces left and the other faces right. Those straight edges go against the body.
 
 Before sewing, lay the two wings on top of each other with the straight edges together. If one is larger, a row or an increase is missing. Redo it. Stretching the smaller wing to match makes it pucker.

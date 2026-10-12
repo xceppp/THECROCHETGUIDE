@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>The upper hand</title>
+<desc>Work past the thumb gap, then edge the opening.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The upper hand</text><path d="M180 60 H300 V200 H180 Z" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><path d="M180 120 H140 V160 H180" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/><text x="240" y="250" font-size="22" fill="#2f2a26" text-anchor="middle">past the thumb gap</text>
+</svg>

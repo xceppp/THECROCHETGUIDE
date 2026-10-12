@@ -120,6 +120,11 @@ Do not crochet into the zipper tape. Its weave is not made for a hook, and a cro
 
 ## Stage 4: the stem
 
+<figure class="diagram">
+<img src="/diagrams/pumpkin-zip-stem.svg" alt="The stem is sewn at the top center." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The stem is at the top center.</figcaption>
+</figure>
+
 With green, join on the outside of the pouch, right next to one end of the zipper. Chain 8. Slip stitch in the second chain from the hook and in each chain back down. Slip stitch into the pouch to anchor it. Fasten off. If the stem flops into the zipper pull, it is too long. Remake it with ch 6.
 
 ## Baste the zipper before permanent backstitching

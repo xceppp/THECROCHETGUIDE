@@ -32,6 +32,8 @@ Nothing on this page was safety-tested with a baby. Do not sew on buttons, beads
 
 ## Step 1: Write the size, then wash a swatch
 
+![A folded rectangular crochet blanket](../../assets/articles/baby-blanket-illustration.jpg "Illustration. A rectangle with the same stitch count on every row.")
+
 Write the width and the length you want before you chain. Thirty inches wide and 36 inches long is the example. A toddler lap blanket is a different pair of numbers.
 
 Use washable worsted in a light solid color so a dropped stitch shows. [Yarn weights](/yarn-weight-chart/). Read the band. Work a swatch in half double, then wash and dry it the way the blanket will be washed. Cotton often grows. Some acrylic relaxes. Measure after it is dry.

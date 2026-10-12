@@ -85,6 +85,11 @@ Fasten off.
 
 ## Stage 2: the red edge
 
+<figure class="diagram">
+<img src="/diagrams/gift-card-edge.svg" alt="One contrasting round around the rectangle." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. One round around the edge.</figcaption>
+</figure>
+
 The foundation chain becomes the front edge. With red, join in the first chain and work 1 sc in each of the 16 chains along the foundation. Fasten off.
 
 Doing this before the fold keeps the edge stitches out of the side seams. It also firms the front edge, which takes all the wear from the card going in and out.

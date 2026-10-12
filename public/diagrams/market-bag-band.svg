@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>The band</title>
+<desc>A firmer round at the top of the bag.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The band</text><path d="M140 80 H340 V200 Q240 250 140 200 Z" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><rect x="140" y="70" width="200" height="28" fill="#b0604a"/><text x="240" y="280" font-size="22" fill="#2f2a26" text-anchor="middle">the top band</text>
+</svg>

@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 322" role="img">
-<title>Ghost wallet: first side of the join</title>
-<desc>14 single crochet through both layers, then 4 through the back only, then 5 along the slope. Do not cross the front's top.</desc>
+<title>Join the first side only</title>
+<desc>Stitch up one side and stop at the opening.</desc>
 <rect width="480" height="322" fill="#fdfaf6"/>
 <style>text{font-family:Georgia,"Times New Roman",serif}</style>
-<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Ghost wallet: first side of the join</text>
-<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Rows 1 to 14, both layers</text>
-<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">One single crochet in each row end.</text>
-<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Stop at the opening</text>
-<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">The front's top edge stays bare.</text>
-<rect x="16" y="228" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="256" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Then 4, then 5</text>
-<text x="32" y="282" font-size="20" fill="#6d635a" text-anchor="start">Back only, then the slope. Side total 23.</text>
+<text x="240" y="40" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">First side</text>
+<rect x="150" y="70" width="180" height="200" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<line x1="150" y1="70" x2="150" y2="270" stroke="#b0604a" stroke-width="8"/>
+<text x="100" y="180" font-size="22" fill="#b0604a" text-anchor="middle">join</text>
+<text x="240" y="300" font-size="22" fill="#2f2a26" text-anchor="middle">stop at the opening</text>
 </svg>

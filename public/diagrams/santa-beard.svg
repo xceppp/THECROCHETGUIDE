@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>The beard</title>
+<desc>The beard sits under the face.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The beard</text><circle cx="240" cy="90" r="40" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><path d="M180 110 Q240 220 300 110" fill="#fdfaf6" stroke="#7d8b72" stroke-width="4"/><text x="240" y="260" font-size="22" fill="#2f2a26" text-anchor="middle">under the face</text>
+</svg>

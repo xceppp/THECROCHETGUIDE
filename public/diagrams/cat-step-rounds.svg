@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 322" role="img">
-<title>Black cat wallet: rounds 2 to 12</title>
-<desc>Each round is chain 1, 32 single crochet, slip stitch to the first stitch. Do not turn. Test a card at round 10.</desc>
+<title>Rounds around the tube</title>
+<desc>Each round is 32 single crochet and does not turn.</desc>
 <rect width="480" height="322" fill="#fdfaf6"/>
 <style>text{font-family:Georgia,"Times New Roman",serif}</style>
-<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Black cat wallet: rounds 2 to 12</text>
-<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Chain 1 does not count</text>
-<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">First stitch goes in the join.</text>
-<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Count 32 every round</text>
-<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">31 or 33 started at the chain ends.</text>
-<rect x="16" y="228" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="256" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Card test at round 10</text>
-<text x="32" y="282" font-size="20" fill="#6d635a" text-anchor="start">Flat, with a little room at each side.</text>
+<text x="240" y="40" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The tube</text>
+<ellipse cx="240" cy="160" rx="90" ry="110" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<ellipse cx="240" cy="70" rx="70" ry="22" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<text x="240" y="300" font-size="22" fill="#2f2a26" text-anchor="middle">do not turn</text>
 </svg>

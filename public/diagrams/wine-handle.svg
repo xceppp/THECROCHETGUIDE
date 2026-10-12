@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>A carry handle</title>
+<desc>A short handle across the top.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">A carry handle</text><path d="M150 160 H330 V230 H150 Z" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><path d="M180 160 Q240 70 300 160" fill="none" stroke="#b0604a" stroke-width="6"/><text x="240" y="270" font-size="22" fill="#2f2a26" text-anchor="middle">across the top</text>
+</svg>

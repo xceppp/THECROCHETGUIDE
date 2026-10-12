@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>The stem</title>
+<desc>The stem is sewn at the top center.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The stem</text><ellipse cx="240" cy="160" rx="100" ry="70" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><rect x="214" y="70" width="52" height="50" rx="10" fill="#7d8b72" stroke="#2f2a26" stroke-width="3"/><text x="240" y="270" font-size="22" fill="#2f2a26" text-anchor="middle">top center</text>
+</svg>

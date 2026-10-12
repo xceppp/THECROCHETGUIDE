@@ -27,6 +27,8 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 ## Pick a pattern
 
+![Five small Halloween crochet wallets in a row](../../assets/articles/halloween-wallets-set-illustration.jpg "Illustration. The five wallets in this set.")
+
 **[Black cat crochet wallet](/black-cat-crochet-wallet/).** Beginner. A seamless pocket worked in rounds around both sides of a chain, a 9-row flap with gold eyes, two triangle ears, and a snap.
 
 **[Ghost crochet wallet](/ghost-crochet-wallet/).** Intermediate. Two shaped panels, a soft embroidered face with pink cheeks, and one edging round that joins the layers and scallops the hem. The snap hides inside.

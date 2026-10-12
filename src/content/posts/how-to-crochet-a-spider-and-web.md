@@ -82,6 +82,11 @@ Black. Work in a spiral and mark the first stitch of each round.
 
 ## Step 2: the front body (cephalothorax)
 
+<figure class="diagram">
+<img src="/diagrams/spider-front.svg" alt="A smaller ball in front of the abdomen." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The front body is the smaller ball.</figcaption>
+</figure>
+
 **Rounds 1–3:** As the rear body. (18)
 
 **Rounds 4–5:** Sc in each stitch. (18)

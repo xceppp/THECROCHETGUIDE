@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>Finishing</title>
+<desc>Seam the heel and weave the ends.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Finishing</text><path d="M100 160 Q140 80 240 90 Q360 100 380 160 Q300 200 180 190 Z" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><line x1="150" y1="150" x2="150" y2="190" stroke="#b0604a" stroke-width="4"/><text x="240" y="250" font-size="22" fill="#2f2a26" text-anchor="middle">heel seam</text>
+</svg>

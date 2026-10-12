@@ -44,6 +44,8 @@ Gauge does not change the shape, only the size. For a matching set, make one lea
 
 ## The small leaf
 
+![A single crochet autumn leaf](../../assets/articles/fall-leaf-illustration.jpg "Illustration. The leaf is one pointed shape with a short stem.")
+
 Work along one side of the chain, around the tip, and back along the other side. Do not turn.
 
 **Chain 9.**

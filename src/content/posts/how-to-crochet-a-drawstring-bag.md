@@ -40,6 +40,8 @@ The counts below are at an example gauge of **4 single crochet and 5 rounds to t
 
 ## Stage 1: the base, sized to the bottom you want
 
+![A round crochet bag with eyelets and a cord](../../assets/articles/drawstring-bag-illustration.jpg "Illustration. The cord runs through the eyelet round.")
+
 Work in a spiral without joining, and move a stitch marker up into the first stitch of each round. [Working in the round](/crochet-in-the-round/) covers spirals.
 
 **Round 1:** 6 sc in a magic ring. (6)
@@ -110,6 +112,11 @@ The eyelet round repeats one idea: single crochet into some stitches, then chain
 After the eyelet round, work one round putting 1 sc into each single crochet and 1 sc into each ch-1 space, or 2 sc into each ch-2 space, to restore the full count, then one or two plain rounds. That short frill above the holes stops the cord riding up over the top edge when you pull it.
 
 ## Stage 4: the cord
+
+<figure class="diagram">
+<img src="/diagrams/drawstring-cord.svg" alt="The cord passes through the eyelet round." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The cord goes through the eyelets.</figcaption>
+</figure>
 
 The cord goes once around the opening and leaves two tails to tie. Measure the opening circumference and add about 4 inches per tail: a 7.5-inch opening wants roughly 7.5 + 4 + 4 = 15.5 inches.
 

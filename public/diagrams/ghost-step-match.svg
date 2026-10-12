@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 322" role="img">
-<title>Ghost wallet: match the panels</title>
-<desc>Hems together, 17 stitches on both, eight back rows showing above the front. Remake a panel that is a different width.</desc>
+<title>Hems together</title>
+<desc>The shorter front sits on the taller back. Both are 17 stitches wide.</desc>
 <rect width="480" height="322" fill="#fdfaf6"/>
 <style>text{font-family:Georgia,"Times New Roman",serif}</style>
-<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Ghost wallet: match the panels</text>
-<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Hems at the bottom</text>
-<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">Chain edges touch, stitch for stitch.</text>
-<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Count both widths</text>
-<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">Both must be 17.</text>
-<rect x="16" y="228" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="256" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Do not stretch a short panel</text>
-<text x="32" y="282" font-size="20" fill="#6d635a" text-anchor="start">Remake it if the ruler disagrees.</text>
+<text x="240" y="40" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Match the hems</text>
+<rect x="120" y="58" width="240" height="210" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<rect x="120" y="128" width="240" height="140" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<text x="240" y="100" font-size="22" fill="#6d635a" text-anchor="middle">back</text>
+<text x="240" y="200" font-size="22" fill="#2f2a26" text-anchor="middle">front</text>
+<text x="240" y="300" font-size="22" fill="#2f2a26" text-anchor="middle">hems line up at the bottom</text>
 </svg>

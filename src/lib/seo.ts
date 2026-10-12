@@ -36,7 +36,7 @@ export function extractHowToSteps(body: string | undefined): HowToStep[] {
 
   const steps: HowToStep[] = [];
   const stepRe =
-    /^#{2,3}\s+(Step\s+\d+[^\n]*)\n([\s\S]*?)(?=\n#{2,3}\s+|$)/gim;
+    /^#{2,3}\s+((?:Step|Stage)\s+\d+[^\n]*)\n([\s\S]*?)(?=\n#{2,3}\s+|$)/gim;
   let match: RegExpExecArray | null;
 
   while ((match = stepRe.exec(body)) !== null) {

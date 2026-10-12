@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 244" role="img">
-<title>Granny tote: straps and placement</title>
-<desc>Straps are 5 stitches wide. On each panel of 34, skip 8, sew 5, skip 8, sew 5, skip 8. Sew through both edge rounds.</desc>
+<title>Where the straps sit</title>
+<desc>On each panel, skip, sew a strap, skip, sew a strap, skip.</desc>
 <rect width="480" height="244" fill="#fdfaf6"/>
 <style>text{font-family:Georgia,"Times New Roman",serif}</style>
-<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Granny tote: straps and placement</text>
-<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Match the second strap by rows</text>
-<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">Do not stretch it to the tape.</text>
-<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
-<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">One inch of overlap inside</text>
-<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">Catch the clusters under the edge.</text>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Strap placement</text>
+<rect x="80" y="80" width="320" height="100" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<rect x="150" y="60" width="40" height="40" fill="#b0604a"/>
+<rect x="290" y="60" width="40" height="40" fill="#b0604a"/>
+<text x="240" y="220" font-size="22" fill="#2f2a26" text-anchor="middle">two straps, even gaps</text>
 </svg>

@@ -77,6 +77,11 @@ Two ID-1 cards, at 4 stitches and 5 rows per inch.
 
 ## Stage 1: chain and check
 
+<figure class="diagram">
+<img src="/diagrams/card-wallet-chain.svg" alt="Count the foundation chain before the first row." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Count the chain first.</figcaption>
+</figure>
+
 Chain 17. Sc in the second chain from the hook and in each chain across. Ch 1, turn. (16)
 
 Lay a card on the first row. The fabric should be wider than the card by about the width of two stitches. If it is not, start again with more stitches or a larger hook. Measuring now saves seaming a pocket the card cannot enter.
@@ -98,6 +103,11 @@ The ch 1 does not count as a stitch. Count every few rows.
 ![Hands crocheting a flat orange single-crochet rectangle that will become the card wallet body and flap](../../assets/articles/halloween-crochet-card-wallet-1.jpg "Illustration. One tall rectangle. The pocket and flap are both in it.")
 
 ## Stage 3: the flap
+
+<figure class="diagram">
+<img src="/diagrams/card-wallet-flap.svg" alt="The flap is the extra rows above the fold." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. Rows above the fold.</figcaption>
+</figure>
 
 **Rows 25–30:** Sc in each stitch. Ch 1, turn. (16)
 
@@ -126,9 +136,19 @@ Fold rows 1 to 12 up against rows 13 to 24. Clip the sides. Whipstitch both side
 
 ## Stage 5: the button
 
+<figure class="diagram">
+<img src="/diagrams/card-wallet-button.svg" alt="The button sits on the front." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. The button is on the front.</figcaption>
+</figure>
+
 Put the cards in. Fold the flap down and mark where the loop lands on the front. Sew the button there, **through the front wall only**. If the needle goes through both layers, the pocket is sewn shut at that point, and the cards hit the button's shank.
 
 ## Stage 6: a flat ghost
+
+<figure class="diagram">
+<img src="/diagrams/card-wallet-ghost.svg" alt="A small flat ghost on the front." width="480" height="300" loading="lazy" decoding="async" />
+<figcaption>Diagram. A flat ghost on the front.</figcaption>
+</figure>
 
 A ghost worked as a little tube flattens to about an inch and a half wide, which crowds a 4 inch flap. This one is flat and about an inch tall.
 
