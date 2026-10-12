@@ -92,6 +92,39 @@ function stripEmptyFigcaptions(node) {
   for (const child of node.children) stripEmptyFigcaptions(child);
 }
 
+/**
+ * Marks section headings, step headings, and numbered instructions so the
+ * article stylesheet can give each a different size and treatment.
+ */
+function rehypeArticleRhythm() {
+  const addClass = (node, name) => {
+    const props = (node.properties ??= {});
+    const current = props.className;
+    const list = Array.isArray(current) ? current : current ? [current] : [];
+    if (!list.includes(name)) list.push(name);
+    props.className = list;
+  };
+
+  const walk = (node) => {
+    if (!node?.children) return;
+    for (const child of node.children) {
+      if (child.type !== "element") continue;
+      if (child.tagName === "h2") addClass(child, "section-head");
+      if (child.tagName === "h3") {
+        const label = textOf(child).trim();
+        addClass(
+          child,
+          /^(?:Step|Stage)\s+\d/i.test(label) ? "step-head" : "subhead",
+        );
+      }
+      if (child.tagName === "ol") addClass(child, "instructions");
+      walk(child);
+    }
+  };
+
+  return walk;
+}
+
 function rehypeFigures() {
   const isBlank = (node) => node.type === "text" && node.value.trim() === "";
 
@@ -207,7 +240,7 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    rehypePlugins: [rehypeWrapTables, rehypeFigures],
+    rehypePlugins: [rehypeWrapTables, rehypeFigures, rehypeArticleRhythm],
   },
   vite: {
     plugins: [tailwindcss()],
