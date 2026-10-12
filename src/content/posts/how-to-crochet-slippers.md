@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet Slippers"
 description: "Indoor slippers sized from your foot: a sole, a toe cap wide enough to go over the toes, and a heel wall. US terms. Crochet soles slide on hard floors."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-26
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -31,15 +31,6 @@ Crochet soles are slippery on hard floors. Tile, wood, laminate, and a wet bathr
 
 </div>
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Rectangles of single crochet, sewn together | Standard construction. |
-| A cap measured over the foot, gathered at the toe | Standard fitting logic. |
-| 4 sc and 5 rows to the inch | An unverified example gauge. |
-| 9 × 3.5 in foot, 6 in over the toes | Invented examples. Measure yours. |
-| About 200 yards for the pair | Old line. Not weighed. Withdrawn. |
 
 ## How it is built
 
@@ -141,6 +132,10 @@ Chain 27.
 Weave the ends in on the inside. [Weaving in ends](/weaving-in-ends-and-blocking/). Sew without pulling hard, because a puckered seam cups the sole and makes it rock when you stand.
 
 Left and right slippers are identical, so the second is made to the same counts.
+
+## Baste one slipper before making the second
+
+The toe cap's twenty-four-stitch foundation is gathered to the sole's fourteen-stitch toe edge, while its sixteen row-end positions match the first sixteen sole rows on each side. Baste both side seams first, then ease the foundation edge evenly rather than putting all gathers at one corner. On the heel wall, allocate fourteen chain positions to the heel end and six to each side; distribute those six over the final eight sole row ends. Leave both wall short ends unsewn unless a separate design calls for joining them to the toe cap. Try the foot in on carpet before repeating the counts for the second slipper.
 
 ## Troubleshooting
 

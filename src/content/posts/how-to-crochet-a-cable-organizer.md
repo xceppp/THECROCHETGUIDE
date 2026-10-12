@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Cable Organizer"
 description: "A short crochet strap that holds one coiled charging cable with a button, sized from a paper strip around your coil. US terms."
-pubDate: 2026-10-08
-updatedDate: 2026-10-11
+pubDate: 2026-08-21
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -23,21 +23,12 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![An oatmeal crochet strap around a coiled white cable](../../assets/articles/how-to-crochet-a-cable-organizer-result.jpg "Illustration. A buttoned strap around one coil. Not a strap measured on a cable.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Single crochet strip with a buttonhole on the last row | Standard. |
-| Button-to-buttonhole distance = distance around the coil | Geometry. |
-| 4 in coil | An invented example. Measure yours. |
-| 4 sc and 5 rows to the inch | An unverified example gauge. |
-| 36 rows and about 20 yards | The old fixed length. It only fits a coil about 6.4 in around. Withdrawn. |
 
 ## How the strap works
 
 The strap is a narrow rectangle in rows. A button is sewn near the first row. The last row has a buttonhole made by chaining over skipped stitches. Wrapped around the coil, the buttonhole meets the button.
 
-So the length is not a style choice. The distance from the button to the buttonhole has to equal the distance around the coil. Everything else on the strap is a small margin at each end. The earlier version of this page gave 36 rows with the button 4 rows up. That puts 32 rows, about 6.4 inches, between them. It fits a fat laptop coil and leaves a loose loop around a thin phone cable.
+So the length is not a style choice. The distance from the button to the buttonhole has to equal the distance around the coil. Everything else on the strap is a small margin at each end. A fixed 36 rows with the button 4 rows up leaves 32 rows, about 6.4 inches, between them. That fits a fat laptop coil and leaves a loose loop around a thin phone cable. Measure the coil you have.
 
 ## Measure the coil
 
@@ -72,7 +63,7 @@ Crochet three or four rows and measure stitches and rows per inch. The example u
 | Total | 0.6 + 4 + 0.2 = 4.8 in | 24 rows |
 | Buttonhole | 3 + 2 + 3 | sc 3, ch 3, skip 2, sc 3 |
 
-The buttonhole spans 2 skipped stitches, about half an inch at this gauge, to suit a half-inch button. For a larger button, skip 3 and chain 4.
+The buttonhole spans 2 skipped stitches, about half an inch at this gauge, to suit a half-inch button. For a larger button on the same eight-stitch strip, work sc 2, ch 4, skip 3, sc 3; test before fastening off.
 
 Why 8 stitches wide: in worsted cotton, a strip much narrower than 2 inches tends to roll into a cord. If you want a narrow strap, use a finer yarn and keep the stitch count.
 
@@ -116,6 +107,10 @@ Sew the button on row 3, centered across the eight stitches, through several sti
 ## Optional: keep the strap on the cable
 
 A strap that comes off every time you use the cable gets lost. To keep it attached, chain 10 with a new length of yarn and sew both ends to the back of the strap near row 1. Pass one end of the cable through that small loop before you plug it in. The strap stays on the cable when you unbutton it.
+
+## Measure between the closures, not the strip ends
+
+Place a removable marker at row 3 where the button will sit. Wrap the finished strip around the relaxed coil and mark where that location meets the buttonhole end; do not stretch the cable or compress it to force a match. The 24-row example is only a starting count. For a three-stitch buttonhole on eight base stitches, use sc 2, ch 4, skip 3, sc 3: 2 + 3 + 3 = 8 base positions. Test the button and adjust the chains before fastening off. A retaining loop must be large enough for the connector; do not force a plug through a fixed ten-chain loop.
 
 ## Troubleshooting
 

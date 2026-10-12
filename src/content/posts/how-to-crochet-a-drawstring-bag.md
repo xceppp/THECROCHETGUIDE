@@ -1,7 +1,8 @@
 ---
 title: "How to Crochet a Drawstring Bag (Any Size)"
 description: "One round-base method for every drawstring bag: a coin pouch, a candy bag, a shaped pumpkin bag. Eyelet rounds, cords, and sizing explained. US terms."
-pubDate: 2026-10-12
+pubDate: 2026-10-09
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -106,7 +107,7 @@ The eyelet round repeats one idea: single crochet into some stitches, then chain
 - **Small holes:** (sc, ch 1, skip 1) all the way around. Each repeat is two stitches, so the count must be even. Thirty stitches make fifteen holes.
 - **Large holes:** (sc 4, ch 2, skip 2) around. Each repeat is six stitches, so the count must be a multiple of six. Fifty-four stitches make nine holes.
 
-After the eyelet round, work one round putting a stitch into each single crochet and into each chain space to restore the full count, then one or two plain rounds. That short frill above the holes stops the cord riding up over the top edge when you pull it.
+After the eyelet round, work one round putting 1 sc into each single crochet and 1 sc into each ch-1 space, or 2 sc into each ch-2 space, to restore the full count, then one or two plain rounds. That short frill above the holes stops the cord riding up over the top edge when you pull it.
 
 ## Stage 4: the cord
 
@@ -128,7 +129,7 @@ Thread the cord in and out of the holes with a yarn needle, starting and finishi
 <figcaption>The candy bag's nine large eyelets, spaced six stitches apart around a 54-stitch tube.</figcaption>
 </figure>
 
-**Pumpkin treat bag** — base to round 8 (48 stitches), a belly widened to 54 and brought back to 48, small eyelets (24 holes), a chain cord, and a short green stem sewn beside the rim. The belly is the optional shaping from Stage 2.
+**Pumpkin treat bag** — base to round 8 (48 stitches), a belly widened to 54 and brought back to 48, small eyelets (24 holes), a chain cord, and a short green stem sewn beside the rim; for the 48-stitch version, work three even rounds at 48, the increase round to 54, four even rounds at 54, the decrease round to 48, then three even rounds at 48 before the eyelets. The belly is the optional shaping from Stage 2.
 
 <figure class="diagram">
 <img src="/diagrams/treat-bag-step-1.svg" alt="Round 13: widen to 54, drawn as rings from the center out. Round 12: 48 stitches. Round 13: (sc 7, 2 sc in next) 6 times, 54 stitches." width="480" height="509" loading="lazy" decoding="async" />
@@ -136,6 +137,10 @@ Thread the cord in and out of the holes with a yarn needle, starting and finishi
 </figure>
 
 To decorate, embroider the face after you have gathered the top once to find the front, and keep the stitches shallow so contents do not catch on lumps inside. A stem is 5 sc in a magic ring worked as a short tube and sewn between two eyelets, not through one.
+
+## Restore every skipped stitch after the eyelets
+
+At fifty-four stitches, the large-hole round has nine repeats: sc 4, ch 2, skip 2. The next round must make four sc in the four sc and two sc in the ch-2 space for each repeat, returning to fifty-four. One sc in that space would reduce the round to forty-five and narrow the rim. For the small-hole version, thirty positions become fifteen sc and fifteen ch-1 spaces, then thirty sc again. Before threading a cord, count the holes and check the packed bag has fabric above the contents to gather. An odd number of holes may need a second pass through the starting eyelet to return both cord ends to the outside.
 
 ## Troubleshooting
 

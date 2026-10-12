@@ -1,7 +1,8 @@
 ---
 title: "Ghost Crochet Wallet: Free Pattern With a Scalloped Hem"
 description: "A ghost-shaped card wallet from two panels joined by one scalloped edging round, with a soft face, pink cheeks, and a hidden snap. US terms."
-pubDate: 2026-10-11
+pubDate: 2026-10-01
+updatedDate: 2026-10-12
 category: patterns
 level: intermediate
 howTo: true
@@ -20,7 +21,7 @@ A ghost wallet only works if it still looks like a ghost with cards in it. This 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). If you want a smaller, simpler ghost with a fold-over flap, the [ghost mini wallet](/ghost-crochet-mini-wallet/) is a different design worth a look. This one teaches shaping with decreases and joining two layers with an edging.
 
-![A cream crochet ghost pouch with a zipper, black eyes, and pink cheeks](../../assets/articles/ghost-crochet-wallet-thumb.png)
+![A cream ghost-wallet concept illustration; follow the snap-closure construction diagram](../../assets/articles/ghost-crochet-wallet-thumb.png)
 
 The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and lay a real bank card on the front panel before you join. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size.
 
@@ -68,7 +69,7 @@ Each panel is 17 stitches, 4.25 inches wide. The side edging takes a little from
 <figcaption>Diagram. Both panels start the same way. The back keeps going and rounds off.</figcaption>
 </figure>
 
-![The two cream panels before joining: a taller back with a stepped top, and a shorter front](../../assets/articles/ghost-crochet-wallet-panels.jpg "Concept illustration of the finished wallet.")
+![The two cream panels before joining: a taller back with a stepped top, and a shorter front](../../assets/articles/ghost-crochet-wallet-panels.jpg "Illustration.")
 
 **Back panel**, cream:
 
@@ -94,7 +95,7 @@ Fasten off. Weave the tails in now; they are hard to reach after joining.
 
 Fasten off and weave in.
 
-Lay the front on the back with the hems matched. The front should end with 8 rows of the back showing above it. If it is wider than the back, one panel gained a stitch; count both.
+Lay the front on the back with the hems matched. The front should end with 8 rows of the back showing above it. If their widths differ, count both panels first. Equal stitch counts can still measure differently if your tension changed; remake the mismatched panel rather than stretching it to fit.
 
 ### Stage 2: the face, while the back is flat
 
@@ -103,7 +104,7 @@ Lay the front on the back with the hems matched. The front should end with 8 row
 <figcaption>Diagram. Stitch k mirrors stitch 18 minus k, so the face stays centered.</figcaption>
 </figure>
 
-![Black oval eyes, a small mouth, and pink cheeks on cream crochet, above the pocket opening](../../assets/articles/ghost-crochet-wallet-face.jpg "Concept illustration of the finished wallet.")
+![Black oval eyes, a small mouth, and pink cheeks on cream crochet, above the pocket opening](../../assets/articles/ghost-crochet-wallet-face.jpg "Illustration.")
 
 Pick the side of the back panel you like better. That is its right side, and it faces forward, above the front panel. Count stitches from the right-hand edge with row 1 at the bottom.
 
@@ -116,13 +117,19 @@ Work through the back panel only and keep the strands on the wrong side short. T
 ### Stage 3: the snap, before joining
 
 <figure class="diagram">
+<img src="/diagrams/ghost-pocket-orientation.svg" alt="The back panel's right side is the pocket interior below the opening and the visible face above it. The front panel's wrong side faces that pocket. Join the hem and sides only." width="480" height="700" loading="lazy" decoding="async" />
+<figcaption>The two pocket-facing surfaces and the edge that must remain open.</figcaption>
+</figure>
+
+
+<figure class="diagram">
 <img src="/diagrams/ghost-wallet-snap.svg" alt="Diagram. Left, a side view: the tall back panel and shorter front panel joined at the hem, with the two halves of a snap facing each other inside the pocket at row 13. Right, the wallet to scale with an ID-1 card in the pocket, about 3.9 inches wide and 2.7 inches deep inside on paper, the snap above the top of the card." width="640" height="420" loading="lazy" decoding="async" />
 <figcaption>Diagram. The snap closes the top of the pocket from inside, so nothing shows on the ghost.</figcaption>
 </figure>
 
 1. Sew the **socket** half to the right side of the back panel at row 13, stitch 9. This side faces into the pocket.
 2. Sew the **ball** half to the wrong side of the front panel at row 13, stitch 9. This side also faces into the pocket.
-3. Lay the panels together and press. The two halves should meet. If they miss by more than a stitch, move one now. After joining, there is no way to reach them.
+3. Lay the panels together and press. The two halves should meet. If they miss by more than a stitch, move one now. Placement is easier while the panels are flat, although the pocket remains accessible after joining.
 
 Sew with doubled thread, four or five passes per hole, catching only the panel you are sewing on.
 
@@ -133,9 +140,15 @@ Sew with doubled thread, four or five passes per hole, catching only the panel y
 <figcaption>Diagram. One round joins the panels, scallops the hem, and leaves the front's top edge open.</figcaption>
 </figure>
 
-![The hem edging, four scallops across the bottom](../../assets/articles/ghost-crochet-wallet-hem.jpg "Concept illustration of the finished wallet. The pattern's repeat makes four scallops.")
+![The hem edging, four scallops across the bottom](../../assets/articles/ghost-crochet-wallet-hem.jpg "Illustration. The pattern's repeat makes four scallops.")
 
 Place the front panel on the right side of the back panel, wrong side of the front against the face side of the back, hems and side edges matched. Clip the sides with markers. Join cream yarn at a bottom corner in stitch 1 of the hem, working through both layers.
+
+**Mark the join before you begin.** Lay both foundation edges together and number their 17 chain positions from the starting corner. Mark row ends 1, 14, and 18 on each side of the back. Match front row end 1 to back row end 1, through row end 14. Below row 14 the hook must pass through a row-end opening in each panel. Above it, pass through the back only. A row-end opening is in the edge of the completed row, not the top V of a stitch and not the turning-chain loop. Spread the work on the table as you insert the hook so you can see both layers.
+
+**Snap orientation.** Below the opening, the decorated side of the back is the pocket interior; above the opening the same side is visible with the face. The front panel's undecorated back faces it. Hold the snap halves on those facing surfaces, clip the sides, insert your actual card stack, and close the snap before permanently sewing. Row 13 is a starting location: move both halves upward together if the hardware touches the cards.
+
+**Slope placement.** The five sc cover the four shaped row ends: one in row 19, one in row 20, two spread within row 21's edge, and one in row 22. Mirror this placement on the return side. Avoid reusing the top corner stitch when starting the nine top stitches. Check the outline lies flat; redistribute the slope stitches if it puckers or waves. This edging still needs a yarn sample to confirm its shape.
 
 **Hem:** Sl st in st 1. (Sk 1 st, 5 hdc in the next st, sk 1 st, sl st in the next st) 4 times. (17 hem sts used: 1 + 4 x 4)
 
@@ -165,10 +178,14 @@ The top edge of the front panel is the pocket opening. The edging passes it at t
 
 ## Make it yours
 
-- **A wider pocket.** Chain 20 for both panels (19 stitches). Each decrease row of the head then ends at 11 instead of 9, and the top of the edging gets 11 sc.
+- **A wider pocket with a plain hem.** Chain 20 for each panel (19 stitches). Work the same straight-row totals. Back rows 19–22 are: sc2tog, sc 15, sc2tog (17); sc2tog, sc 13, sc2tog (15); sc2tog, sc 11, sc2tog (13); sc2tog, sc 9, sc2tog (11). Use 19 sc through both layers across the hem, not the 17-stitch scallop repeat. Work 11 sc across row 22. Center the snap at stitch 10 and shift every face position one stitch toward the higher number: eyes 7 and 13; mouth 10; cheeks 6 and 14. Side-row counts stay unchanged. This variation is not shown in the 17-stitch diagrams.
 - **No scallops.** Work 17 sc along the hem through both layers instead of the scallop repeat.
 - **A glow-in-the-dark ghost.** Glow yarns are often thicker or stiffer. Swatch first; the stitch counts only work at the gauge.
 - **Lining.** Cut fabric to the front panel's size plus a 1/4 inch fold on every edge and hand-sew it inside the front before joining. The pocket loses a little width, so check with a card first.
+
+## Keep the pocket opening visible while joining
+
+Clip the two panels together and slide a card in before stitching. Mark both ends of the front's row 14 in a contrasting color. During the joining round, count paired row ends 1–14 up the first side, then switch to the taller back alone. On the other side, work the exposed back first and switch to both panels when you reach the other row-14 marker. The horizontal top of the front remains completely unworked. After the first side and hem are joined, check that the card still slides in before completing the second side.
 
 ## Common mistakes and fixes
 

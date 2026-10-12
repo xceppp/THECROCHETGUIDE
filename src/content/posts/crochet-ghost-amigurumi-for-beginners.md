@@ -1,8 +1,8 @@
 ---
 title: "Crochet Ghost Amigurumi for Beginners"
 description: "A beginner ghost two ways: a hanging ghost with a cinched head and open hem, or a standing ghost with a flat base and a front-loop skirt. Every round counted."
-pubDate: 2026-09-16
-updatedDate: 2026-10-11
+pubDate: 2026-09-04
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -85,7 +85,7 @@ Embroidered eyes are safer than glued or plastic ones for anything a child might
 
 **Stuff the head.** Fill rounds 1 to 9 firmly.
 
-**Cinch the neck.** Thread a strand of white yarn through every stitch of round 10, in and out, all the way round. Pull until the opening is about a finger wide, so it holds the stuffing in, then knot the ends and bury them inside. Polyester stuffing clings to itself, so a small opening is enough. The cinch also gives the ghost a neck.
+**Close the stuffing compartment.** Run white yarn through every stitch around round 10. Pull the circumference closed, not merely finger-wide, so no stuffing can migrate into the skirt. Secure it with a small knot tucked inward, then weave both tails through nearby stitches in different directions. Do not force a large amount of stuffing against the closure. This cinch changes the silhouette and must be checked on a sample. For a separate compartment, sew a small lining closed below the stuffed head instead.
 
 **Round 17:** (Sc 4, 2 sc in next) 6 times. (36)
 
@@ -110,7 +110,7 @@ This leaves the front loops of round 16 free for the skirt, and makes a fold lin
 
 **Round 19:** (Sc 2, sc2tog) 6 times. (18)
 
-Stuff firmly, especially the head. Put the most stuffing at the bottom, so the ghost sits flat.
+Stuff the head and sides evenly, but keep the closing base from bulging. Overstuffing the base makes it dome; a BLO fold does not guarantee a flat bottom. Set it on the table during closing and redistribute stuffing if it rocks.
 
 **Round 20:** (Sc, sc2tog) 6 times. (12)
 
@@ -137,6 +137,10 @@ Both builds end with a 36-stitch round. Any edge whose repeat divides 36 will wo
 - **Plain:** one round of sc. Quiet, and still clearly a ghost.
 
 A five-stitch scallop will not fit: 36 is not a multiple of 5.
+
+## Choose the bottom treatment before round 17
+
+For the hanging build, the stuffing belongs above the closed cinch and the skirt remains hollow. For the standing build, round 17 goes into the back loops of round 16, leaving the front loops of that same round available for the skirt. Run a contrasting marker strand through those free loops before continuing, without catching it into the base. After closing the base, check it on a flat table before adding the skirt. To pull a six-stitch closing hole shut, run the tail through each remaining front loop in order, pull gently, secure, and bury it. Neither version is a tested child's toy.
 
 ## Troubleshooting
 

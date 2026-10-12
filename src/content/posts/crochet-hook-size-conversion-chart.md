@@ -1,8 +1,8 @@
 ---
 title: "Crochet Hook Size Chart: US Letters to Millimeters"
 description: "A complete crochet hook conversion chart covering US letter and number sizes, millimeters, legacy UK sizes, and steel hooks for thread crochet."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-17
+updatedDate: 2026-10-12
 category: charts
 level: beginner
 printable: true
@@ -98,6 +98,10 @@ The hook on a yarn label is a starting point, not a rule.
 **Amigurumi.** Go one or two sizes smaller than the label so stuffing does not show through. Worsted on a 3.5 mm or 4 mm hook, rather than 5.5 mm, makes a firm toy.
 
 **Blankets and shawls.** Go one size larger. At the label's gauge, a blanket often feels stiff.
+
+## Use the millimeter size to resolve conflicting labels
+
+A hook marked G can be 4.0 or 4.25 mm depending on the maker. Select the printed millimeter size first, then make the pattern's gauge swatch. Steel labels also vary, so do not substitute by number alone. The “typical yarn” column is a starting suggestion, not an interchangeability rule: two yarns in category 4 may need different hooks to produce the same fabric. Compare the pattern with the current [Craft Yarn Council hook chart](https://www.craftyarncouncil.com/standards/hooks-and-needles) and [steel-hook chart](https://www.craftyarncouncil.com/standards/steel-crochet-hook-crochet-thread-sizes). Keep the hook you swatched with for the project.
 
 ## Common mistakes
 

@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Tumbler Sleeve"
 description: "A cotton sleeve for a tapered travel tumbler: a sideways strip with short rows for a handled cup, or rounds with spaced increases."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-20
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -25,16 +25,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A sage crochet sleeve on a plain handled tumbler](../../assets/articles/how-to-crochet-a-tumbler-sleeve-result.jpg "Illustration. The handle stays outside the fabric. Not a tested fit.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Sideways strip, rows going around the cup | Standard. Length comes from the row gauge. |
-| Short rows to lengthen one edge | A standard shaping technique. |
-| Rounds with spaced single increases for a gentle cone | Standard. |
-| A cup 4.5 in tall, 9.3 in around at the top, 8.5 at the bottom, 1.5 in handle base | Invented example. |
-| 4 sc and 5 rows to the inch | An unverified example gauge. |
-| "18 stitches tall and 36 stitches wide" | The old wording. Those 36 were rows, and rows use the row gauge. Corrected below. |
 
 ## Measure the cup
 
@@ -118,7 +108,15 @@ At each turning point the fabric steps, and a small gap can open. When you work 
 
 ## Stage 3: the rest of the strip
 
-**Rows 18–35:** Sc in each stitch, all 18. Ch 1, turn. (18)
+<figure class="diagram">
+<img src="/diagrams/tumbler-wedge-return.svg" alt="After four top-only short rows the full return traverses six current stitches, six older exposed stitches, six original full-row stitches." width="480" height="560" loading="lazy" decoding="async" />
+<figcaption>The first full row crosses three exposed levels without adding stitches.</figcaption>
+</figure>
+
+
+**Full row 18:** Starting at the top, sc into the six stitches of short row 4, then the six exposed stitches of short row 2, then the six still-unworked stitches of full row 17. Do not work a turning chain as an extra stitch. Ch 1, turn. (18)
+
+**Full rows 19–35:** Sc in each of the 18 stitches. Ch 1, turn. (18)
 
 Count the bottom edge: 35 rows. The top edge has 39.
 
@@ -143,15 +141,19 @@ Work a tube in rounds, from the bottom up, and spread a few single increases alo
 
 Chain 34 and join into a ring with a slip stitch, without twisting the chain. Work single crochet in rounds, using a marker. On rounds 6, 12, and 18, work 2 sc in one stitch, and put each increase in a different place around the tube so they do not stack into a ridge. Stop after round 22.
 
-This sleeve has no ease. It grips the cup. If it will not go on, start again with 36 stitches and two increases.
+This sleeve has no ease. It grips the cup. If it will not go on, start again with 36 stitches and three increases to reach 39; measure both edges and adjust the whole tube rather than only enlarging the bottom.
 
 ## Heat and water
 
 The sleeve is for holding a cup comfortably. It does not make a cup that is too hot to hold safe to hold, and it does not go in a microwave. A sweating cold cup wets the cotton. Take the sleeve off and dry it.
 
+## Follow the exposed stitches when the wedge ends
+
+Use a marker at each short-row turn. The first full row after the wedge travels through six stitches from the latest short-row pair, six exposed stitches from the earlier pair, then six exposed stitches from the full row below. That is eighteen actual stitches across three levels, not eighteen stitches in the latest six-stitch row. Do not fill turning-chain holes with extra sc. After the full row, remove the turn markers and count eighteen again on the return. Test on an empty, cool cup with the long edge at the larger circumference. Do not add a top wedge when the top is already loose.
+
 ## Troubleshooting
 
-**The top gaps away from the cup.** The taper is bigger than one wedge. Add a second wedge further along the strip.
+**The top edge is loose while the bottom fits.** Too many top-only short rows or too much top-edge length. Remove a wedge or reduce it. If the top edge is too tight while the bottom fits, add top-only short rows in pairs and try the strip again.
 
 **The bottom bunches.** The wedge was worked from the bottom edge. Check which end the marker is on.
 

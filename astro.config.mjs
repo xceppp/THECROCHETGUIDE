@@ -58,6 +58,40 @@ function rehypeWrapTables() {
  * nodes anywhere in the tree, so moving one into a figure does not stop it
  * being optimised.
  */
+/**
+ * One short label is enough to stop a drawing being read as a photograph.
+ * Repeated "Concept illustration of the finished wallet" lines are dropped.
+ * A caption that is only that phrase becomes "Illustration."
+ */
+function readerCaption(raw) {
+  let text = raw.trim();
+  text = text.replace(
+    /^(?:concept\s+illustration|illustration)\s+of the finished wallet\.?\s*/i,
+    "",
+  );
+  text = text.replace(/^(?:concept\s+illustration|illustration)\.\s*/i, "");
+  text = text.trim();
+  if (!text) return raw.trim() ? "Illustration." : "";
+  if (/^(?:concept\s+)?illustration\b|^diagram\b/i.test(text)) return text;
+  return `Illustration. ${text}`;
+}
+
+function textOf(node) {
+  if (!node) return "";
+  if (node.type === "text") return node.value ?? "";
+  if (!node.children) return "";
+  return node.children.map(textOf).join("");
+}
+
+function stripEmptyFigcaptions(node) {
+  if (!node?.children) return;
+  node.children = node.children.filter((child) => {
+    if (child.type !== "element" || child.tagName !== "figcaption") return true;
+    return textOf(child).trim() !== "";
+  });
+  for (const child of node.children) stripEmptyFigcaptions(child);
+}
+
 function rehypeFigures() {
   const isBlank = (node) => node.type === "text" && node.value.trim() === "";
 
@@ -101,39 +135,33 @@ function rehypeFigures() {
       if (image.type !== "element" || image.tagName !== "img") return child;
 
       const caption = image.properties?.title;
-      if (typeof caption !== "string" || caption.trim() === "") return child;
+      if (image.properties) delete image.properties.title;
+      const captionText = readerCaption(
+        typeof caption === "string" ? caption : "",
+      );
 
-      delete image.properties.title;
-      // Caption text is rendered as written. Finished-object pictures carry
-      // their own "Concept illustration" or "Illustration" wording; anything
-      // that is not already labeled gets a plain "Illustration." so a reader
-      // never mistakes a drawing for a photograph. How those illustrations are
-      // produced is explained once, on the disclosures page, not in every
-      // caption.
-      const text = caption.trim();
-      const captionText = /^(concept\s+)?illustration\b|^diagram\b/i.test(text)
-        ? text
-        : `Illustration. ${text}`;
+      const children = [image];
+      if (captionText) {
+        children.push({
+          type: "element",
+          tagName: "figcaption",
+          properties: {},
+          children: [{ type: "text", value: captionText }],
+        });
+      }
 
       return {
         type: "element",
         tagName: "figure",
         properties: {},
-        children: [
-          image,
-          {
-            type: "element",
-            tagName: "figcaption",
-            properties: {},
-            children: [{ type: "text", value: captionText }],
-          },
-        ],
+        children,
       };
     });
   };
 
   return (tree) => {
     transform(tree);
+    stripEmptyFigcaptions(tree);
     promoteLeadImage(tree);
   };
 }

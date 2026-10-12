@@ -1,8 +1,8 @@
 ---
 title: "Left-Handed Crochet: How to Follow Any Pattern"
 description: "Almost every crochet tutorial is filmed right-handed. Here is how to mirror patterns, diagrams and videos so you can follow any of them left-handed."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-20
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 printable: true
@@ -40,7 +40,7 @@ That is the entire change for flat work in rows. Chain, turn, work back the othe
 
 ## Difference 2: written patterns say "right" and "left"
 
-When a pattern gives a direction, swap it. Every time it says right, read left, and vice versa.
+Mirror directions that describe hook travel. Keep garment labels such as the wearer's right front tied to the wearer; do not swap every use of “right” and “left.” Resolve each asymmetric placement from the intended finished orientation.
 
 This matters in exactly three situations, and is irrelevant everywhere else:
 
@@ -52,7 +52,7 @@ For a scarf, a blanket, a hat, a dishcloth, a granny square, or a plain amigurum
 
 <div class="tip">
 
-**Before starting a garment, read the pattern through once with a pencil** and swap every left and right as you go. Ten minutes up front, and you never have to think about it again while your hands are busy.
+**Before starting a garment, read the pattern through once with a pencil** and label the intended garment sides and your starting edge before changing any directional instruction. Ten minutes up front, and you never have to think about it again while your hands are busy.
 
 </div>
 
@@ -64,7 +64,7 @@ For nearly everything, this is invisible and irrelevant — a mirror-image grann
 
 **Directional stitch patterns.** Anything that leans, spirals, or slants — chevrons, spike stitches, some cables — will lean the other way. Usually this looks perfectly good and nobody but you will notice.
 
-**Written text and lettering.** If you are crocheting letters or a graphgan with words, they *will* come out backwards. For these, read the chart from the opposite side: where a right-hander reads a right-side row from right to left, you read it from left to right.
+**Written text and lettering.** If you are crocheting letters or a graphgan with words, they *will* come out backwards. For these, keep the lettering layout in its intended orientation and read right-side rows in your working direction. A mirrored photograph of text is not the chart to follow. Check a small letter sample before committing to a graphgan.
 
 ## How to use right-handed videos
 
@@ -105,6 +105,10 @@ But do not force it. If it feels wrong after a few sessions, switch. Working lef
 **Seaming and joining are unaffected.** Whipstitching, slip stitch joins, and weaving in ends have no handedness.
 
 **Gauge swatches are unaffected.** Your gauge is your gauge. Nothing about being left-handed changes how gauge works or how to measure it.
+
+## Separate movement directions from garment labels
+
+Mirror hook movements and the direction you travel along stitches. Keep garment names tied to the wearer: a “right front” panel remains the wearer's right front when a left-handed person makes it. For asymmetric pieces, identify both the starting edge and the finished orientation before swapping any instruction. A chart containing letters must remain readable on the finished public face; change the direction you read the row rather than automatically flipping the entire lettering image. Mark the intended public face with a removable strand and compare the first few chart rows before working the full motif.
 
 ## Frequently asked
 

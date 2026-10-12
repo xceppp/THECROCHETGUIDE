@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 620" role="img">
+<title>Oval base: two end groups, two straight sides</title>
+<desc>Ten chains with chain one skipped. Three single crochet in each end chain two and ten; seven along each side. Twenty in round one and twenty-six in round two.</desc>
+<rect width="480" height="620" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif" fill="#2f2a26">
+<text x="16" y="36" font-size="22" font-weight="bold">Oval base: ends and sides</text>
+<text x="16" y="72" font-size="20">Labels run from the hook toward the knot.</text>
+<text x="16" y="100" font-size="20">Skip chain 1. End groups are in 2 and 10.</text>
+<rect x="16" y="124" width="40" height="40" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/><text x="28" y="151" font-size="20">1</text>
+<rect x="60" y="124" width="40" height="40" rx="4" fill="#f3d7cc" stroke="#b0604a" stroke-width="2"/><text x="72" y="151" font-size="20">2</text>
+<rect x="104" y="124" width="40" height="40" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/><text x="116" y="151" font-size="20">3</text>
+<rect x="148" y="124" width="40" height="40" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/><text x="160" y="151" font-size="20">4</text>
+<rect x="192" y="124" width="40" height="40" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/><text x="204" y="151" font-size="20">5</text>
+<rect x="236" y="124" width="40" height="40" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/><text x="248" y="151" font-size="20">6</text>
+<rect x="280" y="124" width="40" height="40" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/><text x="292" y="151" font-size="20">7</text>
+<rect x="324" y="124" width="40" height="40" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/><text x="336" y="151" font-size="20">8</text>
+<rect x="368" y="124" width="40" height="40" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/><text x="380" y="151" font-size="20">9</text>
+<rect x="412" y="124" width="52" height="40" rx="4" fill="#f3d7cc" stroke="#b0604a" stroke-width="2"/><text x="422" y="151" font-size="20">10</text>
+<text x="16" y="204" font-size="20" font-weight="bold">Round 1, 20 sc</text>
+<text x="16" y="236" font-size="20">3 sc in chain 2.</text>
+<text x="16" y="264" font-size="20">7 sc in chains 3 through 9.</text>
+<text x="16" y="292" font-size="20">3 sc in chain 10.</text>
+<text x="16" y="320" font-size="20">7 sc back along chains 9 through 3.</text>
+<text x="16" y="348" font-size="20">Do not add another stitch in chain 2.</text>
+<text x="16" y="392" font-size="20" font-weight="bold">Round 2, 26 sc</text>
+<text x="16" y="424" font-size="20">Increase in each of the 3 end stitches.</text>
+<text x="16" y="452" font-size="20">Keep 7 sc on each straight side.</text>
+<text x="16" y="480" font-size="20">6 + 7 + 6 + 7 = 26.</text>
+<text x="16" y="528" font-size="20">Check the footprint before the wall.</text>
+<text x="16" y="556" font-size="20">This map is a count, not a sample.</text>
+<text x="16" y="596" font-size="20">24 sts: ch 9, 6 per side. 22: ch 8, 5.</text>
+</g>
+</svg>

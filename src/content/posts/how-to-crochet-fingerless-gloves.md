@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet Fingerless Gloves"
 description: "Fingerless gloves from a ribbed cuff and single-crochet rounds, sized from your wrist, knuckles, and thumb. US terms."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-10
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -23,17 +23,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A pair of oatmeal crochet fingerless gloves](../../assets/articles/how-to-crochet-fingerless-gloves-result.jpg "Illustration. It draws a short thumb. This page makes a thumb opening only. Not a fitted pair.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Back-loop single crochet rows, sewn into a ring | A standard crochet rib for a cuff. |
-| Hand worked in rounds from the cuff's row ends | Standard construction. The pickup ratio depends on your gauge. |
-| A chain bridging skipped stitches | The standard way to leave a hole in a round. |
-| 4 sc and 5 rows or rounds to the inch | An unverified gauge, used only so the example has numbers. |
-| Half an inch under the wrist and knuckle measurements | A starting choice. Not a fit rule. |
-| Thumb gap about half the thumb's circumference | An estimate. Try it on. |
-| About 140 yards | An old line. It was not weighed and is withdrawn. |
 
 ## How the glove is built
 
@@ -85,7 +74,7 @@ Every number below follows from the five measurements and the gauge. Change eith
 | Thumb gap width | 2.5 in ÷ 2 × 4 sts | Skip 5, chain 5 |
 | Hand length | 3.5 in × 5 rounds | 17 rounds, 3.4 in |
 
-The earlier version of this page had two counting errors. It called 28 cuff rows 7 inches at 4 rows per inch, while its own gauge said 5 rows per inch, which makes 5.6 inches. Its thumb round chained 6 over 4 skipped stitches, which quietly turns 28 stitches into 30.
+Do not treat 28 cuff rows as 7 inches. At 5 rows per inch, 28 rows are 5.6 inches. Do not chain more stitches than you skip for the thumb, or a 28-stitch hand becomes 30.
 
 ## Stage 1: the cuff
 
@@ -107,7 +96,7 @@ Chain 9.
 
 Repeat row 2 until you have 30 rows. The ch 1 does not count as a stitch.
 
-Count ridges, not rows. In back-loop rows, each raised ridge is two rows, so 30 rows show 15 ridges on each side. Count the stitches every few rows too. A ninth stitch makes the cuff deeper at one end, and the seam will not meet.
+Record rows as you work; use ridges as a cross-check, not a replacement for the row count. In back-loop rows, each raised ridge is two rows, so 30 rows show 15 ridges on each side. Count the stitches every few rows too. A ninth stitch makes the cuff deeper at one end, and the seam will not meet.
 
 **Checkpoint:** relaxed, the strip is about 6 inches long. Wrap it around the wrist. It should close with a little stretch. If it overlaps, take out rows. If it gapes, add them.
 
@@ -122,7 +111,7 @@ The cuff edge is 6 inches. At 4 stitches per inch, 6 inches holds 24 stitches. O
 **Round 2:** Ch 1. (Sc in the next 5 stitches, 2 sc in the next) 4 times. Slip stitch to the first sc. (28)
 
 <figure class="diagram">
-<img src="/diagrams/gloves-step-2.svg" alt="Round 2: 24 to 28, drawn as rings from the center out. Round 1: undefined, 24 stitches. Round 2: (sc 5, 2 sc in next) 4 times, 28 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<img src="/diagrams/gloves-step-2.svg" alt="Round 2: 24 to 28, drawn as rings from the center out. Round 1: single crochet, 24 stitches. Round 2: (sc 5, 2 sc in next) 4 times, 28 stitches." width="480" height="509" loading="lazy" decoding="async" />
 <figcaption>Step 2. Four increases take the hand from the wrist's 24 stitches to the knuckles' 28.</figcaption>
 </figure>
 
@@ -136,6 +125,8 @@ The cuff edge is 6 inches. At 4 stitches per inch, 6 inches holds 24 stitches. O
 Put the marker in the first stitch of each round. The join of a joined round tends to drift a little to one side. That is normal. Count from the marker, not from where the seam seems to be.
 
 **Try it on after round 3.** The tube should close around the palm without gaps and without straining. If it is tight, rework round 2 with six increases for 30 stitches. If it slides around, work round 2 with two increases for 26.
+
+**If you changed the hand count.** Recalculate the thumb round rather than reusing 11 + 5 + 12. With a five-stitch gap, 26 stitches use sc 10, ch 5, skip 5, sc 11; 30 stitches use sc 12, ch 5, skip 5, sc 13. On the next round work one sc into every sc and each of the five chains. For a six-stitch gap at 28, use sc 11, ch 6, skip 6, sc 11, then restore all 28 stitch positions on the following round.
 
 ## Stage 3: the thumb gap
 
@@ -165,6 +156,10 @@ Fasten off. If the top edge flips outward, work one loose round of slip stitch t
 ## The second glove
 
 Write down four numbers from the first glove: cuff rows, the round 1 count, the round with the thumb gap, and the total rounds. Work the second to the same numbers. Before you weave in ends, lay the two gloves side by side. The holes should be at the same height and the tops should line up.
+
+## Recenter the thumb gap after a fit adjustment
+
+The example hand is twenty-eight stitches. Its gap row uses eleven sc, five skipped stitches and twelve sc: twenty-eight base positions, with five chains replacing the skipped span. If you altered the hand count, use the recalculated gap counts above. On the following round, insert into each chain link, not five sc all into one chain space, unless you deliberately choose that alternative and recount. Keep twenty-eight positions through the upper hand. Before making the second glove, record the final hand count and thumb span as well as the cuff rows and total rounds; a resized first glove needs a matching second.
 
 ## Troubleshooting
 

@@ -1,7 +1,8 @@
 ---
 title: "Pumpkin Crochet Wallet: Free Jack-o'-Lantern Card Pouch Pattern"
 description: "A jack-o'-lantern card wallet worked sideways in back-loop ribs, folded once, with a stitched face, rolled stem, and a leaf tab that snaps shut."
-pubDate: 2026-10-11
+pubDate: 2026-09-30
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -50,7 +51,7 @@ US terms. See the [abbreviations chart](/crochet-abbreviations-chart/).
 
 ## Size and gauge
 
-**Gauge:** 16 sc and 20 rows = 4 in in single crochet, as an example. Work your swatch in BLO, because back-loop fabric is shorter per row than plain single crochet. The [gauge guide](/crochet-gauge/) shows how to measure.
+**Gauge:** 16 sc and 20 rows = 4 in in single crochet, as an example. Work your swatch in BLO, because back-loop row gauge can differ from plain single crochet. The [gauge guide](/crochet-gauge/) shows how to measure.
 
 The piece is worked sideways. The 20 stitches in each row set the height before folding: 5 inches, which folds to 2.5. The number of rows sets the width. You work rows until the piece measures 4.25 inches, which is about 22 rows at the example gauge, whatever your back-loop row gauge turns out to be. After seaming, the inside is about 3.9 inches wide and 2.4 deep against a 3.37 by 2.125 inch card.
 
@@ -68,7 +69,7 @@ The piece is worked sideways. The 20 stitches in each row set the height before 
 <figcaption>Diagram. One raised rib for every two rows, on one face of the fabric.</figcaption>
 </figure>
 
-![The orange piece laid flat, with the ribs running vertically, before the face or the fold](../../assets/articles/pumpkin-crochet-wallet-ribs.jpg "Concept illustration of the finished wallet.")
+![The orange piece laid flat, with the ribs running vertically, before the face or the fold](../../assets/articles/pumpkin-crochet-wallet-ribs.jpg "Illustration.")
 
 With orange:
 
@@ -132,9 +133,9 @@ Keep rows 10 to 13 on stitches 1 to 5 clear; the leaf tab covers that spot. Neve
 <figcaption>Diagram. The tab is the closure. The stem only decorates.</figcaption>
 </figure>
 
-![The closed orange wallet. The leaf tab folds over the front; sew the stem on the back rim, behind that tab](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Concept illustration of the finished wallet. The stem in the picture sits on the tab. The pattern puts it on the back rim.")
+![The closed orange wallet. The leaf tab folds over the front; sew the stem on the back rim, behind that tab](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration. The stem in the picture sits on the tab. The pattern puts it on the back rim.")
 
-**Stem**, green: Ch 7. Sc in the 2nd ch from the hook and across. (6) Rows 2–3: ch 1, turn, sc in each st. (6) Fasten off with a 10 inch tail. Roll from one short end into a cylinder about 0.6 inch tall and sew the edge down.
+**Stem**, green: Ch 7. Sc in the 2nd ch from the hook and across. (6) Rows 2–3: ch 1, turn, sc in each st. (6) Fasten off with a 10 inch tail. Keep the six-stitch edges horizontal. Roll the six-stitch width around itself, bringing the short three-row ends together, and sew those ends together. The cylinder height is the three-row direction, about 0.6 inch at the example row gauge; do not roll the three-row height into the circumference.
 
 **Leaf tab**, green: Ch 4. Sc in the 2nd ch from the hook and across. (3) Rows 2–6: ch 1, turn, sc in each st. (3) Row 7: ch 1, turn, sc3tog. (1) Fasten off with a 10 inch tail. The tab is about 0.75 inch wide and 1.4 inches long.
 
@@ -155,9 +156,13 @@ Weave in ends inside the pocket along the seams. See [weaving in ends](/weaving-
 - **A white or green pumpkin.** Same counts, different yarn.
 - **Lining.** Cut fabric 4.25 by 5 inches plus a 1/4 inch fold all around, sew it to the wrong side before folding, and fold the two together.
 
+## Label the two rims before embroidery
+
+Lay the twenty-stitch rows horizontally and the row-count direction vertically. Choose one row-end edge as the front rim; label the stitch positions from that edge as 1–20 on every row, regardless of the direction in which that row was worked. The fold is between positions 10 and 11, and both row-end edges become the opening. Pair positions 10/11, 9/12, continuing to 1/20 when seaming the foundation and last-row edges. Work each rim into exactly one row end per completed row and use that actual rim count to center the tab. If it is not twenty-two rows, recenter the face from the measured midpoint rather than copying rows 11 and 12.
+
 ## Common mistakes and fixes
 
-**The ribs show on both sides.** Some rows were worked in both loops. Back loop on every row, including row 2.
+**The ribs show on both sides.** That is normal in turned BLO rows. If the texture changes partway through, check that every row after row 1 was worked into the back loop only.
 
 **The piece slants.** The first or last stitch of rows got skipped. Count 20.
 

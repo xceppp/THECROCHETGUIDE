@@ -1,8 +1,8 @@
 ---
 title: "How to Change Yarn Color in Crochet Cleanly"
 description: "Change colors without a visible knot or a wrong-colored turning chain, plus when to carry the old yarn up the side and when to cut it."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-29
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -20,11 +20,11 @@ That is the difference between a straight color line and a dot of the old color 
 
 ![Hook joining terracotta yarn on the last cream yarn-over](../../assets/articles/changing-yarn-color-crochet-1.jpg "Illustration. Finish the old stitch with the new color.")
 
-Work the last stitch in the old color until two loops remain on the hook.
+For single crochet or double crochet, work the last stitch in the old color until two loops remain on the hook. For half double crochet, three loops remain before the final yarn-over; pull the new color through all three.
 
-1. Stop before the final yarn-over. Two loops are still on the hook.
+1. Stop before the final yarn-over. Two loops are still on the hook for sc or dc; three remain for hdc.
 2. Drop the old color. Yarn over with the new color.
-3. Pull the new color through those two loops.
+3. Pull the new color through all remaining loops to complete the stitch.
 
 The stitch body stays the old color. The loop on the hook is the new color. Leave both tails about six inches, and keep going.
 
@@ -91,6 +91,10 @@ Do not knot it. Knots work to the surface with washing and show as a bump. Weave
 The magic knot and the Russian join splice two strands into one continuous yarn. The magic knot is faster and leaves a very small hard point. The Russian join is bulkier, smooth, and secure. Neither suits slippery yarn, or baby items, where woven ends are safer.
 
 The color change sits in the top of the last old stitch. On the wrong side, and on tall stitches, the new color can look as if it bleeds down a little. That is normal. It shows most in double crochet and taller stitches, and least in single crochet, which is why graphic colorwork is usually single crochet.
+
+## Practice a color change in two stitch heights
+
+Make ten sc, completing the tenth with color B on its final pull-through; ch 1 in B, turn and work ten sc. On a separate hdc swatch, stop the last hdc with three loops on the hook and pull B through all three; ch 2, turn and retain the original stitch count. Leave the idle yarn slack enough that the edge remains straight. Changing color does not add a stitch. If a new-color loop looks loose, snug the working yarn gently after making the next stitch, then weave both tails into matching-color stitches.
 
 ## Common mistakes
 

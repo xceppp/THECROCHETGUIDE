@@ -1,8 +1,8 @@
 ---
 title: "15 Easy Crochet Christmas Ornament Ideas"
 description: "Fifteen small Christmas ornament ideas, plus one complete flat star in US terms. Trees and snowflakes link out."
-pubDate: 2026-10-08
-updatedDate: 2026-10-11
+pubDate: 2026-09-24
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -93,6 +93,10 @@ Weave the ring tail. Chain 12, sew both ends behind one point.
 Use a branch that can take the weight. A stuffed bauble needs a sturdier loop than this flat star. Space ornaments so the loops do not share one twig.
 
 ![Crochet ornaments on a small tree](../../assets/articles/easy-crochet-christmas-ornaments-4.jpg "Illustration. Display idea. The photo is not fifteen separate patterns.")
+
+## Separate five star points from the joining stitches
+
+Round 2 makes five sc anchors and five ch-5 loops. After its join, slip stitch into the first loop before starting round 3. Work the full six-stitch point and its picot into that loop, then move directly to the next loop without adding sc into the intervening anchors. Finish all five loops and join to the first sc. Count thirty sc/hdc/dc stitches plus five picots; connecting slip stitches are not additional points. A hanger is made separately and sewn behind one point. The remaining ornament ideas need their own patterns or the explicitly linked tutorial.
 
 ## Mistakes
 

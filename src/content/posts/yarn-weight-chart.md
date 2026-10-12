@@ -1,8 +1,8 @@
 ---
 title: "Yarn Weight Chart: All 8 Categories, Plainly Explained"
 description: "A complete yarn weight chart from lace to jumbo, with the hook size and crochet gauge for each, and how to substitute one yarn for another safely."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-16
+updatedDate: 2026-10-12
 category: charts
 level: beginner
 printable: true
@@ -15,7 +15,7 @@ Every country and brand has its own name for the same thickness. What Americans 
 
 <div class="warning">
 
-**If you have an older chart, it may list only six categories.** The standard now includes lace as category 0 and jumbo as category 7, which makes the eight in the table below. Charts showing six groups predate that. The Craft Yarn Council has also announced a further update that adds a size 8. Its details were not published on the Council's site when this page was last checked, so it is not in the table.
+**If you have an older chart, it may list only six categories.** The standard now includes lace as category 0 and jumbo as category 7, which makes the eight in the table below. Charts showing six groups predate that. The linked Craft Yarn Council chart currently presents categories 0–7. Check that source for future changes rather than relying on an undated announcement.
 
 </div>
 
@@ -76,6 +76,10 @@ A pattern's own yardage is the number to buy. When there is none, weigh a sample
 For a large piece, crochet a measured square in the real stitch, weigh it, and scale by area. A 6 inch square is 36 square inches. A 30 by 40 inch blanket is 1,200, about 33 times as much.
 
 Dense single crochet can use half again as much yarn as an open double crochet mesh over the same area. Bobbles, puffs, and popcorns use the most. Buy one extra ball. Returning it is easier than matching a dye lot three weeks later.
+
+## Calculate a substitution from yardage and gauge
+
+If a project needs six hundred yards and the replacement yarn has one hundred sixty-five yards per ball, 600 ÷ 165 is about 3.64: round up to four balls before adding any separate reserve. Check the replacement's fiber, washed gauge and fabric feel, not only its category number. A category is a range, and ply names vary between markets. The [Craft Yarn Council weight system](https://www.craftyarncouncil.com/standards/yarn-weight-system) provides guideline ranges, not guaranteed interchangeability. For an unmeasured project, weigh a swatch in the actual stitch and scale by area or stitch count, then allow extra for edging and tails.
 
 ## Common mistakes
 

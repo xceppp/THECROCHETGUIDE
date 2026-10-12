@@ -1,8 +1,8 @@
 ---
 title: "Halloween Coasters: Pumpkin Circle and Granny Square Set"
 description: "A flat single-crochet pumpkin coaster with the increase math that keeps it flat, plus a granny square set. US terms."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-09-14
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -38,17 +38,6 @@ US terms. US single crochet is UK double crochet. US double crochet is UK treble
 
 ![Four Halloween crochet coasters: a spiderweb, a ghost, a jack-o'-lantern, and a black cat square](../../assets/articles/free-pattern-halloween-coasters-thumb.png)
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Six increases per round in single crochet | The usual starting point for a flat single-crochet circle. Your stitch shape decides whether it stays flat. |
-| Round n has 6n stitches | Arithmetic you can count. |
-| 4 sc to the inch | An unverified planning gauge. |
-| About 3.8 inches across | Arithmetic from that gauge. Not measured. |
-| A granny round adds 12 double crochet | Arithmetic you can count. |
-| Cotton under a warm mug | A fiber choice. Not a heat test. |
-| Yardage | Not weighed. The earlier 30 and 60 yard lines are withdrawn. |
 
 ## Why a flat circle adds six stitches a round
 
@@ -181,6 +170,10 @@ Work as the coaster through Rnd 4, then keep going in the same pattern through *
 ## Finishing
 
 Change color on the last yarn-over of the join. Weave the ends in as you go, because black ends show through orange if left loose. Block all pieces to the same measurement before calling the set done. Steam- or wet-block cotton as described in the [blocking notes](/weaving-in-ends-and-blocking/). Label the back of one coaster with the fiber content if you are giving the set away.
+
+## Check the outer circle before adding a plain round
+
+A flat coaster must keep enough increases to remain flat at its actual gauge. Round 9 worked even after a 48-stitch circle can start turning up into a wall; it is optional, not a guaranteed flat border. If it cups, undo it and finish round 8 with a loose slip stitch taper, or increase to 54 if a larger coaster is wanted. Set an empty, cool mug on it: the base must rest fully on flat fabric, not on the stem or a raised join. Compare all four finished squares after washing and drying before joining or gifting a set.
 
 ## Frequently asked
 

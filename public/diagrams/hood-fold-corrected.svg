@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 700" role="img">
+<title>Hood: crown, face and neck</title>
+<desc>W by H rectangle folds at center back to D equals W divided by two. Crown is sewn; face and neck stay open.</desc>
+<rect width="480" height="700" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif" fill="#2f2a26">
+<text x="16" y="36" font-size="22" font-weight="bold">Hood: crown, face, and neck</text>
+<rect x="40" y="64" width="400" height="180" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/>
+<line x1="240" y1="64" x2="240" y2="244" stroke="#7d8b72" stroke-width="3" stroke-dasharray="8 5"/>
+<text x="56" y="96" font-size="20">W = 2D</text>
+<text x="150" y="160" font-size="20">Center fold</text>
+<text x="56" y="228" font-size="20">Stitches across W</text>
+<text x="16" y="280" font-size="20">Rows build the height H.</text>
+<text x="16" y="308" font-size="20">Short edges are H long.</text>
+<rect x="80" y="340" width="220" height="180" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/>
+<line x1="80" y1="340" x2="300" y2="340" stroke="#b0604a" stroke-width="4"/>
+<line x1="300" y1="344" x2="300" y2="520" stroke="#7d8b72" stroke-width="3" stroke-dasharray="7 4"/>
+<line x1="80" y1="520" x2="300" y2="520" stroke="#7d8b72" stroke-width="3" stroke-dasharray="7 4"/>
+<text x="96" y="376" font-size="20">Crown seam = D</text>
+<text x="96" y="412" font-size="20">Fold is center back</text>
+<text x="316" y="430" font-size="20">Face</text>
+<text x="316" y="458" font-size="20">H + H</text>
+<text x="96" y="500" font-size="20">Neck opens to W</text>
+<text x="16" y="568" font-size="20">Sew only the crown edge.</text>
+<text x="16" y="600" font-size="20">Leave the face edges open.</text>
+<text x="16" y="632" font-size="20">Leave the neck edge open,</text>
+<text x="16" y="664" font-size="20">then sew that edge to the scarf.</text>
+</g>
+</svg>

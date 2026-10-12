@@ -1,8 +1,8 @@
 ---
 title: "Crochet Gauge: How to Measure It and Fix It"
 description: "Gauge is why your hat came out too small even though you followed the pattern. How to swatch, measure properly, and adjust when you are off."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-31
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -69,7 +69,7 @@ Match **stitch gauge** first. Width is what determines fit, and most patterns te
 
 ## When you can skip it
 
-Skip gauge for blankets, scarves, dishcloths, coasters, bags, and anything where an inch either way changes nothing.
+An exact gauge is optional only when the size can vary and you are working to a measured length or width. Swatch whenever a blanket must meet a target size, a coaster must support a particular mug, or a bag must fit specific contents. A wallet and a device sleeve need a fit check even though they are not garments.
 
 Do not skip it for hats, sweaters, mittens, gloves, socks, or any fitted garment. Do not skip it for amigurumi either. A loose gauge leaves gaps, and stuffing shows through. Toys are worked tight on purpose.
 
@@ -100,6 +100,10 @@ The same sum is on the [gauge calculator](/crochet-gauge-calculator/). It predic
 </figure>
 
 The same arithmetic works for length, using your row gauge. It is reliable for rectangles: blankets, scarves, dishcloths, simple shawls. On a fitted garment, every increase and decrease sits on the original numbers, so changing the count means redrafting the shaping.
+
+## Record both directions and the fabric condition
+
+Write the stitch, hook in millimeters, yarn, measured width, measured height, and whether the swatch was washed and dried. Divide counted stitches by width for stitches per inch and counted rows by height for rows per inch. For a 20-inch rectangle at 3.5 stitches per inch, start with 70 stitches plus the pattern's foundation-chain allowance. At four rows per inch, a 12-inch length needs about 48 rows. A swatch worked in turned sc rows does not necessarily predict spiral-round height or BLO row gauge: measure the fabric used by the actual project.
 
 ## Common mistakes
 

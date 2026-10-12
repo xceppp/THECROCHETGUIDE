@@ -34,11 +34,12 @@ for (const p of placements) {
   // End of that block: a heading is one line; a paragraph runs to a blank line.
   let end = start;
   if (!lines[start].startsWith("#")) while (end + 1 < lines.length && lines[end + 1].trim() !== "") end++;
+  const caption = typeof p.caption === "string" ? p.caption.trim() : "";
   const figure = [
     "",
     '<figure class="diagram">',
     `<img src="/diagrams/${p.file}" alt="${attr(desc)}" width="${w}" height="${h}" loading="lazy" decoding="async" />`,
-    `<figcaption>${attr(p.caption)}</figcaption>`,
+    ...(caption ? [`<figcaption>${attr(caption)}</figcaption>`] : []),
     "</figure>",
   ];
   lines.splice(end + 1, 0, ...figure);

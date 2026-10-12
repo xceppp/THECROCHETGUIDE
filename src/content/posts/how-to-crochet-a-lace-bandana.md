@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Lace Bandana"
 description: "A granny-triangle bandana in DK cotton, grown from the middle of the long edge until it fits. US terms."
-pubDate: 2026-10-08
-updatedDate: 2026-10-11
+pubDate: 2026-08-24
+updatedDate: 2026-10-12
 category: patterns
 level: intermediate
 howTo: true
@@ -23,16 +23,6 @@ US terms. US double crochet is UK treble. Names are on the [abbreviations chart]
 
 ![A cream crochet lace bandana worn tied at the nape](../../assets/articles/how-to-crochet-a-lace-bandana-result.jpg "Illustration. A worn cotton bandana with ties at the nape. The drawn mesh is not a stitch map of this pattern, and no sample was made.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Shells in chain spaces, one ch-2 corner per row | Standard granny construction. |
-| Ch 3 at the start of a row counts as a dc | The convention on this page. Crochet is not standardized here. |
-| Row n has 6n double crochet | Arithmetic you can count on the hook. |
-| Depth about half the long edge | Geometry, if the point blocks to a right angle. Not measured. |
-| 16 inch long edge, 12 inch ties | A starting target. Not fitted on a head. |
-| Yardage | Not weighed. The old 80-yard line was not a finished bandana. |
 
 ## How the triangle is built
 
@@ -47,7 +37,7 @@ Every later row starts at one end of the long edge, works down one side to the c
 
 The corner here, (3 dc, ch 2, 3 dc) in a ch-2 space, is the same corner a granny square uses, and on a square it makes a right angle. If your point blocks square, the triangle is half a square cut corner to corner. The long edge is that square's diagonal, and the depth from the long edge to the point is half of it. A 16 inch long edge gives a point about **8 inches** deep, and each short side is about 16 ÷ 1.414 = **11.3 inches**.
 
-That has a consequence the earlier version of this page missed. You cannot stop at a 16 inch long edge and get a shallow 5 inch bandana. With this corner, depth follows the long edge. If the point would hang too far down your neck, make the long edge shorter and the ties longer.
+You cannot stop at a 16 inch long edge and get a shallow 5 inch bandana. With this corner, depth follows the long edge. If the point would hang too far down your neck, make the long edge shorter and the ties longer.
 
 ## Yarn, hook, and tools
 
@@ -89,7 +79,7 @@ Mark the ch-2. You should see two shells and one corner. A third shell means ext
 
 **Row 2:** Ch 3, 2 dc in the same stitch. Ch 1. (3 dc, ch 2, 3 dc) in the corner. Ch 1. 3 dc in the top of the turning chain. Turn. (12 dc, 2 ch-1, 1 corner)
 
-The earlier version of this page gave 9 dc for this row. Four shells are 12.
+Four shells are 12 double crochet, not 9.
 
 <figure class="diagram">
 <img src="/diagrams/bandana-row-count.svg" alt="Row 2 drawn as four 3 double crochet shells with chain-1 dots after the first and before the last, and a chain-2 corner in the middle, for 12 double crochet and two chain-1 spaces. A table gives row 1 as 6 double crochet, row 2 as 12, row 3 as 18, row 4 as 24, and row n as 6n with 2 times n minus 1 chain-1 spaces." width="640" height="420" loading="lazy" decoding="async" />
@@ -131,6 +121,10 @@ Before you call it finished:
 2. The two short sides measure within a small fraction of each other.
 3. The long edge lies straight when unpinned, not curved inward.
 4. The point is a corner, not a rounded tip.
+
+## Mark the long-edge ends and the single point
+
+Use one marker in the ch-2 point and a different marker in the top of the beginning ch 3 at the long-edge end. At the next row start, ch 3 and two dc in the first stitch make the first edge cluster. At the far end, three dc go into the marked turning-chain top. All interior clusters belong in chain spaces. Row 4 has twenty-four dc, six ch-1 spaces and one ch-2 point; compare the two halves before adding row 5. Remove markers before washing, then block gently to the measured head fit without forcing a different angle into the point.
 
 ## Troubleshooting
 

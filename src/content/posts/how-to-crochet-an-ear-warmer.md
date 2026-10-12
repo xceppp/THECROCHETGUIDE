@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet an Ear Warmer"
 description: "A ribbed band sized from the head. US terms. The chain is the width and the rows are the circumference."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-07
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -23,17 +23,6 @@ US terms. US single crochet is UK double crochet. The rib is single crochet in t
 
 ![An oatmeal crochet ear warmer headband](../../assets/articles/how-to-crochet-an-ear-warmer-result.jpg "Illustration. A wide ribbed loop.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Back-loop single crochet | The rib. The chain-1 does not count. |
-| Chain = width, rows = circumference | The construction. |
-| Measure where a headband sits | Across the forehead and around the back, not over the crown. The [Craft Yarn Council chart](https://craftyarncouncil.com/standards/head-circumference-chart) is a full-head size, 21–23 inches for an adult woman and 22–24 for an adult man. A headband sits lower. Use your tape. |
-| Subtract 2 inches | A planning guess for a stretchy yarn. Not a fit rule. Stiff cotton may not go on if you cut that much. |
-| 3.5 stitches and 3.5 rows per inch | One unverified number used for both directions. Row gauge has to be measured on its own. |
-| 12 stitches and 70 rows | Arithmetic for about 3.4 inches wide and 20 inches around, and only if both gauges really are 3.5. |
-| About 80 yards | An old line. It was not weighed. |
 
 ## Step 1: Measure the head, then decide the ease
 
@@ -108,6 +97,10 @@ A crossed front, where the ends overlap in an X, uses up some length. Measure th
 The seam can sit at the nape so the bump is not on the forehead. That is a comfort preference, not a tested fit.
 
 ![The ear warmer next to a beanie](../../assets/articles/how-to-crochet-an-ear-warmer-5.jpg "Illustration. The beanie is a separate project, not part of this band.")
+
+## Match the two short ends stitch by stitch
+
+The short ends have twelve positions in the example: twelve used foundation-chain links at one end and twelve sc tops at the other. Hold them together without twisting and sew each matched pair, or slip stitch through both edges. Do not include the foundation's skipped chain or the unused turning chain as a thirteenth position. Try the loop before securing the final tail. If it is too small, open the seam and add whole rows; if too large, remove rows. A crossed-front version needs separate assembly instructions and is not defined by merely overlapping these ends.
 
 ## Mistakes
 

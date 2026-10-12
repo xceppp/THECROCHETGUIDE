@@ -1,8 +1,8 @@
 ---
 title: "12 Crochet Bag Charm Ideas from Scrap Yarn"
 description: "Twelve scrap-yarn bag charm ideas, plus one complete tiny heart pattern in US terms. The other shapes are ideas, not full patterns."
-pubDate: 2026-10-08
-updatedDate: 2026-10-11
+pubDate: 2026-08-31
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -108,6 +108,10 @@ Chain 12 for the hanger. Sew both ends between the lobes, on the back, so the po
 One charm on a zipper is enough. Three on the same pull tangle. If you want a set, use separate rings on separate hardware.
 
 ![Charms hanging from a handbag](../../assets/articles/crochet-bag-charm-ideas-4.jpg "Illustration. Separate rings. The photo is a styling idea, not twelve finished patterns.")
+
+## Complete one heart before making a set
+
+For the heart, inc means two sc into one stitch and dec means sc2tog. Body counts are 1, 2, 4, 6, 8, 8. On row 7, work only four stitches, turn and decrease twice; the other four body stitches must remain untouched for the second lobe. Mark that first unworked stitch before fastening off. The lobes finish at two stitches each. After weaving tails, sew a reinforced hanger through several stitches on the back between the lobes, keeping the center dip visible. Test with the charm alone. The other listed shapes remain ideas, not eleven additional complete patterns.
 
 ## Mistakes
 

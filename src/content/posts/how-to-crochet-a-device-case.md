@@ -1,7 +1,8 @@
 ---
 title: "How to Crochet a Case for Any Device (Sleeve or Pouch)"
 description: "One method per shape: fold a flat sleeve for a laptop, book, or tablet, or work a round pouch for earbuds or a lip balm. Sized from your device. US terms."
-pubDate: 2026-10-12
+pubDate: 2026-10-08
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -65,16 +66,16 @@ Close the device and measure three things: its **width**, its **height**, and it
 
 **Worked example, a 5 x 8 inch paperback**, same gauge:
 
-- Width: 5 + 0.5 planning gap = 5.5 in, so 22 single crochet, chain 23. If it is a thick hardcover, add the spine thickness into the width as well.
+- Width: for a 0.5-inch-thick paperback, 5 + 0.5 thickness + 0.25 seams + 0.25 ease = 6.0 in, so 24 single crochet, chain 25. Measure the spine of any book; thickness is part of the calculation, not an optional hardcover allowance.
 - Depth: choose how much of the cover stays visible. Three quarters of 8 in is 6 in of sleeve, so 12 in of fabric before the fold, which is 60 rows.
 
 An e-reader or small tablet is the same sum with its own three numbers. Measure, do not guess from the screen size on the box — that is a diagonal, not the width.
 
 ### Work the rectangle, keeping the count honest
 
-Chain your width-plus-one. For the paperback that is chain 23.
+Chain your width-plus-one. For the paperback example that is chain 25.
 
-**Row 1:** Single crochet in the second chain from the hook and in each chain across. Chain 1, turn. (22)
+**Row 1:** Single crochet in the second chain from the hook and in each chain across. Chain 1, turn. (24)
 
 <figure class="diagram">
 <img src="/diagrams/book-sleeve-step-1.svg" alt="A foundation chain of 23. The chain nearest the hook is skipped and the first sc goes into the 2nd chain from the hook, so row 1 has 22 sc." width="480" height="439" loading="lazy" decoding="async" />
@@ -92,7 +93,7 @@ Count across every ten rows. On a long piece, measure it lying flat, not hanging
 
 ### Fold, seam, and try the device before you weave in ends
 
-Fold so the first row meets the last row, right sides together. The fold is the bottom. Single crochet or whipstitch through both layers up each side, one stitch per row end, and leave the top open. Single crochet seams hold better than a whipstitch under weight.
+Fold so the first row meets the last row, right sides together. The fold is the bottom. Single crochet or whipstitch through both layers up each side, matching row ends, and leave the top open. For a sewn seam, make one whipstitch per matching pair without drawing it tight. For a crocheted sc seam, distribute stitches to your stitch-to-row gauge: at 4 sc and 5 rows per inch, work 4 sc over each 5 paired row ends. Check it lies flat; seam strength depends on yarn, stitch placement, and reinforcement, not the seam name alone.
 
 <figure class="diagram">
 <img src="/diagrams/sc-seam-two-layers.svg" alt="Two steps. 1: hold the pieces wrong sides together with the edges lined up stitch for stitch. 2: insert the hook through both layers at once, matching stitch to stitch, and work one sc in each pair; work 3 sc in a corner stitch to turn a corner flat." width="480" height="559" loading="lazy" decoding="async" />
@@ -175,6 +176,10 @@ A **hang loop** turns a lip-balm tube into a keychain. Sew the loop to the open 
 </figure>
 
 If you want to decorate a round pouch — bat wings, ears, a face — shape the appliqués separately and sew them on with the item inside so the flap still closes. The [bat earbuds pouch](/gothic-bat-earbuds-pouch/) works through triangle and picot shaping in detail.
+
+## Fit the base footprint before building a tube
+
+A measured perimeter sets the wall circumference but does not ensure a round base covers a rectangular case bottom. Place the item upright on the base: its corners must be supported without stretching the fabric into a different shape. If a round circle leaves corners outside, choose an oval or rectangular construction, or the folded sleeve. For a 27-stitch tube with drawstring closure, first work (sc 8, inc) three times to reach 30, then use fifteen (sc, ch 1, skip 1) repeats and restore thirty positions on the following round. Do not work an even-count eyelet repeat over twenty-seven stitches.
 
 ## Troubleshooting
 

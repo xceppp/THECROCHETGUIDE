@@ -1,7 +1,8 @@
 ---
 title: "Halloween Crochet Wallets: 5 Free Card Wallet Patterns"
 description: "Five free Halloween card wallet patterns: black cat, ghost, pumpkin, witch hat, and spiderweb. Compare skill level, size, and construction, then pick one."
-pubDate: 2026-10-11
+pubDate: 2026-09-29
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 printable: false
@@ -60,9 +61,9 @@ The diagrams further down are the counted construction.
 | Witch hat | Intermediate | 4.25 x 2.4 in | Button | Buttonhole and a three-layer seam |
 | Spiderweb | Intermediate | 4.25 x 2.6 in | Button loop | Backstitch embroidery |
 
-Sizes are worked out from a gauge of 16 sc and 20 rows to 4 inches. The pumpkin's back-loop rows will measure shorter, which is why that pattern works to a length instead of a fixed row count.
+Sizes are worked out from a gauge of 16 sc and 20 rows to 4 inches. The pumpkin's back-loop row gauge may differ, which is why that pattern works to a length instead of a fixed row count.
 
-**What you need for all five.** Worsted weight (CYC 4) yarn in black, cream, orange, and purple, scraps of gold, pink, green, and white, a US G/6 (4.0 mm) hook, two 3/8 inch sew-on snaps, two 5/8 inch flat buttons, and a tapestry needle.
+**What you need for all five.** Worsted weight (CYC 4) yarn in black, cream, orange, and purple, scraps of gold, pink, green, and white, a US G/6 (4.0 mm) hook, three 3/8 inch sew-on snaps, two 5/8 inch flat buttons, and a tapestry needle.
 
 ## Which one to make first
 
@@ -80,11 +81,15 @@ Every pattern gives sizes worked out from the example gauge of 16 sc and 20 rows
 
 Make a single crochet swatch about 5 inches square on the G/6 hook and measure the middle 4 inches, as in the [gauge guide](/crochet-gauge/). If you get 16 stitches and 20 rows, the cat, ghost, witch hat, and spiderweb are at the gauge those patterns assume. If you get 17 or 18 stitches, go up a hook size. If you get 14 or 15, go down one.
 
-The pumpkin is a different fabric. It is worked in the back loop only, and those rows are shorter than plain single crochet. Make a second small swatch in back loops, and follow that pattern's instruction to work until the piece measures 4.25 inches.
+The pumpkin is a different fabric. It is worked in the back loop only, and its row gauge must be measured separately from plain single crochet. Make a second small swatch in back loops, and follow that pattern's instruction to work until the piece measures 4.25 inches.
 
 A matching swatch only means the stitch size is in range. Seams, joins, and the flap still change the opening. Slide a real card in at the step each pattern names before you sew the closure.
 
 Weigh the plain swatch too. Each pattern gives its fabric area as a multiple of a 4 inch square, which is how you estimate yarn without guessing.
+
+## Choose the closure as well as the shape
+
+The collection contains five featured designs, with two additional flap-wallet tutorials linked separately. None of the five is a sealed coin purse. For each project, check its own fabric: the pumpkin uses BLO rows, the cat uses rounds, and the other three use flat rows. All five together require three snaps and two buttons, plus appropriate sewing thread. Make one complete wallet before preparing a batch. Record the hook, measured gauge, actual pocket size, closure position, and card-stack fit so you can reproduce your own result rather than assume the illustration establishes those measurements.
 
 ## Mistakes these patterns share
 

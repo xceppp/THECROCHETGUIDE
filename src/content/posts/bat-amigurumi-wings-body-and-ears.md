@@ -1,8 +1,8 @@
 ---
 title: "Bat Amigurumi: Wings, Body and Ears"
 description: "A small stuffed bat: an oval body, two ears, and a mirrored pair of scalloped wings made by turning one wing over. Every row counted. US terms."
-pubDate: 2026-09-16
-updatedDate: 2026-10-11
+pubDate: 2026-09-08
+updatedDate: 2026-10-12
 category: skills
 level: intermediate
 howTo: true
@@ -133,6 +133,10 @@ Before sewing, lay the two wings on top of each other with the straight edges to
 ![A tapestry needle embroidering small eyes and fangs onto a black crochet bat](../../assets/articles/bat-amigurumi-wings-body-and-ears-5.jpg "Illustration. Two eyes and a small white V for fangs are enough.")
 
 Two French knots for eyes, in a color that shows against dark yarn, and a small V of white for fangs. Less is better on a small face.
+
+## Finish the body before attaching the wings
+
+After round 10, cut a sewing tail, thread it through the six remaining front loops, pull closed, and secure it before hiding the tail. For the ears, the two-stitch end is the tip and the four-stitch last row is the base: sew row 4 to the body, leaving row 1 pointing upward. Mark the front center with a scrap strand. Pin one ear on each side of it and mirror the wing seams from the same body round. The straight five-row wing edge is the attachment edge; the seven-stitch scalloped edge points downward. Remove every pin before finishing.
 
 ## Troubleshooting
 

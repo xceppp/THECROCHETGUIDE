@@ -1,8 +1,8 @@
 ---
 title: "Halloween Crochet Card Wallet with Ghost (Easy Flap + Button)"
 description: "Size a single-crochet card wallet from the cards you carry: one rectangle folded into a pocket and flap, a button, and a flat ghost. Photos are illustrations."
-pubDate: 2026-09-30
-updatedDate: 2026-10-11
+pubDate: 2026-09-09
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -34,14 +34,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A close-up of a pumpkin-orange crochet card wallet with a black button closure and a small white ghost applique, held in front of warm Halloween candles and pumpkins](../../assets/articles/halloween-crochet-card-wallet-result.jpg "Illustration. A flap wallet with a button and a ghost.")
 
-## What is fact, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| 3.370 × 2.125 in, 0.030 in thick | The ISO/IEC 7810 ID-1 card size. Most US bank cards and licenses. |
-| Width covers the card, the stack, ease, and seams | Geometry, plus a starting allowance. |
-| 4 sc and 5 rows to the inch | An unverified example gauge. |
-| "Three cards is the maximum" | An old line that was never tested. Withdrawn. Your stack is the test. |
 
 ## How the rectangle becomes a wallet
 
@@ -101,7 +93,7 @@ Lay a card on the first row. The fabric should be wider than the card by about t
 
 The ch 1 does not count as a stitch. Count every few rows.
 
-**Checkpoint at row 24:** fold the first 12 rows up against the next 12. Slide the cards in. They should go in flat and sit just inside the opening. If the top of a card shows, add rows to both the front and back zones. Unfold and carry on.
+**Checkpoint at row 24:** fold the first 12 rows up against the next 12. Slide the cards in. They should go in flat and sit just inside the opening. If the top of a card shows, both pocket zones need more rows. Undo to the planned fold, extend the front, then work an equally deep back before starting the flap. Adding rows only at the current end lengthens the back, not the front. Write down the new fold and flap-start row numbers.
 
 ![Hands crocheting a flat orange single-crochet rectangle that will become the card wallet body and flap](../../assets/articles/halloween-crochet-card-wallet-1.jpg "Illustration. One tall rectangle. The pocket and flap are both in it.")
 
@@ -116,6 +108,12 @@ For a black stripe at the flap edge, [change color](/changing-yarn-color-crochet
 Fasten off. Six, four skipped, and six is sixteen, so the loop sits centered and the edge stays the same width. Four skipped stitches span about an inch, which suits a 3/4 inch button. For a 1/2 inch button, work sc 7, ch 3, skip 2, sc 7.
 
 ## Stage 4: fold and seam
+
+<figure class="diagram">
+<img src="/diagrams/folded-wallet-row-pairs.svg" alt="A front of twelve rows folds against twelve back rows. Row twelve matches thirteen; row one matches twenty-four. Flap remains unsewn." width="480" height="560" loading="lazy" decoding="async" />
+<figcaption>Front and back row ends are paired outward from the bottom fold.</figcaption>
+</figure>
+
 
 Fold rows 1 to 12 up against rows 13 to 24. Clip the sides. Whipstitch both sides from the fold to the opening, through the outer loop of each edge stitch. **Stop at the opening.** Sewing into the flap makes a closed pouch. Add an extra stitch at the top of each seam, where cards pull. Weave the ends inside the seams, not loose in the pocket.
 
@@ -163,6 +161,10 @@ Slide the cards in, close the flap, and tip the wallet upside down.
 | Bat | Gray or black | Two small black triangles in rows for wings, a 6-stitch head |
 | Spider | Gray or cream | A 6-stitch black circle with eight embroidered legs |
 | Cat | Black | Two ear triangles at the flap edge, embroidered whiskers |
+
+## Match the folded rows before sewing
+
+For the 31-row example, front rows 1–12 fold against back rows 13–24. From the fold upward, pair row 12 with 13, row 11 with 14, continuing to row 1 with 24. Rows 25–31 remain outside the side seams as the flap. Mark each pair with a clip if the edges are hard to read. Work the little ghost with ch 1 that does not count, and sew it through the flap alone while the pocket is open. Check the button through its loop before permanently sewing the button to the loaded wallet's marked position.
 
 ## Troubleshooting
 

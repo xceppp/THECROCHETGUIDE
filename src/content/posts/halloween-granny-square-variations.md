@@ -1,8 +1,8 @@
 ---
 title: "Halloween Granny Square Variations"
 description: "Halloween granny squares in four pictured steps: the classic cluster, candy-corn rings, a spooky dark center, then joining squares into a set."
-pubDate: 2026-09-16
-updatedDate: 2026-10-11
+pubDate: 2026-09-03
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -26,6 +26,10 @@ If you have not changed colors cleanly before, read [How to Change Yarn Color in
 US terms throughout. The rounds are the standard granny square. The pictures are illustrations of the finished look, so treat the color layouts as a plan you can change to suit your yarn.
 
 ![A set of finished Halloween granny squares in candy-corn, orange, and dark seasonal colors](../../assets/articles/halloween-granny-square-variations-result.jpg "Illustration. The finished look these color variations build toward.")
+
+## Starting every granny round consistently
+
+After round 1, travel with slip stitches across the next two dc and into the next corner space. In that corner, ch 3 (counts as the first dc), then work 2 dc, ch 2, and 3 dc. This is the first complete corner. Work the other corners and side clusters as described, separating adjacent groups with ch 1, and join to the top of the beginning ch 3. When changing colors, fastening off and rejoining the new color in a corner is an alternative to traveling. Never make ch 3 plus three dc for the first half-corner: that would be four dc instead of three.
 
 ## What you need
 
@@ -106,6 +110,10 @@ For a small wall hanging, join three squares in a column with purple joins and a
 **How many squares.** Finish and block one square, measure it, and divide the size you want by that measurement. Four squares across and four down make a 16-square cushion front. A blanket is the same arithmetic with bigger numbers. Decide the count after the first square, not before, or the finished piece comes out an awkward rectangle.
 
 **Mixing the variations.** Candy-corn, dark-center, and plain orange squares sit together as one set if they all finish on the same outer color. Edge them all in black, and the different centers read as a pattern rather than leftovers.
+
+## Make one counted square before colorwork
+
+Use the complete four-round square in the [granny-square tote tutorial](/how-to-crochet-a-granny-square-tote/) as your first swatch. Counts are 12, 24, 36, and 48 dc, including each round's beginning ch 3 as one dc. Each round has four ch-2 corners; the side ch-1 spaces total 0, 4, 8, and 12. Fasten off one color and rejoin the next in a corner if traveling slip stitches confuse you. Keep all four corners and all side spaces visible while counting. Apply the candy-corn sequence to those rounds; changing colors does not change the counts.
 
 ## Mistakes that muddy Halloween colorwork
 

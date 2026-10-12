@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 700" role="img">
+<title>Ghost wallet: surfaces and joining path</title>
+<desc>The back panel's right side is the pocket interior below the opening and the visible face above it. The front panel's wrong side faces that pocket. Join the hem and sides only.</desc>
+<rect width="480" height="700" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif" fill="#2f2a26">
+<text x="16" y="36" font-size="22" font-weight="bold">Ghost wallet pocket surfaces</text>
+<rect x="40" y="60" width="200" height="280" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/>
+<rect x="40" y="200" width="200" height="140" rx="4" fill="#f3d7cc" stroke="#b0604a" stroke-width="2"/>
+<line x1="40" y1="200" x2="240" y2="200" stroke="#7d8b72" stroke-width="3" stroke-dasharray="7 4"/>
+<text x="52" y="100" font-size="20">Face, right side</text>
+<text x="52" y="132" font-size="20">of the back panel</text>
+<text x="52" y="250" font-size="20">Front panel outside</text>
+<text x="52" y="290" font-size="20">Pocket is behind it</text>
+<text x="16" y="372" font-size="20">Join the hem and the sides.</text>
+<text x="16" y="400" font-size="20">Leave the dashed opening open.</text>
+<text x="16" y="448" font-size="20" font-weight="bold">Inside the pocket</text>
+<text x="16" y="484" font-size="20">Front wrong side faces the</text>
+<text x="16" y="512" font-size="20">back panel's right side.</text>
+<text x="16" y="552" font-size="20">Both snap halves sit on those</text>
+<text x="16" y="580" font-size="20">facing surfaces.</text>
+<text x="16" y="620" font-size="20">The card slides between them.</text>
+<text x="16" y="660" font-size="20">Close the snap with cards in</text>
+<text x="16" y="688" font-size="20">before the final sewing.</text>
+</g>
+</svg>

@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Gnome, Step by Step"
 description: "A crochet gnome from four pieces: a body worked top down to a flat weighted base, a tall hat, a big nose, and a beard. Every round counted. US terms."
-pubDate: 2026-09-18
-updatedDate: 2026-10-11
+pubDate: 2026-09-21
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -160,7 +160,7 @@ Skin tone.
 
 **Round 5:** Sc2tog 6 times. (6)
 
-Stuff it lightly before the last round. Leave a long tail. Make it larger than feels tidy. A small nose looks like a mistake.
+Stuff lightly before round 5. After round 5, fasten off with a sewing tail, thread it through the six remaining front loops, pull closed, and secure it. Pin the nose in place before sewing; its size is a design choice.
 
 ## Step 5: the beard
 
@@ -173,6 +173,10 @@ Cut strands about twice the finished length you want. Fold each in half, pull th
 1. **Beard first**, so the nose can cover the top of it.
 2. **Nose** centered on the top of the beard.
 3. **Hat** pulled down until the brim touches the top of the nose. Pin it all the way round, look from a few feet away, then sew around the brim.
+
+## Check the base and hat as separate fittings
+
+After body round 18, redistribute stuffing while you can still reach inside. Keep the weighted insert centered against the base and the lower closure flexible enough to lie flat. After round 21, run the tail through all six front loops, pull closed and secure it. Pin the empty hat on the body before adding the beard: its forty-two-stitch rim must reach the intended position without tugging. Different hat and body yarns can have different gauge even with the same hook. Mark the front, add beard, sew the closed nose, then sew the hat brim through body surface stitches, removing every pin.
 
 ## Troubleshooting
 

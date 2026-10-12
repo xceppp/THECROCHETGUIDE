@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Chunky Beanie"
 description: "A bulky-yarn beanie sized from your head, with a sideways ribbed brim. Shows how to pick up the body evenly so it does not flare. US terms."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-11
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -25,16 +25,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![An oatmeal chunky crochet beanie with a folded brim](../../assets/articles/how-to-crochet-a-chunky-beanie-result.jpg "Illustration. A bulky hat with the brim folded once.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Back-loop single crochet rib, worked sideways | Standard. |
-| Hat smaller than the head (negative ease) | Standard. The amount depends on the yarn. |
-| Picking up stitches evenly along row ends | Standard. |
-| Crown decreasing 5 stitches a round | Standard flat-crown shaping for single crochet. |
-| 2.5 sts and 3 rib rows to the inch | Invented examples. |
-| About 120 yards | Old line. Not weighed. Withdrawn. |
 
 ## Measure the head
 
@@ -110,7 +100,7 @@ Bring the first row up to the last without twisting the band. Seam the short end
 
 ## Stage 2: pick up the body
 
-Join yarn at the seam, on the edge that will be the fold.
+Join yarn at the seam on the row-end edge that will sit above the brim. The opposite row-end edge remains the lower brim; if the brim is folded, the fold runs halfway across its eight-stitch depth, not along the pickup edge.
 
 ![The hat body worked upward from the brim](../../assets/articles/how-to-crochet-a-chunky-beanie-3.jpg "Illustration. The body is worked in the round from the band.")
 
@@ -120,7 +110,7 @@ If your numbers do not divide as neatly, work out how many row ends you have for
 
 **Even rounds:** Sc in each stitch. (50) Join each round, or spiral with a marker.
 
-Try it on with the brim folded. Stop the even rounds when the hat reaches about the depth you measured minus 1 inch. The crown adds a little height as it closes.
+Try it on with the brim folded. Measure your round gauge too. The nine crown rounds add about 9 divided by your rounds-per-inch to the fabric length. Estimate that allowance, then start decreasing before the overall brim-to-top target is reached. Crown fabric curves inward, so baste the last opening and try the hat on before fastening off; if it is too deep, undo some even rounds. Do not use a fixed one-inch allowance for every gauge.
 
 ## Stage 3: the crown
 
@@ -131,7 +121,7 @@ Each round removes 5 stitches, which keeps the crown nearly flat in single croch
 **Round 1:** (Sc 8, sc2tog) 5 times. (45)
 
 <figure class="diagram">
-<img src="/diagrams/beanie-step-2.svg" alt="Crown round 1: 50 to 45, drawn as rings from the center out. Body: undefined, 50 stitches. Crown 1: (sc 8, sc2tog) 5 times, 45 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<img src="/diagrams/beanie-step-2.svg" alt="Crown round 1: 50 to 45, drawn as rings from the center out. Body: single crochet, 50 stitches. Crown 1: (sc 8, sc2tog) 5 times, 45 stitches." width="480" height="509" loading="lazy" decoding="async" />
 <figcaption>Step 3. Five decreases a round, spaced evenly, keep the crown flat.</figcaption>
 </figure>
 
@@ -157,6 +147,10 @@ Each round removes 5 stitches, which keeps the crown nearly flat in single croch
 </figure>
 
 For another count that is a multiple of 5, start with the round whose repeat matches: 55 stitches starts with (sc 9, sc2tog), 60 with (sc 10, sc2tog). Thread the tail through the last 5 stitches, pull closed, and weave it down inside. A knot on the crown shows through bulky yarn.
+
+## Choose one round convention and keep it
+
+For joined body and crown rounds, ch 1 does not count, start in the same stitch as the join, and join to the first sc after each round. For a spiral, omit both joins and ch 1 and move a marker into the first new stitch. Choose before picking up the body; do not switch midway without noting it. The example pickup is fifty stitches across sixty row ends, five stitches per six-row group. Mark ten groups to distribute it. Body stitch gauge, brim row gauge, and body round gauge are separate measurements; all three affect fit.
 
 ## Troubleshooting
 

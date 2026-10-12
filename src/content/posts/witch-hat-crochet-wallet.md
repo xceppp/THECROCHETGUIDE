@@ -1,7 +1,8 @@
 ---
 title: "Witch Hat Crochet Wallet: Free Two-Pocket Card Wallet Pattern"
 description: "A purple card wallet with two pockets, a worked buttonhole flap, and a black and orange witch hat appliqué. Row-by-row counts in US terms."
-pubDate: 2026-10-11
+pubDate: 2026-10-06
+updatedDate: 2026-10-12
 category: patterns
 level: intermediate
 howTo: true
@@ -67,7 +68,7 @@ Seventeen stitches make 4.25 inches; after the side seams, each pocket is about 
 <figcaption>Diagram. Three zones in one piece. The chain edge becomes the front rim.</figcaption>
 </figure>
 
-![The purple rectangle before it is folded, with the buttonhole worked into the row](../../assets/articles/witch-hat-crochet-wallet-rectangle.jpg "Concept illustration of the finished wallet. In the pattern the hole is centered.")
+![The purple rectangle before it is folded, with the buttonhole worked into the row](../../assets/articles/witch-hat-crochet-wallet-rectangle.jpg "Illustration. In the pattern the hole is centered.")
 
 With purple:
 
@@ -107,7 +108,7 @@ Fasten off. The divider is 11 rows, about 2.2 inches, one row shorter than the f
 <figcaption>Diagram. Hat band in orange, the rest in black. Keep row 31 clear.</figcaption>
 </figure>
 
-![The small black hat with an orange band, beside a ball of purple yarn](../../assets/articles/witch-hat-crochet-wallet-hat.jpg "Concept illustration of the finished wallet.")
+![The small black hat with an orange band, beside a ball of purple yarn](../../assets/articles/witch-hat-crochet-wallet-hat.jpg "Illustration.")
 
 **Cone:**
 
@@ -136,13 +137,17 @@ The hat is about 1.25 inches wide at the band and about 1.2 inches tall with the
 
 1. **Fold.** Fold rows 1 to 12 up against rows 13 to 24, right sides out. The chain edge is now the front rim.
 2. **Divider.** Slide it between the front and back, its lower edge in the fold. Clip all three layers at both sides.
+**Secure the divider bottom first.** Whipstitch all 17 foundation-chain positions of the divider to the inside bottom fold, using shallow stitches that do not show on the outside. The divider must meet the bottom continuously so a card cannot pass under it from one compartment to the other. Match divider row ends 1–11 to the first 11 side-seam positions; front and back have one additional position at the top.
+
+
+
 3. **Side seams.** Join purple at the bottom fold on one side. Ch 1. Work 12 sc up the side, one in each row end, through front, divider, and back. The 12th stitch catches only front and back, because the divider is one row shorter. Fasten off. Repeat on the other side.
 4. **Button.** Put two cards in, close the flap, and mark the front through the buttonhole. It should land near row 7, stitch 9, about 1.3 inches below the fold. Sew the button there through the front layer only, so it does not stitch the pocket shut.
 5. **Ends.** Weave them along the seams, as in [weaving in ends](/weaving-in-ends-and-blocking/).
 
 <div class="tip">
 
-To stop the divider from riding up when you pull a card out, tack its lower edge to the fold with a few whipstitches at the center and each quarter.
+Check the continuous divider-bottom seam before closing the sides. Sparse tacks can leave openings between the compartments.
 
 </div>
 
@@ -153,6 +158,10 @@ To stop the divider from riding up when you pull a card out, tack its lower edge
 - **Edged flap.** Work one round of slip stitch around the flap edges for a firmer outline.
 - **Other hat colors.** A green or purple band, or a black hat with a silver band. Keep the band a color that shows against the flap.
 - **Lining.** Line the back only, so the divider still fits. Cut fabric 4.25 by 2.4 inches plus a 1/4 inch fold.
+
+## Keep the hat above the buttonhole and the divider below the rim
+
+The rectangle divides into front rows 1–12, back rows 13–24 and flap rows 25–33. Fold first to see the closed flap orientation, then pin the hat on the flap only, leaving row 31's hole clear. For a resized buttonhole, use the specified reversed left/right counts on its return row so the extra stitches do not shift the hole. Anchor the divider's entire lower edge inside the fold before seaming the eleven three-layer positions and final two-layer position. Test one card in each compartment separately; neither should pass underneath the divider.
 
 ## Common mistakes and fixes
 

@@ -1,7 +1,8 @@
 ---
 title: "Halloween Crochet AirPods Case: Black Cat Pattern"
 description: "A free black-cat crochet cozy for an AirPods charging case, sized from Apple's published dimensions. US terms. The lid opens; take the case out to charge."
-pubDate: 2026-10-11
+pubDate: 2026-10-07
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -22,11 +23,9 @@ Most AirPods case patterns hand you one stitch count and hope your case fits it.
 
 US crochet terms throughout. US single crochet is UK double crochet; see the [abbreviations chart](/crochet-abbreviations-chart/). The case dimensions here are Apple's own published figures, linked below. This is an independent accessory. It is not made, sold, or endorsed by Apple, and "AirPods" is used only to say which case it fits.
 
-![A black crochet cat cover on an open AirPods case, with pink inner ears, gold eyes, and a pom-pom](../../assets/articles/halloween-crochet-airpods-case-thumb.png)
-
 ## What you are making
 
-An open-top black sleeve that slides over the charging case. The base is a small oval worked flat to match the case footprint, and the walls rise straight up to just below the lid seam. Two triangular ears sit on the top corners, and a flap rises from the back, folds over the top to hold the case in for carrying, and unbuttons so the lid can open. A short chain loop clips to a bag. The face is embroidered, so nothing can pull off and be swallowed. To charge, you slide the case out, which keeps the honest answer simple: there is no wireless charging through yarn.
+An open-top black sleeve that slides over the charging case. The base is a small oval worked flat to match the case footprint, and the walls rise straight up to just below the lid seam. Two triangular ears sit on the top corners, and a flap rises from the back, folds over the top to hold the case in for carrying, and unbuttons so the lid can open. A short chain loop clips to a bag. The face is embroidered, so nothing can pull off and be swallowed. To charge, you slide the case out, which keeps the honest answer simple: this tutorial requires removing the sleeve before charging; it does not claim wireless compatibility.
 
 ## Which AirPods case this fits
 
@@ -44,6 +43,8 @@ Apple publishes these figures for the [AirPods Pro 2 USB‑C charging case](http
 <img src="/diagrams/airpods-measure-map.svg" alt="Front and side view of the AirPods Pro 2 USB‑C charging case. Width 2.39 inches or 60.6 millimeters, height 1.78 inches or 45.2 millimeters, side depth 0.85 inches. The lid seam runs across the upper part and the charging port is on the bottom. Footprint perimeter is 2 times 2.39 plus 0.85, which is 6.48 inches." width="480" height="520" loading="lazy" decoding="async" />
 <figcaption>Measure width, depth, and height with the lid closed. The sleeve is built around the footprint, so the perimeter is the number that decides the stitch count.</figcaption>
 </figure>
+
+**Measure the actual perimeter.** The 2 × (width + depth) column treats the rounded case as a rectangle and therefore overestimates its outline. Wrap a narrow paper strip around the widest part, mark the overlap, and use that measured length for your stitch calculation. The listed start counts are planning examples only. At this coarse gauge, changing two stitches changes the circumference by 0.5 inch, so a smaller yarn may give finer control. A correct perimeter does not by itself establish the oval's length and depth; check its footprint before building the wall.
 
 ## What you need
 
@@ -65,7 +66,7 @@ The worked example uses 4 sc to the inch and 5 rounds to the inch. From there th
 | --- | --- | --- |
 | Footprint perimeter (Pro 2) | 2 × (2.39 + 0.85) | 6.48 in |
 | Starting stitches | 6.48 × 4, rounded to even | 26 |
-| Foundation chain | straight side = (26 − 12) ÷ 2 = 7, so ch 7 + 2 | ch 9 |
+| Foundation chain | straight side = (26 − 12) ÷ 2 = 7, so ch 7 + 3 | ch 10 |
 | Wall height to the lid seam | about 1.2 in on the example case | about 6 rounds |
 
 Two things keep this honest. First, crochet stretches, so pick the count that lands **at or just under** the perimeter rather than over it; a cozy that measures a hair small grips, while one worked loose slides off. Second, the number of wall rounds is set by where your case's lid seam sits, which you find by fitting, not from a spec sheet, so treat "about 6 rounds" as the example and stop at your own seam.
@@ -87,24 +88,27 @@ The sleeve is a flat-bottomed tube with trimmings. An oval base worked around a 
 
 ## The full pattern
 
-Work in a spiral without joining, and keep a marker in the first stitch of each round. The base count follows one rule: **round 2 total = 2 × (straight side) + 12.** For the Pro 2's 26 stitches the straight side is 7; for 24 use 6, and for 22 use 5, adjusting the foundation chain to match.
+Work in a spiral without joining, and keep a marker in the first stitch of each round. The base count follows one rule: **round 2 total = 2 × (straight side) + 12.** For the Pro 2's 26 stitches the straight side is 7; for 24 use 6, and for 22 use 5, adjusting the foundation chain to straight-side count + 3.
 
 ### Stage 1: the oval base
 
-Work both long sides of the foundation chain and put three stitches in each end to turn the corner.
-
-**Foundation:** ch 9.
-
-**Round 1:** starting in the 2nd ch from the hook, sc 7 along the chain, 3 sc in the last ch (the end), then working back along the underside, sc 7, and 3 sc in the final ch (the other end). (20)
-
-**Round 2:** work each 3‑stitch end as 2 sc in each stitch to make 6, and sc across each straight side of 7 unchanged: 6, sc 7, 6, sc 7. (26)
-
 <figure class="diagram">
-<img src="/diagrams/airpods-base-oval.svg" alt="Oval base worked around a chain of 9. Round 1 is single crochet 7 down one side, 3 in the end, 7 back along the other side, 3 in the other end, for 20 stitches. Round 2 doubles each 3-stitch end to 6 and leaves the straight sides of 7 alone, for 26 stitches. The increases fall only at the two rounded ends." width="480" height="540" loading="lazy" decoding="async" />
-<figcaption>Stage 1. A flat oval grows at the ends only, not along the straight sides, so it stays the shape of the case footprint.</figcaption>
+<img src="/diagrams/airpods-oval-corrected.svg" alt="Ten chains with chain one skipped. Three single crochet in each end chain two and ten; seven along each side. Twenty in round one and twenty-six in round two." width="480" height="620" loading="lazy" decoding="async" />
+<figcaption>The exact chain positions and stitch totals for the revised base.</figcaption>
 </figure>
 
-**Checkpoint:** lay the base flat. A gentle cup is fine, since it becomes the wall. A ruffled, wavy edge means too many increases — the extra stitches belong only at the two ends. Then set it against the bottom of the case: the straight sides should run the length of the footprint (the case width) and the ends should sit around its thickness. If the oval is clearly longer or wider than the case bottom, change the straight-side count or drop a hook size before you build the wall.
+
+Work both long sides of the foundation chain and put three stitches in each end to turn the corner.
+
+**Foundation:** ch 10. Label the chains 1–10 from the hook toward the slip knot; chain 1 is skipped.
+
+**Round 1:** 3 sc in chain 2 (first rounded end; mark the first sc), sc in chains 3–9 (7 sc), 3 sc in chain 10 (second end). Rotate without turning the fabric over. Work one sc into each unused underside loop of chains 9–3 (7 sc). Stop before chain 2; it already contains its complete three-stitch end group. (20 = 3 + 7 + 3 + 7)
+
+**Round 2:** From the marker, inc in each of the first 3 sc, sc in the next 7, inc in each of the next 3, sc in the last 7. Move the marker into the first new sc. (26 = 6 + 7 + 6 + 7)
+
+
+
+**Checkpoint:** lay the base flat. A gentle cup is fine, since it becomes the wall. A ruffled, wavy edge can mean too many increases or a gauge mismatch — the extra stitches belong only at the two ends. Then set it against the bottom of the case: the straight sides should run the length of the footprint (the case width) and the ends should sit around its thickness. If the oval is clearly longer or wider than the case bottom, change the straight-side count or drop a hook size before you build the wall.
 
 ### Stage 2: the body
 
@@ -162,7 +166,7 @@ Sew one ear near each end of the top front, angled slightly outward, using the l
 <figcaption>Stage 5. Ears on the corners, face embroidered, flap over the back, loop behind. The front stays clear for the cat.</figcaption>
 </figure>
 
-![A black crochet AirPods case cozy with the plain charging case lifting out of the open top, showing the carrying loop and the covered port](../../assets/articles/halloween-crochet-airpods-case-1.jpg "Concept illustration. The open top lets the case lift straight out; the base covers the port, so the case comes out to charge.")
+![A black crochet AirPods case cozy with the plain charging case lifting out of the open top, showing the carrying loop and the covered port](../../assets/articles/halloween-crochet-airpods-case-1.jpg "Illustration. The open top lets the case lift straight out; the base covers the port, so the case comes out to charge.")
 
 ## Check the fit
 
@@ -170,15 +174,15 @@ Three checkpoints catch almost every problem. **The base** should lie flat with 
 
 ## Make it your own
 
-- **Other cases.** Use the table above: measure, find the perimeter, and set the base count with round 2 = 2 × straight + 12. The AirPods 4 case wants 22 stitches (ch 7), the AirPods 3 case 24 (ch 8).
-- **Snug or roomy.** For a tighter grip, drop to the next even count down; for a looser slide, go one up. A half inch around is one stitch at this gauge.
+- **Other cases.** Use the table above: measure, find the perimeter, and set the base count with round 2 = 2 × straight + 12. The AirPods 4 case wants 22 stitches (ch 8), the AirPods 3 case 24 (ch 9).
+- **Snug or roomy.** For a tighter grip, drop to the next even count down; for a looser slide, go one up. At four stitches per inch, two stitches change the perimeter estimate by half an inch.
 - **Not a cat.** Skip the ears and face for a plain sleeve, or restyle the front as a pumpkin or ghost using the scraps. Color changes are worked the usual way; see [changing yarn color](/changing-yarn-color-crochet/).
 - **A sturdier loop.** For a keychain clip, work the loop as a short chain of single crochet instead of a plain chain so it does not stretch out.
 
 ## When it goes wrong
 
 <figure class="diagram">
-<img src="/diagrams/airpods-mistakes.svg" alt="Four common mistakes. A twisted first round from joining with a twist, a ruffled wavy base from too many increases, a flap that jams the lid unless folded back, and a covered charging port that needs the case removed to charge." width="480" height="470" loading="lazy" decoding="async" />
+<img src="/diagrams/airpods-mistakes.svg" alt="Four common mistakes. A twisted oval from incorrect chain-loop placement, a ruffled wavy base from too many increases, a flap that jams the lid unless folded back, and a covered charging port that needs the case removed to charge." width="480" height="470" loading="lazy" decoding="async" />
 <figcaption>The four problems that actually come up, and the fix for each.</figcaption>
 </figure>
 
@@ -188,19 +192,23 @@ Three checkpoints catch almost every problem. **The base** should lie flat with 
 
 **The base ruffles before the wall.** The increases are stacking up. They belong only at the two ends; the straight sides get one stitch each, no more.
 
-**The first round twisted.** The oval closed with a half-turn in it. Keep all stitches facing the same way before you work round 2, and pull the tail to settle the ends.
+**The base twists.** This oval is worked around a chain, not formed by joining a foundation-chain ring. Check that the return side uses the seven unused chain loops, that the skipped chain was left alone, and that no chain was worked twice outside its end group.
 
 **The lid will not open.** The rim is too tall, or the flap is buttoned. Unbutton and fold the flap back; if the rim still covers the seam, your wall is a round or two too high for this case.
 
 ## Finishing and care
 
-Weave the tails in on the inside and give the sleeve a light steam or press so the base sits flat. Take the case out before washing; hand wash cool and dry flat, since cotton can shrink and turn a snug cozy too small. Leave charging to the bare case — the fabric does not pass power, so slide the case out to charge rather than sewing the flap shut over the port.
+Weave the tails in on the inside and give the sleeve a light steam or press so the base sits flat. Take the case out before washing; hand wash cool and dry flat, since cotton can shrink and turn a snug cozy too small. Leave charging to the bare case — the base covers the port and wireless charging compatibility is unverified, so remove the case to charge.
+
+## Fit the flap before making the buttonhole
+
+The seven-stitch flap is a starting width, not a fit measurement for every case. Remove the case for sewing, but use it as a form while marking: center the flap behind the hinge and work plain rows until it crosses the lid and reaches the intended front button position without tension. Work the buttonhole row only then. Keep the ears out of that path. For a carrying loop, make a separate reinforced strip: ch 13, sc in the second chain and across (12), fasten off with tails and sew both ends to several back-wall stitches. No load rating is established.
 
 ## Frequently asked
 
 **Can it charge while it is in the cozy?**
 
-No. There is no charging through the yarn. Slide the case out, charge it bare, and drop it back in.
+Remove it for charging. The base covers the wired port, and this sleeve has not been checked for wireless charging. Yarn alone does not establish whether wireless charging works.
 
 **Will it fit AirPods Max or the older AirPods?**
 

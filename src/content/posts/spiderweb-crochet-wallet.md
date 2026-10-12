@@ -1,7 +1,8 @@
 ---
 title: "Spiderweb Crochet Wallet: Free Pattern With an Embroidered Web"
 description: "A black card wallet with a pointed flap, a white backstitched spiderweb, a small purple crochet spider, and a button loop. Full counts, US terms."
-pubDate: 2026-10-11
+pubDate: 2026-10-05
+updatedDate: 2026-10-12
 category: patterns
 level: intermediate
 howTo: true
@@ -70,7 +71,7 @@ Seventeen stitches are 4.25 inches; after the side seams, the pocket is about 3.
 <figcaption>Diagram. The flap loses one stitch at each end of every row until it comes to a point.</figcaption>
 </figure>
 
-![The black pointed flap before any embroidery](../../assets/articles/spiderweb-crochet-wallet-flap.jpg "Concept illustration of the finished wallet.")
+![The black pointed flap before any embroidery](../../assets/articles/spiderweb-crochet-wallet-flap.jpg "Illustration.")
 
 With black:
 
@@ -126,7 +127,7 @@ Work through the flap only. If a line comes out crooked, unpick it; backstitch c
 <figcaption>Diagram. Two tiny balls and eight stitched legs.</figcaption>
 </figure>
 
-![The purple spider on the right side of the web, with the loop and button at the point](../../assets/articles/spiderweb-crochet-wallet-spider.jpg "Concept illustration of the finished wallet. The pattern uses five spokes.")
+![The purple spider on the right side of the web, with the loop and button at the point](../../assets/articles/spiderweb-crochet-wallet-spider.jpg "Illustration. The pattern uses five spokes.")
 
 With purple, on the smaller hook if you have one:
 
@@ -153,7 +154,7 @@ With purple, on the smaller hook if you have one:
 
 1. **Fold.** Fold rows 1 to 13 up against rows 14 to 26, right sides out. The chain edge is the front rim.
 2. **Side seams.** Join black at the bottom fold. Ch 1. Work 13 sc up the side, one in each row end, through both layers. Fasten off. Repeat on the other side.
-3. **Button.** Put two cards in and close the flap. Mark where the loop lands, near row 10 of the front, stitch 9, about 2 inches below the top. Sew the button through the front layer only.
+3. **Button.** Put two cards in and close the flap. Mark where the loop lands, at the marked position, centered across the front; row 1 is at the opening and row 13 is nearest the bottom fold. Sew the button through the front layer only.
 4. **Ends.** Weave in along the seams. See [weaving in ends](/weaving-in-ends-and-blocking/).
 
 ## Make it yours
@@ -163,6 +164,10 @@ With purple, on the smaller hook if you have one:
 - **No spider.** Embroider a small one instead: a French knot body and eight straight-stitch legs.
 - **Snap closure.** Skip the loop. Sew a 3/8 inch snap under the flap point and on the front.
 - **Lining.** Line the back only, so the pocket keeps its width. Cut fabric 4.25 by 2.6 inches plus a 1/4 inch fold.
+
+## Pair the folded pocket rows before marking the button
+
+Fold between rows 13 and 14. Pair front row 13 with back row 14, row 12 with 15, continuing to front row 1 with back row 26. Row 1 is now the top front rim, not the bottom. Sew only those thirteen row-end pairs on each side. The flap starts at row 27 and ends at row 34, so it remains free. With cards inside, lower the flap and mark the loop's actual landing place; ignore any estimated front-row number if your fit differs. Embroider only after fixing the flap's closed orientation, and keep the needle out of the pocket.
 
 ## Common mistakes and fixes
 

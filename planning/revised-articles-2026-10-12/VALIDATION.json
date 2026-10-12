@@ -1,0 +1,13 @@
+{
+  "published_articles": 64,
+  "drafts_unchanged": 10,
+  "modified_article_files": 64,
+  "asset_references_missing": 0,
+  "svg_xml_valid": 180,
+  "explicit_arithmetic_checks": 33,
+  "new_diagrams": 6,
+  "full_site_build": "Not run: export is not a complete application checkout",
+  "physical_testing": "Not performed",
+  "original_image_visual_review": "Sampled eight project assets; no complete stage-photo match certification",
+  "new_diagram_visual_review": "All six rendered and inspected"
+}

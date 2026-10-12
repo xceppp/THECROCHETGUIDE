@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Gothic Bat Earbuds Pouch"
 description: "A black crochet earbud pouch with purple bat wings, ears, a button flap, and a keychain loop. Shows how to shape and place sewn-on parts. US terms."
-pubDate: 2026-10-08
-updatedDate: 2026-10-11
+pubDate: 2026-09-11
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -35,15 +35,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A small black crochet bat pouch with purple wings, ears, a wood button, and a yarn loop](../../assets/articles/gothic-bat-earbuds-pouch-result.jpg "Illustration. A black body, purple wings, ears, button flap, loop.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| A cup sized by the case's perimeter | Standard. Detailed on the earbud pouch page. |
-| Triangles shaped with decreases at both edges | Standard. |
-| Chain picots on an edge | Standard. |
-| 30-stitch body for a small case | An example. Your case decides. |
-| 40 yards black, 15 purple, 2 to 3 hours | Old lines. Not measured. Withdrawn. |
 
 ## How it is built
 
@@ -159,6 +150,10 @@ A picot is a small chain loop that stands off the edge. Three per side read as t
 Check the case one last time. It should drop in and the flap should close without pulling.
 
 ![A white earbud case sitting in the open bat pouch](../../assets/articles/gothic-bat-earbuds-pouch-6.jpg "Illustration. The case drops in. The flap closes over it.")
+
+## Use markers to keep the decoration out of the opening
+
+Before the flap, flatten the filled pouch and mark the center back and the intended flap span. Rejoin at its first stitch if the spiral marker is elsewhere. For 30 rim stitches the flap is ten stitches; for 36 it is twelve. Work only that span and leave the rest open. Pin ears beside the flap base, then pin each wing's nine-stitch foundation edge vertically along one wall. Sew through wing and that wall only, with the device removed. Check the lid and flap movement after temporarily tacking each piece. Do not assume circumference alone guarantees a round base matches a box-shaped case.
 
 ## Variations
 

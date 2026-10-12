@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Makeup Pouch"
 description: "A cotton drawstring makeup pouch sized from the widest, thickest, and tallest things you carry. US terms."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-18
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -25,15 +25,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A small cotton drawstring pouch](../../assets/articles/how-to-crochet-a-makeup-pouch-result.jpg "Illustration. A closed rectangle with a tie at the top. Not a tested pouch.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Rectangle folded at the bottom, sides seamed | Standard construction. |
-| Width covers the item's width and its thickness | Geometry. The fabric goes around the item. |
-| 1.5 in above the tallest item for the gather | A starting allowance. |
-| 4 sc and 5 rows to the inch | An unverified example gauge. |
-| About 100 yards, a 110-chain tie | Old lines, not measured. Withdrawn. The cord is now measured. |
 
 ## How the pouch is built
 
@@ -122,7 +113,7 @@ Join yarn at one side seam at the opening. You will work around both top edges: 
 
 **Top round:** Ch 1, sc in each sc and in each ch-1 space. Slip stitch to the first sc. (56) Fasten off.
 
-The eyelet round needs an even count, because each repeat uses two stitches. If the seams took a stitch at the corners and you have 55, work 2 sc in one corner stitch before you start. The [drawstring bag](/how-to-crochet-a-drawstring-bag/) shows what an odd count does to the last hole.
+The eyelet round needs an even count, because each repeat uses two stitches. Work the counted fifty-six-stitch setup round described below before making the eyelets; do not add a stitch halfway through the eyelet repeat. The [drawstring bag](/how-to-crochet-a-drawstring-bag/) shows what an odd count does to the last hole.
 
 ## Stage 4: the cord
 
@@ -139,6 +130,10 @@ Thread it in and out of the eyelets, starting and finishing at the center front.
 Do not put nail polish, a leaking bottle, or a wet brush in this pouch. Cotton holds the stain and passes the liquid on to whatever it touches. This is a dry organizer, not a wash bag.
 
 </div>
+
+## Establish the opening count before making holes
+
+After seaming and turning, mark the two side folds. Join yarn and work a plain setup round: one sc in each of the twenty-eight top-row stitches and one in each of the twenty-eight used foundation-chain positions. Exclude the skipped foundation chain and do not add stitches into the side-seam ridges. Join to the first sc (56). Work the eyelet round over these fifty-six stitch tops, then restore fifty-six in the top round. If the setup count differs, fix it before the eyelets rather than inserting an extra corner stitch partway through the hole repeat. Yarn is porous: keep loose powder and liquids in their own sealed containers.
 
 ## Troubleshooting
 

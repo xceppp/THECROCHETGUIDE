@@ -1,8 +1,8 @@
 ---
 title: "Crochet Abbreviations Chart: Every Term Explained (US & UK)"
 description: "A complete crochet abbreviations chart in plain English, plus the US-to-UK conversion table that explains why your stitches came out wrong."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-21
+updatedDate: 2026-10-12
 category: charts
 level: beginner
 printable: true
@@ -111,11 +111,15 @@ The names are shifted by one. What the US calls a single crochet, the UK calls a
 <figcaption>Diagram. The letters move one stitch taller in UK terms. A UK dc is the short stitch.</figcaption>
 </figure>
 
-**`sc` means US terms.** UK terminology has no single crochet. **`htr` means UK terms.** So do `ss` for slip stitch and `yoh` for yarn over hook. "Colour", "tension" instead of "gauge", and grams instead of yards point to a UK or Australian designer. If you still cannot tell, work a small swatch both ways and compare it with the photo. A fabric half as tall as the picture is the giveaway.
+**`sc` means US terms.** UK terminology has no single crochet. **`htr` means UK terms.** `ss` and `yoh` are also used by some US designers, so neither proves that a pattern uses UK terminology. "Colour", "tension" instead of "gauge", and grams instead of yards point to a UK or Australian designer. If you still cannot tell, work a small swatch both ways and compare it with the photo. A fabric half as tall as the picture is the giveaway.
 
 ## Reading the punctuation
 
 Parentheses put stitches in one place: `(2 dc, ch 1, 2 dc) in next st`. At the end of a row they are the count, `(12 sts)`. Some patterns also use them for a repeat, `(sc, inc) 6 times`, so read what follows the closing parenthesis. Brackets repeat: `[sc, ch 1] x 6`. An asterisk starts a repeat that runs to the end. A number before a stitch is how many to make (`3 dc` is three double crochets). A number inside the name is how many stitches one decrease uses (`dc3tog` is one stitch made from three). If the previous row has 24 stitches, `*2 dc in next st, sk 1 st, rep from * to end (24 sts)` finishes at 24: each repeat uses 2 stitches and makes 2.
+
+## Read the placement words along with the abbreviation
+
+“Sc 3” means one sc in each of three successive stitches unless the instruction specifies “in the same stitch.” “3 sc in next st” means three sc all in one stitch. For (sc 2, inc) six times, each repeat uses three old stitches and makes four new stitches: start with 18 and finish with 24. “Ch-2 space” is the gap under the chain bridge; “each of the two chains” means the individual links. For special stitches, use the pattern-specific definition even if another designer uses the same abbreviation differently. Consult the [Craft Yarn Council list](https://www.craftyarncouncil.com/standards/crochet-abbreviations) for standard US terms.
 
 ## Mistakes
 

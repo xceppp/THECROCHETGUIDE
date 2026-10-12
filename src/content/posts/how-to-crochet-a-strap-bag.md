@@ -2,6 +2,7 @@
 title: "How to Crochet a Bag with a Strap (Shoulder or Crossbody)"
 description: "Add a strap to a folded sleeve to make a shoulder bag or a phone crossbody. How to size the strap, attach it so it holds, and fit it after it stretches. US terms."
 pubDate: 2026-10-12
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -26,13 +27,13 @@ US terms throughout. US single crochet is UK double crochet. See the [abbreviati
 
 The body is a single-crochet rectangle folded in half and seamed up the sides, open at the top, with one round worked around the opening to firm it. That full method — measuring the contents, adding the stack's thickness to the width, and keeping the stitch count honest over many rows — is the folded-sleeve method in the [device case guide](/how-to-crochet-a-device-case/). Work the body at the size you need:
 
-- **A phone crossbody** uses a small sleeve sized around one phone: each face covers the phone's width plus its thickness, plus a little ease and the seams. For a 3.0 x 6.0 x 0.35 in phone at 4 stitches to the inch, that is about 15 stitches wide and 67 rows, folded to a sleeve about 6.7 inches deep.
-- **A shoulder bag** uses a wider body sized around a small stack — a phone, a slim wallet, keys. Measure the widest item and the whole stack's thickness. For a 4.5 in wallet in a 1.5 in stack, that is about 27 stitches wide and 65 rows.
+- **A phone crossbody** uses a small sleeve sized around one phone: each face covers the phone's width plus its thickness, plus a little ease and the seams. For a 3.0 x 6.0 x 0.35 in phone at 4 stitches to the inch, that is about 15 stitches wide and 70 rows, folded to a sleeve about 7.0 inches deep.
+- **A shoulder bag** uses a wider body sized around a small stack — a phone, a slim wallet, keys. Measure the widest item and the whole stack's thickness. For a 4.5 in wallet in a 1.5 in stack, that is about 27 stitches wide and 66 rows.
 
 After seaming, join yarn at a side seam and work one round of single crochet around both top edges. On the shoulder bag that is 27 along the last row and 27 along the foundation chain, 54 stitches. This round keeps the opening from stretching and gives the strap something solid to anchor to.
 
 <figure class="diagram">
-<img src="/diagrams/shoulder-bag-step-2.svg" alt="Drawn to scale. A flat piece 27 sc, 6.75 in wide and 65 rows, 13 in tall, folded at the dashed line into a pocket. Seam both sides, then work 27 sc along row 65 and 27 along the foundation chain." width="480" height="547" loading="lazy" decoding="async" />
+<img src="/diagrams/shoulder-bag-step-2.svg" alt="Drawn to scale. A flat piece 27 sc, 6.75 in wide and 66 rows, 13.2 in tall, folded at the dashed line into a pocket. Seam both sides, then work 27 sc along row 66 and 27 along the foundation chain." width="480" height="547" loading="lazy" decoding="async" />
 <figcaption>The body is a folded rectangle; the top round joins both edges and firms the opening.</figcaption>
 </figure>
 
@@ -48,12 +49,9 @@ Chain 5 or 6, single crochet across (4 or 5 stitches), then single crochet every
 
 **Across the body.** A crossbody strap is a loop all the way around your torso, so measuring shoulder-to-hip on the front gives you only about half of it. Put on the clothes you will wear it over, hold a string at the hip where the bag's top should sit, run it across your chest, over the opposite shoulder, down your back, and to the other side of the bag, then measure.
 
-<figure class="diagram">
-<img src="/diagrams/crossbody-strap-loop.svg" alt="A torso outline with a string running from the bag at one hip, across the chest, over the opposite shoulder, down the back, and back to the hip. The loop is 52 inches in the example. The strap is 52 minus the bag's 3.75 inch top edge, about 48 inches, 240 rows. Measuring shoulder to hip on the front only gives about half." width="640" height="420" loading="lazy" decoding="async" />
-<figcaption>The bag's own top edge completes the loop, so subtract the body's width from the string measurement.</figcaption>
-</figure>
 
-The bag's top edge sits between the two strap ends, so the strap length is the loop minus the body width. For a 52-inch loop and a 3.75-inch body, the strap is about 48 inches.
+
+Measure the string path directly from one planned attachment point, across the chest and opposite shoulder, down the back, to the other attachment point. That path is the exposed strap length; add the overlap sewn inside the bag at both ends. Do not subtract the bag width a second time from a path already measured between attachment points.
 
 ## Attaching the strap so it holds
 
@@ -68,7 +66,7 @@ Lay one strap end inside the bag at the top of a side seam, overlapping by about
 
 1. **Sew the first end** with the box-and-X.
 2. **Pin the second end** inside the opposite side seam with two safety pins, and check the strap is not twisted.
-3. **Wear it loaded for a day.** Put in what the bag will carry and wear it, or hang it by the strap.
+3. **Baste the second end securely before checking it.** Do not carry a loaded bag supported only by safety pins. Use several temporary sewing passes over the overlap, then check with light contents while supporting the base. Remove basting to alter the length and sew the final box-and-X before normal use.
 4. **Remeasure and sew.** If it now hangs lower than you wanted, take out rows before sewing the second end the same way as the first.
 
 Every row of a single-crochet strap gives a little under steady weight, and over a hundred-plus rows that adds up to inches that cotton will not take back. Setting the length on the second day is what keeps the bag where you want it.
@@ -82,6 +80,10 @@ An open top is quick to reach but a hard swing can throw the contents. For a sho
 Single crochet is not waterproof and a bag is not padding. Rain and spilled drinks go through, and a dropped phone is not protected. This keeps your things at your side, nothing more.
 
 </div>
+
+## Write out the folded body before making the strap
+
+For the phone example at the stated four-stitch/five-row gauge: ch 16, sc in the second chain and across (15). Continue ch 1, turn, sc across until seventy rows make two equal thirty-five-row faces, about seven inches deep each; check against your phone before seaming. For the shoulder example: ch 28 for twenty-seven sc, work sixty-six rows for two thirty-three-row faces, then fit your actual contents. Fasten off, fold with equal faces and seam both sides only. The seventy- and sixty-six-row totals replace odd-row examples that could not split into equal numbered faces. Make the strap only after this fit check.
 
 ## Troubleshooting
 

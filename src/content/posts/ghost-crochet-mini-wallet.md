@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Ghost Mini Wallet"
 description: "A white crochet ghost wallet for one ID-1 card and a folded bill, with a flap tapered by decreases and a button loop. US terms."
-pubDate: 2026-10-08
-updatedDate: 2026-10-11
+pubDate: 2026-09-10
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -33,15 +33,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A white crochet ghost mini wallet with a button flap and a card at the pocket](../../assets/articles/ghost-crochet-mini-wallet-result.jpg "Illustration. A white flap wallet with a face.")
 
-## What is fact, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Card 3.370 × 2.125 in; bill 2.61 × 6.14 in | Published standards. |
-| One rectangle folded into front, back, and flap | Standard construction. |
-| A decrease at each end of a row narrows both edges | Standard shaping. |
-| 4 sc and 5 rows to the inch | An unverified example gauge. |
-| About 55 yards, 2 to 3 hours | Old lines. Not measured. Withdrawn. |
 
 ## How the wallet is built
 
@@ -134,9 +125,13 @@ Close the flap with the card inside. Mark where the loop lands on the front. Sew
 
 With black, embroider the face on the outside of the flap, above the loop: two short stitches for eyes, about 4 stitches apart, and a small wide V or oval a row below them for the mouth. Shallow stitches. Deep ones leave a bump on the inside of the flap that catches the card.
 
+## Mark the three zones before folding
+
+On the original 34-row version, place removable markers at rows 14 and 28. Fold between 14 and 15; the foundation edge meets row 28, while rows 29–34 remain the free flap. Pair side row ends from the fold upward: front 14 with back 15, front 13 with back 16, continuing to front 1 with back 28. Sew each pair without catching the flap. The loop in row 34 replaces four base positions with five chains and is intentionally not a ten-sc straight row. Test the actual button before fastening off that row.
+
 ## Variations
 
-**Card only.** A 12-row front and a 12-row back. Work rows 2–26 straight instead of rows 2–30, then the four shaping rows given as rows 31–34, and fold between rows 12 and 13.
+**Card only.** Work row 1 and rows 2–26 at 16 stitches. Mark the fold between rows 12 and 13: front 1–12, back 13–24, straight flap 25–26. New rows 27, 28, and 29 use the original decrease instructions for rows 31, 32, and 33, finishing at 14, 12, and 10. New row 30 is sc 3, ch 5, skip 4, sc 3. The foundation edge meets row 24 when folded; diagrams numbered through row 34 show only the original cash-and-card version.
 
 **A colored flap.** Work rows 31 to 34 in a second color, changing on the last yarn-over of row 30. See [changing yarn color](/changing-yarn-color-crochet/).
 

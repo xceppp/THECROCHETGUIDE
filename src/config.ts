@@ -21,7 +21,7 @@ export const SITE = {
     name: "M. Amine",
     role: "Publisher and editor",
     url: "/author/amine/",
-    bio: "M. Amine publishes and edits Crochet Explained: choosing what goes on the site, checking stitch counts and charts on paper before they are published, and correcting pages when readers report a problem.",
+    bio: "M. Amine publishes Crochet Explained for beginners who want practical patterns and plain explanations: what to buy, how a stitch works, and where a size comes from a gauge calculation rather than a finished sample.",
   },
   /**
    * Contact address, confirmed by the owner. Setting this to an empty string

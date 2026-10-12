@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Baby Blanket"
 description: "Plan a half double crochet baby blanket from a washed swatch. US terms. No buttons or ties. Not a tested blanket."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-13
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -29,15 +29,6 @@ Nothing on this page was safety-tested with a baby. Do not sew on buttons, beads
 
 </div>
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Half double in every stitch | A dense fabric. Mesh and filet are a different blanket. |
-| Wash the swatch before you trust the size | The step that makes a blanket different from a scarf. |
-| 30 by 36 inches | A common receiving target, not a measurement from this page. |
-| 90 stitches and about 90 rows | Only if the washed gauge is 3 stitches and 2.5 rows per inch. |
-| No appliqué | A rule for this use. A [flower](/how-to-crochet-a-simple-flower/) is for a bag, not for this blanket. |
 
 ## Step 1: Write the size, then wash a swatch
 
@@ -93,6 +84,10 @@ Fasten off. Weave ends for several inches inside the fabric. A knot on the corne
 ## What stays off the blanket
 
 No buttons, beads, sewn flowers, or long ties. Open mesh looks light and catches fingers. If you want a softer fabric, go up one hook size, wash a new swatch, and recount. Do not switch to a hole stitch to get drape.
+
+## Finish and measure the washed rectangle
+
+After reaching the planned length, fasten off with enough tail to weave through several stitch posts and reverse direction. Wash and dry according to the yarn label, then measure width and length again. Check each edge for protruding tails and loose stitches; no sewn decoration is added. This is a crochet blanket tutorial, not approval for infant sleep. Keep loose blankets out of an infant's crib or bassinet; use it only in an appropriate supervised setting. The [American Academy of Pediatrics safe-sleep guidance](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx) explains a clear sleep space.
 
 ## Mistakes
 

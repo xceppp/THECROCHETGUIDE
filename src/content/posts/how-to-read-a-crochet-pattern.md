@@ -1,8 +1,8 @@
 ---
 title: "How to Read a Crochet Pattern, Line by Line"
 description: "Crochet patterns are written in shorthand nobody teaches you. Here is how to decode a real pattern from the materials list to the last row."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-22
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -29,7 +29,7 @@ Read the pattern once before you chain. Check for a special-stitches section, fo
 
 <div class="tip">
 
-Skip the swatch for blankets, scarves, dishcloths, coasters, and bags. Do not skip it for hats, sweaters, mittens, socks, gloves, or amigurumi. Loose amigurumi lets the stuffing show.
+For an unfitted practice piece, work to a measurement instead of matching an exact gauge. Swatch for a target-size blanket, a fitted bag or wallet, and any project with a specific size requirement. Do not skip it for hats, sweaters, mittens, socks, gloves, or amigurumi. Loose amigurumi lets the stuffing show.
 
 </div>
 
@@ -37,7 +37,7 @@ Skip the swatch for blankets, scarves, dishcloths, coasters, and bags. Do not sk
 
 ## US or UK terms
 
-US and UK names are shifted by one. A US single crochet is a UK double crochet. If `sc` appears, the pattern is US. UK terms have no single crochet. If you see `htr`, it is UK. The table is in the [abbreviations chart](/crochet-abbreviations-chart/). If you cannot tell, assume US terms.
+US and UK names are shifted by one. A US single crochet is a UK double crochet. If `sc` appears, the pattern is US. UK terms have no single crochet. If you see `htr`, it is UK. The table is in the [abbreviations chart](/crochet-abbreviations-chart/). If you cannot tell, check the designer's stitch definitions or ask before starting. Do not assume a terminology system from the photograph.
 
 ## Rows and rounds
 
@@ -109,6 +109,10 @@ Garment patterns stack sizes in one line:
 The first number is the smallest size. The rest follow the size list at the top. Before row one, circle every number that belongs to your size.
 
 `Worked in multiples of 6 + 2` tells you how to change the width yourself. The starting chain must be a multiple of six, plus two. Chains of 20, 26, 32, and 38 work. A chain of 25 does not, and the pattern breaks at the end of the first row. Some designers state the multiple for the stitches and add the turning chain separately, so read the note under the foundation row before you chain.
+
+## Make a row-by-row worksheet
+
+Before starting, write four columns on paper: row/round, previous count, stitches consumed by one repeat, and resulting count. For (sc 2, inc) six times on eighteen stitches, write eighteen, three, twenty-four. For (sc 2, sc2tog) six times on twenty-four, write twenty-four, four, eighteen. A foundation chain and a turning chain are accounted for separately. If a pattern offers several sizes, highlight one complete size through every step before chaining. Do not silently repair an impossible repeat by adding stitches: check the designer's correction or resolve the construction first.
 
 ## Mistakes
 

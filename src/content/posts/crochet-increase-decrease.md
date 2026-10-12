@@ -1,8 +1,8 @@
 ---
 title: "Crochet Increases and Decreases: Shaping Explained"
 description: "How to increase and decrease in single, half double and double crochet, including the invisible decrease for amigurumi and where to place them for clean edges."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-27
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -111,6 +111,10 @@ Taller stitches need a larger start. A double crochet circle typically starts at
 **The circle cups like a bowl** when there are too few increases. That is what you want for a hat or a toy. Once the flat circle matches the crown, stop increasing and work even. The fabric turns into a dome, then a tube. Keep increasing and the hat stays a disc.
 
 **The edge ruffles** when there are too many increases. There is more fabric than the circumference needs.
+
+## Check consumed stitches as well as the result
+
+At 18 stitches, (sc 2, inc) six times uses all 18 and produces 24. At 24 stitches, (sc 2, sc2tog) six times uses all 24 and produces 18. Mark each repeat boundary if you keep losing your place. Do not count the two loops of a stitch as two stitches, and do not add a plain sc after the last repeat unless the pattern asks for it. A repeat can have the right arithmetic and still shape differently at your gauge: lay a flat circle on the table and check for cupping or waves.
 
 ## Common mistakes
 

@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Pumpkin Zipper Pouch"
 description: "A small orange crochet pouch with a hand-sewn zipper and a green stem, and how a straight zipper fits a round opening. US terms."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-09-15
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -25,15 +25,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A small orange crochet pumpkin zipper pouch with a green stem](../../assets/articles/how-to-crochet-a-pumpkin-zipper-pouch-result.png "Illustration. An orange pouch with a stem and a zipper across the top.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Flat circle increasing by 6, then even rounds | Standard construction. |
-| A round rim pinched flat is half its circumference long | Geometry. |
-| Zipper sewn by hand behind the top edge | A standard way to set a zipper into knit or crochet fabric. |
-| 4 sc and 5 rounds to the inch | An unverified example gauge. |
-| About 70 yards | An old line. Not weighed. Withdrawn. |
 
 ## How the pouch is built
 
@@ -130,6 +121,10 @@ Do not crochet into the zipper tape. Its weave is not made for a hook, and a cro
 ## Stage 4: the stem
 
 With green, join on the outside of the pouch, right next to one end of the zipper. Chain 8. Slip stitch in the second chain from the hook and in each chain back down. Slip stitch into the pouch to anchor it. Fasten off. If the stem flops into the zipper pull, it is too long. Remake it with ch 6.
+
+## Baste the zipper before permanent backstitching
+
+Mark twenty-four rim stitches on each side of the flattened forty-eight-stitch opening. Center the actual closed zipper between the side-fold marks and baste each tape independently to its own wall. Open it fully: no basting stitch should cross both tapes or front and back through the usable opening. Close it again and check the two rims are level. Only then close the short rim gaps outside the zipper stops and replace the basting with backstitch. Keep the needle out of the teeth. A fabric lining, if added, needs its own seam allowance and must not obstruct the pull.
 
 ## Troubleshooting
 

@@ -1,0 +1,198 @@
+[
+  {
+    "check": "six-increase circle round 3",
+    "previous": 12,
+    "consumed": 12,
+    "produced": 18
+  },
+  {
+    "check": "six-increase circle round 4",
+    "previous": 18,
+    "consumed": 18,
+    "produced": 24
+  },
+  {
+    "check": "six-increase circle round 5",
+    "previous": 24,
+    "consumed": 24,
+    "produced": 30
+  },
+  {
+    "check": "six-increase circle round 6",
+    "previous": 30,
+    "consumed": 30,
+    "produced": 36
+  },
+  {
+    "check": "six-increase circle round 7",
+    "previous": 36,
+    "consumed": 36,
+    "produced": 42
+  },
+  {
+    "check": "six-increase circle round 8",
+    "previous": 42,
+    "consumed": 42,
+    "produced": 48
+  },
+  {
+    "check": "six-increase circle round 9",
+    "previous": 48,
+    "consumed": 48,
+    "produced": 54
+  },
+  {
+    "check": "six-decrease round from 42",
+    "previous": 42,
+    "consumed": 42,
+    "produced": 36
+  },
+  {
+    "check": "six-decrease round from 36",
+    "previous": 36,
+    "consumed": 36,
+    "produced": 30
+  },
+  {
+    "check": "six-decrease round from 30",
+    "previous": 30,
+    "consumed": 30,
+    "produced": 24
+  },
+  {
+    "check": "six-decrease round from 24",
+    "previous": 24,
+    "consumed": 24,
+    "produced": 18
+  },
+  {
+    "check": "six-decrease round from 18",
+    "previous": 18,
+    "consumed": 18,
+    "produced": 12
+  },
+  {
+    "check": "six-decrease round from 12",
+    "previous": 12,
+    "consumed": 12,
+    "produced": 6
+  },
+  {
+    "check": "paired-edge decrease from 17",
+    "previous": 17,
+    "consumed": 17,
+    "produced": 15
+  },
+  {
+    "check": "paired-edge decrease from 15",
+    "previous": 15,
+    "consumed": 15,
+    "produced": 13
+  },
+  {
+    "check": "paired-edge decrease from 13",
+    "previous": 13,
+    "consumed": 13,
+    "produced": 11
+  },
+  {
+    "check": "paired-edge decrease from 11",
+    "previous": 11,
+    "consumed": 11,
+    "produced": 9
+  },
+  {
+    "check": "paired-edge decrease from 9",
+    "previous": 9,
+    "consumed": 9,
+    "produced": 7
+  },
+  {
+    "check": "paired-edge decrease from 7",
+    "previous": 7,
+    "consumed": 7,
+    "produced": 5
+  },
+  {
+    "check": "paired-edge decrease from 5",
+    "previous": 5,
+    "consumed": 5,
+    "produced": 3
+  },
+  {
+    "check": "three-stitch point",
+    "previous": 3,
+    "consumed": 3,
+    "produced": 1
+  },
+  {
+    "check": "beanie crown from 50",
+    "previous": 50,
+    "consumed": 50,
+    "produced": 45
+  },
+  {
+    "check": "beanie crown from 45",
+    "previous": 45,
+    "consumed": 45,
+    "produced": 40
+  },
+  {
+    "check": "beanie crown from 40",
+    "previous": 40,
+    "consumed": 40,
+    "produced": 35
+  },
+  {
+    "check": "beanie crown from 35",
+    "previous": 35,
+    "consumed": 35,
+    "produced": 30
+  },
+  {
+    "check": "beanie crown from 30",
+    "previous": 30,
+    "consumed": 30,
+    "produced": 25
+  },
+  {
+    "check": "beanie crown from 25",
+    "previous": 25,
+    "consumed": 25,
+    "produced": 20
+  },
+  {
+    "check": "beanie crown from 20",
+    "previous": 20,
+    "consumed": 20,
+    "produced": 15
+  },
+  {
+    "check": "beanie crown from 15",
+    "previous": 15,
+    "consumed": 15,
+    "produced": 10
+  },
+  {
+    "check": "beanie crown from 10",
+    "previous": 10,
+    "consumed": 10,
+    "produced": 5
+  },
+  {
+    "check": "AirPods revised chain 10: 20 then 26",
+    "consumed_chains": 9,
+    "round1": 20,
+    "round2": 26
+  },
+  {
+    "check": "ghost hem four scallops",
+    "base_positions": 17,
+    "hdc": 20,
+    "sl_st": 5
+  },
+  {
+    "check": "buttonhole, thumb-gap and handle placement",
+    "status": "arithmetic consistent"
+  }
+]

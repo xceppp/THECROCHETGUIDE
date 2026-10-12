@@ -1,8 +1,8 @@
 ---
 title: "Yarn for Christmas Crochet: Sparkle, Thread and What Actually Works"
 description: "Which yarn to use for ornaments, gnomes and snowflakes, why metallic yarn is harder than it looks, and the one safety point nobody mentions about candles."
-pubDate: 2026-09-18
-updatedDate: 2026-10-11
+pubDate: 2026-09-16
+updatedDate: 2026-10-12
 category: gear
 level: beginner
 quickAnswer: "Use worsted acrylic for stuffed Christmas pieces, and cotton or crochet thread when the piece has to hold a blocked shape. Keep metallic yarn as a short accent. Do not put any crochet piece next to a lit candle."
@@ -76,7 +76,7 @@ Wool is safer near heat: it has a high ignition point and tends to self-extingui
 
 </div>
 
-Candle rings, advent wreaths, mantel garlands, and potholders are the projects people make in cheap acrylic without thinking about it. Use cotton or wool near a flame, and never put a crocheted piece directly around a lit candle.
+Candle rings, advent wreaths, mantel garlands, and potholders are the projects people make in cheap acrylic without thinking about it. Keep all yarn decorations away from flames, hot lamps, fireplaces, and heaters. Cotton and wool are not a reason to place crochet near a flame; never put a crocheted piece around a lit candle.
 
 ## How much to buy
 
@@ -92,6 +92,10 @@ This page does not print a yardage table. None of the projects on this site has 
 3. **Multiply** the weight by yards per gram, then by the number of pieces, and add 10 to 20 percent for swatches and mistakes.
 
 Most small Christmas pieces use a fraction of a skein, so shop leftovers first. For a matched set, buy in one go so the dye lots match. A mismatch is invisible on one ornament and obvious when several hang on the same branch. Weights are in the [yarn weight chart](/yarn-weight-chart/).
+
+## Keep fiber choice separate from heat protection
+
+Read the fiber percentage and care instructions on every scrap before combining it with a project. A cotton coaster is not automatically a potholder, and no crochet decoration belongs near an open flame or a heater regardless of fiber. For a mixed-color stuffed ornament, compare fabric density in each yarn: a thinner color may show stuffing through the same stitch count. For a stiffened motif, test the thread with the actual stiffener, let it dry completely, and record the result. Weigh one finished piece for batch yarn planning rather than applying another project's yardage.
 
 ## Mistakes worth skipping
 

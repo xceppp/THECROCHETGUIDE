@@ -1,8 +1,8 @@
 ---
 title: "The 5 Basic Crochet Stitches, in the Order to Learn Them"
 description: "Slip stitch, single, half double, double and treble crochet explained step by step, plus what each one is actually good for."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-23
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -187,6 +187,10 @@ Swatch each stitch about 15 wide and 10 rows tall, then make a dishcloth in sing
 </figure>
 
 **A hard grip on the yarn.** Tight, uneven stitches usually mean the yarn hand is too tense. Let it run more freely.
+
+## Locate the next stitch
+
+Lay the row flat and find the V at the top of each stitch. Put a marker under both loops of the first and last real stitch. On the next row, move those markers into the stitches you actually make, not into the turning chain. For a 15-stitch sc exercise, chain 16 and keep 15 real Vs after every row. Practice hdc separately with chain 17 for 15 hdc, starting in the third chain; ch 2 is not counted in that exercise. Do not switch stitch heights halfway through a swatch intended to measure gauge.
 
 ## Frequently asked
 

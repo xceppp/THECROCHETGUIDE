@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Bowl Cozy"
 description: "Plan a two-layer cotton bowl cozy from your bowl. US terms. Not heat-tested. Do not microwave it or use it as a hot pad."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-25
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -21,25 +21,12 @@ A bowl cozy is a cotton square made of two layers, with the four corners sewn so
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No cozy for this page was crocheted, fitted on a bowl, or held against heat. The 12 inch square below is arithmetic for one example bowl. It is not a size to copy onto a different bowl.
 
-![A pink and cream crochet bowl cozy with side handles around a white bowl](../../assets/articles/how-to-crochet-a-bowl-cozy-thumb.png)
-
 <div class="warning">
 
 Cotton only. Acrylic can melt and can burn. Do not use metal thread, metallic yarn, wire, sequins, or metal buttons. Do not put this cozy in a microwave, on a stove, or in an oven. It has not been heat-tested, and it is not protection from a hot bowl. A thin cotton layer can scorch. A bowl that is too hot to hold can burn you through it.
 
 </div>
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Single crochet under both loops, chain-1 not counted | The stitch rule for this page. The chain-1 is only height. |
-| Two squares, joined | A construction choice so the square has enough body to stand. It is not a heat rating. |
-| Side = rim diameter + wall + wall | A planning model. It does not know the base of the bowl. |
-| 4 sc and 5 rows to the inch | An unverified gauge used only so the example has numbers. Replace it with your swatch. |
-| A 2 inch pinch | Arithmetic that can fail the base and the wall at the same time. Pin with the bowl in the square. |
-| Cotton, and no metal left in the fabric | A safety rule. |
-| Microwave, oven, or hot-pad use | Not supported. Do not. |
 
 ## Step 1: Measure three places on the bowl
 
@@ -177,6 +164,10 @@ Nothing on this page is evidence that the cozy protects you from a hot dish. Two
 5. Pinch with the bowl in the square until the walls clear the rim and the base still sits on flat fabric.
 
 The 12 inch example is step 2 for a rim of 6 and a wall of 3. It never had a base measurement, so it stops being useful at step 5.
+
+## Baste the darts before making permanent seams
+
+Label the four corners A–D. At A, fold the corner diagonally so its two adjacent outer edges meet. Mark the same measured distance from the corner along both edges, then baste the paired edges from the corner to the marks. Repeat at opposite corner C and set the empty, cool bowl inside. Adjust both equally until its base rests flat. Then baste B and D and try again. Only replace basting with permanent stitches after the bowl sits without rocking. Do not trim away the dart fabric during fitting. This is a shaped holder for a cool bowl, not tested heat protection.
 
 ## Mistakes
 

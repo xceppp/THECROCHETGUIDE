@@ -1,8 +1,8 @@
 ---
 title: "Crochet Santa Amigurumi for Beginners"
 description: "A one-piece Santa body and head, a hat, beard, and belt, with every round counted and a stitch-counting method for placing the face so it is not lopsided."
-pubDate: 2026-09-18
-updatedDate: 2026-10-11
+pubDate: 2026-09-22
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -98,7 +98,7 @@ Stuff the body firmly now, firmer than the head will be. A soft base slumps unde
 
 1. **Pick the front.** The color-change jog is at the back, so choose the stitch opposite it. Thread a strand of contrasting yarn up that column of stitches.
 2. **Pick the eye round.** The head is rounds 15 to 23. About two thirds of the way down from the top is round 18 or 17. Lower than instinct says looks friendlier.
-3. **Count out.** Each eye sits 2 stitches out from the marker on the same round, so there are 4 stitches between the eyes with the marker in the middle. Pin them.
+3. **Count out.** Each eye sits 2 stitches out from the marker on the same round, so the eye positions are 4 stitch steps apart, with three positions strictly between them including the marker. Pin them.
 4. **Nose position.** On the marker, one round below the eyes.
 
 Step back and look from a few feet away before you sew anything.
@@ -120,9 +120,13 @@ Stuff lightly with a pinch of stuffing, fasten off with a tail, and sew it on at
 
 ## Step 4: the beard
 
-Two options. **Fringe** is faster: cut white strands about twice the finished length, fold each in half, pull the fold through a stitch with the hook, then pull the ends through the fold. Work a curve from one side of the face, under the nose, to the other side, then trim. **A crocheted beard** is tidier up close: a half circle of white, worked in rows, sewn on under the nose.
+Two options. **Fringe** is faster: cut white strands about twice the finished length, fold each in half, pull the fold through a stitch with the hook, then pull the ends through the fold. Work a curve from one side of the face, under the nose, to the other side, then trim. **A crocheted beard** uses the four numbered rows below.
 
 Either way, the beard starts just under the nose and covers the bottom of the face.
+
+### Crocheted beard option, row by row
+
+For a compact flat triangular beard, use white and the body hook. Row 1: ch 8, sc in the second chain and across (7). Row 2: ch 1, turn, sc2tog, sc 3, sc2tog (5). Row 3: ch 1, turn, sc2tog, sc 1, sc2tog (3). Row 4: ch 1, turn, sc3tog (1). Fasten off with a sewing tail. With the seven-stitch edge just under the nose and the point toward the body, pin it without covering the eyes. Sew the top edge and tack each side through the beard and body surface only. This replaces the unspecified half-circle option; check its proportions on your Santa before sewing.
 
 ## Step 5: the hat
 
@@ -172,6 +176,10 @@ Keep going the same way, adding 3 stitches every other round, until the hat has 
 ## Step 6: the belt
 
 Black. Chain until the chain wraps the body at about round 9, then sc back along the chain. Sew it around the body. A small square of yellow, either a few stitches of embroidery or a tiny crocheted square, makes a buckle at the center front, on the marker line.
+
+## Mark the face before closing the head
+
+At the end of round 20, mark the front and the eye positions while the head is still open. Eyes two stitches to either side of the center are four stitch steps apart; there are three positions strictly between them. Use that center marker to place the nose one round lower. Close the head only after any plastic eye washers are fitted; for embroidered eyes, keep the tails inside and secure them before closure if possible. Make the beard and hat, pin both, then check that the hat brim leaves the eyes visible and the beard does not cover them.
 
 ## Troubleshooting
 

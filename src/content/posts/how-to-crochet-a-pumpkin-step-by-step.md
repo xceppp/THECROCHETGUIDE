@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Pumpkin, Step by Step"
 description: "A basic amigurumi pumpkin: increase, a short even section, decrease, then cinch grooves from the outside. Every round counted, with what flattens the shape."
-pubDate: 2026-09-16
-updatedDate: 2026-10-11
+pubDate: 2026-09-02
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -134,6 +134,10 @@ With brown or green:
 **Rounds 2–4:** Sc in each stitch. (6)
 
 Fasten off with a tail. Leave it hollow or stuff lightly. Sew it to the top center so it covers the point where the wraps meet.
+
+## Close the body and anchor the shaping strand
+
+After round 15, pass the tail through the six front loops, draw closed and secure it. Start a separate long shaping strand under several stitches at the bottom center so it has an anchor before the first groove is pulled. Guide each wrap through the same top and bottom centers, spacing the external strands evenly around the body. Keep tension gentle enough not to break the yarn or split the center stitches. Once all six grooves are balanced, secure and bury both ends, then sew the stem around its six-stitch open edge to the top center. The stem remains hollow unless lightly stuffed.
 
 ## Troubleshooting
 

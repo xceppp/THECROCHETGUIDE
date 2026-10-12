@@ -1,8 +1,8 @@
 ---
 title: "Crochet Mug Cozy for Beginners (Button Closure)"
 description: "Size a single-crochet mug cozy from your mug: a strip worked sideways, a loop that passes inside the handle, and one button. US terms."
-pubDate: 2026-10-01
-updatedDate: 2026-10-11
+pubDate: 2026-08-12
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -31,16 +31,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A handmade crochet mug cozy in cream and sage wrapped around a ceramic mug with a wood-button closure](../../assets/articles/crochet-mug-cozy-for-beginners-result.jpg "Illustration. It draws a textured stripe and a round button tab. This page makes plain single crochet with a chain loop.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Single-crochet rows worked sideways, ch 1 not counted | The construction. |
-| Body length = around the mug minus the handle base | A planning model taken from the mug. |
-| 4 sc and 5 rows to the inch | An unverified gauge, used only so the example has numbers. |
-| A chain loop inside the handle to a button | A closure choice. Check it on your mug. |
-| About 60 to 80 yards | An old shopping guess. Withdrawn. |
-| Keeping a drink warm | Not tested. |
 
 ## How the cozy is built
 
@@ -51,7 +41,7 @@ The foundation chain is the cozy's height. The rows travel around the mug. You w
 <figcaption>Stitches set the height. Rows set the length around the mug. Each uses its own gauge.</figcaption>
 </figure>
 
-The direction has a consequence. Because rows go around the mug, the length comes from your **row** gauge, not your stitch gauge. The earlier version of this page multiplied 9 inches by 4 stitches per inch and called it 36 rows. At 5 rows per inch, 9 inches is 45 rows. Nine extra rows is more than an inch and a half of cozy.
+The direction has a consequence. Because rows go around the mug, the length comes from your **row** gauge, not your stitch gauge. Do not multiply 9 inches by 4 stitches per inch. That uses the stitch gauge for the row direction and calls it 36 rows. At 5 rows per inch, 9 inches is 45 rows.
 
 It also changes stripes. A color change at the start of a row makes a stripe that runs up the mug, not around it.
 
@@ -137,7 +127,7 @@ Wrap the strip around the mug every 10 rows. Stop when the two short ends sit ag
 2. **Loop.** Wrap the cozy on the mug. On the last-row end, join yarn at mid-height, between stitches 6 and 7 of the 12. Chain until the chain passes through the handle gap and reaches around the button. Slip stitch back into the same place to close the loop, and fasten off.
 3. **Test it before you weave the ends.** Pass the loop through the handle and over the button. It should close with a slight stretch. A loop that slides off easily is too long. Pull it out and chain fewer.
 
-Do not sew the ends into a tube on a mug with a handle. The handle is fixed to the wall at the top and at the bottom, so a closed tube cannot slide past it. You would have to sew the cozy onto the mug and cut it off to wash it. The earlier version of this page suggested seaming "below and above the handle", which is where the handle is attached. For a cup with no handle and straight sides, a seamed tube works.
+Do not sew the ends into a tube on a mug with a handle. The handle is fixed to the wall at the top and at the bottom, so a closed tube cannot slide past it, and a seam at those attachments would have to be cut off to wash the cozy. For a cup with no handle and straight sides, a seamed tube works.
 
 ## Finish and fit check
 
@@ -156,6 +146,10 @@ Weave the ends in on the inside. If the long edges curl, steam cotton lightly. S
 A button is a small part that can come loose. Check its thread before you give the cozy, and keep it away from small children.
 
 </div>
+
+## Check button placement with the mug empty
+
+Mark the chosen button and loop positions with the strip wrapped around an empty, cool mug. The loop must travel through the handle opening and around the button without pulling either end over the handle attachment. Remove the strip before sewing. Use several passes through multiple crochet stitches and leave no loose thread that could catch a finger. If shortening the strip, undo the loop first and remove rows from the last-row end; then remake the loop. The foundation end holds the button and remains unchanged. Try it again before weaving the final tails.
 
 ## Troubleshooting
 

@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Wine Bottle Bag"
 description: "A drawstring tube for a bottle you measure, with the base, sides, and cord point worked out, and a handle so you never lift it by the cord."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-27
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -25,15 +25,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A sage crochet drawstring bag around a plain wine bottle](../../assets/articles/how-to-crochet-a-wine-bottle-bag-result.jpg "Illustration. A tube and a drawstring. Not a tested fit on a real bottle.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Flat circle, then even rounds | Standard construction. |
-| (Sc, ch 1, skip 1) eyelet round | Standard drawstring round. Needs an even count. |
-| A 9.4 in bottle, cord point 9 in up | Invented examples. Bottles vary at the shoulder and base. |
-| 4 sc and 5 rounds to the inch | An unverified example gauge. |
-| About 160 yards; "50 rounds, base included" | Old lines. The yardage was not weighed. The flat base does not add height. |
 
 ## Measure the bottle
 
@@ -116,7 +107,7 @@ Slide the bottle in every 10 rounds. Stop when the fabric reaches the cord point
 **Eyelet round:** (Sc in next, ch 1, skip 1) 20 times. (20 sc, 20 ch-1 spaces)
 
 <figure class="diagram">
-<img src="/diagrams/wine-bag-step-2.svg" alt="Eyelet round on 40, drawn as rings from the center out. Round 52: undefined, 40 stitches. Eyelet round: (sc in next, ch 1, skip 1) 20 times: 20 sc, 20 stitches." width="480" height="509" loading="lazy" decoding="async" />
+<img src="/diagrams/wine-bag-step-2.svg" alt="Eyelet round on 40, drawn as rings from the center out. Round 52: single crochet, 40 stitches. Eyelet round: (sc in next, ch 1, skip 1) 20 times: 20 sc, 20 stitches." width="480" height="509" loading="lazy" decoding="async" />
 <figcaption>Step 2. The eyelet round keeps the stitch positions: 20 sc and 20 chain spaces, back to 40 sc on the next round.</figcaption>
 </figure>
 
@@ -138,6 +129,10 @@ Slide the bottle in every 10 rounds. Stop when the fabric reaches the cord point
 Do not lift the bag by the cord. The cord passes through 20 chain-1 loops in a single round, and lifting by it hangs the full bottle from those loops. They stretch, and the eyelet round can tear.
 
 For a handle, chain 6 and work 5-stitch rows of single crochet to about 12 inches. Sew one end to each side of the bag, opposite each other, over the two or three solid rounds just below the eyelet round. Overlap about an inch and sew a box with an X through it, through both layers.
+
+## Support the bottle while checking the seams
+
+Place the filled bottle into the sleeve while it stands on a table. Mark the shoulder and eyelet height without lifting it by the cord. The forty-five side rounds are counted after the seven base rounds, not including them. Sew any handle with the bottle removed and keep stitches on opposite walls rather than sewing through the whole tube. A handle is not tested merely because its overlap looks secure; support the bottle from underneath when handling or gifting it. Leave the cord loose when inserting or removing the glass, and do not force a too-tight opening.
 
 ## Troubleshooting
 

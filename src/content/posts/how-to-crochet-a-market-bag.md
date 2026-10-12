@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Market Bag"
 description: "A cotton market bag with a solid single-crochet base, mesh sides, a firm band, and handles placed by count. US terms. Not load-rated."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-14
+updatedDate: 2026-10-12
 category: patterns
 level: intermediate
 howTo: true
@@ -31,15 +31,6 @@ There is no load rating for this bag, and this page gives no weight limit. Cotto
 
 </div>
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Flat circle, one even round, then straight sides | Standard construction for a round-based bag. |
-| (Dc, ch 1, skip 1) mesh | A standard filet-style mesh. Needs an even count. |
-| Handles sewn to a solid band | Standard practice. Not a load rating. |
-| 4 sc and 5 rounds to the inch; about 2 mesh rounds to the inch | Unverified example gauges. The mesh figure is for planning only. |
-| About 350 yards; base "near 8 inches" | Old lines. The yardage was not weighed. The base is 7.6 inches by the page's own arithmetic. |
 
 ## How the bag is built
 
@@ -126,7 +117,7 @@ Decide now whether the starting ch 3 counts as a double crochet. On this page it
 **Mesh round 1:** Ch 3 (counts as dc), ch 1, skip the next stitch. (Dc in the next stitch, ch 1, skip the next stitch) around. Slip stitch to the top of the ch 3. (48 dc, 48 ch-1 spaces)
 
 <figure class="diagram">
-<img src="/diagrams/market-bag-step-2.svg" alt="Mesh round 1 on 96, drawn as rings from the center out. Round 17: undefined, 96 stitches. Mesh round 1: (dc in next, ch 1, skip 1) around: 48 dc, 48 stitches. Count the dc every few rounds. 47 or 49 means a unit was lost or added." width="480" height="563" loading="lazy" decoding="async" />
+<img src="/diagrams/market-bag-step-2.svg" alt="Mesh round 1 on 96, drawn as rings from the center out. Round 17: single crochet, 96 stitches. Mesh round 1: (dc in next, ch 1, skip 1) around: 48 dc, 48 stitches. Count the dc every few rounds. 47 or 49 means a unit was lost or added." width="480" height="563" loading="lazy" decoding="async" />
 <figcaption>Step 3. The mesh: 48 dc with a chain space over every skipped stitch. The ch 3 counts as the first dc.</figcaption>
 </figure>
 
@@ -146,19 +137,29 @@ A key or a loose berry will find a hole. Put small things inside something large
 
 ## Stage 5: the handles
 
-Make 2. Chain 8.
+<figure class="diagram">
+<img src="/diagrams/market-handle-placement.svg" alt="Ninety-six band stitches in two halves of forty-eight. Each half is ten empty, eight handle, twelve empty, eight handle, ten empty." width="480" height="620" loading="lazy" decoding="async" />
+<figcaption>Eight-stitch handles match the eight-position attachment spans.</figcaption>
+</figure>
 
-**Row 1:** Sc in the second chain from the hook and across. Ch 1, turn. (7)
 
-**Next rows:** Sc in each stitch. Ch 1, turn. (7)
+Make 2. Chain 9.
+
+**Row 1:** Sc in the second chain from the hook and across. Ch 1, turn. (8)
+
+**Next rows:** Sc in each stitch. Ch 1, turn. (8)
 
 Work to about 18 inches, about 90 rows at 5 rows per inch. Pin one handle on, put some weight in the bag, and try it in your hand and on your shoulder before you decide the length.
 
 **Placement.** Put a marker at the start of the band round and another at stitch 49. Each half has 48 stitches. On each half: skip 10, sew a handle end over 8, skip 12, sew the other end over 8, skip 10. The two handles sit opposite each other, and the four ends are spaced the same way on both sides, so neither handle pulls the band crooked.
 
-Overlap each handle end on the inside of the band and sew through every one of its 8 stitches across both band rounds, then back the other way. Keep the sewing out of the mesh. A handle sewn into a chain space pulls that space into a long tear.
+Overlap each handle end on the inside of the band and sew through every one of its 8 stitches across all three band rounds, then back the other way. Keep the sewing out of the mesh. A handle sewn into a chain space pulls that space into a long tear.
 
 ![Handle ends sewn across the solid top band](../../assets/articles/how-to-crochet-a-market-bag-4.jpg "Illustration. Each handle end spans many stitches. There is no weight number on this bag.")
+
+## Keep handle width consistent with its attachment span
+
+Each handle is eight sc wide and starts with ch 9. On each forty-eight-stitch half of the band, mark 10 unworked positions, an eight-position attachment, 12 unworked positions, another eight-position attachment, and 10 unworked positions. The full round has four attachment spans. Overlap each end inside the bag and sew across all three solid band rounds plus solid stitches below where available; do not rely on a single chain space. Match the two handles by row count, then check both attachments lie at the same height. Test gently with light contents while supporting the base; this does not establish a load rating.
 
 ## Troubleshooting
 

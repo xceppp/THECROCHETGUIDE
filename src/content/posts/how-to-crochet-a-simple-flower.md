@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Simple Flower (Beginner Appliqué)"
 description: "A flat five-petal flower: five center stitches, one petal in each. US terms. The leaf is one pass down a chain."
-pubDate: 2026-10-01
-updatedDate: 2026-10-11
+pubDate: 2026-08-05
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -24,15 +24,6 @@ US terms. [Abbreviations](/crochet-abbreviations-chart/). You need a [magic ring
 
 ![A flat five-petal crochet flower in soft pink and yellow on a linen cloth](../../assets/articles/how-to-crochet-a-simple-flower-result.jpg "Illustration. A small flat flower.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| 5 single crochet in a ring, joined | The center. Five is this flower's count, not a rule about real flowers. |
-| One petal per center stitch | The construction that keeps the circle even. |
-| Petal = chain 2, 3 double, chain 2, slip stitch, all in one stitch | The stitch formula. |
-| About 2 to 2.5 inches across | A gauge estimate in worsted; yours will vary. |
-| Leaf = one row back down chain 7 | A tapered strip. Not a leaf worked on both sides of a spine. |
 
 ## Step 1: Five stitches in the center
 
@@ -54,7 +45,7 @@ Join the petal color in any center stitch.
 
 **Petal.** In that same stitch: chain 2, 3 double crochet, chain 2, slip stitch into the same stitch.
 
-Move to the next center stitch and repeat, until there are 5 petals. Slip stitch to the base of the first petal if you want a tidy close. Fasten off and leave a long tail for sewing.
+Slip stitch into the next center sc to move the hook there, then repeat, until there are 5 petals. Slip stitch to the base of the first petal if you want a tidy close. Fasten off and leave a long tail for sewing.
 
 <figure class="diagram">
 <img src="/diagrams/flower-petals.svg" alt="Diagram of five center stitches, with one petal in each. The petal is chain 2, three double crochet, chain 2, and a slip stitch in that same stitch." width="640" height="420" loading="lazy" decoding="async" />
@@ -91,6 +82,10 @@ Thread the petal tail. Sew the center to the fabric, then catch the base of each
 ![A tapestry needle sewing a crochet flower onto fabric](../../assets/articles/how-to-crochet-a-simple-flower-4.jpg "Illustration. Sew the center and the base of each petal.")
 
 Do not sew this onto the [baby blanket](/how-to-crochet-a-baby-blanket/). A flower that can be pulled off does not belong where a child mouths fabric. A [scrunchie](/how-to-crochet-a-scrunchie/) or the flap of a [mug cozy](/crochet-mug-cozy-for-beginners/) is a place where an appliqué is decoration, not a loose part on a blanket.
+
+## Change petal color before building the lobes
+
+After joining the five-sc center, fasten off its color and attach the petal color with a slip stitch in any of the five sc. Ch 2, three dc, ch 2 and sl st all go into that same base sc. Slip stitch into the next sc to move, then make the next complete petal there. After five, fasten off without adding a petal in the joining slip stitch. The small optional leaf is one row, so it is a curved strip rather than the two-sided leaf on the fall-leaf page. Sew it under the flower before attaching the complete motif.
 
 ## Mistakes
 

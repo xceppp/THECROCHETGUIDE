@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Phone Case for iPhone 18 Pro Max"
 description: "Size a single-crochet sleeve from the iPhone 18 Pro Max body, 3.07 by 6.43 inches, and the edge it also has to cover. US terms."
-pubDate: 2026-10-07
-updatedDate: 2026-10-11
+pubDate: 2026-08-19
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -33,15 +33,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![Five illustrated crochet phone sleeves in different colors](../../assets/articles/how-to-crochet-a-phone-case-result.jpg "Illustration. Five colorways of the same rectangle. Not a sleeve measured on a phone.")
 
-## What is fact, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| 3.07 × 6.43 × 0.34 in | Apple's published body size. |
-| Fabric around the phone = 2 × (width + depth) | Geometry. |
-| 4 sc and 5 rows to the inch | An unverified example gauge. Swatch your own. |
-| About a stitch lost to the side seams, plus a little ease | A starting allowance. The phone is the test. |
-| The camera plateau | Adds thickness at the top. Apple's 0.34 in is the body. Leave the top of the sleeve easy. |
 
 ## How the sleeve is built
 
@@ -78,7 +69,7 @@ Crochet a swatch at least 4 inches wide and measure stitches and rows per inch. 
 | Pocket depth per side | 6.43 + 0.17 at the fold + about 0.4 collar | about 7.0 in |
 | Rows | 2 × 7.0 × 5 | 70 rows |
 
-The earlier version of this page said to chain "just over 3.07 inches". At 4 stitches per inch that is about 13 stitches. Seamed, it leaves roughly 3.0 inches inside a sleeve that needs 3.41.
+A chain of just over 3.07 inches is about 13 stitches at 4 stitches per inch. Seamed, that leaves roughly 3.0 inches inside a sleeve that needs 3.41.
 
 ## Stage 1: chain and first row
 
@@ -141,9 +132,9 @@ Slide the phone in before you weave the tails. It should go in without force and
 
 Keep every color the same yarn weight. A thinner yarn makes a narrower stripe, and the phone sticks there.
 
-## Optional flap
+## Make the optional flap a complete separate stage
 
-Fit the open sleeve first. Then join yarn at the center of the back opening and work a short flap in rows over the middle 8 stitches, about 6 rows. Decrease one stitch at each end on alternate rows if you want it to narrow. On the last row, chain a loop that fits your button, slip stitch back, fasten off, and sew the button to the front. Skip the flap if the phone comes out all day.
+For a straight eight-stitch flap, mark the middle eight stitches of the back rim and join at the first marked stitch. Row 1: ch 1, sc in each marked stitch (8). Rows 2–6: ch 1, turn, sc across (8). With the phone inside for marking, check it reaches the intended button location; add full rows if needed. Final row: ch 1, turn, sc 3, ch 3, skip 2, sc 3 (six sc and a loop). Test your button through the loop, remove the phone, then sew the button through the front wall alone. This replaces the unspecified optional shaping.
 
 ## Troubleshooting
 

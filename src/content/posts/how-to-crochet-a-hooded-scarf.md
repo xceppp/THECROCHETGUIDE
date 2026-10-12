@@ -1,8 +1,8 @@
 ---
 title: "How a Hooded Scarf Is Folded"
 description: "How a crochet hood is folded from a rectangle, and why a 12-inch panel will not fit an adult head. US terms."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-28
+updatedDate: 2026-10-12
 category: patterns
 level: intermediate
 howTo: false
@@ -17,196 +17,87 @@ glance:
   yardage: "Not weighed. Count stitches after you know the hood width."
 ---
 
-This is a construction and sizing guide, not a fitted pattern. A hooded scarf is two rectangles. The long one is the scarf. The shorter one is folded in half, seamed along the crown, and sewn to the middle of the scarf. The stitches are [half double crochet](/basic-crochet-stitches/). The part that decides whether a person can wear it is the fold: which edge becomes the face opening, and how that edge gets its length.
+A hooded scarf joins a folded hood to the center of a long scarf. The hood has three different edges: the crown seam, the face opening, and the neck edge attached to the scarf. This guide sizes the rectangles from a hood that fits the wearer. It has not been crocheted or wear-tested; the numerical example is a planning example, not a graded adult size.
 
-US terms. US half double crochet is not the UK half treble. On this page it is: yarn over, insert the hook, pull up a loop, yarn over, pull through all three loops. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations, and the sizes come from gauge, so measure against your own head as you work.
+US terms. US half double crochet (hdc) is UK half treble. Ch 2 does not count as a stitch on this page. Work the first hdc into the first real stitch and the last into the last real stitch, ignoring the turning chain.
 
-![An oatmeal crochet hooded scarf with the hood open](../../assets/articles/how-to-crochet-a-hooded-scarf-result.jpg "Illustration. Intended look of a long scarf with a hood at the center.")
+## Materials and measurements
 
-<div class="warning">
+Use a smooth yarn suitable for a scarf, its matching hook, a tape measure, a tapestry needle, removable markers, and a hood that already fits the intended wearer. Swatch and wash/dry according to the yarn label before measuring. Record hdc stitches per inch and rows per inch separately. Estimate yarn from the combined hood and scarf area using a weighed swatch in the same stitch; no finished sample yardage is available.
 
-The old hood on this page is about **12 inches wide**. Folded, the open edge is still about **12 inches**, and the depth from the center back to the face is about **6 inches**. The Craft Yarn Council's head chart lists an adult woman at **21–23 inches** around and an adult man at **22–24 inches**. A 12 inch opening does not pass that head. A child on the same chart is **18–20 inches**, and a baby is **14–16**. Twelve inches overlaps only the preemie range, and this is not a baby pattern.
+Lay the reference hood sideways, folded at the center back. Measure **D**, from its center-back fold to the face edge, and **H**, from neck to crown. A rectangle hood is box-shaped; a shaped coat hood may not be reproduced by these two numbers alone. Measure the reference face-edge length and check that it is compatible with about 2H for this construction. Include any desired seam allowance in your planned rectangle. Baste and try the new hood rather than assume the coat measurements guarantee fit.
 
-Do not chain 38 and call it a hood. Those numbers stay below as the mistake, so the arithmetic can be checked. They are not instructions. Until someone measures a hood that already fits, crochets to that measurement, and wears the result, this page should not be published as a wearable pattern.
+## The fold and the three edges
 
-</div>
+Let W be the rectangle width in the stitch direction and H its height in the row direction. Choose W = 2D. Fold W in half by bringing its two short H-length edges together. The folded piece is D deep and H tall. The fold is center back.
 
-## What is a technique, and what failed
+- **Crown:** the two upper half-width edges are sewn together from the fold to the face. The seam is D long.
+- **Face:** the two original short edges remain unsewn. Together their exposed length is 2H. This is an open front, not a closed hat brim that must be pulled over the head.
+- **Neck:** the two lower half-width edges remain unsewn and open out to a W-length neck edge. This edge attaches to the scarf.
 
-| Piece of this page | What it is |
-| --- | --- |
-| Half double crochet, chain-2 not counted | The stitch rule here. Skipping the chain-2 is a choice, not a law. Another pattern may count its turning chain. |
-| Fold the width in half, seam the crown, leave the far edge open | The construction. The open edge keeps the full width. |
-| 3 hdc and 2.5 rows to the inch | An unverified gauge, used only to turn the old chains into inches. |
-| Chain 38, 36 half doubles, about 30 rows | A worked example of a hood that is too small. Do not make it. |
-| A 60 inch scarf at 24 stitches | Arithmetic for one length and one width, at that same unverified gauge. A scarf can be an inch off and still be a scarf. A hood cannot. |
-| About 500 yards | An old shopping line. It was not weighed. |
-
-## Step 1: Learn which edge is the opening
-
-Work the rectangle with the stitches running across the width. Call that width W and the row-direction height H.
-
-Fold W in half so the two short ends meet. The fold is a straight line that will sit at the center back of the head. You now have a double layer, H tall and W/2 deep.
-
-Sew the two layers together along the top, from the fold toward the face. That seam is the crown. On the folded piece it is W/2 long, and it runs over the top of the head.
-
-Leave the bottom edge open. You did not seam it. Opened out around the neck, that edge is still the original width W. That is the edge that has to go around the face and neck. The depth, from the center-back fold to the face, is W/2.
+Adding stitches changes W and therefore depth D. Adding rows changes H and therefore face-edge length 2H. Head circumference alone does not determine either dimension. The neck edge is W. The face edge is about 2H. Do not resize one by measuring the other.
 
 <figure class="diagram">
-<img src="/diagrams/hood-fold.svg" alt="Diagram of a rectangle of width W and height H, folded in half so the fold is center back. The crown is seamed. The open edge remains the full width W, and the depth is half of W." width="640" height="420" loading="lazy" decoding="async" />
-<figcaption>The opening is the width you chained, not half of it, and not the row count. Adding rows makes the hood taller. It does not enlarge the opening.</figcaption>
+<img src="/diagrams/hood-fold-corrected.svg" alt="W by H rectangle folds at center back to D equals W divided by two. Crown is sewn; face and neck stay open." width="480" height="700" loading="lazy" decoding="async" />
+<figcaption>Construction diagram: crown seam, open face, and scarf attachment edge are different edges.</figcaption>
 </figure>
 
-This is why the old "about 6 inches" line was only half the diagnosis. At 3 half double crochet to the inch, 36 stitches are 36 ÷ 3 = **12 inches of width**. Folding does not turn the opening into 6 inches. The opening stays 12. The 6 inches is the depth, W/2. Both numbers are too small for the heads on the Craft Yarn Council chart, and they fail in different ways. A short depth never reaches the crown. A short opening never lets the head in. Extra rows fix neither one.
+## Calculate your hood rectangle
 
-<figure class="diagram">
-<img src="/diagrams/half-double-crochet.svg" alt="Diagram of half double crochet: yarn over before inserting, three loops on the hook, then one pull through all three." width="640" height="420" loading="lazy" decoding="async" />
-<figcaption>The stitch itself is not the sizing problem. The width of the rectangle is.</figcaption>
-</figure>
+Stitches across = 2 × D × your stitches per inch. Foundation chains = stitch count + 2. Rows = H × your rows per inch, rounded to whole rows. Measure the actual fabric as you go; estimates are not more authoritative than the tape.
 
-## Why a 12-inch hood does not fit
+**Planning example only:** if a suitable reference hood measures D = 10 inches and H = 12 inches, and the washed swatch is 3 hdc and 2.5 rows per inch, W = 20 inches, so work 60 hdc starting with ch 62, for about 30 rows. Folded depth is 10 inches, face-edge length about 24 inches, and neck edge about 20 inches. These are derived dimensions, not a tested fit or an adult size recommendation.
 
-Gauge used for this check, and not taken from a swatch: **3 hdc = 1 inch. 2.5 rows = 1 inch.**
+## Crochet the hood
 
-Chain 38. Half double in the third chain from the hook. The two skipped chains are the turning chain, and on this page they do not count, so the row has **36** stitches, not 38.
+**Row 1:** Chain your calculated stitch count plus 2. Hdc in the third chain from the hook and each chain across. (Your calculated count; 60 in the example.)
 
-36 ÷ 3 = **12 inches wide**.
+**Row 2:** Ch 2, turn. Hdc in each real stitch across. (Same count.)
 
-About 30 rows at 2.5 rows to the inch is 30 ÷ 2.5 = **12 inches tall**.
+**Every later row:** Repeat row 2 until the relaxed fabric measures your planned H. Mark the first and last real stitch and count each row. Fasten off with a sewing tail long enough for the crown seam, or use a separate yarn length for sewing.
 
-| | This example | What the opening has to pass |
-| --- | --- | --- |
-| Open edge | 12 inches | A head. Adult woman 21–23 in, adult man 22–24 in, on the [Craft Yarn Council head chart](https://craftyarncouncil.com/standards/head-circumference-chart). |
-| Depth, fold to face | 6 inches | Whatever a hood that already fits measures. This page has no worn depth. |
-| Height, neck to crown | 12 inches | Same. H is real only after you measure a hood. |
+Lay it flat and mark the midpoint of both W-length edges. Fold it in half, public faces together, so the two H-length edges line up. Do not sew those edges. They are the face opening. The midpoint of the fold is center back. Baste one paired W/2 edge as the crown, from the fold out to the face, matching stitch to stitch. Leave the other paired W/2 edge open at the neck. Turn it right side out and try it on before permanent sewing. The crown should cover the top of the head without tugging and the neck should reach its intended position. If depth is wrong, revise the stitch-direction width; if height is wrong, revise the row count. Neither change guarantees a fit until tried.
 
-A head circumference is not a hood pattern. It is the reason a 12 inch opening is not in the running. A hood opening also has to clear ears, a chin, and the seam allowance you have not tested. This fabric is plain half double, not ribbing, so do not subtract "ease" from a hat formula and hope the head squeezes through. That subtraction was never tried here.
+## Crochet the scarf
 
-Do not scale the 36 stitches up by a guess, and do not shrink them for a child. A wrong rectangle, multiplied, is still the wrong rectangle.
+Choose a scarf width and length with a tape. For an illustrative 8 × 60 inch scarf at 3 hdc and 2.5 rows per inch, work 24 hdc across from ch 26 for about 150 rows. Substitute your own washed gauge and intended dimensions.
 
-## Step 2: Measure a hood that already fits
+**Row 1:** Ch 26 for the example; hdc in the third chain and across. (24)
 
-Use a hood the person wears and likes. A coat hood and a scarf hood are not the same shape. Measure the scarf-like one if that is what you are making.
+**Row 2 and later:** Ch 2, turn, hdc in each real stitch. (24) Stop at the intended relaxed length; fasten off and weave the tails.
 
-1. The length of the edge that goes around the face and neck. That length is W.
-2. The distance from the center back to that face edge. On this fold, it should land near W/2. If the hood you measured is much deeper or much shallower than half its opening, it was not built as this rectangle. Do not force these steps onto it.
-3. The distance from the neck edge up to the crown seam. That distance is H.
+For a different width, calculate width × stitches per inch and add two foundation chains. For a different length, calculate length × rows per inch as a forecast, then measure. Do not seam the scarf into a loop.
 
-If you cannot put a tape on a hood that fits, stop. This page cannot hand you W.
+## Attach the hood to the scarf
 
-Stitches across = W multiplied by your own half doubles per inch. Chains = that stitch count plus 2, because you will start in the third chain and the chain-2 will not count. Rows = H multiplied by your own rows per inch. Round to a whole stitch only after you have looked at the swatch, and then try the opening before you sew the hood to the scarf.
+Once the hood fits and the crown is permanently sewn, open its neck edge out: it has the original W length. Mark its center-back fold and the center of the scarf length. Lay the scarf flat and match those centers along **one long scarf edge**. Distribute half the hood neck to each side of the scarf-center marker. The hood's face ends are the two ends of this attachment span.
 
-## Step 3: Swatch half double crochet
+Baste the hood neck to the scarf's long edge without gathering or stretching either piece. This matches hood stitch-direction fabric to scarf row ends, so the counts need not be identical. At the example gauges, 20 inches of hood neck contains 60 stitches and 20 inches of scarf edge contains 50 row ends. Distribute five row ends across six hood stitches rather than trying a one-to-one match. Keep both ends of the scarf free and check nothing is twisted.
 
-The 3-per-inch and 2.5-rows figures are not a promise. Chain about 20, work half double for several rows, and measure the middle. [Gauge](/crochet-gauge/) on the scarf mostly changes yarn use and drape. On the hood it changes whether the opening matches the tape.
+Try the basted assembly on, then whipstitch with relaxed tension through the paired edges. Weave ends in separate directions and inspect the seam from both sides. No drawcord, button, or ornament is needed.
 
-Chain-2 at the start of each row does not count. The first stitch of the new row goes into the first real stitch. If you work into the chain instead, the piece grows a stitch every row and the side becomes a diagonal.
+## Check the result before finishing
 
-<figure class="diagram">
-<img src="/diagrams/uneven-edges.svg" alt="Diagram of a straight crochet edge beside a slanted edge. The slant is a row that gained or lost a stitch, often at the turning chain." width="640" height="420" loading="lazy" decoding="async" />
-<figcaption>Same stitch count every row keeps the side straight. A gained stitch at the turning chain is the usual slant.</figcaption>
-</figure>
+1. Crown seam closes the top only; the face remains open.
+2. Center back matches the scarf center and both scarf ends hang evenly.
+3. Hood depth and height suit the wearer without pulling the scarf upward.
+4. Attachment seam lies flat without gathering the scarf or leaving loose loops.
+5. All markers and basting threads are removed and ends secured.
 
-Checkpoint: 15 half doubles in the middle of the swatch, divided by their width in inches, is the number you will multiply by W. Write it down. Do not go back to 3 unless the swatch actually gave you 3.
+## Troubleshooting
 
-## Step 4: Plan the scarf from a tape
+**It is too shallow front to back.** W was too short; more rows only increase H. Remake or redesign the width after checking the reference.
 
-The scarf does not use the head chart. Measure the length you want, from one hip, around the neck, to the other hip, if that is how it will be worn. Choose a width you are willing to have against the coat. Eight inches is one example of a width, not a fit.
+**It is too short neck to crown.** H was too short; add rows before closing the crown.
 
-At the unverified example gauge, an 8 inch width is 8 × 3 = **24 stitches**. The chain is 24 + 2 = **26**. A 60 inch length is 60 × 2.5 = **150 rows**. Change the 3 and the 2.5 to your swatch before you trust either number. A taller person, or someone who wants the ends inside a coat, needs a longer tape, not a longer guess.
+**The face was sewn shut.** The seam followed the H-length short edges rather than the top D-length crown edge. Open it and identify the marked edges again.
 
-Chain-2 does not count.
+**The scarf bunches below the hood.** The attachment was stretched or pulled tight, or the two edge lengths differ. Unpick and distribute equal measured lengths.
 
-Chain 26, only if your swatch really gives 3 half doubles to the inch and you really want 8 inches.
+**It sits over one ear.** The center-back fold was not matched to the scarf center, or the scarf twisted during sewing.
 
-**Row 1:** Half double in the third chain from the hook and across. Chain 2, turn. (24)
+## Care and next steps
 
-<figure class="diagram">
-<img src="/diagrams/hooded-scarf-step-1.svg" alt="A foundation chain of 26. The 2 chains nearest the hook are skipped and the first hdc goes into the 3rd chain from the hook, so row 1 has 24 hdc." width="480" height="466" loading="lazy" decoding="async" />
-<figcaption>Chain 26 for 24 hdc. On this page the 2 skipped chains do not count, so the row is 24, not 26.</figcaption>
-</figure>
+Follow the yarn label. Support the wet piece and dry flat with the hood opened out. Recheck fit after washing. This is a sizing and construction guide; a sample must still be made and worn before reporting a confirmed size or yardage.
 
-**Row 2:** Half double in each stitch. Chain 2, turn. (24)
-
-Repeat row 2 until the scarf matches the tape. Count every 20 rows. Count the stitches every few rows. You want 24, or your own number, not a slow climb to 30.
-
-![A long oatmeal crochet rectangle](../../assets/articles/how-to-crochet-a-hooded-scarf-2.jpg "Illustration. The scarf is one rectangle. The hood is a separate rectangle.")
-
-Fasten off. Do not seam the scarf to itself.
-
-The example scarf is 24 × 150 = **3,600 half doubles**, before any hood. Yardage depends on the yarn and on the hood width you have not measured. The old "about 500 yards" was not weighed off a finished piece. Do not buy from it. Weigh a swatch, or keep the labels and stop when the piece matches the tape.
-
-![Two skeins of oatmeal yarn and a hook](../../assets/articles/how-to-crochet-a-hooded-scarf-1.jpg "Illustration. The skeins are not a weighed yardage for this scarf.")
-
-The stitch is a beginner stitch. The page is intermediate because the fold is easy to misread and the sewing has to be centered. A 60 inch rectangle is a lot of rows. Plan more than one sitting. The example hook is a US H/8 (5.0 mm) only if that hook hits your swatch. [Hook chart](/crochet-hook-size-conversion-chart/). [Yarn weights](/yarn-weight-chart/).
-
-## Step 5: Fold, seam the crown, and stop if the head will not pass
-
-Only start this step with a W and an H from step 2.
-
-Chain the stitches-plus-2 you calculated. Half double in the third chain and across. Repeat until the piece measures H. Count the stitches at the end of the first row and again near the last. They should match.
-
-Fold on the center of W. The fold is center back. Sew from the fold along the crown edge, through both layers, and stop at the face edge. Leave the face edge open. You are making a hood, not a bag.
-
-![The hood rectangle folded and partly seamed](../../assets/articles/how-to-crochet-a-hooded-scarf-3.jpg "Illustration of the fold and a back seam. The face edge stays open. This drawing is not the 12 inch panel on a person.")
-
-Put the hood on, or over the head it was measured for, before you attach it to the scarf. If the head does not go through, W is short. Undo the seam if you need to, and add stitches at the side of a new panel. Do not gather the opening to make it look finished. If the crown seam is sitting on the forehead, H or the depth is wrong. Adding a round of single crochet around the face will not turn 12 inches into 22.
-
-An older line said to sew "about 8 inches" down the back. That length was a guess from the row gauge, not a seam measured on a person. Sew the crown. Stop where the hood you measured stops. If you are unsure, baste, try it, then sew.
-
-## Sew the hood to the center of one edge
-
-Find the center of the scarf's length and mark it with a scrap of yarn, not a metal marker you might forget. The hood's neck edge is the open bottom after folding. Sew that edge to **one long edge** of the scarf, centered on the mark. The face opening points the same way as that edge, so the hood sits on the neck and the rest of the scarf hangs down the front.
-
-<figure class="diagram">
-<img src="/diagrams/hood-placement.svg" alt="Diagram of a long scarf with the hood sewn along the center of one long edge. The seam does not cross the width of the scarf." width="640" height="420" loading="lazy" decoding="async" />
-<figcaption>Center is along the length. The seam stays on the near edge.</figcaption>
-</figure>
-
-Sew with the yarn needle through both layers. Do not pull so tight that the scarf puckers. Put it on before you weave the sewing end in.
-
-If the scarf rides up to the mouth, the seam has crossed onto the width of the scarf. Take it off and sew closer to the edge. If the hood sits over one ear, the mark was not the center. If one end of the scarf flips, the scarf was twisted when you sewed. Lay it flat, both ends the same way up, and sew again.
-
-![The hood sewn to the center of the scarf](../../assets/articles/how-to-crochet-a-hooded-scarf-4.jpg "Illustration. Center the hood on one edge. A hood near one end is a scarf with a lump.")
-
-![The scarf draped on a chair](../../assets/articles/how-to-crochet-a-hooded-scarf-5.jpg "Illustration. Ends hang. A chair is not a head and not a size.")
-
-## Mistakes
-
-**Making the 36-stitch hood.** The opening is about 12 inches at the example gauge. That is the defect in the old instructions. Measure a hood that fits.
-
-**Adding rows because the face will not go in.** Rows change H. The opening is W. You need more stitches, not more rows.
-
-**Hood at one end of the scarf.** It looks like a pocket on a runner. Measure the center of the length.
-
-**Crown seam closed around the face edge.** There is no opening. The face edge stays unsewn.
-
-**Chunky yarn with these stitch counts.** This page's arithmetic is worsted, and the counts are already the failed example. Chunky yarn with 36 stitches is a smaller hood, not a warmer one. Swatch, and still start from a measured hood.
-
-**Quoting 500 yards for a scarf with no hood.** Even the scarf alone was not weighed. A hoodless scarf uses the 3,600 half doubles of the example, or fewer if your length is shorter, and the hood stitches are absent.
-
-## Care
-
-This is a lot of wet wool or acrylic if you wash it. Squeeze. Dry flat, with the hood open, so the crown seam does not dry as a crease. Check the label before a machine wash. A felted hood does not stretch back to the head you measured.
-
-## Frequently asked
-
-### Can I skip the hood and keep the scarf?
-
-Yes. Stop after the long rectangle. You still have a scarf, and the length still comes from the tape. Do not quote a yardage this page never weighed.
-
-### Is 60 inches the right gift length?
-
-It is one adult example of a tape measurement, at an unverified row gauge. A child needs a shorter scarf so the ends are not under their feet, and a child hood is not the 12 inch panel with fewer rows. Measure a hood they already wear, or do not make the hood.
-
-### Will it stay on in wind?
-
-This page has not been worn in wind, so it does not claim the hood stays on. A coat hood with a button is a different object. If you do not have a hood to measure, the [ear warmer](/how-to-crochet-an-ear-warmer/) is the smaller project.
-
-### Should this pattern stay up as a project page?
-
-Not as a pattern someone can follow to a wearable hood. The fold, the failed arithmetic, and the way to measure a real hood are the useful parts. The chain-38 hood should stay unpublished until a finished one has been worn and the opening has been checked against that person's head.
-
-## Next
-
-Hands that still get cold are the [fingerless gloves](/how-to-crochet-fingerless-gloves/). A hat with no scarf is the [chunky beanie](/how-to-crochet-a-chunky-beanie/). If the edges of the scarf slant, the repair is the same one as on the [turning chain](/crochet-turning-chain/) page: the chain is not a stitch, and the first half double has to go into the first real stitch.
+For the scarf stitch alone, use the [beginner scarf](/how-to-crochet-a-beginner-scarf/). For a smaller fitted project, see the [ear warmer](/how-to-crochet-an-ear-warmer/) or [chunky beanie](/how-to-crochet-a-chunky-beanie/).

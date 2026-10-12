@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Christmas Gift Card Holder"
 description: "A small crochet pocket for one ID-1 gift card, 3.370 by 2.125 inches, folded off center so the card stays easy to pull out. US terms."
-pubDate: 2026-10-08
-updatedDate: 2026-10-11
+pubDate: 2026-09-25
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: true
@@ -25,15 +25,6 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 
 ![A green crochet pocket with a blank card and a pine sprig](../../assets/articles/how-to-crochet-a-christmas-gift-card-holder-result.jpg "Illustration. A green pocket with a red edge and a blank card. Not a pocket fitted to a card.")
 
-## What is fact, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| 3.370 × 2.125 in | The ISO/IEC 7810 ID-1 card size. |
-| A rectangle folded and seamed at the sides | Standard construction. |
-| Front shorter than the card, back taller | Geometry. The card has to stick out to be pulled. |
-| 4 sc and 5 rows to the inch | An unverified example gauge. |
-| About 30 yards of green and 8 of red | An old line. Not weighed. Withdrawn. |
 
 ## How the pocket is built
 
@@ -41,7 +32,7 @@ One rectangle of single crochet, 16 stitches wide and 24 rows long. It is folded
 
 ### Why fold off center
 
-The earlier version of this page folded the rectangle in half, 12 rows to a side. At 5 rows per inch that is a pocket 2.4 inches deep. A 2.125 inch card drops right in and sits about a quarter of an inch below the opening, with nothing to grab. The page then said the card should "stop before it disappears", which it would not do.
+Folding the rectangle in half, 12 rows to a side, makes a pocket 2.4 inches deep at 5 rows per inch. A 2.125 inch card then sits about a quarter of an inch below the opening, with nothing to grab.
 
 Folding after row 9 makes the front 1.8 inches tall, shorter than the card, so about a third of an inch of card stands above it. The back is 15 rows, 3.0 inches, so it rises behind the card and gives the front of the gift something to frame.
 
@@ -107,9 +98,13 @@ Fold the rectangle so the foundation edge sits 9 rows up, with the right sides o
 <figcaption>Step 2. Drawn to scale. The fold is off center: 9 rows in front, 15 behind, so the card shows above the front.</figcaption>
 </figure>
 
-Slide the card in before you sew. About a third of an inch should show above the red edge. If almost none shows, fold one row lower.
+Slide the card in before you sew. The red sc edging adds height beyond the nine-row front, so the exposed card margin will be smaller than the plain-front estimate. Check the actual card: enough must remain visible to grip it. If almost none shows, reduce the front to eight rows by shifting the fold one row toward the foundation edge. The longer back does not need to be shortened.
 
 Whipstitch each side from the fold to the top of the front, through both layers and through the outer loop of the edge stitches only. A seam deeper in the stitch narrows the pocket. Make a second stitch at the top of each seam, where the card puts the most strain. Weave the ends in on the inside of the back, not inside the pocket.
+
+## Pair the nine front rows with the back
+
+With a fold between rows 9 and 10, pair row ends 9/10, 8/11, 7/12, 6/13, 5/14, 4/15, 3/16, 2/17, and 1/18. Sew only those nine pairs on each side. Rows 19–24 stay exposed above the opening. Along the foundation, work the red edge into the sixteen chain positions already used by row 1, not the skipped chain nearest the hook. The red edging adds to front height, so test the card's visible margin after edging and before seaming. Adjust the fold if the recipient cannot grip the card.
 
 ## Variations
 

@@ -1,8 +1,8 @@
 ---
 title: "Easy Crochet Scarf for Beginners"
 description: "Plan a half double crochet scarf from your swatch. US terms. Width is the stitch count. Length is the rows. Not a tested scarf."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-06
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -19,19 +19,10 @@ glance:
 
 A first scarf is a rectangle of [half double crochet](/basic-crochet-stitches/). The chain decides the width. The rows decide the length. Nothing is shaped, seamed, or fitted. If the edges slant, the stitch count changed.
 
-US terms. US half double crochet is not the UK half treble. [Abbreviations](/crochet-abbreviations-chart/). No scarf for this page was crocheted and measured.
+US terms. US half double crochet is UK half treble. [Abbreviations](/crochet-abbreviations-chart/). No scarf for this page was crocheted and measured.
 
 ![A rust crochet scarf coiled on a wood table](../../assets/articles/how-to-crochet-a-beginner-scarf-thumb.png)
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| Half double, chain-2 not counted | The stitch rule. The first stitch of a new row goes into the first real stitch. |
-| Width = stitches times your stitch width | The method. The swatch supplies the width of one stitch. |
-| 3 hdc and 2.5 rows to the inch | An unverified gauge used so the example has numbers. |
-| 24 stitches and about 150 rows | Arithmetic for an 8 inch by 60 inch scarf at that gauge only. |
-| "About 7 to 8 inches wide" | A preference for a first scarf, not a size that was worn. |
 
 ## Step 1: Pick a width and a length with a tape
 
@@ -99,6 +90,10 @@ Fasten off. Weave the ends along the side for an inch or more, not straight out 
 Add stitches before you chain, using your own stitch width. At the planning gauge only, 30 stitches are 10 inches and the chain is 32. That is a preference, not a tested drape.
 
 Change color on the last yarn-over of the last half double of a row, so the new color starts cleanly on the next row. [Changing color](/changing-yarn-color-crochet/).
+
+## Make a short sample with finished edges
+
+Before the full scarf, work four rows at your chosen width and count every row. The 24-stitch example starts with ch 26; row 1 begins in the third chain. Every subsequent row starts with ch 2 that does not count and hdc into the first real stitch. Mark both end stitches so the final hdc does not go into the turning chain. Measure width once this sample lies flat. For yarn planning, weigh a washed sample of known area and scale to the chosen scarf area, leaving extra for swatching and tails. Do not wait until the last skein to check supply.
 
 ## Mistakes
 

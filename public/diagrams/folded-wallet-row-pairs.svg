@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560" role="img">
+<title>Folded wallet: pair rows from the fold</title>
+<desc>A front of twelve rows folds against twelve back rows. Row twelve matches thirteen; row one matches twenty-four. Flap remains unsewn.</desc>
+<rect width="480" height="560" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif" fill="#2f2a26">
+<text x="16" y="36" font-size="22" font-weight="bold">Pair rows from the fold</text>
+<rect x="24" y="64" width="200" height="220" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/>
+<text x="40" y="100" font-size="20">Front rows 1–12</text>
+<text x="40" y="140" font-size="20">Row 1 = rim</text>
+<text x="40" y="250" font-size="20">Row 12 = fold</text>
+<rect x="256" y="64" width="200" height="220" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/>
+<text x="272" y="100" font-size="20">Back 13–24</text>
+<text x="272" y="140" font-size="20">Row 24 = rim</text>
+<text x="272" y="250" font-size="20">Row 13 = fold</text>
+<text x="16" y="332" font-size="20">At the fold, row 12 meets 13.</text>
+<text x="16" y="364" font-size="20">At the rim, row 1 meets 24.</text>
+<text x="16" y="408" font-size="20">Sew those side pairs only:</text>
+<text x="16" y="436" font-size="20">12/13, 11/14, … 1/24.</text>
+<text x="16" y="480" font-size="20">The flap starts at row 25.</text>
+<text x="16" y="508" font-size="20">Leave the flap outside the seam.</text>
+</g>
+</svg>

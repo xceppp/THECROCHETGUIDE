@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Fall Leaf"
 description: "A flat fall leaf worked around both sides of a chain, shaped only by stitch height. Two sizes, every stitch counted, plus veins and a stem. US terms."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-09-01
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -87,6 +87,10 @@ Join the stem color at the base, the end opposite the tip. Ch 6. Slip stitch in 
 With a contrasting color or a darker shade, work surface slip stitch from the base to the tip, down the middle: hold the yarn behind the leaf, insert the hook from front to back, pull up a loop, and pull it through the loop on the hook. Work along the line of the chain. One center vein is enough on the small leaf. On the large leaf, add two short side veins angled toward the tip.
 
 Alternatively, embroider the veins with a yarn needle and backstitch.
+
+## Mark the turning tip of the chain
+
+For the small leaf, mark the first chain made: it is the far tip, reached after the eight first-side stitches. All three tip sc go into that same chain. Rotate and begin the return side in the next unused chain loop, not the tip chain again. Seven return stitches give seventeen total. The skipped chain nearest the hook remains unworked. For the larger leaf the corresponding totals are twelve outward stitches, two additional tip sc, and eleven back: twenty-five. The stem attaches at the joined base, opposite the marked tip, so the leaf and stem do not share the wrong end.
 
 ## Troubleshooting
 

@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Scrunchie (Beginner, One Evening)"
 description: "Crochet a strip about twice the length of a hair elastic, seam it around the elastic, and gather it. US terms. Sized from your own elastic."
-pubDate: 2026-10-01
-updatedDate: 2026-10-11
+pubDate: 2026-08-04
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -61,7 +61,7 @@ The width is the number of rows. It folds in half around the elastic, so a 2.5 t
 | --- | --- |
 | Elastic, relaxed | 7 in |
 | Strip length, 2 × elastic | 14 in |
-| Chains at about 4 per inch | about 56 |
+| 56 sc at 4 per inch | ch 57; verify actual strip length |
 | Strip width | 2.5 to 3 in |
 | Rows at about 5 per inch | 12 to 15 |
 
@@ -120,6 +120,10 @@ Slide the fabric around the elastic until the gathers are even. Twist it twice, 
 ## The other method: crochet over the elastic
 
 Join yarn to the elastic with a slip stitch around it. Work single crochet around the elastic itself, packing the stitches tightly, until it is covered. Join with a slip stitch. Then work two or three rounds of increases into those stitches (for example 3 dc in each stitch) to make a ruffle. It is quick, but the ruffle grows fast, and too many stitches on the base round stretch the elastic so it never fully relaxes. Pack them firmly, but stop before the elastic is stretched.
+
+## Keep the elastic free inside the tube
+
+For a fourteen-inch strip at four stitches per inch, use fifty-six sc, so the foundation is ch 57, not ch 56. Measure the completed rows rather than trusting chain length. Before closing the long seam, bring the short ends near each other around the elastic; gather the extra fabric along the ring as you sew. Match the foundation edge to the final row stitch by stitch and catch fabric only. Keep both short-end openings accessible, then sew those openings together to close the fabric ring. Stretch the elastic gently before weaving tails; any section that will not move may be caught by the seam.
 
 ## Troubleshooting
 

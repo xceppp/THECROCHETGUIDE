@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Spider (and Web)"
 description: "A two-part crochet spider with eight matched legs on the front body, where real spiders have them, and a flat web whose loops grow each round. Counts given."
-pubDate: 2026-09-16
-updatedDate: 2026-10-11
+pubDate: 2026-09-07
+updatedDate: 2026-10-12
 category: skills
 level: intermediate
 howTo: true
@@ -128,11 +128,14 @@ White or gray, label-size hook.
 
 **Round 2:** (Ch 5, sl st in next sc) 8 times. (8 loops)
 
-**Round 3:** Sl st into the first loop. (Ch 7, sc in next loop) 8 times. (8 loops)
+For each later round, label the eight loops A–H clockwise or counterclockwise in your working direction.
 
-**Round 4:** Sl st into the first loop. (Ch 9, sc in next loop) 8 times. (8 loops)
+**Round 3:** Sl st into loop A and sc in that same loop to establish the first anchor. (Ch 7, sc in the next loop) 7 times, reaching H. Ch 7 and sl st into the first anchor sc. (8 ch-7 loops, 8 sc anchors)
 
-**Round 5:** Sl st into the first loop. (Ch 11, sc in next loop) 8 times. (8 loops) Fasten off.
+**Round 4:** Sl st into the first new loop and sc there. (Ch 9, sc in the next loop) 7 times. Ch 9 and sl st to the first sc. (8 loops)
+
+**Round 5:** Sl st into the first new loop and sc there. (Ch 11, sc in the next loop) 7 times. Ch 11 and sl st to the first sc. (8 loops) Fasten off.
+
 
 **Why two more chains each round.** Each round sits further from the center, so it has a longer distance to cover around. Adding two chains a round is a starting point, not a rule. Lay the web flat after each round. If it cups into a bowl, the loops are too short: add a chain. If it ruffles, they are too long: take one away. Your yarn and tension decide.
 
@@ -145,6 +148,10 @@ Block it flat if the chains curl. [Blocking](/weaving-in-ends-and-blocking/).
 ![A black crochet spider being sewn slightly off-center onto a pale gray crochet web](../../assets/articles/how-to-crochet-a-spider-and-web-5.jpg "Illustration. Off-center looks placed. Dead center looks stamped.")
 
 Sew the spider off-center on the web through the underside of the rear body. Add a hanging loop at the top edge of the web. Do not hang it from a leg.
+
+## Close both body pieces before making the legs
+
+The front body ends at six stitches just like the abdomen. After stuffing it, thread the tail through the six front loops, pull closed and secure it, retaining enough tail to join the two closed pieces. Pin their contact surfaces together and sew around the join rather than attaching one loose point. For tube legs, do not stuff the four-stitch tube; flatten its open end and sew it to the front body. All four pairs attach to that front section. For chain legs, slip stitch back through thirteen chains, then slip stitch into the original attachment stitch before fastening off.
 
 ## Troubleshooting
 

@@ -1,8 +1,8 @@
 ---
 title: "What You Need to Start Crocheting: One Hook, One Yarn"
 description: "The single hook and single yarn worth buying first, why light solid acrylic makes stitches visible, and the popular yarns and gadgets that make learning harder."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-15
+updatedDate: 2026-10-12
 category: gear
 level: beginner
 tags:
@@ -83,7 +83,7 @@ Loosen the yarn hand. Tight tension is what makes you grip. Work about twenty mi
 
 <div class="warning">
 
-**Persistent numbness, tingling, or pain that wakes you at night is not a hook problem.** Take those symptoms to a doctor. Crochet can aggravate carpal tunnel and tendon issues. It does not cause them, and no handle fixes them.
+**Persistent numbness, tingling, or pain that wakes you at night is not a hook problem.** Take those symptoms to a doctor. Repetitive hand work can contribute to or aggravate symptoms; a handle change is not a diagnosis or treatment.
 
 </div>
 
@@ -94,6 +94,10 @@ Buy a **hook gauge** early, a metal plate with holes. It gives the millimeter si
 ![A hook gauge plate, a blunt tapestry needle, split-ring stitch markers and a tape measure](../../assets/articles/what-you-need-to-start-crocheting-4.jpg "Illustration. The hook gauge is the one accessory worth buying early.")
 
 Add a blunt tapestry needle, split-ring markers, and a tape measure. Keep the ball band pinned to a swatch, in a labeled bag with the leftovers, so a repair still has a fiber and a wash method.
+
+## Use the kit on one counting exercise
+
+With a smooth light yarn and a comfortable hook, chain sixteen, sc in the second chain and across (15). Ch 1, turn and work fifteen sc again; make four rows and count after each. Mark the first and last stitch if they disappear into the edge. The goal is consistent stitches you can identify, not a particular speed. Keep the yarn label and note the hook's millimeter size. A larger hook or a different grip is a comfort experiment, not a reason to continue through pain. Stop and seek medical advice if symptoms persist.
 
 ## Mistakes
 

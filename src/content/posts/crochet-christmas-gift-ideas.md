@@ -1,8 +1,8 @@
 ---
 title: "Crochet Christmas Gift Ideas"
 description: "Christmas gifts you can crochet from tutorials already on this site, sorted by how long they take and who they are for."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-09-28
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 howTo: false
@@ -81,6 +81,10 @@ Keep the ball band yourself, pinned to a leftover length of yarn, so you can rep
 ## What not to promise
 
 Do not tell someone a project is done when the ends are still hanging out. [Weaving ends](/weaving-in-ends-and-blocking/) is part of the gift. Do not stuff a new amigurumi pattern into the same week as a blanket. The [Santa](/crochet-santa-amigurumi-for-beginners/) tutorial is a technique page for that shape, separate from the gnome.
+
+## Choose a tutorial you can size and finish
+
+Open the linked pattern before buying yarn. Write down its required skills, measurements, accessories, and drying time. For a hat, ear warmer, or gloves, obtain a measurement or a suitable reference item; stretch does not remove the need to size the gift. Time one repeat or ten rows in your own yarn, estimate the remaining crochet, then add assembly, end-weaving, and any blocking or stiffener drying. An ornament that needs to dry overnight is not ready when the last stitch is made. This page is a project selector; the full instructions are on the linked pages.
 
 ## Frequently asked
 

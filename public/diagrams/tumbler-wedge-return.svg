@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 560" role="img">
+<title>Short rows: first full return row</title>
+<desc>After four top-only short rows the full return traverses six current stitches, six older exposed stitches, six original full-row stitches.</desc>
+<rect width="480" height="560" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif" fill="#2f2a26">
+<text x="16" y="36" font-size="22" font-weight="bold">First full row after the wedge</text>
+<text x="16" y="72" font-size="20">Top edge is at the left. Each full</text>
+<text x="16" y="100" font-size="20">row is 18 single crochet.</text>
+<rect x="16" y="124" width="448" height="36" rx="4" fill="#e6ddd1" stroke="#7d8b72" stroke-width="2"/>
+<text x="24" y="148" font-size="20">6 still open on the full row</text>
+<rect x="16" y="172" width="300" height="36" rx="4" fill="#f3d7cc" stroke="#b0604a" stroke-width="2"/>
+<text x="24" y="196" font-size="20">6 exposed on the 12-row</text>
+<rect x="16" y="220" width="200" height="36" rx="4" fill="#d5ddd0" stroke="#7d8b72" stroke-width="2"/>
+<text x="24" y="244" font-size="20">6 on the latest short row</text>
+<text x="16" y="300" font-size="20">The return row crosses all three</text>
+<text x="16" y="328" font-size="20">levels: 6 + 6 + 6 = 18.</text>
+<text x="16" y="368" font-size="20">Do not work the turning chain</text>
+<text x="16" y="396" font-size="20">as an extra stitch.</text>
+<text x="16" y="436" font-size="20">Then turn and work a normal</text>
+<text x="16" y="464" font-size="20">18-stitch row.</text>
+<text x="16" y="512" font-size="20">Keep the long edge at the rim.</text>
+</g>
+</svg>

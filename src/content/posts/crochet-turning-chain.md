@@ -1,8 +1,8 @@
 ---
 title: "The Turning Chain: Why Your Edges Slant"
 description: "Turning chains cause more crooked edges and lost stitches than anything else in crochet. Here is exactly how many to work and whether it counts as a stitch."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-24
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -28,7 +28,7 @@ When you finish a row and turn, the hook sits at the bottom of the new row, and 
 | Stitch | Turning chain | Counts as a stitch? |
 | --- | --- | --- |
 | single crochet (`sc`) | 1 | No — height only |
-| half double crochet (`hdc`) | 2 | Usually yes |
+| half double crochet (`hdc`) | 1 or 2, as specified | Follow the pattern; the hdc rectangles on this site use ch 2 that does not count |
 | double crochet (`dc`) | 3 | Usually yes |
 | treble (`tr`) | 4 | Usually yes |
 | double treble (`dtr`) | 5 | Usually yes |
@@ -66,6 +66,10 @@ Both are correct. Mixing them in one project is what slants the edge.
 In joined rounds you do not turn. A starting chain replaces the turning chain, with the same heights and the same counting question. The right side faces you the whole time.
 
 Spiral rounds, common in amigurumi, have no chain. Keep going, and mark the first stitch of each round. There is nothing else to show where the round begins.
+
+## Mark both row ends to make the rule visible
+
+On a ten-sc swatch, put markers in the first and last sc. Ch 1, turn, make the first sc into the marked first stitch and the last sc into the marked last stitch. Move both markers into the new stitches. You still have ten. For a counted ch-3 dc row, mark the top of the ch 3 as the first stitch; skip the stitch directly under it and finish the following row in the marked chain top. These are two different counting conventions. The pattern's stated rule decides which markers you use.
 
 ## Common mistakes
 
@@ -105,7 +109,7 @@ A `ch 3` standing in for a double crochet leaves a small hole, because a chain i
 
 **Chain 2 instead of 3.** Slightly shorter, and the gap closes. Very common in modern patterns.
 
-**Stacked double crochet.** Work a single crochet in the first stitch, then a double crochet into the top of that single crochet. You get full height and a denser edge.
+**Stacked single crochet used as a dc-height start.** Work one sc in the first stitch. Insert the hook under the left vertical strand of that sc (right vertical strand for left-handed work), yarn over and pull up a loop, then yarn over and pull through both loops to stack a second sc above it. This combined start replaces one dc; do not add another dc in the same base stitch. Practice it on a swatch before substituting it into a pattern.
 
 Neither changes your stitch count. Both stand in for the `ch 3` and count as the first double crochet.
 

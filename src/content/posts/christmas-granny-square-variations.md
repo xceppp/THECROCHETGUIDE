@@ -1,8 +1,8 @@
 ---
 title: "Christmas Granny Square Variations"
 description: "Four color layouts for a classic granny square in Christmas colors, how to join them into a blanket or set, and why red and green so often turn muddy."
-pubDate: 2026-09-18
-updatedDate: 2026-10-11
+pubDate: 2026-09-23
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -18,6 +18,10 @@ US terms throughout. The rounds are the standard granny square. The pictures are
 
 
 ![A set of Christmas granny squares in red green and cream](../../assets/articles/christmas-granny-square-variations-result.jpg "Illustration. The finished look these color variations build toward.")
+## Starting every granny round consistently
+
+After round 1, travel with slip stitches across the next two dc and into the next corner space. In that corner, ch 3 (counts as the first dc), then work 2 dc, ch 2, and 3 dc. This is the first complete corner. Work the other corners and side clusters as described, separating adjacent groups with ch 1, and join to the top of the beginning ch 3. When changing colors, fastening off and rejoining the new color in a corner is an alternative to traveling. Never make ch 3 plus three dc for the first half-corner: that would be four dc instead of three.
+
 ## What you need
 
 - Worsted-weight yarn ([yarn weight chart](/yarn-weight-chart/)) in red, green, white, and optionally a metallic gold
@@ -97,6 +101,10 @@ Three rounds of cream, one round of red, three more rounds of cream, one round o
 **Join in the color you finished on.** White on white disappears. Red on white becomes a grid. Either is fine if you chose it.
 
 Weave ends when you finish each square. Saving them for the end of a blanket is how the project stalls. The method is in [weaving in ends and blocking](/weaving-in-ends-and-blocking/).
+
+## Count clusters before changing the palette
+
+A cluster on this page is three complete dc in one space, not dc3tog. Round 1 has four clusters. Round 2 has eight, round 3 has twelve and round 4 has sixteen. Along one side, count the corner-half cluster at each end: a four-round square has four clusters per side. The starting ch 3 replaces the first dc of the first cluster. If you add a full three dc after it, that cluster has four dc and will distort the count. Use the numbered four-round square in the granny-square tote tutorial when learning the basic square, then apply the color sequences here.
 
 ## Mistakes that muddy the color
 

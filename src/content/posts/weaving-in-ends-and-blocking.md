@@ -1,8 +1,8 @@
 ---
 title: "Finishing Crochet: Weaving In Ends and Blocking"
 description: "How to weave in yarn ends so they never come loose, plus when blocking is worth doing and when it does nothing at all."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-30
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -106,6 +106,10 @@ Block before you seam. Flat pieces line up. Curling ones do not.
 4. Add the border or edging.
 5. Weave in the last ends.
 
+## Make a seam sample before joining the project
+
+Use two ten-stitch rectangles in the actual yarn. Clip their corresponding edges together and try the chosen seam on just a few positions. Pull them open gently to see which face shows the ridge. For an inside seam on a bag, hold public faces together, sew or crochet the paired edges, then turn it out. For a visible raised join, hold backs together. Weave a tail through several stitches, change direction on a separate path, and inspect both faces before trimming. Blocking can even tension but cannot replace missing corner stitches or correct a mathematically wrong stitch count.
+
 ## Common mistakes
 
 **A straight weave, or a tail under six inches.** Without a turn, the end slides out. A knot holds, then comes to the surface as a hard bump.
@@ -114,7 +118,7 @@ Block before you seam. Flat pieces line up. Curling ones do not.
 
 **The iron touching acrylic.** Wool and cotton can be blocked again after every wash. Acrylic that has been flattened by heat stays that way.
 
-**Seaming before blocking.** Curled edges will not line up, and the seam locks the curl in. A granny square with too few stitches in the corners can also curl. Blocking evens that out on wool and cotton, and light steam helps on acrylic.
+**Seaming before blocking.** Curled edges will not line up, and the seam locks the curl in. A granny square with missing corner stitches needs those stitches corrected first. Blocking cannot supply them.
 
 ## Frequently asked
 

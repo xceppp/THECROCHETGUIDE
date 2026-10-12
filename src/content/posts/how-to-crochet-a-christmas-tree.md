@@ -2,7 +2,7 @@
 title: "How to Crochet a Christmas Tree, Step by Step"
 description: "Three crochet Christmas trees: a standing cone worked from the tip down, a flat triangle, and stacked rounds. Every count checked, plus how to make it stand."
 pubDate: 2026-09-18
-updatedDate: 2026-10-11
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -164,6 +164,10 @@ Make three flat circles, increasing six stitches a round as in rounds 1 to 5 of 
 ![Sewing a brown trunk onto a crochet Christmas tree](../../assets/articles/how-to-crochet-a-christmas-tree-3.jpg "Illustration. Add decorations after the shape is stable.")
 
 French knots in a contrasting color are the tidiest ornaments. Beads and buttons are a choking hazard on a gift for a small child, so embroider instead. A small flat star sewn against the tip stays put. Six ornaments look decorated. Thirty looks like a blob.
+
+## Count the triangle rows explicitly
+
+For the flat triangle, rows 1–14 finish at 15, 15, 13, 13, 11, 11, 9, 9, 7, 7, 5, 5, 3, and 1. Row 13 is the final two-edge decrease; row 14 is sc3tog. Sew a separate trunk to the fifteen-stitch foundation edge if wanted; the one-stitch end points upward. For the standing cone, free tier loops belong to rounds 8, 11, and 14, because the following rounds are worked BLO. Mark those loops before continuing. Keep any weighted insert fully enclosed and treat the dowel-based version as a display decoration.
 
 ## Troubleshooting
 

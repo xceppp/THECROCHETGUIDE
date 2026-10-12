@@ -1,0 +1,305 @@
+{
+  "how-to-crochet-a-beginner-scarf": [
+    "Corrected: US half double crochet is not the UK half treble.",
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Make a short sample with finished edges"
+  ],
+  "changing-yarn-color-crochet": [
+    "Corrected: Work the last stitch in the old color until two loops remain on the hook.",
+    "Corrected: Two loops are still on the hook.",
+    "Corrected: Pull the new color through those two loops.",
+    "Added project-specific teaching: Practice a color change in two stitch heights"
+  ],
+  "crochet-turning-chain": [
+    "Corrected: | half double crochet (`hdc`) | 2 | Usually yes |",
+    "Corrected: **Stacked double crochet.** Work a single crochet in the first stitch, then a double croch",
+    "Added project-specific teaching: Mark both row ends to make the rule visible"
+  ],
+  "crochet-gauge": [
+    "Corrected: Skip gauge for blankets, scarves, dishcloths, coasters, bags, and anything where an inch e",
+    "Added project-specific teaching: Record both directions and the fabric condition"
+  ],
+  "how-to-read-a-crochet-pattern": [
+    "Corrected: Skip the swatch for blankets, scarves, dishcloths, coasters, and bags.",
+    "Corrected: If you cannot tell, assume US terms.",
+    "Added project-specific teaching: Make a row-by-row worksheet"
+  ],
+  "crochet-abbreviations-chart": [
+    "Corrected: So do `ss` for slip stitch and `yoh` for yarn over hook.",
+    "Added project-specific teaching: Read the placement words along with the abbreviation"
+  ],
+  "crochet-in-the-round": [
+    "Corrected: `BLO`, back loop only, every round makes a hat's ribbed brim.",
+    "Corrected: If it stays that way, spread the increases, as in `[sc in next 3, 2 sc in next] 6 times`.",
+    "Added project-specific teaching: Use a three-round practice circle"
+  ],
+  "how-to-crochet-a-market-bag": [
+    "Corrected: Make 2. Chain 8.",
+    "Corrected: across. Ch 1, turn. (7)",
+    "Corrected: **Next rows:** Sc in each stitch. Ch 1, turn. (7)",
+    "Corrected: across both band rounds",
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Keep handle width consistent with its attachment span"
+  ],
+  "halloween-crochet-wallets": [
+    "Corrected: two 3/8 inch sew-on snaps",
+    "Corrected: The pumpkin's back-loop rows will measure shorter",
+    "Corrected: and those rows are shorter than plain single crochet.",
+    "Added project-specific teaching: Choose the closure as well as the shape"
+  ],
+  "pumpkin-crochet-wallet": [
+    "Corrected: because back-loop fabric is shorter per row than plain single crochet.",
+    "Corrected: **The ribs show on both sides.** Some rows were worked in both loops. Back loop on every r",
+    "Corrected: Roll from one short end into a cylinder about 0.6 inch tall and sew the edge down.",
+    "Added project-specific teaching: Label the two rims before embroidery"
+  ],
+  "ghost-crochet-wallet": [
+    "Corrected: A cream crochet ghost pouch with a zipper, black eyes, and pink cheeks",
+    "Corrected: After joining, there is no way to reach them.",
+    "Corrected: If it is wider than the back, one panel gained a stitch; count both.",
+    "Corrected: - **A wider pocket.** Chain 20 for both panels (19 stitches). Each decrease row of the hea",
+    "Corrected: **Hem:**",
+    "Added project-specific teaching: Keep the pocket opening visible while joining"
+  ],
+  "spiderweb-crochet-wallet": [
+    "Corrected: near row 10 of the front, stitch 9, about 2 inches below the top",
+    "Added project-specific teaching: Pair the folded pocket rows before marking the button"
+  ],
+  "black-cat-crochet-wallet": [
+    "Corrected: between stitches 8 and 9. Sew the socket",
+    "Corrected: and the ears move out by half a stitch.",
+    "Corrected: **The tube spirals.** The first stitch of a round went into the stitch after the join inst",
+    "Corrected: The join of round 12 sits at a side fold. The 16 stitches after it are the back. The other",
+    "Corrected: at a side fold, at the join.",
+    "Added project-specific teaching: Check the flap and closures before sewing",
+    "Resolved consistency: Three or four slim cards fit the calculated size with room to spa"
+  ],
+  "witch-hat-crochet-wallet": [
+    "Corrected: 3. **Side seams.**",
+    "Corrected: To stop the divider from riding up when you pull a card out, tack its lower edge to the fo",
+    "Added project-specific teaching: Keep the hat above the buttonhole and the divider below the rim"
+  ],
+  "ghost-crochet-mini-wallet": [
+    "Corrected: **Card only.** A 12-row front and a 12-row back. Work rows 2\u201326 straight instead of rows 2",
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Mark the three zones before folding"
+  ],
+  "halloween-crochet-card-wallet": [
+    "Corrected: If the top of a card shows, add rows to both the front and back zones. Unfold and carry on",
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Match the folded rows before sewing"
+  ],
+  "how-to-crochet-a-christmas-gift-card-holder": [
+    "Corrected: About a third of an inch should show above the red edge.",
+    "Corrected: fold one row lower.",
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Pair the nine front rows with the back"
+  ],
+  "how-to-crochet-a-device-case": [
+    "Corrected: Width: 5 + 0.5 planning gap = 5.5 in, so 22 single crochet, chain 23. If it is a thick har",
+    "Corrected: For the paperback that is chain 23.",
+    "Corrected: turn. (22)",
+    "Corrected: one stitch per row end, and leave the top open. Single crochet seams hold better than a wh",
+    "Added project-specific teaching: Fit the base footprint before building a tube"
+  ],
+  "how-to-crochet-a-drawstring-bag": [
+    "Corrected: putting a stitch into each single crochet and into each chain space to restore the full co",
+    "Corrected: a short green stem sewn beside the rim",
+    "Added project-specific teaching: Restore every skipped stitch after the eyelets"
+  ],
+  "how-to-crochet-a-tumbler-sleeve": [
+    "Corrected: **Rows 18\u201335:** Sc in each stitch, all 18. Ch 1, turn. (18)",
+    "Corrected: **The top gaps away from the cup.** The taper is bigger than one wedge. Add a second wedge",
+    "Corrected: start again with 36 stitches and two increases.",
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Follow the exposed stitches when the wedge ends"
+  ],
+  "how-to-crochet-a-chunky-beanie": [
+    "Corrected: Join yarn at the seam, on the edge that will be the fold.",
+    "Corrected: Stop the even rounds when the hat reaches about the depth you measured minus 1 inch. The c",
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Choose one round convention and keep it"
+  ],
+  "how-to-crochet-fingerless-gloves": [
+    "Corrected: Count ridges, not rows.",
+    "Corrected: ## Stage 3: the thumb gap",
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Recenter the thumb gap after a fit adjustment"
+  ],
+  "how-to-crochet-a-makeup-pouch": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Establish the opening count before making holes",
+    "Resolved consistency: The eyelet round needs an even count, because each repeat uses tw"
+  ],
+  "crochet-mug-cozy-for-beginners": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Check button placement with the mug empty"
+  ],
+  "gothic-bat-earbuds-pouch": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Use markers to keep the decoration out of the opening"
+  ],
+  "free-pattern-halloween-coasters": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Check the outer circle before adding a plain round"
+  ],
+  "how-to-crochet-a-phone-case": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Make the optional flap a complete separate stage"
+  ],
+  "how-to-crochet-a-granny-square-tote": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Make the joins visible before sewing straps"
+  ],
+  "how-to-crochet-a-wine-bottle-bag": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Support the bottle while checking the seams"
+  ],
+  "how-to-crochet-a-baby-blanket": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Finish and measure the washed rectangle"
+  ],
+  "how-to-crochet-slippers": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Baste one slipper before making the second"
+  ],
+  "how-to-crochet-a-simple-flower": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Corrected: Move to the next center stitch and repeat",
+    "Added project-specific teaching: Change petal color before building the lobes"
+  ],
+  "how-to-crochet-a-lace-bandana": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Mark the long-edge ends and the single point"
+  ],
+  "how-to-crochet-a-cable-organizer": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Measure between the closures, not the strip ends",
+    "Resolved consistency: For a larger button, skip 3 and chain 4."
+  ],
+  "how-to-crochet-an-ear-warmer": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Match the two short ends stitch by stitch"
+  ],
+  "how-to-crochet-a-bowl-cozy": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Baste the darts before making permanent seams"
+  ],
+  "how-to-crochet-a-pumpkin-zipper-pouch": [
+    "Removed editorial-status table; retained sample and gauge disclosures",
+    "Added project-specific teaching: Baste the zipper before permanent backstitching"
+  ],
+  "crochet-ghost-amigurumi-for-beginners": [
+    "Rebuilt **Cinch the neck.**",
+    "Corrected: Stuff firmly, especially the head. Put the most stuffing at the bottom, so the ghost sits ",
+    "Added project-specific teaching: Choose the bottom treatment before round 17"
+  ],
+  "how-to-crochet-a-gnome": [
+    "Corrected: Stuff it lightly before the last round. Leave a long tail. Make it larger than feels tidy.",
+    "Added project-specific teaching: Check the base and hat as separate fittings"
+  ],
+  "how-to-crochet-a-snowflake": [
+    "Rebuilt **Round 2, the spokes.**",
+    "Added project-specific teaching: Label six spokes before stiffening"
+  ],
+  "how-to-crochet-a-spider-and-web": [
+    "Rebuilt **Round 3:** Sl st into the first loop.",
+    "Added project-specific teaching: Close both body pieces before making the legs"
+  ],
+  "crochet-santa-amigurumi-for-beginners": [
+    "Corrected: ## Step 5: the hat",
+    "Corrected: **A crocheted beard** is tidier up close: a half circle of white, worked in rows, sewn on ",
+    "Added project-specific teaching: Mark the face before closing the head"
+  ],
+  "halloween-crochet-airpods-case": [
+    "Corrected: 7, so ch 7 + 2 | ch 9",
+    "Corrected: **Foundation:** ch 9.",
+    "Corrected: **Round 1:** starting in the 2nd ch from the hook, sc 7 along the chain, 3 sc in the last ",
+    "Corrected: **Round 2:** work each 3\u2011stitch end as 2 sc in each stitch to make 6, and sc across each s",
+    "Corrected: 22 stitches (ch 7), the AirPods 3 case 24 (ch 8)",
+    "Corrected: A half inch around is one stitch at this gauge.",
+    "Corrected: there is no wireless charging through yarn.",
+    "Corrected: No. There is no charging through the yarn. Slide the case out, charge it bare, and drop it",
+    "Corrected: the fabric does not pass power, so slide the case out to charge rather than sewing the fla",
+    "Corrected: A ruffled, wavy edge means too many increases",
+    "Corrected: **The first round twisted.** The oval closed with a half-turn in it. Keep all stitches fac",
+    "Corrected: ## What you need",
+    "Added project-specific teaching: Fit the flap before making the buttonhole"
+  ],
+  "basic-crochet-stitches": [
+    "Added project-specific teaching: Locate the next stitch"
+  ],
+  "bat-amigurumi-wings-body-and-ears": [
+    "Added project-specific teaching: Finish the body before attaching the wings"
+  ],
+  "christmas-granny-square-variations": [
+    "Added project-specific teaching: Count clusters before changing the palette",
+    "Specified starting corner, travel, ch-3 count and final join"
+  ],
+  "crochet-bag-charm-ideas": [
+    "Added project-specific teaching: Complete one heart before making a set"
+  ],
+  "crochet-christmas-gift-ideas": [
+    "Added project-specific teaching: Choose a tutorial you can size and finish"
+  ],
+  "crochet-hook-size-conversion-chart": [
+    "Added project-specific teaching: Use the millimeter size to resolve conflicting labels"
+  ],
+  "crochet-increase-decrease": [
+    "Added project-specific teaching: Check consumed stitches as well as the result"
+  ],
+  "easy-crochet-christmas-ornaments": [
+    "Added project-specific teaching: Separate five star points from the joining stitches"
+  ],
+  "halloween-granny-square-variations": [
+    "Added project-specific teaching: Make one counted square before colorwork",
+    "Specified starting corner, travel, ch-3 count and final join"
+  ],
+  "how-to-crochet-a-christmas-tree": [
+    "Added project-specific teaching: Count the triangle rows explicitly"
+  ],
+  "how-to-crochet-a-fall-leaf": [
+    "Added project-specific teaching: Mark the turning tip of the chain"
+  ],
+  "how-to-crochet-a-pumpkin-step-by-step": [
+    "Added project-specific teaching: Close the body and anchor the shaping strand"
+  ],
+  "how-to-crochet-a-scrunchie": [
+    "Added project-specific teaching: Keep the elastic free inside the tube",
+    "Resolved consistency: | Chains at about 4 per inch | about 56 |"
+  ],
+  "how-to-crochet-a-strap-bag": [
+    "Added project-specific teaching: Write out the folded body before making the strap",
+    "Resolved consistency: 15 stitches wide and 67 rows",
+    "Resolved consistency: 27 stitches wide and 65 rows",
+    "Resolved consistency: **Wear it loaded for a day.** Put in what the bag will carry and ",
+    "Resolved consistency: The bag's top edge sits between the two strap ends, so the strap "
+  ],
+  "left-handed-crochet": [
+    "Added project-specific teaching: Separate movement directions from garment labels",
+    "Resolved consistency: When a pattern gives a direction, swap it. Every time it says rig",
+    "Resolved consistency: and swap every left and right as you go.",
+    "Resolved consistency: For these, read the chart from the opposite side: where a right-h"
+  ],
+  "weaving-in-ends-and-blocking": [
+    "Added project-specific teaching: Make a seam sample before joining the project"
+  ],
+  "what-you-need-to-start-crocheting": [
+    "Added project-specific teaching: Use the kit on one counting exercise",
+    "Resolved consistency: Crochet can aggravate carpal tunnel and tendon issues. It does no"
+  ],
+  "where-to-find-free-crochet-patterns": [
+    "Added project-specific teaching: Check one pattern before buying its yarn"
+  ],
+  "yarn-for-christmas-crochet": [
+    "Added project-specific teaching: Keep fiber choice separate from heat protection",
+    "Resolved consistency: Use cotton or wool near a flame, and never put a crocheted piece "
+  ],
+  "yarn-weight-chart": [
+    "Added project-specific teaching: Calculate a substitution from yardage and gauge",
+    "Resolved consistency: The Craft Yarn Council has also announced a further update that a"
+  ],
+  "how-to-crochet-a-hooded-scarf": [
+    "Rebuilt entire hood construction, corrected face/neck geometry, specified rows and seaming, added labeled fold diagram"
+  ]
+}

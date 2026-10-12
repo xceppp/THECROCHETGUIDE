@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Snowflake (and Make It Stay Flat)"
 description: "Build a six-point crochet snowflake from a center ring, then stiffen and block it so it hangs flat instead of curling into a floppy spiral."
-pubDate: 2026-09-18
-updatedDate: 2026-10-11
+pubDate: 2026-09-17
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -61,9 +61,10 @@ Every flake, however fancy, is a center, then spokes, then points.
 
 If the magic ring is still awkward, chain 6, slip stitch into the first chain, and work the 12 dc into that loop. The magic ring closes tighter. A gappy center is the first thing the eye hits.
 
-**Round 2, the spokes.** Ch 5, skip one st, sc in next st. *Ch 5, skip one st, sc in next st; repeat from * around, ending with a slip stitch into the base of the first chain. (6 loops)
+**Round 2, the spokes.** The hook is at center stitch 1 after the round-1 join. Work (ch 5, skip the next dc, sc in the following dc) five times; anchors land in center stitches 3, 5, 7, 9, and 11. Ch 5, skip center stitch 12, and sl st into the base at center stitch 1 to close the sixth loop. Do not make an additional sc there. (6 ch-5 loops, 5 sc anchors and the closing sl st)
 
-**Round 3, the points.** Into each ch-5 loop: 3 sc, ch 3, slip stitch into the third chain from the hook (a picot), 3 more sc. Slip stitch into the next sc between loops, then take the next loop. Repeat six times and fasten off. (6 points) Five loops is the [simple flower](/how-to-crochet-a-simple-flower/), not a snowflake. Count the loops before you work the points.
+**Round 3, the points.** Slip stitch into the first ch-5 loop. In that loop work 3 sc, ch 3, sl st in the third chain from the hook (picot), 3 sc. Sl st into the next anchor sc. Repeat in each of the five remaining loops, using the closing join as the last anchor. Join to the first sc and fasten off. (36 sc in the loops, 6 picots; connecting slip stitches do not count as sc) Count six loops before starting and six points before finishing.
+
 
 For a lacier arm, replace each picot with ch 5, sc into the loop, ch 5, sc into the same loop, ch 5. Each arm ends in three spikes. The count stays six.
 
@@ -105,6 +106,10 @@ All four work, and they fail differently. If the flake matters, use commercial s
 **Use rustproof pins.** Ordinary dressmaking pins sit in a wet solution for hours and can leave orange marks on white thread that will not wash out. Stainless steel or plastic-headed quilting pins are the safe choice.
 
 </div>
+
+## Label six spokes before stiffening
+
+Lay the unstiffened flake flat and mark its six ch-5 loops mentally as A–F. Each gets exactly one complete point; opposite pairs are A/D, B/E, and C/F. Spread those pairs to comparable distances from the center when pinning. Check the pin metal is rust-resistant; a plastic head does not guarantee a rust-resistant shaft. Test any stiffener on a spare motif and follow its own label. Do not assume every commercial product stays clear or washproof. Finish weaving the center and outer tails before applying stiffener, then wait until the whole piece is dry before removing pins or adding the hanger.
 
 ## Mistakes
 

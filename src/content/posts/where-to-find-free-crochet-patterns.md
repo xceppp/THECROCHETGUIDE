@@ -1,8 +1,8 @@
 ---
 title: "Where to Find Free Crochet Patterns"
 description: "Where to find free crochet patterns, which databases are aggregators, and how to spot a fake or AI-scam pattern before you buy yarn."
-pubDate: 2026-09-10
-updatedDate: 2026-10-08
+pubDate: 2026-08-03
+updatedDate: 2026-10-12
 category: patterns
 level: beginner
 quickAnswer: "Start with a free crochet pattern database that names the designer and lets you filter. Ravelry is an aggregator. Lion Brand, Yarnspirations, and DROPS Design publish their own free patterns. Read the gauge and the stitch counts before you trust a pretty photo."
@@ -105,6 +105,10 @@ Write the stitch count at the end of each round in the margin. When your count a
 Save the PDF before the tab closes. Yarn-company pages redesign, and a pattern you meant to make in November is annoying to hunt for in December. Put the designer name in the file name. "blanket-final.pdf" is useless six months later. Ravelry project pages are the other copy: if you log the project, you still have the link when the pin disappears.
 
 For a first project, choose something flat, one color, one stitch, in worsted-weight yarn. A dishcloth or a simple scarf teaches you to follow a row. Shaping and color can wait. The [basic stitches](/basic-crochet-stitches/) page is the order to learn them.
+
+## Check one pattern before buying its yarn
+
+Open the original publisher's full instructions, not just a social image. Identify the terminology, finished size, stitch key, gauge, yarn amount, assembly instructions, and any correction notes. Then read an increase or decrease row aloud and check that its repeat consumes the previous count. Project notes from other makers can reveal missing steps but do not substitute for instructions. A free download may require an account, and those access rules can change. Follow the publisher's current page. Do not treat a professional byline, many images, or a lack of Ravelry projects as proof of whether a pattern works.
 
 ## Frequently asked
 

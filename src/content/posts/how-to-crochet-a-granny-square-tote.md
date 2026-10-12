@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet a Granny Square Tote"
 description: "Eight granny squares joined into a flat cotton tote, with the edge counts that make every seam match. US terms. Sizes are gauge estimates."
-pubDate: 2026-10-09
-updatedDate: 2026-10-11
+pubDate: 2026-08-17
+updatedDate: 2026-10-12
 category: patterns
 level: intermediate
 howTo: true
@@ -25,17 +25,6 @@ US terms. US double crochet is UK treble. US single crochet is UK double crochet
 
 ![A cream cotton tote made of granny squares with two straps](../../assets/articles/how-to-crochet-a-granny-square-tote-result.jpg "Illustration. It draws a different square motif and a boxed base. This page makes two flat panels with no base. Not a finished sample.")
 
-## What is a technique, and what is only a plan
-
-| Piece of this page | What it is |
-| --- | --- |
-| 3-dc clusters in chain spaces, ch-2 corners | The standard granny square. |
-| Single-crochet seams, right sides together | A standard join. It leaves a ridge, which ends up inside the bag. |
-| 19 single crochet along a 4-round edge | Arithmetic for this square: 4n + 3 for n rounds. |
-| One 4-round square about 5 inches across | An unverified estimate. Measure yours. |
-| Straps at 4 sc and 5 rows to the inch | An unverified gauge. |
-| About 350 yards | An old line. It was not weighed and is withdrawn. |
-| Carrying books or weight | Not load-tested. |
 
 ## How the bag is built
 
@@ -161,6 +150,10 @@ A pen, a key, or a lipstick will fall through the holes. Use the [makeup pouch](
 3. The top edge is 68 on both rounds.
 4. Both straps have the same number of rows.
 5. Each strap end is sewn through both edge rounds, 8 stitches in from a side seam.
+
+## Make the joins visible before sewing straps
+
+For a four-round square, a complete side includes twelve dc and three side ch-1 spaces. The two corner allocations determine whether it has nineteen seam positions or seventeen top-edge positions; they are not interchangeable. Mark the center seam of each two-square top edge and divide the full opening into two thirty-four-position panels. At each strap overlap, sew through both solid edging rounds and several underlying crochet stitches without crossing the opening. A one-inch overlap is longer than two sc rounds at the example gauge, so its lower end must also be anchored to solid cluster stitches rather than dangling behind a chain gap.
 
 ## Troubleshooting
 

@@ -1,8 +1,8 @@
 ---
 title: "How to Crochet in the Round: Magic Ring, Spirals and Joined Rounds"
 description: "Start a magic ring that actually closes, pick between spirals and joined rounds, and fix the seam, the jog, and the circle that turns into a bowl."
-pubDate: 2026-09-10
-updatedDate: 2026-10-11
+pubDate: 2026-07-28
+updatedDate: 2026-10-12
 category: skills
 level: beginner
 howTo: true
@@ -105,7 +105,11 @@ Mark the first stitch and move the marker each round. A split ring, safety pin, 
 
 Cupping means too few increases: a hat or a toy, and a problem only if you wanted a coaster. Ruffling means too many. The edge cannot hold the extra fabric flat.
 
-Insert under **both** top loops unless the pattern says otherwise. Those loops are in [basic stitches](/basic-crochet-stitches/). `BLO`, back loop only, every round makes a hat's ribbed brim.
+Insert under **both** top loops unless the pattern says otherwise. Those loops are in [basic stitches](/basic-crochet-stitches/). `BLO`, back loop only, in unturned rounds makes horizontal ridges. A stretchy vertical ribbed brim, like the beanie on this site, is worked sideways in turned BLO rows.
+
+## Use a three-round practice circle
+
+For a spiral, make six sc in the ring, mark the first sc, and tighten the ring. Round 2: two sc in each of the six stitches (12); move the marker into the first new stitch. Round 3: (sc, inc) six times (18). There is no joining slip stitch and no ch 1 between these spiral rounds. For a separate joined-round exercise, join each round to its first sc, ch 1 without counting it, and work the first new sc into the same stitch as the join. Never treat the join as a thirteenth or nineteenth stitch.
 
 ## Mistakes
 
@@ -113,7 +117,7 @@ Insert under **both** top loops unless the pattern says otherwise. Those loops a
 
 **It closed, then loosened.** Weave the tail through the back before you stuff.
 
-**The first round looks like a hexagon.** Six single crochets look angular for two or three rounds. If it stays that way, spread the increases, as in `[sc in next 3, 2 sc in next] 6 times`.
+**The first round looks like a hexagon.** Six single crochets look angular for two or three rounds. If it stays that way, stagger the increase positions between rounds without changing the total. For a 24-to-30 round, work sc 1, inc, (sc 3, inc) 5 times, sc 2: this uses all 24 old stitches and makes 30.
 
 **The start disappeared.** That was a spiral with no marker.
 
