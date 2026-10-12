@@ -203,59 +203,73 @@ ${text(16, 820, "Legend: dashed line = fold. Thick sides = seams.", { size: 20, 
 
 save(
   "ghost-wallet-panels.svg",
-  "Ghost wallet: back and front, right and wrong sides",
-  "The back is 17 stitches and 22 rows, with the top four rows decreased. The front is 17 stitches and 14 rows. The back's right side is the face and the pocket interior. Its wrong side is the outside back. The front's wrong side faces the pocket.",
-  860,
+  "Ghost wallet: wide hem at the bottom, decreases at the top",
+  "The back is 17 stitches wide for rows 1 to 18. The foundation hem is the straight bottom. Rows 19 to 22 decrease at the top to 15, 13, 11, and 9. The front is a separate panel, 17 stitches by 14 rows. Its row-14 edge is the opening, below the face.",
+  980,
   `
-${text(16, 36, "Two panels, labeled before joining", { size: 24, weight: "bold" })}
-<rect x="24" y="70" width="200" height="520" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
-${text(36, 100, "BACK", { weight: "bold" })}
-${text(36, 130, "17 sts", { size: 20 })}
-${text(36, 160, "22 rows", { size: 20 })}
-<polygon points="24,430 224,430 200,590 48,590" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
-${text(36, 250, "RS: face side", { size: 20, weight: "bold" })}
-${text(36, 280, "Pocket interior", { size: 20 })}
-${text(36, 308, "below row 14.", { size: 20 })}
-${text(36, 350, "WS: outside", { size: 20, weight: "bold" })}
-${text(36, 378, "back of wallet.", { size: 20 })}
-${text(36, 500, "rows 19-22", { size: 20 })}
-${text(36, 528, "decrease", { size: 20 })}
-<rect x="256" y="250" width="200" height="340" fill="#fff" stroke="${ink}" stroke-width="3"/>
-${text(268, 280, "FRONT", { weight: "bold" })}
-${text(268, 310, "17 sts", { size: 20 })}
-${text(268, 340, "14 rows", { size: 20 })}
-${text(268, 390, "WS faces the", { size: 20, weight: "bold" })}
-${text(268, 418, "pocket.", { size: 20 })}
-${text(268, 460, "RS is the", { size: 20, weight: "bold" })}
-${text(268, 488, "outside front.", { size: 20 })}
-${text(16, 700, "Match the hems.", { size: 20 })}
-${text(16, 730, "Eight back rows stay above the front.", { size: 20 })}
-${text(16, 770, "RS = right side. WS = wrong side.", { size: 20, fill: soft })}
-${text(16, 810, "If widths differ, recount. Do not stretch.", { size: 20 })}
+${text(16, 34, "Wide hem at the bottom", { size: 24, weight: "bold" })}
+${text(16, 64, "TOP: row 22", { size: 20, weight: "bold" })}
+<rect x="78" y="78" width="84" height="28" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+${text(168, 98, "9", { size: 20 })}
+<rect x="66" y="106" width="108" height="28" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+${text(180, 126, "11", { size: 20 })}
+<rect x="54" y="134" width="132" height="28" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+${text(192, 154, "13", { size: 20 })}
+<rect x="42" y="162" width="156" height="28" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+${text(204, 182, "15", { size: 20 })}
+<rect x="24" y="190" width="192" height="420" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+${text(36, 220, "rows 1-18", { size: 20, weight: "bold" })}
+${text(36, 248, "17 sts wide", { size: 20 })}
+<circle cx="80" cy="290" r="8" fill="${ink}"/>
+<circle cx="150" cy="290" r="8" fill="${ink}"/>
+${text(36, 330, "face", { size: 20 })}
+<line x1="24" y1="360" x2="216" y2="360" stroke="${terra}" stroke-width="5"/>
+${text(36, 392, "row 14 opening", { size: 20, fill: terra, weight: "bold" })}
+${text(36, 420, "below the face", { size: 20, fill: terra })}
+${text(16, 640, "BOTTOM: foundation / row 1", { size: 20, weight: "bold" })}
+<rect x="268" y="360" width="190" height="250" fill="#fff" stroke="${ink}" stroke-width="3"/>
+${text(280, 392, "FRONT", { weight: "bold" })}
+${text(280, 424, "17 by 14 rows", { size: 20 })}
+${text(280, 470, "top: row 14", { size: 20, weight: "bold" })}
+${text(280, 500, "opening", { size: 20 })}
+${text(280, 560, "bottom: row 1", { size: 20, weight: "bold" })}
+${text(280, 590, "foundation hem", { size: 20 })}
+${text(16, 700, "Row 19 = 15. Row 20 = 13.", { size: 20 })}
+${text(16, 730, "Row 21 = 11. Row 22 = 9.", { size: 20 })}
+${text(16, 770, "RS of the back is the face side.", { size: 20 })}
+${text(16, 800, "WS of the front faces the pocket.", { size: 20 })}
+${text(16, 840, "Match the foundation hems.", { size: 20 })}
+${text(16, 880, "Eight back rows stay above the front.", { size: 20 })}
+${text(16, 940, "Numbers are stitch counts at the top.", { size: 20, fill: soft })}
 `,
 );
 
 save(
   "ghost-pocket-orientation.svg",
   "Ghost wallet: front on the lower back, face above the opening",
-  "Place the front on the back's right side. The front covers rows 1 to 14. The face sits on the back above that opening. The front's top edge stays unworked.",
-  780,
+  "The wide foundation hem is at the bottom. Rows 19 to 22 narrow at the top. Place the front on the lower back, covering rows 1 to 14. The face sits above that opening. Leave the front's row-14 edge unworked.",
+  860,
   `
-${text(16, 36, "Front covers the lower back", { size: 24, weight: "bold" })}
-<rect x="90" y="70" width="220" height="560" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
-<polygon points="90,470 310,470 286,630 114,630" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
-${text(110, 120, "face on RS", { size: 20, weight: "bold" })}
-<circle cx="160" cy="160" r="10" fill="${ink}"/>
-<circle cx="240" cy="160" r="10" fill="${ink}"/>
-${text(110, 210, "rows 15-22", { size: 20 })}
-<rect x="110" y="280" width="180" height="280" fill="#fff" stroke="${terra}" stroke-width="4"/>
-${text(130, 320, "front panel", { weight: "bold" })}
-${text(130, 350, "rows 1-14", { size: 20 })}
-<line x1="110" y1="280" x2="290" y2="280" stroke="${terra}" stroke-width="6"/>
-${text(320, 286, "opening", { fill: terra, weight: "bold" })}
-${text(320, 316, "unworked", { fill: terra, size: 20 })}
-${text(16, 690, "Wrong side of the front faces the back's right side.", { size: 20 })}
-${text(16, 730, "Thick line: leave this edge unsewn.", { size: 20, fill: soft })}
+${text(16, 34, "Front covers the lower back", { size: 24, weight: "bold" })}
+${text(16, 64, "TOP: row 22", { size: 20, weight: "bold" })}
+<rect x="150" y="78" width="100" height="24" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+<rect x="130" y="102" width="140" height="24" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+<rect x="114" y="126" width="172" height="24" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+<rect x="100" y="150" width="200" height="24" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+<rect x="80" y="174" width="240" height="460" fill="#f4efe6" stroke="${ink}" stroke-width="3"/>
+<circle cx="160" cy="230" r="10" fill="${ink}"/>
+<circle cx="240" cy="230" r="10" fill="${ink}"/>
+${text(96, 270, "face, above the opening", { size: 20, weight: "bold" })}
+<rect x="100" y="316" width="200" height="318" fill="#fff" stroke="${ink}" stroke-width="3"/>
+<line x1="100" y1="316" x2="300" y2="316" stroke="${terra}" stroke-width="6"/>
+${text(320, 308, "row 14", { fill: terra, size: 20, weight: "bold" })}
+${text(320, 336, "unworked", { fill: terra, size: 20 })}
+${text(112, 400, "front", { weight: "bold" })}
+${text(112, 430, "rows 1-14", { size: 20 })}
+${text(80, 670, "BOTTOM: foundation hem", { size: 20, weight: "bold" })}
+${text(16, 720, "Wrong side of the front faces the back.", { size: 20 })}
+${text(16, 760, "The head narrows only at the top.", { size: 20 })}
+${text(16, 810, "Thick line: leave this edge unsewn.", { size: 20, fill: soft })}
 `,
 );
 
@@ -332,42 +346,48 @@ ${text(16, 690, "Legend: ring = socket. Dot = ball.", { size: 20, fill: soft })}
 
 save(
   "witch-wallet-divider.svg",
-  "Witch-hat wallet: three layers and the side seam",
-  "Front, divider, and back are three layers. Whipstitch all 17 divider foundation stitches along the bottom fold. Eleven side positions go through all three layers. The twelfth goes through front and back only. Leave both pocket openings and the flap free. Keep the hat above the buttonhole.",
-  1380,
+  "Witch-hat wallet: stitch 12 is at the top opening",
+  "Front, divider, and back meet at the bottom fold. Count side stitches upward. Positions 1 to 11 pass through all three layers. Position 12 is at the top, above the shorter divider, and passes through front and back only. Both pocket openings and the flap stay free. The hat stays above the buttonhole.",
+  1320,
   `
-${text(16, 36, "Three layers, one bottom seam", { size: 24, weight: "bold" })}
-<rect x="40" y="70" width="280" height="70" fill="#c4b6e0" stroke="${ink}" stroke-width="3"/>
-${text(52, 112, "back, rows 13-24", { weight: "bold" })}
-<rect x="70" y="160" width="280" height="64" fill="url(#hatch)" stroke="${ink}" stroke-width="3"/>
-${text(82, 200, "divider, 11 rows", { weight: "bold" })}
-<rect x="100" y="244" width="280" height="70" fill="#8d6bb5" stroke="${ink}" stroke-width="3"/>
-${text(112, 286, "front, rows 1-12", { fill: paper, weight: "bold" })}
-<line x1="40" y1="330" x2="380" y2="330" stroke="${terra}" stroke-width="5"/>
-${text(40, 370, "Bottom seam: all 17 divider chains", { size: 20, weight: "bold" })}
-${text(40, 400, "to the inside of the fold.", { size: 20 })}
-<rect x="12" y="430" width="456" height="420" rx="10" fill="${deep}" stroke="${rule}"/>
-${text(28, 462, "Side: 11 through all, then 1", { weight: "bold" })}
-${Array.from({ length: 11 }, (_, i) => `<line x1="40" y1="${500 + i * 24}" x2="200" y2="${500 + i * 24}" stroke="${ink}" stroke-width="3"/>`).join("")}
-<line x1="40" y1="764" x2="140" y2="764" stroke="${terra}" stroke-width="4"/>
-${text(220, 560, "1-11", { weight: "bold" })}
-${text(220, 590, "front +", { size: 20 })}
-${text(220, 616, "divider +", { size: 20 })}
-${text(220, 642, "back", { size: 20 })}
-${text(160, 792, "12: front + back only", { fill: terra, weight: "bold" })}
-<rect x="12" y="866" width="456" height="400" rx="10" fill="${deep}" stroke="${rule}"/>
-${text(28, 898, "Leave these free", { weight: "bold" })}
-<rect x="40" y="930" width="200" height="40" fill="none" stroke="${terra}" stroke-width="4"/>
-${text(250, 958, "front opening", { size: 20 })}
-<rect x="40" y="990" width="180" height="36" fill="none" stroke="${sage}" stroke-width="4"/>
-${text(230, 1016, "divider opening", { size: 20 })}
-<polygon points="80,1060 220,1060 190,1160 110,1160" fill="${ink}"/>
-<rect x="130" y="1148" width="40" height="16" fill="${terra}"/>
-${text(240, 1100, "hat", { weight: "bold" })}
-${text(240, 1130, "above the", { size: 20 })}
-${text(240, 1156, "buttonhole", { size: 20 })}
-${text(16, 1290, "Legend: hatch = divider.", { size: 20, fill: soft })}
-${text(16, 1320, "Short terra tick = stitch 12.", { size: 20, fill: soft })}
+${text(16, 34, "Count the side seam upward", { size: 24, weight: "bold" })}
+${text(16, 68, "TOP: pocket opening", { size: 20, weight: "bold" })}
+<rect x="36" y="90" width="80" height="250" fill="#c4b6e0" stroke="${ink}" stroke-width="3"/>
+<rect x="140" y="150" width="80" height="190" fill="url(#hatch)" stroke="${ink}" stroke-width="3"/>
+<rect x="244" y="90" width="80" height="250" fill="#8d6bb5" stroke="${ink}" stroke-width="3"/>
+${text(48, 220, "back", { size: 20, weight: "bold" })}
+${text(148, 250, "divider", { size: 20, weight: "bold" })}
+${text(256, 220, "front", { fill: paper, size: 20, weight: "bold" })}
+<line x1="150" y1="150" x2="230" y2="150" stroke="${terra}" stroke-width="4"/>
+${text(336, 130, "12", { fill: terra, weight: "bold" })}
+${text(336, 158, "front +", { fill: terra, size: 20 })}
+${text(336, 184, "back only", { fill: terra, size: 20 })}
+<line x1="36" y1="340" x2="324" y2="340" stroke="${terra}" stroke-width="5"/>
+${text(16, 376, "BOTTOM: fold", { size: 20, weight: "bold" })}
+${text(16, 408, "Divider chains sewn along this fold.", { size: 20 })}
+<rect x="12" y="440" width="456" height="460" rx="10" fill="${deep}" stroke="${rule}"/>
+${text(28, 472, "1 at the fold, 12 at the top", { weight: "bold" })}
+<line x1="48" y1="510" x2="130" y2="510" stroke="${terra}" stroke-width="4"/>
+${text(146, 518, "12 front + back", { fill: terra, weight: "bold" })}
+${Array.from({ length: 11 }, (_, i) => {
+  const n = 11 - i;
+  const y = 560 + i * 24;
+  return `<line x1="48" y1="${y}" x2="180" y2="${y}" stroke="${ink}" stroke-width="3"/>${text(196, y + 8, String(n), { size: 20, weight: "bold" })}`;
+}).join("")}
+${text(28, 860, "1-11: front, divider, and back", { size: 20 })}
+${text(28, 888, "BOTTOM of this list is the fold.", { size: 20 })}
+<rect x="12" y="920" width="456" height="340" rx="10" fill="${deep}" stroke="${rule}"/>
+${text(28, 952, "Leave these free", { weight: "bold" })}
+<rect x="40" y="980" width="200" height="36" fill="none" stroke="${terra}" stroke-width="4"/>
+${text(250, 1006, "front opening", { size: 20 })}
+<rect x="40" y="1030" width="170" height="32" fill="none" stroke="${sage}" stroke-width="4"/>
+${text(220, 1054, "divider opening", { size: 20 })}
+${text(40, 1110, "flap stays outside the seams", { size: 20, weight: "bold" })}
+<polygon points="80,1140 200,1140 176,1220 104,1220" fill="${ink}"/>
+<rect x="124" y="1210" width="32" height="14" fill="${terra}"/>
+${text(220, 1180, "hat above", { size: 20 })}
+${text(220, 1208, "the buttonhole", { size: 20 })}
+${text(16, 1288, "Legend: hatch = divider. 12 is the top stitch.", { size: 20, fill: soft })}
 `,
 );
 

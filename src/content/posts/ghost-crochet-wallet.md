@@ -63,8 +63,8 @@ Each panel is 17 stitches, 4.25 inches wide. The side edging takes a little from
 ### Stage 1: the two panels
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-panels.svg" alt="The back is 17 stitches and 22 rows. The front is 17 stitches and 14 rows. The back's right side is the face and the pocket interior. Its wrong side is the outside back. The front's wrong side faces the pocket." width="480" height="860" loading="lazy" decoding="async" />
-<figcaption>Diagram. Both panels start the same way. The back keeps going and rounds off.</figcaption>
+<img src="/diagrams/ghost-wallet-panels.svg" alt="The back is 17 stitches wide for rows 1 to 18. The foundation hem is the straight bottom. Rows 19 to 22 decrease at the top to 15, 13, 11, and 9. The front is 17 stitches by 14 rows. Its row-14 edge is the opening, below the face." width="480" height="980" loading="lazy" decoding="async" />
+<figcaption>Diagram. The hem is the wide bottom. Rows 19 to 22 narrow at the top.</figcaption>
 </figure>
 
 ![The two cream panels before joining: a taller back with a stepped top, and a shorter front](../../assets/articles/ghost-crochet-wallet-panels.jpg "Illustration.")
@@ -115,7 +115,7 @@ Work through the back panel only and keep the strands on the wrong side short. T
 ### Stage 3: the snap, before joining
 
 <figure class="diagram">
-<img src="/diagrams/ghost-pocket-orientation.svg" alt="Place the front on the back's right side. The front covers rows 1 to 14. The face sits on the back above that opening. The front's top edge stays unworked." width="480" height="780" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-pocket-orientation.svg" alt="The wide foundation hem is at the bottom. Rows 19 to 22 narrow at the top. The front covers rows 1 to 14. The face sits above the unworked row-14 opening." width="480" height="860" loading="lazy" decoding="async" />
 <figcaption>The two pocket-facing surfaces and the edge that must remain open.</figcaption>
 </figure>
 

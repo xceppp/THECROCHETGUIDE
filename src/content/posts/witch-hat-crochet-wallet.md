@@ -129,8 +129,8 @@ The hat is about 1.25 inches wide at the band and about 1.2 inches tall with the
 ### Stage 4: assembly
 
 <figure class="diagram">
-<img src="/diagrams/witch-wallet-divider.svg" alt="Front, divider, and back are three layers. Whipstitch all 17 divider foundation stitches along the bottom fold. Eleven side positions go through all three layers. The twelfth goes through front and back only. Leave both pocket openings and the flap free." width="480" height="1380" loading="lazy" decoding="async" />
-<figcaption>Diagram. Two pockets of the same width, sealed by the same side seams.</figcaption>
+<img src="/diagrams/witch-wallet-divider.svg" alt="Count the side seam upward from the bottom fold. Positions 1 to 11 pass through front, divider, and back. Position 12 is at the top pocket opening and passes through front and back only. The flap stays free." width="480" height="1320" loading="lazy" decoding="async" />
+<figcaption>Diagram. Stitch 1 is at the fold. Stitch 12 is at the opening.</figcaption>
 </figure>
 
 1. **Fold.** Fold rows 1 to 12 up against rows 13 to 24, right sides out. The chain edge is now the front rim.
