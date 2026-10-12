@@ -1,22 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 684" role="img">
-<title>Ghost wallet: joining edging and scalloped hem</title>
-<desc>Hem uses all 17 stitches: slip stitch in stitch 1, then the 4-stitch scallop four times. Each side is 23 sc. Top is 9. Do not close the front opening.</desc>
-<rect width="480" height="684" fill="#fdfaf6"/>
-<g font-family="Georgia, Times New Roman, serif">
-<text x="16" y="36" font-size="22" fill="#2f2a26">Start in stitch 1 of the hem,</text>
-<text x="16" y="68" font-size="22" fill="#2f2a26">through both layers.</text>
-<text x="16" y="132" font-size="22" fill="#2f2a26">Hem: sl st in st 1, then (skip 1, 5</text>
-<text x="16" y="164" font-size="22" fill="#2f2a26">hdc in the next, skip 1, sl st in</text>
-<text x="16" y="196" font-size="22" fill="#2f2a26">the next) 4 times.</text>
-<text x="16" y="260" font-size="22" fill="#2f2a26">1 + 4 times 4 = 17 hem stitches.</text>
-<text x="16" y="324" font-size="22" fill="#2f2a26">Right side: 14 sc through both</text>
-<text x="16" y="356" font-size="22" fill="#2f2a26">layers, 4 sc in the back only, 5 sc</text>
-<text x="16" y="388" font-size="22" fill="#2f2a26">along the slope. (23)</text>
-<text x="16" y="452" font-size="22" fill="#2f2a26">Top: 9 sc across the head.</text>
-<text x="16" y="516" font-size="22" fill="#2f2a26">Left side: 5 + 4 + 14. (23)</text>
-<text x="16" y="580" font-size="22" fill="#2f2a26">Slip stitch to the first slip</text>
-<text x="16" y="612" font-size="22" fill="#2f2a26">stitch. Do not edge the front</text>
-<text x="16" y="644" font-size="22" fill="#2f2a26">panel's top. That is the opening.</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 1280" role="img">
+<title>Ghost wallet: joining path and the row-14 change</title>
+<desc>Join the hem through both layers. Up each side, 14 single crochet go through both layers. At front row 14, continue through the back alone. Do not cross the front's top edge.</desc>
+<rect width="480" height="1280" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#7d8b72" stroke-width="1.5"/></pattern>
+</defs>
+
+<text x="16" y="36" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Where the hook goes</text>
+<rect x="12" y="52" width="456" height="360" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="84" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">1. Through both layers</text>
+<rect x="40" y="130" width="200" height="36" fill="#fff" stroke="#2f2a26" stroke-width="3"/>
+<rect x="40" y="174" width="200" height="36" fill="#f4efe6" stroke="#2f2a26" stroke-width="3"/>
+<path d="M110 108 v120" stroke="#b0604a" stroke-width="4" marker-end="url(#ah)"/>
+<text x="250" y="156" font-size="20" fill="#2f2a26" text-anchor="start">front row end</text>
+<text x="250" y="200" font-size="20" fill="#2f2a26" text-anchor="start">back row end</text>
+<text x="130" y="124" font-size="22" fill="#b0604a" text-anchor="start" font-weight="bold">hook</text>
+<text x="28" y="250" font-size="20" fill="#2f2a26" text-anchor="start">Use this for the hem and for</text>
+<text x="28" y="278" font-size="20" fill="#2f2a26" text-anchor="start">side stitches 1 through 14.</text>
+<text x="28" y="320" font-size="20" fill="#2f2a26" text-anchor="start">A row end is the side of the row,</text>
+<text x="28" y="348" font-size="20" fill="#2f2a26" text-anchor="start">not the turning chain.</text>
+<rect x="12" y="428" width="456" height="300" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="460" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">2. Change at front row 14</text>
+<rect x="40" y="500" width="200" height="36" fill="#fff" stroke="#2f2a26" stroke-width="3"/>
+<text x="48" y="526" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">front stops here</text>
+<rect x="40" y="544" width="280" height="36" fill="#f4efe6" stroke="#2f2a26" stroke-width="3"/>
+<text x="48" y="570" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">back continues</text>
+<path d="M250 480 v80" stroke="#b0604a" stroke-width="4" marker-end="url(#ah)"/>
+<text x="28" y="640" font-size="20" fill="#2f2a26" text-anchor="start">Stitch 14 is the last one through both.</text>
+<text x="28" y="668" font-size="20" fill="#2f2a26" text-anchor="start">The next 4 are back only.</text>
+<text x="28" y="696" font-size="20" fill="#2f2a26" text-anchor="start">Then 5 along the head slope.</text>
+<rect x="12" y="744" width="456" height="480" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="776" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">3. Path, opening left open</text>
+<rect x="80" y="820" width="200" height="280" fill="none" stroke="#2f2a26" stroke-width="3"/>
+<line x1="80" y1="980" x2="280" y2="980" stroke="#b0604a" stroke-width="6"/>
+<text x="300" y="986" font-size="22" fill="#b0604a" text-anchor="start" font-weight="bold">do not</text>
+<text x="300" y="1014" font-size="22" fill="#b0604a" text-anchor="start" font-weight="bold">cross</text>
+<path d="M80 1100 h200 v-280 h-200" fill="none" stroke="#7d8b72" stroke-width="4" marker-end="url(#ah)"/>
+<text x="28" y="1140" font-size="20" fill="#2f2a26" text-anchor="start">Start at the hem, both layers.</text>
+<text x="28" y="1168" font-size="20" fill="#2f2a26" text-anchor="start">14 up the side, both layers.</text>
+<text x="28" y="1196" font-size="20" fill="#2f2a26" text-anchor="start">Then back only, around the head.</text>
+<text x="16" y="1240" font-size="20" fill="#6d635a" text-anchor="start">Legend: arrow = hook.</text>
+<text x="16" y="1268" font-size="20" fill="#6d635a" text-anchor="start">Thick line = unworked opening.</text>
+
 </svg>

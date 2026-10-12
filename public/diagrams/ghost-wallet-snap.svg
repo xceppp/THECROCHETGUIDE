@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 716" role="img">
-<title>Ghost wallet: snap placement and card fit</title>
-<desc>Socket on the back right side at row 13 stitch 9. Ball on the front wrong side at the same place. On paper the pocket is about 3.9 by 2.7 inches.</desc>
-<rect width="480" height="716" fill="#fdfaf6"/>
-<g font-family="Georgia, Times New Roman, serif">
-<text x="16" y="36" font-size="22" fill="#2f2a26">Sew both halves before joining,</text>
-<text x="16" y="68" font-size="22" fill="#2f2a26">while the panels are flat.</text>
-<text x="16" y="132" font-size="22" fill="#2f2a26">Socket: right side of the back, row</text>
-<text x="16" y="164" font-size="22" fill="#2f2a26">13, stitch 9. This face is inside</text>
-<text x="16" y="196" font-size="22" fill="#2f2a26">the pocket.</text>
-<text x="16" y="260" font-size="22" fill="#2f2a26">Ball: wrong side of the front, row</text>
-<text x="16" y="292" font-size="22" fill="#2f2a26">13, stitch 9.</text>
-<text x="16" y="356" font-size="22" fill="#2f2a26">Press the panels together. The</text>
-<text x="16" y="388" font-size="22" fill="#2f2a26">halves should meet. Move one now if</text>
-<text x="16" y="420" font-size="22" fill="#2f2a26">they miss.</text>
-<text x="16" y="484" font-size="22" fill="#2f2a26">On paper the pocket is about 3.9 in</text>
-<text x="16" y="516" font-size="22" fill="#2f2a26">wide and 2.7 in deep. An ID-1 card</text>
-<text x="16" y="548" font-size="22" fill="#2f2a26">is 3.37 by 2.125 in.</text>
-<text x="16" y="612" font-size="22" fill="#2f2a26">The snap should sit above the card.</text>
-<text x="16" y="644" font-size="22" fill="#2f2a26">These sizes are from gauge, not a</text>
-<text x="16" y="676" font-size="22" fill="#2f2a26">measured sample.</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 720" role="img">
+<title>Ghost wallet: snap halves face each other inside the pocket</title>
+<desc>Socket on the back's right side at row 13, stitch 9. Ball on the front's wrong side at the same place. Both face into the pocket. Test with a card before joining.</desc>
+<rect width="480" height="720" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#7d8b72" stroke-width="1.5"/></pattern>
+</defs>
+
+<text x="16" y="36" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Snap halves face inside</text>
+<rect x="40" y="80" width="160" height="420" fill="#f4efe6" stroke="#2f2a26" stroke-width="3"/>
+<text x="52" y="110" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">back RS</text>
+<circle cx="120" cy="280" r="22" fill="none" stroke="#b0604a" stroke-width="4"/>
+<text x="52" y="340" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">socket</text>
+<text x="52" y="368" font-size="20" fill="#2f2a26" text-anchor="start">row 13</text>
+<text x="52" y="396" font-size="20" fill="#2f2a26" text-anchor="start">stitch 9</text>
+<rect x="260" y="200" width="160" height="300" fill="#fff" stroke="#2f2a26" stroke-width="3"/>
+<text x="272" y="230" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">front WS</text>
+<circle cx="340" cy="360" r="16" fill="#b0604a"/>
+<text x="272" y="410" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">ball</text>
+<text x="272" y="438" font-size="20" fill="#2f2a26" text-anchor="start">row 13</text>
+<text x="272" y="466" font-size="20" fill="#2f2a26" text-anchor="start">stitch 9</text>
+<path d="M142 280 h100" stroke="#7d8b72" stroke-width="3" marker-end="url(#ah)"/>
+<text x="16" y="560" font-size="20" fill="#2f2a26" text-anchor="start">They meet inside the pocket.</text>
+<text x="16" y="592" font-size="20" fill="#2f2a26" text-anchor="start">Move both up together if a card hits them.</text>
+<text x="16" y="640" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">Sew each half through its own panel only.</text>
+<text x="16" y="690" font-size="20" fill="#6d635a" text-anchor="start">Legend: ring = socket. Dot = ball.</text>
+
 </svg>

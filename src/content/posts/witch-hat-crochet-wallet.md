@@ -62,7 +62,7 @@ Seventeen stitches make 4.25 inches; after the side seams, each pocket is about 
 ### Stage 1: the main rectangle
 
 <figure class="diagram">
-<img src="/diagrams/witch-wallet-zones.svg" alt="Diagram. A rectangle 17 stitches wide, one grid square per stitch. Rows 1 to 12 are the front, rows 13 to 24 the back, rows 25 to 33 the flap. Row 31 has a buttonhole of 3 chains over 3 skipped stitches. Row 33 decreases at both ends to 15. Dashed lines mark the folds at rows 12 and 24." width="480" height="652" loading="lazy" decoding="async" />
+<img src="/diagrams/witch-wallet-zones.svg" alt="One rectangle, 17 stitches wide. Rows 1 to 12 are the front, 13 to 24 the back, 25 to 33 the flap. Row 31 holds the buttonhole. Keep the hat clear of that hole." width="480" height="780" loading="lazy" decoding="async" />
 <figcaption>Diagram. Three zones in one piece. The chain edge becomes the front rim.</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Place a marker at the end of row 12 and row 24; those are the two folds.
 Fasten off and weave in.
 
 <figure class="diagram">
-<img src="/diagrams/witch-wallet-buttonhole.svg" alt="Diagram. Row 31 is 7 single crochet, chain 3, skip 3, 7 single crochet. Row 32 is 7, then 3 into the chain space, then 7, back to 17. The closed wallet to scale, about 4.25 by 2.4 inches, with the button near row 7 of the front at stitch 9, about 1.3 inches below the top fold." width="480" height="716" loading="lazy" decoding="async" />
+<img src="/diagrams/witch-wallet-buttonhole.svg" alt="Row 31 is 7 single crochet, chain 3, skip 3, 7 single crochet. Row 32 works 3 single crochet into the chain and returns to 17. Mark the button through the hole and sew it through the front wall only." width="480" height="716" loading="lazy" decoding="async" />
 <figcaption>Diagram. Count 17 after row 32. The hole sits over stitches 8 to 10.</figcaption>
 </figure>
 
@@ -129,7 +129,7 @@ The hat is about 1.25 inches wide at the band and about 1.2 inches tall with the
 ### Stage 4: assembly
 
 <figure class="diagram">
-<img src="/diagrams/witch-wallet-divider.svg" alt="Diagram. A side view with the front folded up against the back and the divider between them, its lower edge at the fold and its top one row below the rim, making two pockets. A side seam of single crochet passes through front, divider, and back, one per row end, 12 per side." width="480" height="716" loading="lazy" decoding="async" />
+<img src="/diagrams/witch-wallet-divider.svg" alt="Front, divider, and back are three layers. Whipstitch all 17 divider foundation stitches along the bottom fold. Eleven side positions go through all three layers. The twelfth goes through front and back only. Leave both pocket openings and the flap free." width="480" height="1380" loading="lazy" decoding="async" />
 <figcaption>Diagram. Two pockets of the same width, sealed by the same side seams.</figcaption>
 </figure>
 

@@ -1,24 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 748" role="img">
-<title>Spiderweb wallet: point loop, button, and card fit</title>
-<desc>After the point, chain 8 and slip stitch into the same stitch. Test the button before fastening off. Button sits near row 10, stitch 9.</desc>
-<rect width="480" height="748" fill="#fdfaf6"/>
-<g font-family="Georgia, Times New Roman, serif">
-<text x="16" y="36" font-size="22" fill="#2f2a26">After the last stitch of the point:</text>
-<text x="16" y="68" font-size="22" fill="#2f2a26">chain 8, slip stitch into the same</text>
-<text x="16" y="100" font-size="22" fill="#2f2a26">stitch.</text>
-<text x="16" y="164" font-size="22" fill="#2f2a26">Test the loop over the button before</text>
-<text x="16" y="196" font-size="22" fill="#2f2a26">you fasten off.</text>
-<text x="16" y="260" font-size="22" fill="#2f2a26">If it is tight or loose, undo it and</text>
-<text x="16" y="292" font-size="22" fill="#2f2a26">chain 7 to 10 instead.</text>
-<text x="16" y="356" font-size="22" fill="#2f2a26">The flap reaches about 1.6 in below</text>
-<text x="16" y="388" font-size="22" fill="#2f2a26">the fold at the example gauge.</text>
-<text x="16" y="452" font-size="22" fill="#2f2a26">The loop adds about 0.4 in. The</text>
-<text x="16" y="484" font-size="22" fill="#2f2a26">button sits near row 10 of the</text>
-<text x="16" y="516" font-size="22" fill="#2f2a26">front, stitch 9.</text>
-<text x="16" y="580" font-size="22" fill="#2f2a26">Close the flap with a card inside</text>
-<text x="16" y="612" font-size="22" fill="#2f2a26">and mark the button before sewing.</text>
-<text x="16" y="676" font-size="22" fill="#2f2a26">These inches are from gauge, not a</text>
-<text x="16" y="708" font-size="22" fill="#2f2a26">measured sample.</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 1240" role="img">
+<title>Spiderweb wallet: mark the button where the loop lands</title>
+<desc>The flap ends in a chain-8 loop. With cards inside, close the flap without stretching it and mark where the loop lands on the front wall. Remove the cards and sew the button through the front wall only.</desc>
+<rect width="480" height="1240" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#7d8b72" stroke-width="1.5"/></pattern>
+</defs>
+
+<text x="16" y="36" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Mark the button where the loop lands</text>
+<rect x="12" y="52" width="456" height="300" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="84" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">1. Flap and loop</text>
+<polygon points="150,110 330,110 270,250 210,250" fill="#2f2a26"/>
+<text x="240" y="175" font-size="22" fill="#fdfaf6" text-anchor="middle" font-weight="bold">flap</text>
+<ellipse cx="240" cy="286" rx="26" ry="18" fill="none" stroke="#b0604a" stroke-width="4"/>
+<text x="280" y="292" font-size="22" fill="#b0604a" text-anchor="start" font-weight="bold">ch-8 loop</text>
+<text x="28" y="330" font-size="20" fill="#2f2a26" text-anchor="start">The loop returns to the point stitch.</text>
+<rect x="12" y="368" width="456" height="390" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="400" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">2. Close it on the cards</text>
+<rect x="70" y="430" width="220" height="250" fill="#efe6da" stroke="#2f2a26" stroke-width="3"/>
+<text x="180" y="560" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">front wall</text>
+<polygon points="90,430 270,430 230,560 130,560" fill="#2f2a26" opacity="0.92"/>
+<text x="180" y="490" font-size="22" fill="#fdfaf6" text-anchor="middle" font-weight="bold">flap</text>
+<ellipse cx="180" cy="590" rx="22" ry="14" fill="none" stroke="#b0604a" stroke-width="4"/>
+<circle cx="180" cy="640" r="10" fill="none" stroke="#b0604a" stroke-width="3"/>
+<line x1="172" y1="632" x2="188" y2="648" stroke="#b0604a" stroke-width="3"/>
+<line x1="188" y1="632" x2="172" y2="648" stroke="#b0604a" stroke-width="3"/>
+<text x="200" y="646" font-size="22" fill="#b0604a" text-anchor="start" font-weight="bold">mark</text>
+<rect x="100" y="500" width="160" height="90" fill="none" stroke="#7d8b72" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="180" y="548" font-size="20" fill="#7d8b72" text-anchor="middle">cards inside</text>
+<text x="310" y="470" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Do not stretch</text>
+<text x="310" y="500" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">the flap.</text>
+<text x="310" y="540" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Mark the loop.</text>
+<text x="310" y="580" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Then take the</text>
+<text x="310" y="610" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">cards out.</text>
+<rect x="12" y="774" width="456" height="360" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="806" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">3. Sew the front wall only</text>
+<rect x="40" y="840" width="180" height="220" fill="#efe6da" stroke="#2f2a26" stroke-width="3"/>
+<text x="48" y="1040" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">front wall</text>
+<rect x="250" y="840" width="180" height="220" fill="url(#hatch)" stroke="#2f2a26" stroke-width="3"/>
+<text x="340" y="960" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">back wall</text>
+<path d="M130 880 v70" stroke="#b0604a" stroke-width="4" marker-end="url(#ah)"/>
+<circle cx="130" cy="970" r="12" fill="#b0604a"/>
+<text x="40" y="1090" font-size="20" fill="#2f2a26" text-anchor="start">Needle stops in the front.</text>
+<text x="40" y="1120" font-size="20" fill="#2f2a26" text-anchor="start">Leave the back wall free.</text>
+<text x="16" y="1188" font-size="20" fill="#6d635a" text-anchor="start">Legend: solid = front. Hatch = back.</text>
+<text x="16" y="1216" font-size="20" fill="#6d635a" text-anchor="start">X = button mark.</text>
+
 </svg>

@@ -1,22 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 684" role="img">
-<title>Pumpkin wallet: rims, fold, side seams, and card fit</title>
-<desc>Rim each long edge with 22 sc. Fold between stitches 10 and 11, right side out. Seam each short edge 10 to 10.</desc>
-<rect width="480" height="684" fill="#fdfaf6"/>
-<g font-family="Georgia, Times New Roman, serif">
-<text x="16" y="36" font-size="22" fill="#2f2a26">1. On each row-end edge, work 22 sc,</text>
-<text x="16" y="68" font-size="22" fill="#2f2a26">one in each row end.</text>
-<text x="16" y="132" font-size="22" fill="#2f2a26">2. Embroider the face on the front</text>
-<text x="16" y="164" font-size="22" fill="#2f2a26">half.</text>
-<text x="16" y="228" font-size="22" fill="#2f2a26">3. Fold between stitches 10 and 11,</text>
-<text x="16" y="260" font-size="22" fill="#2f2a26">right side out.</text>
-<text x="16" y="324" font-size="22" fill="#2f2a26">4. Seam the foundation edge to</text>
-<text x="16" y="356" font-size="22" fill="#2f2a26">itself, 10 stitches to 10. Repeat on</text>
-<text x="16" y="388" font-size="22" fill="#2f2a26">the last row.</text>
-<text x="16" y="452" font-size="22" fill="#2f2a26">The top stays open.</text>
-<text x="16" y="516" font-size="22" fill="#2f2a26">Outside about 4.25 by 2.5 in. Inside</text>
-<text x="16" y="548" font-size="22" fill="#2f2a26">on paper about 3.9 by 2.4 in.</text>
-<text x="16" y="612" font-size="22" fill="#2f2a26">Put a card in before you finish the</text>
-<text x="16" y="644" font-size="22" fill="#2f2a26">seams. Sizes are from gauge.</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 860" role="img">
+<title>Pumpkin wallet: which edges are seamed</title>
+<desc>Seam the foundation edge and the last-row edge. The two rims meet at the top and stay open. Fold right side out between stitch positions 10 and 11.</desc>
+<rect width="480" height="860" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#7d8b72" stroke-width="1.5"/></pattern>
+</defs>
+
+<text x="16" y="36" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Seam the short edges. Leave the rims open.</text>
+<rect x="40" y="80" width="160" height="280" fill="#e7a15a" stroke="#2f2a26" stroke-width="3"/>
+<text x="48" y="70" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">flat</text>
+<line x1="40" y1="220" x2="200" y2="220" stroke="#b0604a" stroke-width="3" stroke-dasharray="6 4"/>
+<text x="48" y="120" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">front rim</text>
+<text x="48" y="150" font-size="20" fill="#2f2a26" text-anchor="start">open</text>
+<text x="48" y="320" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">back rim</text>
+<text x="48" y="348" font-size="20" fill="#2f2a26" text-anchor="start">open</text>
+<text x="8" y="230" font-size="20" fill="#b0604a" text-anchor="start">seam</text>
+<text x="168" y="250" font-size="20" fill="#b0604a" text-anchor="start">seam</text>
+<path d="M220 220 h40" stroke="#b0604a" stroke-width="4" marker-end="url(#ah)"/>
+<rect x="280" y="140" width="160" height="160" fill="#e7a15a" stroke="#2f2a26" stroke-width="3"/>
+<text x="288" y="130" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">folded</text>
+<text x="300" y="200" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">opening</text>
+<text x="300" y="228" font-size="20" fill="#2f2a26" text-anchor="start">two rims</text>
+<line x1="280" y1="140" x2="280" y2="300" stroke="#b0604a" stroke-width="5"/>
+<line x1="440" y1="140" x2="440" y2="300" stroke="#b0604a" stroke-width="5"/>
+<text x="280" y="340" font-size="20" fill="#b0604a" text-anchor="start">left seam</text>
+<text x="360" y="340" font-size="20" fill="#b0604a" text-anchor="start">right seam</text>
+<text x="16" y="460" font-size="20" fill="#2f2a26" text-anchor="start">Pair stitches 10 with 11, 9 with 12,</text>
+<text x="16" y="490" font-size="20" fill="#2f2a26" text-anchor="start">and so on, up to 1 with 20.</text>
+<text x="16" y="540" font-size="20" fill="#2f2a26" text-anchor="start">Fold right side out so the face stays outside.</text>
+<text x="16" y="590" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">Slide a card in before you tighten the seams.</text>
+<text x="16" y="820" font-size="20" fill="#6d635a" text-anchor="start">Legend: dashed line = fold. Thick sides = seams.</text>
+
 </svg>

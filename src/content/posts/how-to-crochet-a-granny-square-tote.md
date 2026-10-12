@@ -26,7 +26,7 @@ US terms. US double crochet is UK treble. US single crochet is UK double crochet
 ## How the bag is built
 
 <figure class="diagram">
-<img src="/diagrams/tote-assembly.svg" alt="Eight 4-round squares make two panels of two by two. Join the sides and the bottom. Leave the top open. There is no separate base. One panel top is 34 sc: skip 8, sew a 5-stitch strap, skip 8, sew 5, skip 8." width="480" height="844" loading="lazy" decoding="async" />
+<img src="/diagrams/tote-assembly.svg" alt="Eight 4-round squares make two panels of two by two. Join the panels on both sides and the bottom. Leave the top open. There is no base. A square edge is 19 positions, a panel side is 38, and one panel top is 34, split 8, strap 5, 8, strap 5, 8." width="480" height="1500" loading="lazy" decoding="async" />
 <figcaption>Two flat panels and three seams. Every number on the drawing follows from the 4-round square.</figcaption>
 </figure>
 

@@ -58,7 +58,7 @@ The piece is worked sideways. The 20 stitches in each row set the height before 
 ### Stage 1: the ribbed piece
 
 <figure class="diagram">
-<img src="/diagrams/pumpkin-wallet-sideways.svg" alt="Diagram. The piece laid flat with vertical orange ribs. Stitch 1 at the top is the front rim, stitch 20 at the bottom is the back rim, and a dashed fold line runs between stitches 10 and 11. Rows run up and down from row 1 at the left to row 22 at the right." width="480" height="684" loading="lazy" decoding="async" />
+<img src="/diagrams/pumpkin-wallet-sideways.svg" alt="Stitches run from the front rim at stitch 1 to the back rim at stitch 20. Rows run from row 1 to the last row. The fold is between stitch positions 10 and 11." width="480" height="980" loading="lazy" decoding="async" />
 <figcaption>Diagram. Rows run up and down. The fold runs across the middle of every row.</figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Keep rows 10 to 13 on stitches 1 to 5 clear; the leaf tab covers that spot. Neve
 ### Stage 4: fold and seam
 
 <figure class="diagram">
-<img src="/diagrams/pumpkin-wallet-fold.svg" alt="Diagram. Left, the flat piece with a 22 single crochet rim on each long edge and a fold line between stitches 10 and 11, with the two short sides marked as seams. Right, the folded pouch to scale, about 4.25 by 2.5 inches outside, with an ID-1 card inside and the inside about 3.9 by 2.4 inches on paper." width="480" height="684" loading="lazy" decoding="async" />
+<img src="/diagrams/pumpkin-wallet-fold.svg" alt="Seam the foundation edge and the last-row edge. The two rims meet at the top and stay open. Fold right side out between stitch positions 10 and 11." width="480" height="860" loading="lazy" decoding="async" />
 <figcaption>Diagram. Fold right side out so the ribs and face stay outside.</figcaption>
 </figure>
 
@@ -127,11 +127,17 @@ Keep rows 10 to 13 on stitches 1 to 5 clear; the leaf tab covers that spot. Neve
 ### Stage 5: stem, leaf tab, and snap
 
 <figure class="diagram">
-<img src="/diagrams/pumpkin-wallet-stem-tab.svg" alt="Diagram. The stem, a green strip 6 single crochet by 3 rows rolled into a small cylinder. The leaf tab, 3 stitches wide for 6 rows with a point on row 7. A side view of the tab sewn inside the back rim, rising over both rims and down the front, with a snap under the tip and the stem standing on the back rim." width="480" height="844" loading="lazy" decoding="async" />
-<figcaption>Diagram. The tab is the closure. The stem only decorates.</figcaption>
+<img src="/diagrams/pumpkin-wallet-stem-tab.svg" alt="A stem of 6 stitches by 3 rows. Roll the six-stitch width so the two three-row edges meet. The three-row direction is the cylinder height. Sew the stem upright on the back rim over the tab base. The tab folds over the opening on its own." width="480" height="1480" loading="lazy" decoding="async" />
+<figcaption>Diagram. Roll the six-stitch width. Sew the stem on the back rim. The tab closes the opening.</figcaption>
 </figure>
 
-**Stem**, green: Ch 7. Sc in the 2nd ch from the hook and across. (6) Rows 2–3: ch 1, turn, sc in each st. (6) Fasten off with a 10 inch tail. Keep the six-stitch edges horizontal. Roll the six-stitch width around itself, bringing the short three-row ends together, and sew those ends together. The cylinder height is the three-row direction, about 0.6 inch at the example row gauge; do not roll the three-row height into the circumference.
+**Stem**, green. The flat piece is 6 stitches across and 3 rows tall.
+
+**Row 1:** Ch 7. Sc in the 2nd ch from the hook and in each ch across. (6)
+
+**Rows 2–3:** Ch 1, turn, sc in each st. (6) Fasten off with a 10 inch tail.
+
+The two long sides are the 6-stitch edges. The two short sides are the 3-row edges. Roll the 6-stitch width into the circumference: bring those two 3-row edges together and sew them. The 3-row direction stays the height of the cylinder, about 0.6 inch at the example row gauge.
 
 **Leaf tab**, green: Ch 4. Sc in the 2nd ch from the hook and across. (3) Rows 2–6: ch 1, turn, sc in each st. (3) Row 7: ch 1, turn, sc3tog. (1) Fasten off with a 10 inch tail. The tab is about 0.75 inch wide and 1.4 inches long.
 
@@ -140,7 +146,7 @@ Keep rows 10 to 13 on stitches 1 to 5 clear; the leaf tab covers that spot. Neve
 1. Sew the tab's foundation edge to the inside of the back rim at the center, over the middle 3 rim stitches.
 2. Fold the tab over both rims and down the front. Mark where the tip lands, usually stitches 3 to 4 of the front, between rows 11 and 12. Mark it with a card inside.
 3. Sew the ball half of the snap under the tab at row 6, and the socket on the front at the mark. Doubled thread, four or five passes per hole, through the front layer only.
-4. Sew the stem standing upright on the back rim, right over the tab's base, catching the tab too. That double layer is what takes the pull every time the tab opens.
+4. Sew the stem standing upright on the back rim, right over the tab's base, catching the tab too. The tab still folds on its own over the opening. The stem is not the closure.
 
 Weave in ends inside the pocket along the seams. See [weaving in ends](/weaving-in-ends-and-blocking/).
 

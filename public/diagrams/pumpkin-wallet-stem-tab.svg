@@ -1,26 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 844" role="img">
-<title>Pumpkin wallet: stem, leaf tab, and snap</title>
-<desc>Stem is 6 sc by 3 rows, rolled. Tab is 3 sc for 6 rows, then sc3tog. Sew the tab inside the back rim. Stem sits on the back rim.</desc>
-<rect width="480" height="844" fill="#fdfaf6"/>
-<g font-family="Georgia, Times New Roman, serif">
-<text x="16" y="36" font-size="22" fill="#2f2a26">Stem: chain 7. Sc in the 2nd chain</text>
-<text x="16" y="68" font-size="22" fill="#2f2a26">and across. (6)</text>
-<text x="16" y="132" font-size="22" fill="#2f2a26">Rows 2-3: ch 1, turn, sc 6. Fasten</text>
-<text x="16" y="164" font-size="22" fill="#2f2a26">off.</text>
-<text x="16" y="228" font-size="22" fill="#2f2a26">Roll from a short end and sew the</text>
-<text x="16" y="260" font-size="22" fill="#2f2a26">edge down.</text>
-<text x="16" y="324" font-size="22" fill="#2f2a26">Tab: chain 4. Sc in the 2nd chain</text>
-<text x="16" y="356" font-size="22" fill="#2f2a26">and across. (3)</text>
-<text x="16" y="420" font-size="22" fill="#2f2a26">Rows 2-6: sc 3. Row 7: sc3tog. (1)</text>
-<text x="16" y="452" font-size="22" fill="#2f2a26">Fasten off.</text>
-<text x="16" y="516" font-size="22" fill="#2f2a26">Sew the tab's foundation edge inside</text>
-<text x="16" y="548" font-size="22" fill="#2f2a26">the back rim, centered.</text>
-<text x="16" y="612" font-size="22" fill="#2f2a26">The tab comes over both rims. Mark</text>
-<text x="16" y="644" font-size="22" fill="#2f2a26">the snap on the front with the tab</text>
-<text x="16" y="676" font-size="22" fill="#2f2a26">closed.</text>
-<text x="16" y="740" font-size="22" fill="#2f2a26">Sew the stem on the back rim, over</text>
-<text x="16" y="772" font-size="22" fill="#2f2a26">the tab's base, not on the front of</text>
-<text x="16" y="804" font-size="22" fill="#2f2a26">the tab.</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 1480" role="img">
+<title>Pumpkin stem: roll the six-stitch width, sew it on the back rim</title>
+<desc>A stem of 6 stitches by 3 rows. Roll the six-stitch width so the two three-row edges meet. The three-row direction is the cylinder height. Sew the stem upright on the back rim over the tab base. The tab folds over the opening on its own.</desc>
+<rect width="480" height="1480" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#7d8b72" stroke-width="1.5"/></pattern>
+</defs>
+
+<text x="16" y="36" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Roll the width. Keep the height.</text>
+<rect x="12" y="52" width="456" height="420" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="84" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">1. Flat stem: 6 stitches by 3 rows</text>
+<rect x="70" y="140" width="300" height="120" fill="#6f8f62" stroke="#2f2a26" stroke-width="3"/>
+<line x1="120" y1="140" x2="120" y2="260" stroke="#2f2a26" stroke-width="1.5"/>
+<line x1="170" y1="140" x2="170" y2="260" stroke="#2f2a26" stroke-width="1.5"/>
+<line x1="220" y1="140" x2="220" y2="260" stroke="#2f2a26" stroke-width="1.5"/>
+<line x1="270" y1="140" x2="270" y2="260" stroke="#2f2a26" stroke-width="1.5"/>
+<line x1="320" y1="140" x2="320" y2="260" stroke="#2f2a26" stroke-width="1.5"/>
+<text x="220" y="210" font-size="22" fill="#fdfaf6" text-anchor="middle" font-weight="bold">6 stitches</text>
+<text x="40" y="210" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">3</text>
+<text x="40" y="236" font-size="20" fill="#2f2a26" text-anchor="start">rows</text>
+<path d="M80 300 C140 360, 280 360, 340 300" fill="none" stroke="#b0604a" stroke-width="4" marker-end="url(#ah)"/>
+<text x="70" y="400" font-size="20" fill="#2f2a26" text-anchor="start">Roll this width into the circumference.</text>
+<text x="70" y="430" font-size="20" fill="#2f2a26" text-anchor="start">Bring the two 3-row edges together.</text>
+<text x="70" y="456" font-size="20" fill="#2f2a26" text-anchor="start">Those edges are the left and right sides.</text>
+<rect x="12" y="488" width="456" height="340" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="520" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">2. Finished stem, standing up</text>
+<ellipse cx="160" cy="580" rx="50" ry="16" fill="#5f7d54" stroke="#2f2a26" stroke-width="3"/>
+<rect x="110" y="580" width="100" height="140" fill="#6f8f62" stroke="#2f2a26" stroke-width="3"/>
+<ellipse cx="160" cy="720" rx="50" ry="16" fill="#6f8f62" stroke="#2f2a26" stroke-width="3"/>
+<line x1="210" y1="580" x2="210" y2="720" stroke="#b0604a" stroke-width="3" stroke-dasharray="6 4"/>
+<text x="230" y="650" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">seam:</text>
+<text x="230" y="678" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">the two</text>
+<text x="230" y="706" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">3-row edges</text>
+<text x="28" y="780" font-size="20" fill="#2f2a26" text-anchor="start">Height is the 3-row direction.</text>
+<rect x="12" y="844" width="456" height="560" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="876" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">3. Stem on the back rim</text>
+<rect x="170" y="910" width="36" height="60" fill="#6f8f62" stroke="#2f2a26" stroke-width="3"/>
+<text x="220" y="948" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">stem</text>
+<rect x="40" y="980" width="200" height="160" fill="#e7a15a" stroke="#2f2a26" stroke-width="3"/>
+<text x="140" y="1080" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">front</text>
+<rect x="40" y="960" width="200" height="50" fill="#d4893c" stroke="#2f2a26" stroke-width="3"/>
+<text x="56" y="992" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">back rim</text>
+<path d="M150 970 v30 h80 v140" fill="none" stroke="#3f6b45" stroke-width="8"/>
+<text x="250" y="1080" font-size="22" fill="#3f6b45" text-anchor="start" font-weight="bold">tab</text>
+<text x="250" y="1110" font-size="20" fill="#2f2a26" text-anchor="start">folds over</text>
+<text x="250" y="1136" font-size="20" fill="#2f2a26" text-anchor="start">the opening</text>
+<text x="28" y="1180" font-size="20" fill="#2f2a26" text-anchor="start">Stem sits on the back rim,</text>
+<text x="28" y="1208" font-size="20" fill="#2f2a26" text-anchor="start">over the tab's base.</text>
+<text x="28" y="1248" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">The tab still folds on its own.</text>
+<text x="28" y="1288" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">The stem is not the closure.</text>
+<text x="16" y="1450" font-size="20" fill="#6d635a" text-anchor="start">Legend: orange = wallet. Green = stem and tab.</text>
+
 </svg>

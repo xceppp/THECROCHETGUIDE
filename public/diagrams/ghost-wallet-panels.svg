@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 684" role="img">
-<title>Ghost wallet: back and front panels, row by row</title>
-<desc>Both panels start chain 18 and are 17 sc wide. Back is 18 even rows then decreases to 15, 13, 11, 9. Front is 14 even rows.</desc>
-<rect width="480" height="684" fill="#fdfaf6"/>
-<g font-family="Georgia, Times New Roman, serif">
-<text x="16" y="36" font-size="22" fill="#2f2a26">Both panels: chain 18. Sc in the 2nd</text>
-<text x="16" y="68" font-size="22" fill="#2f2a26">chain and across. (17)</text>
-<text x="16" y="132" font-size="22" fill="#2f2a26">Ch 1 turns. It is not a stitch.</text>
-<text x="16" y="196" font-size="22" fill="#2f2a26">Back, rows 2-18: sc in each stitch.</text>
-<text x="16" y="228" font-size="22" fill="#2f2a26">(17)</text>
-<text x="16" y="292" font-size="22" fill="#2f2a26">Back rows 19-22: sc2tog at both</text>
-<text x="16" y="324" font-size="22" fill="#2f2a26">ends. Counts 15, 13, 11, 9.</text>
-<text x="16" y="388" font-size="22" fill="#2f2a26">Front, rows 2-14: sc in each stitch.</text>
-<text x="16" y="420" font-size="22" fill="#2f2a26">(17)</text>
-<text x="16" y="484" font-size="22" fill="#2f2a26">The top of front row 14 is the</text>
-<text x="16" y="516" font-size="22" fill="#2f2a26">pocket opening. Leave it unjoined.</text>
-<text x="16" y="580" font-size="22" fill="#2f2a26">About 4.25 in wide at the example</text>
-<text x="16" y="612" font-size="22" fill="#2f2a26">gauge. Slide a card in before the</text>
-<text x="16" y="644" font-size="22" fill="#2f2a26">edging.</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 860" role="img">
+<title>Ghost wallet: back and front, right and wrong sides</title>
+<desc>The back is 17 stitches and 22 rows, with the top four rows decreased. The front is 17 stitches and 14 rows. The back's right side is the face and the pocket interior. Its wrong side is the outside back. The front's wrong side faces the pocket.</desc>
+<rect width="480" height="860" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#7d8b72" stroke-width="1.5"/></pattern>
+</defs>
+
+<text x="16" y="36" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Two panels, labeled before joining</text>
+<rect x="24" y="70" width="200" height="520" fill="#f4efe6" stroke="#2f2a26" stroke-width="3"/>
+<text x="36" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">BACK</text>
+<text x="36" y="130" font-size="20" fill="#2f2a26" text-anchor="start">17 sts</text>
+<text x="36" y="160" font-size="20" fill="#2f2a26" text-anchor="start">22 rows</text>
+<polygon points="24,430 224,430 200,590 48,590" fill="#f4efe6" stroke="#2f2a26" stroke-width="3"/>
+<text x="36" y="250" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">RS: face side</text>
+<text x="36" y="280" font-size="20" fill="#2f2a26" text-anchor="start">Pocket interior</text>
+<text x="36" y="308" font-size="20" fill="#2f2a26" text-anchor="start">below row 14.</text>
+<text x="36" y="350" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">WS: outside</text>
+<text x="36" y="378" font-size="20" fill="#2f2a26" text-anchor="start">back of wallet.</text>
+<text x="36" y="500" font-size="20" fill="#2f2a26" text-anchor="start">rows 19-22</text>
+<text x="36" y="528" font-size="20" fill="#2f2a26" text-anchor="start">decrease</text>
+<rect x="256" y="250" width="200" height="340" fill="#fff" stroke="#2f2a26" stroke-width="3"/>
+<text x="268" y="280" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">FRONT</text>
+<text x="268" y="310" font-size="20" fill="#2f2a26" text-anchor="start">17 sts</text>
+<text x="268" y="340" font-size="20" fill="#2f2a26" text-anchor="start">14 rows</text>
+<text x="268" y="390" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">WS faces the</text>
+<text x="268" y="418" font-size="20" fill="#2f2a26" text-anchor="start">pocket.</text>
+<text x="268" y="460" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">RS is the</text>
+<text x="268" y="488" font-size="20" fill="#2f2a26" text-anchor="start">outside front.</text>
+<text x="16" y="700" font-size="20" fill="#2f2a26" text-anchor="start">Match the hems.</text>
+<text x="16" y="730" font-size="20" fill="#2f2a26" text-anchor="start">Eight back rows stay above the front.</text>
+<text x="16" y="770" font-size="20" fill="#6d635a" text-anchor="start">RS = right side. WS = wrong side.</text>
+<text x="16" y="810" font-size="20" fill="#2f2a26" text-anchor="start">If widths differ, recount. Do not stretch.</text>
+
 </svg>

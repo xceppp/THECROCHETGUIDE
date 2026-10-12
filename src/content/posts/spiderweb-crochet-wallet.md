@@ -146,13 +146,13 @@ With purple, on the smaller hook if you have one:
 ### Stage 4: seam and button
 
 <figure class="diagram">
-<img src="/diagrams/spiderweb-wallet-closure.svg" alt="Diagram. The loop at the point of the flap, chain 8 slip stitched to the same stitch. The closed wallet to scale, about 4.25 by 2.6 inches, with the flap about 1.6 inches below the fold, the loop 0.4 inch more, and the button near row 10 of the front at stitch 9. A dashed ID-1 card fits inside on paper." width="480" height="748" loading="lazy" decoding="async" />
-<figcaption>Diagram. Close the flap with cards inside before marking the button.</figcaption>
+<img src="/diagrams/spiderweb-wallet-closure.svg" alt="The flap ends in a chain-8 loop. With cards inside, close the flap without stretching it and mark where the loop lands on the front wall. Remove the cards and sew the button through the front wall only." width="480" height="1240" loading="lazy" decoding="async" />
+<figcaption>Diagram. Mark the loop on the closed flap, then sew the button through the front wall only.</figcaption>
 </figure>
 
 1. **Fold.** Fold rows 1 to 13 up against rows 14 to 26, right sides out. The chain edge is the front rim.
 2. **Side seams.** Join black at the bottom fold. Ch 1. Work 13 sc up the side, one in each row end, through both layers. Fasten off. Repeat on the other side.
-3. **Button.** Put two cards in and close the flap. Mark where the loop lands, at the marked position, centered across the front; row 1 is at the opening and row 13 is nearest the bottom fold. Sew the button through the front layer only.
+3. **Button.** Put in the cards you mean to carry. Close the flap without stretching it. Mark the front wall where the loop lands. Take the cards out. Sew the button through the front wall only, at that mark.
 4. **Ends.** Weave in along the seams. See [weaving in ends](/weaving-in-ends-and-blocking/).
 
 ## Make it yours

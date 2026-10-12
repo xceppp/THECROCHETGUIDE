@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 716" role="img">
-<title>Witch hat wallet: divider and three-layer side seams</title>
-<desc>Divider is 17 stitches by 11 rows. Sew its whole bottom edge into the fold. Each side seam is 11 three-layer stitches and 1 two-layer stitch.</desc>
-<rect width="480" height="716" fill="#fdfaf6"/>
-<g font-family="Georgia, Times New Roman, serif">
-<text x="16" y="36" font-size="22" fill="#2f2a26">The divider is 17 sc wide and 11</text>
-<text x="16" y="68" font-size="22" fill="#2f2a26">rows tall, one row shorter than the</text>
-<text x="16" y="100" font-size="22" fill="#2f2a26">front.</text>
-<text x="16" y="164" font-size="22" fill="#2f2a26">Whipstitch all 17 foundation chains</text>
-<text x="16" y="196" font-size="22" fill="#2f2a26">to the inside of the bottom fold.</text>
-<text x="16" y="260" font-size="22" fill="#2f2a26">The seam must be continuous or a</text>
-<text x="16" y="292" font-size="22" fill="#2f2a26">card can pass under the divider.</text>
-<text x="16" y="356" font-size="22" fill="#2f2a26">Each side: 11 sc through front,</text>
-<text x="16" y="388" font-size="22" fill="#2f2a26">divider, and back.</text>
-<text x="16" y="452" font-size="22" fill="#2f2a26">The 12th sc catches front and back</text>
-<text x="16" y="484" font-size="22" fill="#2f2a26">only.</text>
-<text x="16" y="548" font-size="22" fill="#2f2a26">Repeat on the other side. The flap</text>
-<text x="16" y="580" font-size="22" fill="#2f2a26">stays outside both seams.</text>
-<text x="16" y="644" font-size="22" fill="#2f2a26">Test one card in each pocket before</text>
-<text x="16" y="676" font-size="22" fill="#2f2a26">you weave the ends.</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 1380" role="img">
+<title>Witch-hat wallet: three layers and the side seam</title>
+<desc>Front, divider, and back are three layers. Whipstitch all 17 divider foundation stitches along the bottom fold. Eleven side positions go through all three layers. The twelfth goes through front and back only. Leave both pocket openings and the flap free. Keep the hat above the buttonhole.</desc>
+<rect width="480" height="1380" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#7d8b72" stroke-width="1.5"/></pattern>
+</defs>
+
+<text x="16" y="36" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Three layers, one bottom seam</text>
+<rect x="40" y="70" width="280" height="70" fill="#c4b6e0" stroke="#2f2a26" stroke-width="3"/>
+<text x="52" y="112" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">back, rows 13-24</text>
+<rect x="70" y="160" width="280" height="64" fill="url(#hatch)" stroke="#2f2a26" stroke-width="3"/>
+<text x="82" y="200" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">divider, 11 rows</text>
+<rect x="100" y="244" width="280" height="70" fill="#8d6bb5" stroke="#2f2a26" stroke-width="3"/>
+<text x="112" y="286" font-size="22" fill="#fdfaf6" text-anchor="start" font-weight="bold">front, rows 1-12</text>
+<line x1="40" y1="330" x2="380" y2="330" stroke="#b0604a" stroke-width="5"/>
+<text x="40" y="370" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">Bottom seam: all 17 divider chains</text>
+<text x="40" y="400" font-size="20" fill="#2f2a26" text-anchor="start">to the inside of the fold.</text>
+<rect x="12" y="430" width="456" height="420" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="462" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Side: 11 through all, then 1</text>
+<line x1="40" y1="500" x2="200" y2="500" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="524" x2="200" y2="524" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="548" x2="200" y2="548" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="572" x2="200" y2="572" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="596" x2="200" y2="596" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="620" x2="200" y2="620" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="644" x2="200" y2="644" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="668" x2="200" y2="668" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="692" x2="200" y2="692" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="716" x2="200" y2="716" stroke="#2f2a26" stroke-width="3"/><line x1="40" y1="740" x2="200" y2="740" stroke="#2f2a26" stroke-width="3"/>
+<line x1="40" y1="764" x2="140" y2="764" stroke="#b0604a" stroke-width="4"/>
+<text x="220" y="560" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">1-11</text>
+<text x="220" y="590" font-size="20" fill="#2f2a26" text-anchor="start">front +</text>
+<text x="220" y="616" font-size="20" fill="#2f2a26" text-anchor="start">divider +</text>
+<text x="220" y="642" font-size="20" fill="#2f2a26" text-anchor="start">back</text>
+<text x="160" y="792" font-size="22" fill="#b0604a" text-anchor="start" font-weight="bold">12: front + back only</text>
+<rect x="12" y="866" width="456" height="400" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="898" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Leave these free</text>
+<rect x="40" y="930" width="200" height="40" fill="none" stroke="#b0604a" stroke-width="4"/>
+<text x="250" y="958" font-size="20" fill="#2f2a26" text-anchor="start">front opening</text>
+<rect x="40" y="990" width="180" height="36" fill="none" stroke="#7d8b72" stroke-width="4"/>
+<text x="230" y="1016" font-size="20" fill="#2f2a26" text-anchor="start">divider opening</text>
+<polygon points="80,1060 220,1060 190,1160 110,1160" fill="#2f2a26"/>
+<rect x="130" y="1148" width="40" height="16" fill="#b0604a"/>
+<text x="240" y="1100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">hat</text>
+<text x="240" y="1130" font-size="20" fill="#2f2a26" text-anchor="start">above the</text>
+<text x="240" y="1156" font-size="20" fill="#2f2a26" text-anchor="start">buttonhole</text>
+<text x="16" y="1290" font-size="20" fill="#6d635a" text-anchor="start">Legend: hatch = divider.</text>
+<text x="16" y="1320" font-size="20" fill="#6d635a" text-anchor="start">Short terra tick = stitch 12.</text>
+
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 716" role="img">
 <title>Witch hat wallet: buttonhole rows and button placement</title>
-<desc>Row 31 is 7 sc, chain 3, skip 3, 7 sc. Row 32 works 3 sc into the chain. Button sits near row 7, stitch 9.</desc>
+<desc>Row 31 is 7 sc, chain 3, skip 3, 7 sc. Row 32 works 3 sc into the chain and returns to 17. Close the flap on the cards and mark through the buttonhole. Sew the button through the front wall only.</desc>
 <rect width="480" height="716" fill="#fdfaf6"/>
 <g font-family="Georgia, Times New Roman, serif">
 <text x="16" y="36" font-size="22" fill="#2f2a26">Row 31: sc 7, chain 3, skip 3, sc 7.</text>
@@ -17,7 +17,7 @@
 <text x="16" y="516" font-size="22" fill="#2f2a26">The hole lands about 1.3 in below</text>
 <text x="16" y="548" font-size="22" fill="#2f2a26">the fold at the example gauge.</text>
 <text x="16" y="612" font-size="22" fill="#2f2a26">Close the flap with cards in it.</text>
-<text x="16" y="644" font-size="22" fill="#2f2a26">Mark the button near row 7, stitch</text>
-<text x="16" y="676" font-size="22" fill="#2f2a26">9.</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">Mark through the buttonhole.</text>
+<text x="16" y="676" font-size="22" fill="#2f2a26">Sew the front wall only.</text>
 </g>
 </svg>

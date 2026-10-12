@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 684" role="img">
-<title>Pumpkin wallet: one sideways piece in back-loop ribbing</title>
-<desc>Chain 21 gives 20 sc, the height. Rows set the width. Fold between stitches 10 and 11.</desc>
-<rect width="480" height="684" fill="#fdfaf6"/>
-<g font-family="Georgia, Times New Roman, serif">
-<text x="16" y="36" font-size="22" fill="#2f2a26">Chain 21. Row 1: sc in the 2nd chain</text>
-<text x="16" y="68" font-size="22" fill="#2f2a26">and across. (20)</text>
-<text x="16" y="132" font-size="22" fill="#2f2a26">Later rows: ch 1, turn, sc in the</text>
-<text x="16" y="164" font-size="22" fill="#2f2a26">back loop of each stitch. (20)</text>
-<text x="16" y="228" font-size="22" fill="#2f2a26">Ch 1 is not a stitch.</text>
-<text x="16" y="292" font-size="22" fill="#2f2a26">Stitches 1-10 are the front.</text>
-<text x="16" y="324" font-size="22" fill="#2f2a26">Stitches 11-20 are the back.</text>
-<text x="16" y="388" font-size="22" fill="#2f2a26">The fold is between stitches 10 and</text>
-<text x="16" y="420" font-size="22" fill="#2f2a26">11.</text>
-<text x="16" y="484" font-size="22" fill="#2f2a26">20 stitches are about 5 in, which</text>
-<text x="16" y="516" font-size="22" fill="#2f2a26">folds to about 2.5 in.</text>
-<text x="16" y="580" font-size="22" fill="#2f2a26">Work an even number of rows until</text>
-<text x="16" y="612" font-size="22" fill="#2f2a26">the piece is about 4.25 in wide.</text>
-<text x="16" y="644" font-size="22" fill="#2f2a26">About 22 rows at the example gauge.</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 980" role="img">
+<title>Pumpkin wallet: sideways ribs and the fold</title>
+<desc>Stitches run from the front rim at stitch 1 to the back rim at stitch 20. Rows run from row 1 to the last row. The fold is between stitch positions 10 and 11. Both long edges are rims and stay open.</desc>
+<rect width="480" height="980" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<defs>
+<marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#b0604a"/></marker>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8L8 0" stroke="#7d8b72" stroke-width="1.5"/></pattern>
+</defs>
+
+<text x="16" y="36" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Sideways fabric and the fold</text>
+<rect x="80" y="160" width="320" height="520" fill="#e7a15a" stroke="#2f2a26" stroke-width="3"/>
+<line x1="112" y1="160" x2="112" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="140" y1="160" x2="140" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="168" y1="160" x2="168" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="196" y1="160" x2="196" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="224" y1="160" x2="224" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="252" y1="160" x2="252" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="280" y1="160" x2="280" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="308" y1="160" x2="308" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="336" y1="160" x2="336" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="364" y1="160" x2="364" y2="680" stroke="#c47a32" stroke-width="2"/><line x1="392" y1="160" x2="392" y2="680" stroke="#c47a32" stroke-width="2"/>
+<line x1="80" y1="420" x2="400" y2="420" stroke="#b0604a" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="16" y="150" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">front rim</text>
+<text x="16" y="178" font-size="20" fill="#2f2a26" text-anchor="start">stitch 1</text>
+<text x="16" y="700" font-size="20" fill="#2f2a26" text-anchor="start" font-weight="bold">back rim</text>
+<text x="16" y="728" font-size="20" fill="#2f2a26" text-anchor="start">stitch 20</text>
+<text x="90" y="410" font-size="22" fill="#fdfaf6" text-anchor="start" font-weight="bold">fold</text>
+<text x="250" y="448" font-size="22" fill="#fdfaf6" text-anchor="start" font-weight="bold">between 10 and 11</text>
+<text x="90" y="760" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">row 1</text>
+<text x="330" y="760" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">last row</text>
+<path d="M240 80 v50" stroke="#b0604a" stroke-width="4" marker-end="url(#ah)"/>
+<text x="250" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">stitches</text>
+<path d="M40 400 h30" stroke="#7d8b72" stroke-width="4" marker-end="url(#ah)"/>
+<text x="16" y="860" font-size="20" fill="#2f2a26" text-anchor="start">Rows run left to right.</text>
+<text x="16" y="892" font-size="20" fill="#2f2a26" text-anchor="start">Ribs run with the stitches.</text>
+<text x="16" y="940" font-size="20" fill="#6d635a" text-anchor="start">Arrow: stitch direction. Dashed line: fold.</text>
+
 </svg>

@@ -63,7 +63,7 @@ Each panel is 17 stitches, 4.25 inches wide. The side edging takes a little from
 ### Stage 1: the two panels
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-panels.svg" alt="Diagram. Two stitch grids side by side. The back panel is 17 stitches wide, 18 straight rows, then rows 19 to 22 decrease to 15, 13, 11, and 9 stitches for a rounded head. The front panel is 17 stitches by 14 rows. A label marks where the front panel ends on the back." width="480" height="684" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-wallet-panels.svg" alt="The back is 17 stitches and 22 rows. The front is 17 stitches and 14 rows. The back's right side is the face and the pocket interior. Its wrong side is the outside back. The front's wrong side faces the pocket." width="480" height="860" loading="lazy" decoding="async" />
 <figcaption>Diagram. Both panels start the same way. The back keeps going and rounds off.</figcaption>
 </figure>
 
@@ -115,13 +115,13 @@ Work through the back panel only and keep the strands on the wrong side short. T
 ### Stage 3: the snap, before joining
 
 <figure class="diagram">
-<img src="/diagrams/ghost-pocket-orientation.svg" alt="The back panel's right side is the pocket interior below the opening and the visible face above it. The front panel's wrong side faces that pocket. Join the hem and sides only." width="480" height="700" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-pocket-orientation.svg" alt="Place the front on the back's right side. The front covers rows 1 to 14. The face sits on the back above that opening. The front's top edge stays unworked." width="480" height="780" loading="lazy" decoding="async" />
 <figcaption>The two pocket-facing surfaces and the edge that must remain open.</figcaption>
 </figure>
 
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-snap.svg" alt="Diagram. Left, a side view: the tall back panel and shorter front panel joined at the hem, with the two halves of a snap facing each other inside the pocket at row 13. Right, the wallet to scale with an ID-1 card in the pocket, about 3.9 inches wide and 2.7 inches deep inside on paper, the snap above the top of the card." width="480" height="716" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-wallet-snap.svg" alt="Socket on the back's right side at row 13, stitch 9. Ball on the front's wrong side at the same place. Both face into the pocket." width="480" height="720" loading="lazy" decoding="async" />
 <figcaption>Diagram. The snap closes the top of the pocket from inside, so nothing shows on the ghost.</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ Sew with doubled thread, four or five passes per hole, catching only the panel y
 ### Stage 4: the joining round
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-join.svg" alt="Diagram. The front panel on the back panel with one edging round. Along the hem through both layers: slip stitch in stitch 1, then skip 1, 5 half double crochet in the next, skip 1, slip stitch in the next, four times. Up the first side 14 single crochet through both layers, 4 through the back only, 5 along the head slope. 9 across the top. 23 down the other side." width="480" height="684" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-wallet-join.svg" alt="Join the hem through both layers. Up each side, 14 single crochet go through both layers. At front row 14, continue through the back alone. Do not cross the front's top edge." width="480" height="1280" loading="lazy" decoding="async" />
 <figcaption>Diagram. One round joins the panels, scallops the hem, and leaves the front's top edge open.</figcaption>
 </figure>
 
