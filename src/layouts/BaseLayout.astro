@@ -69,7 +69,7 @@ const robotsContent = robots ?? (noindex ? "noindex, nofollow" : "");
  * ignore a relative one silently. Generated from the brand banner by
  * scripts/generate-brand-assets.mjs at the 1200x630 they expect.
  */
-const ogImage = image ?? new URL("/og-default.jpg", Astro.site).href;
+const ogImage = image ?? new URL("/og-default.png", Astro.site).href;
 const isHome = Astro.url.pathname === "/";
 
 const websiteSchema = {

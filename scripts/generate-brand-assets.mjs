@@ -8,7 +8,7 @@
  *   src/assets/logo-lockup.png full wordmark used in the header
  *   src/assets/mark.png        yarn-ball mark, only if the lockup is absent
  *   src/assets/cover.jpg       hero art, enlarged so wide screens downscale it
- *   public/og-default.jpg      1200x630 social share card
+ *   public/og-default.png      1200x630 social share card, no background
  *   public/favicon-32.png      browser tab
  *   public/icon-512.png        Android / PWA
  *   public/apple-touch-icon.png  iOS, opaque because iOS composites on black
@@ -24,10 +24,11 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const at = (...p) => path.join(root, ...p);
 
 const LOGO = at("src", "assets", "logo.png");
+const LOCKUP_SOURCE = at("src", "assets", "logo-source.png");
 const LOCKUP = at("src", "assets", "logo-lockup.png");
+const LOCKUP_DARK = at("src", "assets", "logo-lockup-dark.png");
 const BANNER = at("src", "assets", "banner.png");
 const COVER_SOURCE = at("src", "assets", "cover-source.png");
-const BLACK = { r: 0, g: 0, b: 0 };
 
 /**
  * The hero spans the full viewport, but the cover art is only 1024px wide, so
@@ -206,14 +207,70 @@ function cutToAlpha({ data, width, height, ch }, ink) {
 }
 
 /**
- * The lockup is the full wordmark on black: yarn, hook, and the name.
- * The header uses that file directly. Icons are a square of the yarn ball,
- * and the share card is the whole lockup on a 1200x630 black field.
+ * The supplied lockup sits on black. That black is not part of the mark, so
+ * it is removed and the edges are un-blended. The header then sits on paper
+ * in either theme. Dark mode uses a second file where the brown word is
+ * lifted, because that brown disappears on the dark paper.
  */
+function knockOutBlack(data, width, height) {
+  const out = Buffer.alloc(width * height * 4);
+  const LO = 14;
+  const HI = 46;
+  for (let p = 0; p < width * height; p++) {
+    const i = p * 3;
+    const o = p * 4;
+    const r = data[i];
+    const g = data[i + 1];
+    const b = data[i + 2];
+    const max = Math.max(r, g, b);
+    const alpha = Math.min(1, Math.max(0, (max - LO) / (HI - LO)));
+    if (alpha <= 0) continue;
+    const scale = alpha < 1 ? 1 / alpha : 1;
+    out[o] = Math.min(255, Math.round(r * scale));
+    out[o + 1] = Math.min(255, Math.round(g * scale));
+    out[o + 2] = Math.min(255, Math.round(b * scale));
+    out[o + 3] = Math.round(alpha * 255);
+  }
+  return out;
+}
+
+/** The brown "Crochet" is too close to the dark paper. Lift only those pixels. */
+function liftBrownWord(data, width, height) {
+  const out = Buffer.from(data);
+  for (let p = 0; p < width * height; p++) {
+    const o = p * 4;
+    const a = out[o + 3];
+    if (a < 16) continue;
+    const r = out[o];
+    const g = out[o + 1];
+    const b = out[o + 2];
+    const max = Math.max(r, g, b);
+    if (!(r > g + 8 && g + 6 >= b && max < 140)) continue;
+    const t = 0.78;
+    out[o] = Math.round(r + (236 - r) * t);
+    out[o + 1] = Math.round(g + (214 - g) * t);
+    out[o + 2] = Math.round(b + (196 - b) * t);
+  }
+  return out;
+}
+
 async function writeLockupAssets() {
-  const meta = await sharp(LOCKUP).metadata();
-  const side = meta.height;
-  const icon = await sharp(LOCKUP)
+  const source = existsSync(LOCKUP_SOURCE) ? LOCKUP_SOURCE : LOCKUP;
+  const { data, info } = await sharp(source)
+    .removeAlpha()
+    .raw()
+    .toBuffer({ resolveWithObject: true });
+  const cleared = knockOutBlack(data, info.width, info.height);
+  const raw = { width: info.width, height: info.height, channels: 4 };
+  const pngOpts = { compressionLevel: 9, effort: 10 };
+
+  await sharp(cleared, { raw }).png(pngOpts).toFile(LOCKUP);
+  await sharp(liftBrownWord(cleared, info.width, info.height), { raw })
+    .png(pngOpts)
+    .toFile(LOCKUP_DARK);
+
+  const side = info.height;
+  const icon = await sharp(cleared, { raw })
     .extract({ left: 0, top: 0, width: side, height: side })
     .png()
     .toBuffer();
@@ -224,12 +281,17 @@ async function writeLockupAssets() {
   ]) {
     await sharp(icon)
       .resize(size, size)
-      .png({ palette: true, quality: 92, effort: 10 })
+      .png(pngOpts)
       .toFile(at("public", file));
   }
 
   await sharp({
-    create: { width: 180, height: 180, channels: 3, background: BLACK },
+    create: {
+      width: 180,
+      height: 180,
+      channels: 4,
+      background: { r: 0, g: 0, b: 0, alpha: 0 },
+    },
   })
     .composite([
       {
@@ -237,27 +299,34 @@ async function writeLockupAssets() {
         gravity: "center",
       },
     ])
-    .png()
+    .png(pngOpts)
     .toFile(at("public", "apple-touch-icon.png"));
 
+  const og = at("public", "og-default.png");
   await sharp({
-    create: { width: 1200, height: 630, channels: 3, background: BLACK },
+    create: {
+      width: 1200,
+      height: 630,
+      channels: 4,
+      background: { r: 0, g: 0, b: 0, alpha: 0 },
+    },
   })
     .composite([
       {
-        input: await sharp(LOCKUP)
+        input: await sharp(cleared, { raw })
           .resize({ width: 1080, height: 560, fit: "inside" })
+          .png()
           .toBuffer(),
         gravity: "center",
       },
     ])
-    .jpeg({ quality: 90, chromaSubsampling: "4:4:4", mozjpeg: true })
-    .toFile(at("public", "og-default.jpg"));
+    .png(pngOpts)
+    .toFile(og);
 
   console.log("lockup brand assets written");
 }
 
-if (existsSync(LOCKUP)) {
+if (existsSync(LOCKUP_SOURCE) || existsSync(LOCKUP)) {
   await writeLockupAssets();
 }
 
