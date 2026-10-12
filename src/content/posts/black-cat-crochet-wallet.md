@@ -20,9 +20,9 @@ A black cat is the Halloween wallet people recognize from across the room, and t
 
 This page is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The skill it teaches is working into both sides of a foundation chain, which is also how many pencil cases and amigurumi bodies start.
 
-![A black crochet cat wallet with pink inner ears, gold eyes, and a paw-print button](../../assets/articles/black-cat-crochet-wallet-thumb.png "Illustration.")
+![A black crochet cat pouch with pink inner ears, gold eyes, and a zipper](../../assets/articles/black-cat-crochet-wallet-thumb.png)
 
-The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so make a quick gauge swatch and slip a real bank card in at round 10 to check the fit. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
+The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so make a quick gauge swatch and slip a real bank card in at round 10 to check the fit. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size.
 
 ## Materials
 

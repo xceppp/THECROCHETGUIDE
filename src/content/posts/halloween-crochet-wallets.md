@@ -30,7 +30,7 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 **[Black cat crochet wallet](/black-cat-crochet-wallet/).** Beginner. A seamless pocket worked in rounds around both sides of a chain, a 9-row flap with gold eyes, two triangle ears, and a snap.
 
-![A black crochet cat wallet with pink inner ears, gold eyes, and a paw-print button](../../assets/articles/black-cat-crochet-wallet-thumb.png "Illustration.")
+![A black crochet cat pouch with pink inner ears, gold eyes, and a zipper](../../assets/articles/black-cat-crochet-wallet-thumb.png)
 
 **[Ghost crochet wallet](/ghost-crochet-wallet/).** Intermediate. Two shaped panels, a soft embroidered face with pink cheeks, and one edging round that joins the layers and scallops the hem. The snap hides inside.
 
@@ -38,7 +38,7 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 **[Pumpkin crochet wallet](/pumpkin-crochet-wallet/).** Beginner. One sideways piece in back-loop ribs, folded and seamed, with a jack-o'-lantern face, a rolled stem, and a green leaf tab that snaps shut.
 
-![An orange ribbed crochet pumpkin wallet with a green stem, a leaf, and a wood button](../../assets/articles/pumpkin-crochet-wallet-thumb.png "Illustration.")
+![An orange crochet pumpkin pouch with a green stem, a black face, and a zipper](../../assets/articles/pumpkin-crochet-wallet-thumb.png)
 
 **[Witch hat crochet wallet](/witch-hat-crochet-wallet/).** Intermediate. One purple rectangle with a worked buttonhole, an inner divider for two pockets, and a black and orange hat appliqué.
 
