@@ -21,8 +21,6 @@ Most crochet pumpkins are round, which is a poor shape for cards. This one is a 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the most forgiving one for a first project.
 
-![An orange crochet pumpkin pouch with a green stem, a black face, and a zipper](../../assets/articles/pumpkin-crochet-wallet-thumb.png)
-
 The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch in back loops (those rows run shorter) and slip a real bank card in before you fold. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size.
 
 ## Materials
@@ -60,16 +58,16 @@ The piece is worked sideways. The 20 stitches in each row set the height before 
 ### Stage 1: the ribbed piece
 
 <figure class="diagram">
-<img src="/diagrams/pumpkin-wallet-sideways.svg" alt="Diagram. The piece laid flat with vertical orange ribs. Stitch 1 at the top is the front rim, stitch 20 at the bottom is the back rim, and a dashed fold line runs between stitches 10 and 11. Rows run up and down from row 1 at the left to row 22 at the right." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/pumpkin-wallet-sideways.svg" alt="Diagram. The piece laid flat with vertical orange ribs. Stitch 1 at the top is the front rim, stitch 20 at the bottom is the back rim, and a dashed fold line runs between stitches 10 and 11. Rows run up and down from row 1 at the left to row 22 at the right." width="480" height="684" loading="lazy" decoding="async" />
 <figcaption>Diagram. Rows run up and down. The fold runs across the middle of every row.</figcaption>
 </figure>
 
 <figure class="diagram">
-<img src="/diagrams/pumpkin-wallet-ribbing.svg" alt="Diagram. A close-up of the top of a single crochet, with the hook in the back loop and the front loop left as a ridge. Three swatch options: back loop every row for 11 ribs over 22 rows, both loops for a flat face, or two shades of orange changing every 2 rows." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/pumpkin-wallet-ribbing.svg" alt="Diagram. A close-up of the top of a single crochet, with the hook in the back loop and the front loop left as a ridge. Three swatch options: back loop every row for 11 ribs over 22 rows, both loops for a flat face, or two shades of orange changing every 2 rows." width="480" height="716" loading="lazy" decoding="async" />
 <figcaption>Diagram. One raised rib for every two rows, on one face of the fabric.</figcaption>
 </figure>
 
-![The orange piece laid flat, with the ribs running vertically, before the face or the fold](../../assets/articles/pumpkin-crochet-wallet-ribs.jpg "Illustration.")
+![The orange piece laid flat, with the ribs running vertically, before the face or the fold](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration. Back-loop ribs, laid flat, before the fold.")
 
 With orange:
 
@@ -102,7 +100,7 @@ These two edges become the opening. One sc per row end keeps them from flaring. 
 ### Stage 3: the face, before folding
 
 <figure class="diagram">
-<img src="/diagrams/pumpkin-wallet-face.svg" alt="Diagram. A grid of the front half with rows 1 to 22 left to right and stitches 1 to 10 down from the rim. The leaf tab covers rows 10 to 13 on stitches 1 to 5. Triangle eyes span rows 5 to 7 and 16 to 18 on stitches 3 to 5. The nose covers rows 11 and 12 on stitches 6 and 7. A zigzag mouth runs from row 6 to row 17 on stitches 8 and 9." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/pumpkin-wallet-face.svg" alt="Diagram. A grid of the front half with rows 1 to 22 left to right and stitches 1 to 10 down from the rim. The leaf tab covers rows 10 to 13 on stitches 1 to 5. Triangle eyes span rows 5 to 7 and 16 to 18 on stitches 3 to 5. The nose covers rows 11 and 12 on stitches 6 and 7. A zigzag mouth runs from row 6 to row 17 on stitches 8 and 9." width="480" height="652" loading="lazy" decoding="async" />
 <figcaption>Diagram. Row k mirrors row 23 minus k. Stitch 1 is at the front rim.</figcaption>
 </figure>
 
@@ -117,7 +115,7 @@ Keep rows 10 to 13 on stitches 1 to 5 clear; the leaf tab covers that spot. Neve
 ### Stage 4: fold and seam
 
 <figure class="diagram">
-<img src="/diagrams/pumpkin-wallet-fold.svg" alt="Diagram. Left, the flat piece with a 22 single crochet rim on each long edge and a fold line between stitches 10 and 11, with the two short sides marked as seams. Right, the folded pouch to scale, about 4.25 by 2.5 inches outside, with an ID-1 card inside and the inside about 3.9 by 2.4 inches on paper." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/pumpkin-wallet-fold.svg" alt="Diagram. Left, the flat piece with a 22 single crochet rim on each long edge and a fold line between stitches 10 and 11, with the two short sides marked as seams. Right, the folded pouch to scale, about 4.25 by 2.5 inches outside, with an ID-1 card inside and the inside about 3.9 by 2.4 inches on paper." width="480" height="684" loading="lazy" decoding="async" />
 <figcaption>Diagram. Fold right side out so the ribs and face stay outside.</figcaption>
 </figure>
 
@@ -129,11 +127,9 @@ Keep rows 10 to 13 on stitches 1 to 5 clear; the leaf tab covers that spot. Neve
 ### Stage 5: stem, leaf tab, and snap
 
 <figure class="diagram">
-<img src="/diagrams/pumpkin-wallet-stem-tab.svg" alt="Diagram. The stem, a green strip 6 single crochet by 3 rows rolled into a small cylinder. The leaf tab, 3 stitches wide for 6 rows with a point on row 7. A side view of the tab sewn inside the back rim, rising over both rims and down the front, with a snap under the tip and the stem standing on the back rim." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/pumpkin-wallet-stem-tab.svg" alt="Diagram. The stem, a green strip 6 single crochet by 3 rows rolled into a small cylinder. The leaf tab, 3 stitches wide for 6 rows with a point on row 7. A side view of the tab sewn inside the back rim, rising over both rims and down the front, with a snap under the tip and the stem standing on the back rim." width="480" height="844" loading="lazy" decoding="async" />
 <figcaption>Diagram. The tab is the closure. The stem only decorates.</figcaption>
 </figure>
-
-![The closed orange wallet. The leaf tab folds over the front; sew the stem on the back rim, behind that tab](../../assets/articles/pumpkin-crochet-wallet-result.jpg "Illustration. The stem in the picture sits on the tab. The pattern puts it on the back rim.")
 
 **Stem**, green: Ch 7. Sc in the 2nd ch from the hook and across. (6) Rows 2–3: ch 1, turn, sc in each st. (6) Fasten off with a 10 inch tail. Keep the six-stitch edges horizontal. Roll the six-stitch width around itself, bringing the short three-row ends together, and sew those ends together. The cylinder height is the three-row direction, about 0.6 inch at the example row gauge; do not roll the three-row height into the circumference.
 

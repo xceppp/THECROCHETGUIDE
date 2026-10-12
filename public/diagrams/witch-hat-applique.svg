@@ -1,63 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 748" role="img">
 <title>Witch hat wallet: miniature hat applique</title>
-<desc>Left: the cone is 5 rows. Row 1 is 5 single crochet in orange, the hat band. Change to black on the last yarn over. Row 2 is 5, row 3 decreases at both ends to 3, row 4 is 3, row 5 is a three-together decrease to 1. The brim is a separate black strip of 8 single crochet. Right: placement on the flap. The cone's orange row sits on the brim, the brim lies on row 30 centered on stitch 9, and the tip reaches row 25 at the top fold. The buttonhole on row 31 sits just below the brim.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .bk { fill: #2f2a26; stroke: #6d635a; stroke-width: 1; }
-  .or { fill: #d9731f; stroke: #8f4a1a; stroke-width: 1; }
-</style>
-<defs>
-  <pattern id="fl" x="356" y="90" width="15" height="20" patternUnits="userSpaceOnUse">
-    <rect width="15" height="20" fill="#8a6aa8" stroke="#6e5289" stroke-width="1"/>
-  </pattern>
-</defs>
-<rect class="panel" x="16" y="16" width="296" height="388" rx="10"/>
-<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
-<text class="label" x="32" y="48">Cone and brim</text>
-<text class="label" x="344" y="48">On the flap, closed</text>
-<rect class="or" x="80" y="180" width="28" height="22"/><rect class="or" x="108" y="180" width="28" height="22"/>
-<rect class="or" x="136" y="180" width="28" height="22"/><rect class="or" x="164" y="180" width="28" height="22"/>
-<rect class="or" x="192" y="180" width="28" height="22"/>
-<rect class="bk" x="80" y="158" width="28" height="22"/><rect class="bk" x="108" y="158" width="28" height="22"/>
-<rect class="bk" x="136" y="158" width="28" height="22"/><rect class="bk" x="164" y="158" width="28" height="22"/>
-<rect class="bk" x="192" y="158" width="28" height="22"/>
-<rect class="bk" x="108" y="136" width="28" height="22"/><rect class="bk" x="136" y="136" width="28" height="22"/><rect class="bk" x="164" y="136" width="28" height="22"/>
-<rect class="bk" x="108" y="114" width="28" height="22"/><rect class="bk" x="136" y="114" width="28" height="22"/><rect class="bk" x="164" y="114" width="28" height="22"/>
-<rect class="bk" x="136" y="92" width="28" height="22"/>
-<rect class="bk" x="38" y="214" width="28" height="18"/><rect class="bk" x="66" y="214" width="28" height="18"/>
-<rect class="bk" x="94" y="214" width="28" height="18"/><rect class="bk" x="122" y="214" width="28" height="18"/>
-<rect class="bk" x="150" y="214" width="28" height="18"/><rect class="bk" x="178" y="214" width="28" height="18"/>
-<rect class="bk" x="206" y="214" width="28" height="18"/><rect class="bk" x="234" y="214" width="28" height="18"/>
-<text class="small" x="226" y="196">r1 orange (5)</text>
-<text class="small" x="226" y="174">r2 (5)</text>
-<text class="small" x="196" y="152">r3 (3)</text>
-<text class="small" x="196" y="130">r4 (3)</text>
-<text class="small" x="168" y="108">r5 (1)</text>
-<text class="small" x="40" y="248">brim: ch 9, 8 sc</text>
-<text class="soft" x="32" y="284">Cone: ch 6 in orange, sc in</text>
-<text class="soft" x="32" y="304">2nd ch and across (5). Black</text>
-<text class="soft" x="32" y="324">from the last yarn over. r3:</text>
-<text class="soft" x="32" y="344">sc2tog, sc, sc2tog. r5: sc3tog.</text>
-<text class="soft" x="32" y="372">About 1.25 in wide at the band,</text>
-<text class="soft" x="32" y="392">1.2 in tall with the brim.</text>
-<path d="M356 90 H611 V250 H596 V270 H371 V250 H356 Z" fill="url(#fl)" stroke="#4b3a5e" stroke-width="2"/>
-<rect x="461" y="210" width="45" height="20" fill="#f6efe6"/>
-<path d="M446 170 L483.5 92 L521 170 Z" fill="#2f2a26"/>
-<rect x="446" y="170" width="75" height="20" fill="#d9731f"/>
-<rect x="423.5" y="192" width="120" height="16" rx="4" fill="#2f2a26"/>
-<text class="small" x="334" y="104">r25</text>
-<text class="small" x="334" y="204">r30</text>
-<text class="small" x="334" y="224">r31</text>
-<text class="small" x="512" y="225" style="fill:#fdfaf6">buttonhole</text>
-<text class="soft" x="344" y="306">Brim on row 30, centered on</text>
-<text class="soft" x="344" y="326">st 9. Tip at row 25, the fold.</text>
-<text class="soft" x="344" y="350">Sew all pieces on before the</text>
-<text class="soft" x="344" y="370">side seams, through the flap</text>
-<text class="soft" x="344" y="390">only. Keep clear of row 31.</text>
+<desc>Cone: orange row of 5, then black 5, 3, 3, 1. Brim is 8 sc. Brim sits on row 30. Keep clear of the buttonhole on row 31.</desc>
+<rect width="480" height="748" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Cone: chain 6 in orange. Sc in the</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">2nd chain and across. (5)</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">Change to black on the last yarn</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">over of row 1.</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">Row 2: sc 5. Row 3: sc2tog, sc,</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">sc2tog. (3)</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">Row 4: sc 3. Row 5: sc3tog. (1)</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">Fasten off.</text>
+<text x="16" y="420" font-size="22" fill="#2f2a26">Brim: chain 9 in black, 8 sc. Fasten</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">off.</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">On the closed flap, center the brim</text>
+<text x="16" y="548" font-size="22" fill="#2f2a26">on row 30 at stitch 9.</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">The tip reaches row 25 at the fold.</text>
+<text x="16" y="676" font-size="22" fill="#2f2a26">Sew through the flap only, before</text>
+<text x="16" y="708" font-size="22" fill="#2f2a26">the side seams. Do not cover row 31.</text>
+</g>
 </svg>

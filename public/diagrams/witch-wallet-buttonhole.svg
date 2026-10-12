@@ -1,64 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 716" role="img">
 <title>Witch hat wallet: buttonhole rows and button placement</title>
-<desc>Left: row 31 is 7 single crochet, chain 3, skip 3, 7 single crochet. Row 32 is 7 single crochet, 3 single crochet into the chain-3 space, and 7 single crochet, back to 17. Right: the closed wallet to scale, about 4.25 by 2.4 inches. The buttonhole lands about 1.3 inches below the top fold, so the button goes on the front near row 7, at stitch 9. Close the flap and mark it before sewing.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .st { fill: #8a6aa8; stroke: #6e5289; stroke-width: 1; }
-  .ch { fill: none; stroke: #4b3a5e; stroke-width: 3; }
-</style>
-<rect class="panel" x="16" y="16" width="296" height="388" rx="10"/>
-<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
-<text class="label" x="32" y="48">Rows 31 and 32</text>
-<text class="label" x="344" y="48">Closed, to scale</text>
-<g>
-  <rect class="st" x="36" y="150" width="15" height="20"/><rect class="st" x="51" y="150" width="15" height="20"/>
-  <rect class="st" x="66" y="150" width="15" height="20"/><rect class="st" x="81" y="150" width="15" height="20"/>
-  <rect class="st" x="96" y="150" width="15" height="20"/><rect class="st" x="111" y="150" width="15" height="20"/>
-  <rect class="st" x="126" y="150" width="15" height="20"/>
-  <rect class="st" x="186" y="150" width="15" height="20"/><rect class="st" x="201" y="150" width="15" height="20"/>
-  <rect class="st" x="216" y="150" width="15" height="20"/><rect class="st" x="231" y="150" width="15" height="20"/>
-  <rect class="st" x="246" y="150" width="15" height="20"/><rect class="st" x="261" y="150" width="15" height="20"/>
-  <rect class="st" x="276" y="150" width="15" height="20"/>
-  <ellipse class="ch" cx="148" cy="164" rx="7" ry="4"/><ellipse class="ch" cx="163" cy="164" rx="7" ry="4"/><ellipse class="ch" cx="178" cy="164" rx="7" ry="4"/>
+<desc>Row 31 is 7 sc, chain 3, skip 3, 7 sc. Row 32 works 3 sc into the chain. Button sits near row 7, stitch 9.</desc>
+<rect width="480" height="716" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Row 31: sc 7, chain 3, skip 3, sc 7.</text>
+<text x="16" y="100" font-size="22" fill="#2f2a26">Row 32: sc 7, 3 sc in the chain-3</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">space, sc 7. (17)</text>
+<text x="16" y="196" font-size="22" fill="#2f2a26">The hole is about 0.75 in for a 5/8</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">in button. Test the button before</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">row 33.</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">If the button slips out, redo row 31</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">as sc 7, ch 2, skip 2, sc 8.</text>
+<text x="16" y="420" font-size="22" fill="#2f2a26">Then row 32 is sc 7, 2 sc in the</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">space, sc 8.</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">The hole lands about 1.3 in below</text>
+<text x="16" y="548" font-size="22" fill="#2f2a26">the fold at the example gauge.</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">Close the flap with cards in it.</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">Mark the button near row 7, stitch</text>
+<text x="16" y="676" font-size="22" fill="#2f2a26">9.</text>
 </g>
-<g>
-  <rect class="st" x="36" y="110" width="15" height="20"/><rect class="st" x="51" y="110" width="15" height="20"/>
-  <rect class="st" x="66" y="110" width="15" height="20"/><rect class="st" x="81" y="110" width="15" height="20"/>
-  <rect class="st" x="96" y="110" width="15" height="20"/><rect class="st" x="111" y="110" width="15" height="20"/>
-  <rect class="st" x="126" y="110" width="15" height="20"/>
-  <rect class="st" x="141" y="110" width="15" height="20" fill="#b49ccc"/><rect class="st" x="156" y="110" width="15" height="20" fill="#b49ccc"/>
-  <rect class="st" x="171" y="110" width="15" height="20" fill="#b49ccc"/>
-  <rect class="st" x="186" y="110" width="15" height="20"/><rect class="st" x="201" y="110" width="15" height="20"/>
-  <rect class="st" x="216" y="110" width="15" height="20"/><rect class="st" x="231" y="110" width="15" height="20"/>
-  <rect class="st" x="246" y="110" width="15" height="20"/><rect class="st" x="261" y="110" width="15" height="20"/>
-  <rect class="st" x="276" y="110" width="15" height="20"/>
-</g>
-<text class="small" x="36" y="104">row 32: 7 + 3 in the space + 7 = 17</text>
-<text class="small" x="36" y="190">row 31: 7 + ch 3 over 3 skipped + 7</text>
-<text class="soft" x="32" y="234">The hole is 3 stitches wide,</text>
-<text class="soft" x="32" y="254">about 0.75 in, for a 5/8 in</text>
-<text class="soft" x="32" y="274">(15 mm) button. Crochet holes</text>
-<text class="soft" x="32" y="294">stretch, so test the button</text>
-<text class="soft" x="32" y="314">before row 33. Too loose: redo</text>
-<text class="soft" x="32" y="334">row 31 as sc 7, ch 2, sk 2, sc 8,</text>
-<text class="soft" x="32" y="354">and row 32 as sc 7, 2 sc in the</text>
-<text class="soft" x="32" y="374">space, sc 8.</text>
-<rect x="364" y="110" width="212" height="120" rx="4" fill="#8a6aa8" stroke="#4b3a5e" stroke-width="2"/>
-<path d="M364 110 H576 V187 L570 192 H370 L364 187 Z" fill="#7a5b98" stroke="#4b3a5e" stroke-width="2"/>
-<circle cx="470" cy="177" r="8" fill="#2f2a26"/>
-<path d="M452 160 L463 124 L474 160 Z" fill="#2f2a26"/>
-<rect x="452" y="154" width="22" height="6" fill="#d9731f"/>
-<rect x="440" y="160" width="46" height="5" fill="#2f2a26"/>
-<text class="soft" x="344" y="264">Flap: 9 rows, about 1.8 in.</text>
-<text class="soft" x="344" y="286">Buttonhole about 1.3 in below</text>
-<text class="soft" x="344" y="308">the fold, so the button sits</text>
-<text class="soft" x="344" y="330">near row 7 of the front, st 9.</text>
-<text class="soft" x="344" y="356">Close the flap with cards in</text>
-<text class="soft" x="344" y="376">it and mark before sewing.</text>
 </svg>

@@ -38,7 +38,7 @@ US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbre
 ## How the rectangle becomes a wallet
 
 <figure class="diagram">
-<img src="/diagrams/card-wallet-layout.svg" alt="A rectangle 16 stitches wide in three zones: rows 1 to 12 are the front, folded up; rows 13 to 24 are the back; rows 25 to 31 are the flap, with a loop on row 31 and a ghost on the flap. Width is the card plus stack, ease, and seams, about 3.9 inches. The pocket is 12 rows, 2.4 inches deep." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/card-wallet-layout.svg" alt="A rectangle 16 stitches wide in three zones: rows 1 to 12 are the front, folded up; rows 13 to 24 are the back; rows 25 to 31 are the flap, with a loop on row 31 and a ghost on the flap. Width is the card plus stack, ease, and seams, about 3.9 inches. The pocket is 12 rows, 2.4 inches deep." width="480" height="684" loading="lazy" decoding="async" />
 <figcaption>Fold on the first dashed line to make the pocket. Fold on the second to close the flap.</figcaption>
 </figure>
 

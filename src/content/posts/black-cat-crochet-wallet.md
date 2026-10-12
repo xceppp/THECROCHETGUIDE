@@ -21,8 +21,6 @@ A black cat is the Halloween wallet people recognize from across the room, and t
 
 This page is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). The skill it teaches is working into both sides of a foundation chain, which is also how many pencil cases and amigurumi bodies start.
 
-![A black crochet cat pouch with pink inner ears, gold eyes, and a zipper](../../assets/articles/black-cat-crochet-wallet-thumb.png)
-
 The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so make a quick gauge swatch and slip a real bank card in at round 10 to check the fit. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size.
 
 ## Materials
@@ -70,7 +68,7 @@ If 16 stitches measure less than 3.75 inches, the card will be tight. Go up a ho
 ### Stage 1: the seamless pocket
 
 <figure class="diagram">
-<img src="/diagrams/cat-wallet-tube.svg" alt="Diagram. A chain of 17 with the chain nearest the hook skipped. Round 1 works 16 single crochet along the top from right to left, rotates, and works 16 along the other side from left to right, 32 stitches. Rounds 2 to 12 go around without turning, making a flat tube 16 stitches wide and 12 rounds tall." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/cat-wallet-tube.svg" alt="Diagram. A chain of 17 with the chain nearest the hook skipped. Round 1 works 16 single crochet along the top from right to left, rotates, and works 16 along the other side from left to right, 32 stitches. Rounds 2 to 12 go around without turning, making a flat tube 16 stitches wide and 12 rounds tall." width="480" height="780" loading="lazy" decoding="async" />
 <figcaption>Diagram. Both sides of the chain make round 1. The chain becomes the bottom fold.</figcaption>
 </figure>
 
@@ -96,7 +94,7 @@ Do not fasten off.
 ### Stage 2: the flap
 
 <figure class="diagram">
-<img src="/diagrams/cat-wallet-flap.svg" alt="Diagram. Side view of the pocket with the flap rising from the back and folding over the front, and a snap on the front. Flap rows as worked: rows 1 to 7 are 16 stitches, row 8 is 14 and row 9 is 12, each with a decrease at both ends." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/cat-wallet-flap.svg" alt="Diagram. Side view of the pocket with the flap rising from the back and folding over the front, and a snap on the front. Flap rows as worked: rows 1 to 7 are 16 stitches, row 8 is 14 and row 9 is 12, each with a decrease at both ends." width="480" height="556" loading="lazy" decoding="async" />
 <figcaption>Diagram. The flap is worked in rows over half of round 12. Decrease at both ends of rows 8 and 9.</figcaption>
 </figure>
 
@@ -117,7 +115,7 @@ Fold the flap over the opening. It should cover the front from the rim down abou
 ### Stage 3: the ears
 
 <figure class="diagram">
-<img src="/diagrams/cat-wallet-ears.svg" alt="Diagram. One ear: row 1 is 5 single crochet, row 2 is 3, row 3 is a single stitch. Placement on the 16-stitch fold: 1 stitch, an ear over 5, a gap of 4, an ear over 5, 1 stitch." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/cat-wallet-ears.svg" alt="Diagram. One ear: row 1 is 5 single crochet, row 2 is 3, row 3 is a single stitch. Placement on the 16-stitch fold: 1 stitch, an ear over 5, a gap of 4, an ear over 5, 1 stitch." width="480" height="780" loading="lazy" decoding="async" />
 <figcaption>Diagram. 1 + 5 + 4 + 5 + 1 = 16, so the ears sit symmetrically.</figcaption>
 </figure>
 
@@ -136,7 +134,7 @@ Fasten off. Each ear is about 1.25 inches across the base and 0.6 inch tall.
 ### Stage 4: the face
 
 <figure class="diagram">
-<img src="/diagrams/cat-wallet-face.svg" alt="Diagram. The closed flap as a grid 16 stitches across and 9 rows tall, row 1 at the top fold. Gold eyes on rows 3 and 4 over stitches 4 to 5 and 12 to 13, with black vertical pupils. A pink nose on rows 5 and 6 over stitches 8 and 9. Three white whiskers on each side across rows 5 to 7. The snap is under row 8 at the center." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/cat-wallet-face.svg" alt="Diagram. The closed flap as a grid 16 stitches across and 9 rows tall, row 1 at the top fold. Gold eyes on rows 3 and 4 over stitches 4 to 5 and 12 to 13, with black vertical pupils. A pink nose on rows 5 and 6 over stitches 8 and 9. Three white whiskers on each side across rows 5 to 7. The snap is under row 8 at the center." width="480" height="780" loading="lazy" decoding="async" />
 <figcaption>Diagram. Count stitches and rows on the flap before the first stitch of embroidery.</figcaption>
 </figure>
 
@@ -158,7 +156,7 @@ Work through the flap only, and keep the stitches on the back short. The undersi
 3. **Ends.** Weave the tails inside the tube along a fold, changing direction once, as in [weaving in ends](/weaving-in-ends-and-blocking/).
 
 <figure class="diagram">
-<img src="/diagrams/cat-wallet-finished.svg" alt="Diagram to scale. The closed wallet about 4 inches wide and 2.4 inches tall with ears above. The open pocket with an ID-1 card drawn inside, about 3.8 inches wide and 2.3 inches deep inside on paper." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/cat-wallet-finished.svg" alt="Diagram to scale. The closed wallet about 4 inches wide and 2.4 inches tall with ears above. The open pocket with an ID-1 card drawn inside, about 3.8 inches wide and 2.3 inches deep inside on paper." width="480" height="652" loading="lazy" decoding="async" />
 <figcaption>Diagram. The card fits on paper with a little room. Your gauge decides whether it fits in yarn.</figcaption>
 </figure>
 

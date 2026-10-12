@@ -1,56 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 556" role="img">
 <title>Black cat wallet: the flap and the snap</title>
-<desc>Left: side view. The flap rises from the back half of round 12 and folds forward over the opening. One half of a snap sits on the underside of the flap at row 8, the other on the outside of the front, about round 5. Right: the flap rows as worked. Rows 1 to 7 have 16 stitches, row 8 decreases at both ends to 14, row 9 decreases at both ends to 12.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .wall { fill: none; stroke: #3b3532; stroke-width: 6; stroke-linecap: round; stroke-linejoin: round; }
-  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
-  .row { fill: #4a4440; stroke: #9a9088; stroke-width: 1; }
-  .dec { fill: #b0604a; }
-</style>
-<rect class="panel" x="16" y="16" width="260" height="388" rx="10"/>
-<rect class="panel" x="292" y="16" width="332" height="388" rx="10"/>
-<text class="label" x="32" y="48">Side view</text>
-<text class="label" x="308" y="48">Flap rows, as worked</text>
-<path class="wall" d="M90 160 V320 Q90 332 104 332 H126 Q140 332 140 320 V110"/>
-<path class="wall" d="M140 110 V70" stroke="#6d635a"/>
-<path class="arrow" d="M150 74 Q120 30 80 70 Q70 86 74 104 M66 92 L74 104 L84 94"/>
-<circle cx="80" cy="252" r="6" fill="#7d8b72"/>
-<text class="small" x="28" y="240">snap</text>
-<text class="small" x="150" y="160">back</text>
-<text class="small" x="40" y="300">front</text>
-<text class="small" x="150" y="80">flap</text>
-<text class="soft" x="32" y="356">Snap: flap underside</text>
-<text class="soft" x="32" y="376">row 8, front about rnd 5.</text>
-<text class="soft" x="32" y="396">Close it and mark first.</text>
-<g>
-  <rect class="row" x="356" y="300" width="256" height="20"/>
-  <rect class="row" x="356" y="280" width="256" height="20"/>
-  <rect class="row" x="356" y="260" width="256" height="20"/>
-  <rect class="row" x="356" y="240" width="256" height="20"/>
-  <rect class="row" x="356" y="220" width="256" height="20"/>
-  <rect class="row" x="356" y="200" width="256" height="20"/>
-  <rect class="row" x="356" y="180" width="256" height="20"/>
-  <rect class="row" x="372" y="160" width="224" height="20"/>
-  <rect class="row" x="388" y="140" width="192" height="20"/>
-  <rect class="dec" x="372" y="160" width="32" height="20" opacity="0.8"/>
-  <rect class="dec" x="564" y="160" width="32" height="20" opacity="0.8"/>
-  <rect class="dec" x="388" y="140" width="32" height="20" opacity="0.8"/>
-  <rect class="dec" x="548" y="140" width="32" height="20" opacity="0.8"/>
-  <circle cx="484" cy="170" r="6" fill="#7d8b72" stroke="#fdfaf6" stroke-width="2"/>
+<desc>The flap rises from the back half of round 12. Rows 1-7 are 16 stitches, row 8 is 14, row 9 is 12. Snap on the flap underside at row 8.</desc>
+<rect width="480" height="556" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">The flap starts on the back 16</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">stitches of round 12 and folds</text>
+<text x="16" y="100" font-size="22" fill="#2f2a26">forward over the opening.</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">Rows 1-7: 16 sc.</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">Row 8: sc2tog at both ends. (14)</text>
+<text x="16" y="292" font-size="22" fill="#2f2a26">Row 9: sc2tog at both ends. (12)</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">Sew the ball half of the snap to the</text>
+<text x="16" y="388" font-size="22" fill="#2f2a26">underside of the flap at row 8.</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">Close the flap and mark the front</text>
+<text x="16" y="484" font-size="22" fill="#2f2a26">about round 5 before sewing the</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">socket.</text>
 </g>
-<text class="small" x="306" y="315">row 1</text>
-<text class="small" x="306" y="195">row 7</text>
-<text class="small" x="306" y="175">row 8</text>
-<text class="small" x="306" y="155">row 9</text>
-<text class="soft" x="308" y="120">rows 8, 9: sc2tog at both ends</text>
-<text class="soft" x="308" y="348">Row 1 sits on the back 16 sts</text>
-<text class="soft" x="308" y="368">of rnd 12. 16 x 7 rows, then</text>
-<text class="soft" x="308" y="388">14, then 12. Orange = sc2tog.</text>
 </svg>

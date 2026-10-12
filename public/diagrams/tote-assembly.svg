@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
-<title>Granny square tote assembly</title>
-<desc>Eight squares make two panels of two by two. Each panel edge is two square edges, 19 plus 19 single crochet. The front and back are joined along the two sides and the bottom, and the top stays open. On the top edging, each panel has 34 stitches, split 8, strap, 8, strap, 8, with each strap 5 stitches wide.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .sq { fill: #f3e6d4; stroke: #6b4428; stroke-width: 3; }
-  .seam { fill: none; stroke: #b0604a; stroke-width: 4; stroke-dasharray: 8 5; }
-  .strap { fill: #e9d8c0; stroke: #6b4428; stroke-width: 3; }
-</style>
-<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
-<text class="label" x="32" y="50">Front panel</text>
-<rect class="sq" x="40" y="70" width="70" height="70"/><rect class="sq" x="110" y="70" width="70" height="70"/>
-<rect class="sq" x="40" y="140" width="70" height="70"/><rect class="sq" x="110" y="140" width="70" height="70"/>
-<text class="label" x="220" y="50">Back panel</text>
-<rect class="sq" x="224" y="70" width="70" height="70"/><rect class="sq" x="294" y="70" width="70" height="70"/>
-<rect class="sq" x="224" y="140" width="70" height="70"/><rect class="sq" x="294" y="140" width="70" height="70"/>
-<text class="soft" x="40" y="236">8 squares, 2 panels of 2 x 2</text>
-<text class="soft" x="40" y="258">Panel edge: 19 + 19 = 38 sc</text>
-<text class="label" x="420" y="50">Joined</text>
-<path class="strap" d="M436 120 C436 70, 476 70, 476 120 L466 120 C466 84, 446 84, 446 120 Z"/>
-<path class="strap" d="M524 120 C524 70, 564 70, 564 120 L554 120 C554 84, 534 84, 534 120 Z"/>
-<rect class="sq" x="412" y="120" width="176" height="140"/>
-<path class="seam" d="M412 120 V260 H588 V120"/>
-<text class="soft" x="420" y="290">Sides and bottom sewn.</text>
-<text class="soft" x="420" y="312">Top open.</text>
-<text class="label" x="40" y="316">Top edge of one panel: 34 sts</text>
-<rect x="40" y="332" width="128" height="22" fill="#f3e6d4" stroke="#6b4428" stroke-width="2"/>
-<rect x="168" y="332" width="80" height="22" fill="#e9d8c0" stroke="#6b4428" stroke-width="2"/>
-<rect x="248" y="332" width="128" height="22" fill="#f3e6d4" stroke="#6b4428" stroke-width="2"/>
-<rect x="376" y="332" width="80" height="22" fill="#e9d8c0" stroke="#6b4428" stroke-width="2"/>
-<rect x="456" y="332" width="128" height="22" fill="#f3e6d4" stroke="#6b4428" stroke-width="2"/>
-<text class="soft" x="96" y="378">8</text><text class="soft" x="182" y="378">strap 5</text>
-<text class="soft" x="306" y="378">8</text><text class="soft" x="390" y="378">strap 5</text>
-<text class="soft" x="514" y="378">8</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 844" role="img">
+<title>Granny square tote: two flat panels, no base</title>
+<desc>Eight 4-round squares make two panels of two by two. Join the sides and the bottom. Leave the top open. There is no separate base.</desc>
+<rect width="480" height="844" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Make 8 squares, 4 rounds each.</text>
+<text x="16" y="100" font-size="22" fill="#2f2a26">Join them into two panels, each 2</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">squares by 2.</text>
+<text x="16" y="196" font-size="22" fill="#2f2a26">One square edge is 19 sc. A panel</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">edge is 19 + 19 = 38.</text>
+<text x="16" y="292" font-size="22" fill="#2f2a26">Put the panels right sides together.</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">Join both sides and the bottom.</text>
+<text x="16" y="388" font-size="22" fill="#2f2a26">Leave the top open.</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">There is no base strip and no boxed</text>
+<text x="16" y="484" font-size="22" fill="#2f2a26">bottom.</text>
+<text x="16" y="548" font-size="22" fill="#2f2a26">Then work two rounds around the</text>
+<text x="16" y="580" font-size="22" fill="#2f2a26">opening and sew the straps into that</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">edge.</text>
+<text x="16" y="676" font-size="22" fill="#2f2a26">One panel's top, before the straps:</text>
+<text x="16" y="708" font-size="22" fill="#2f2a26">17 + 17 = 34 sc.</text>
+<text x="16" y="772" font-size="22" fill="#2f2a26">Strap placement on that 34: skip 8,</text>
+<text x="16" y="804" font-size="22" fill="#2f2a26">sew 5, skip 8, sew 5, skip 8.</text>
+</g>
 </svg>

@@ -1,55 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 684" role="img">
 <title>Five Halloween crochet wallets, five constructions</title>
-<desc>Black cat: a seamless tube worked in rounds from both sides of a chain, with a flap and ears. Ghost: two shaped panels joined by one edging round with a scalloped hem. Pumpkin: one sideways piece in back-loop ribbing, folded and seamed, closed by a leaf tab. Witch hat: one rectangle in three zones with an inner divider and a worked buttonhole. Spiderweb: one rectangle with a pointed flap that carries an embroidered web.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 18px; fill: #2f2a26; }
-  .soft { font-size: 14px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-</style>
-<rect class="panel" x="16" y="16" width="196" height="190" rx="10"/>
-<rect class="panel" x="222" y="16" width="196" height="190" rx="10"/>
-<rect class="panel" x="428" y="16" width="196" height="190" rx="10"/>
-<rect class="panel" x="16" y="216" width="298" height="188" rx="10"/>
-<rect class="panel" x="326" y="216" width="298" height="188" rx="10"/>
-<text class="label" x="30" y="42">Black cat</text>
-<rect x="54" y="78" width="120" height="70" rx="4" fill="#4a4440"/>
-<path d="M54 78 H174 V118 L166 124 H62 L54 118 Z" fill="#3b3532"/>
-<path d="M62 78 L74 60 L86 78 Z M142 78 L154 60 L166 78 Z" fill="#3b3532"/>
-<circle cx="94" cy="98" r="5" fill="#d9a521"/><circle cx="134" cy="98" r="5" fill="#d9a521"/>
-<text class="soft" x="30" y="174">Tube in rounds, no</text>
-<text class="soft" x="30" y="192">side seams. Snap.</text>
-<text class="label" x="236" y="42">Ghost</text>
-<path d="M280 150 V82 Q280 58 320 58 Q360 58 360 82 V150 Q350 160 340 150 Q330 160 320 150 Q310 160 300 150 Q290 160 280 150 Z" fill="#fbf7ef" stroke="#c9bfb3" stroke-width="2"/>
-<line x1="280" y1="110" x2="360" y2="110" stroke="#b0604a" stroke-width="2"/>
-<ellipse cx="308" cy="88" rx="3" ry="6" fill="#2f2a26"/><ellipse cx="332" cy="88" rx="3" ry="6" fill="#2f2a26"/>
-<text class="soft" x="236" y="174">Two shaped panels,</text>
-<text class="soft" x="236" y="192">one edging. Snap.</text>
-<text class="label" x="442" y="42">Pumpkin</text>
-<rect x="466" y="78" width="120" height="70" rx="6" fill="#e08a3c"/>
-<path d="M478 78 V148 M490 78 V148 M502 78 V148 M514 78 V148 M526 78 V148 M538 78 V148 M550 78 V148 M562 78 V148 M574 78 V148" stroke="#c9702a" stroke-width="3"/>
-<rect x="520" y="62" width="10" height="18" rx="3" fill="#7d8b72"/>
-<path d="M518 78 H534 V100 L526 108 L518 100 Z" fill="#7d8b72"/>
-<text class="soft" x="442" y="174">Sideways ribs, fold,</text>
-<text class="soft" x="442" y="192">leaf tab and snap.</text>
-<text class="label" x="30" y="242">Witch hat</text>
-<rect x="60" y="270" width="140" height="80" rx="4" fill="#8a6aa8"/>
-<path d="M60 270 H200 V318 L194 322 H66 L60 318 Z" fill="#7a5b98"/>
-<path d="M118 304 L130 274 L142 304 Z" fill="#2f2a26"/><rect x="118" y="300" width="24" height="5" fill="#d9731f"/>
-<circle cx="130" cy="314" r="5" fill="#2f2a26"/>
-<text class="soft" x="214" y="282">Three zones,</text>
-<text class="soft" x="214" y="300">inner divider,</text>
-<text class="soft" x="214" y="318">buttonhole.</text>
-<text class="soft" x="30" y="380">Two pockets of the same width.</text>
-<text class="label" x="340" y="242">Spiderweb</text>
-<rect x="370" y="270" width="140" height="84" rx="4" fill="#4a4440"/>
-<path d="M370 270 H510 L440 324 Z" fill="#3b3532"/>
-<path d="M440 322 L390 272 M440 322 L415 272 M440 322 L440 272 M440 322 L465 272 M440 322 L490 272 M410 292 Q425 297 440 292 Q455 297 470 292" fill="none" stroke="#ffffff" stroke-width="1.5"/>
-<circle cx="440" cy="334" r="6" fill="#2f2a26" stroke="#9a9088"/>
-<text class="soft" x="524" y="282">Pointed flap,</text>
-<text class="soft" x="524" y="300">embroidered</text>
-<text class="soft" x="524" y="318">web, loop.</text>
-<text class="soft" x="340" y="380">Surface embroidery and a 3D spider.</text>
+<desc>Cat is a tube. Ghost is two panels. Pumpkin is sideways ribbing. Witch hat has a divider. Spiderweb has a pointed flap.</desc>
+<rect width="480" height="684" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Black cat: a tube from both sides of</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">a chain. Snap. No side seams.</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">Ghost: two shaped panels and one</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">edging round. Snap. Scalloped hem.</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">Pumpkin: sideways back-loop ribs,</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">folded once. Leaf tab and snap.</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">Witch hat: one rectangle in three</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">zones, an inner divider, and a</text>
+<text x="16" y="388" font-size="22" fill="#2f2a26">buttonhole.</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">Spiderweb: one rectangle, a pointed</text>
+<text x="16" y="484" font-size="22" fill="#2f2a26">flap, an embroidered web, and a</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">loop.</text>
+<text x="16" y="580" font-size="22" fill="#2f2a26">Each pattern is a separate page.</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">Counts do not carry from one wallet</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">to another.</text>
+</g>
 </svg>

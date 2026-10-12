@@ -1,46 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 716" role="img">
 <title>Pumpkin wallet: how back-loop ribbing makes pumpkin ribs</title>
-<desc>Left: the top of a single crochet has a front loop and a back loop. Working into the back loop only leaves the front loop standing as a ridge. Because you turn every row, the leftover loops fall on the same face every other row, so the right side shows one raised rib for each pair of rows. Right: layout options. Plain back-loop ribs, 11 ribs across 22 rows. Or both loops, for a smooth face with no ribs. Or two shades of orange, changing color every 2 rows so each rib is one shade.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .loop { fill: none; stroke: #c9702a; stroke-width: 6; }
-  .arrow { fill: none; stroke: #2f2a26; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
-</style>
-<rect class="panel" x="16" y="16" width="296" height="388" rx="10"/>
-<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
-<text class="label" x="32" y="48">Back loop only</text>
-<text class="label" x="344" y="48">Rib layouts</text>
-<ellipse class="loop" cx="160" cy="130" rx="70" ry="26"/>
-<text class="small" x="70" y="174">front loop: left as a ridge</text>
-<text class="small" x="40" y="80">back loop: the hook goes here</text>
-<path class="arrow" d="M110 86 L140 104 M127 103 L140 104 L134 92"/>
-<rect x="40" y="210" width="248" height="90" fill="#e08a3c"/>
-<rect x="54" y="210" width="10" height="90" fill="#a85a1f"/><rect x="94" y="210" width="10" height="90" fill="#a85a1f"/>
-<rect x="134" y="210" width="10" height="90" fill="#a85a1f"/><rect x="174" y="210" width="10" height="90" fill="#a85a1f"/>
-<rect x="214" y="210" width="10" height="90" fill="#a85a1f"/><rect x="254" y="210" width="10" height="90" fill="#a85a1f"/>
-<text class="soft" x="32" y="330">You turn every row, so the</text>
-<text class="soft" x="32" y="350">ridges land on one face every</text>
-<text class="soft" x="32" y="370">other row: one rib per 2 rows.</text>
-<rect x="352" y="76" width="110" height="64" fill="#e08a3c"/>
-<rect x="360" y="76" width="6" height="64" fill="#a85a1f"/><rect x="380" y="76" width="6" height="64" fill="#a85a1f"/>
-<rect x="400" y="76" width="6" height="64" fill="#a85a1f"/><rect x="420" y="76" width="6" height="64" fill="#a85a1f"/>
-<rect x="440" y="76" width="6" height="64" fill="#a85a1f"/>
-<text class="soft" x="474" y="100">BLO every row:</text>
-<text class="soft" x="474" y="120">11 ribs, 22 rows</text>
-<rect x="352" y="168" width="110" height="64" fill="#e08a3c"/>
-<text class="soft" x="474" y="192">Both loops:</text>
-<text class="soft" x="474" y="212">flat, no ribs</text>
-<rect x="352" y="260" width="110" height="64" fill="#e08a3c"/>
-<rect x="352" y="260" width="20" height="64" fill="#c9702a"/><rect x="392" y="260" width="20" height="64" fill="#c9702a"/>
-<rect x="432" y="260" width="20" height="64" fill="#c9702a"/>
-<text class="soft" x="474" y="284">Two oranges,</text>
-<text class="soft" x="474" y="304">swap every 2 rows</text>
-<text class="small" x="344" y="360">Both loops changes the row gauge.</text>
-<text class="small" x="344" y="378">Measure to 4.25 in either way.</text>
+<desc>The hook goes through the back loop. The front loop is left as a ridge. One rib shows for every two turned rows.</desc>
+<rect width="480" height="716" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Each single crochet has a front loop</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">and a back loop.</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">Work into the back loop only. The</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">front loop stays as a ridge.</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">You turn every row, so the ridges</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">land on one face every other row.</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">22 rows in the back loop make 11</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">ribs.</text>
+<text x="16" y="420" font-size="22" fill="#2f2a26">Working both loops makes a flat face</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">and changes the row gauge.</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">Two oranges can change every 2 rows</text>
+<text x="16" y="548" font-size="22" fill="#2f2a26">so each rib is one shade.</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">Measure the width to 4.25 in either</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">way. Do not trust the row count</text>
+<text x="16" y="676" font-size="22" fill="#2f2a26">alone.</text>
+</g>
 </svg>

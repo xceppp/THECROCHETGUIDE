@@ -18,12 +18,10 @@ glance:
 
 A Halloween wallet is a quick project, a good gift, and a reason to use up the scraps of black, orange, and purple you bought last October. The trouble with most "wallet" patterns is that nobody checked whether a card goes in. These five were sized on paper against a standard bank card, and each one uses a different construction, so making all five teaches you five techniques rather than one rectangle five times.
 
-![Five Halloween crochet coin purses: a black cat, a ghost, a jack-o'-lantern, a spiderweb, and a witch hat](../../assets/articles/halloween-crochet-wallets-thumb.png)
-
 All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single-crochet swatch checks the gauge the cat, ghost, witch hat, and spiderweb assume. It does not prove a card will fit, and it does not measure the pumpkin, which is worked in the back loop only. Each pattern names the row where you slide a real card in.
 
 <figure class="diagram">
-<img src="/diagrams/halloween-wallets-compare.svg" alt="Diagram. The five wallets side by side. Black cat: a seamless tube with ears and a snap. Ghost: two shaped panels joined by one edging round. Pumpkin: sideways ribs, folded, with a leaf tab. Witch hat: three zones, an inner divider, and a buttonhole. Spiderweb: a pointed flap with embroidery and a loop." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/halloween-wallets-compare.svg" alt="Diagram. The five wallets side by side. Black cat: a seamless tube with ears and a snap. Ghost: two shaped panels joined by one edging round. Pumpkin: sideways ribs, folded, with a leaf tab. Witch hat: three zones, an inner divider, and a buttonhole. Spiderweb: a pointed flap with embroidery and a loop." width="480" height="684" loading="lazy" decoding="async" />
 <figcaption>Diagram. Five constructions. The pumpkin's ribs are back loop only, so its row gauge differs.</figcaption>
 </figure>
 
@@ -31,25 +29,15 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 **[Black cat crochet wallet](/black-cat-crochet-wallet/).** Beginner. A seamless pocket worked in rounds around both sides of a chain, a 9-row flap with gold eyes, two triangle ears, and a snap.
 
-![A black crochet cat pouch with pink inner ears, gold eyes, and a zipper](../../assets/articles/black-cat-crochet-wallet-thumb.png)
-
 **[Ghost crochet wallet](/ghost-crochet-wallet/).** Intermediate. Two shaped panels, a soft embroidered face with pink cheeks, and one edging round that joins the layers and scallops the hem. The snap hides inside.
-
-![A cream crochet ghost pouch with a zipper, black eyes, and pink cheeks](../../assets/articles/ghost-crochet-wallet-thumb.png)
 
 **[Pumpkin crochet wallet](/pumpkin-crochet-wallet/).** Beginner. One sideways piece in back-loop ribs, folded and seamed, with a jack-o'-lantern face, a rolled stem, and a green leaf tab that snaps shut.
 
-![An orange crochet pumpkin pouch with a green stem, a black face, and a zipper](../../assets/articles/pumpkin-crochet-wallet-thumb.png)
-
 **[Witch hat crochet wallet](/witch-hat-crochet-wallet/).** Intermediate. One purple rectangle with a worked buttonhole, an inner divider for two pockets, and a black and orange hat appliqué.
-
-![A black crochet witch-hat pouch with a purple band, an orange buckle, and a zipper](../../assets/articles/witch-hat-crochet-wallet-thumb.png)
 
 **[Spiderweb crochet wallet](/spiderweb-crochet-wallet/).** Intermediate. A black wallet with a pointed flap, a backstitched white web, a tiny purple spider, and a button loop.
 
-![A black crochet wallet with a white spiderweb, a small spider, and a side button](../../assets/articles/spiderweb-crochet-wallet-thumb.png)
-
-The diagrams further down are the counted construction.
+Each link above is a complete pattern. The diagram is the counted construction for all five.
 
 ## How they compare
 

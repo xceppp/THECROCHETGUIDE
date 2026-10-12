@@ -21,8 +21,6 @@ A ghost wallet only works if it still looks like a ghost with cards in it. This 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). If you want a smaller, simpler ghost with a fold-over flap, the [ghost mini wallet](/ghost-crochet-mini-wallet/) is a different design worth a look. This one teaches shaping with decreases and joining two layers with an edging.
 
-![A cream ghost-wallet concept illustration; follow the snap-closure construction diagram](../../assets/articles/ghost-crochet-wallet-thumb.png)
-
 The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and lay a real bank card on the front panel before you join. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size.
 
 ## Materials
@@ -65,7 +63,7 @@ Each panel is 17 stitches, 4.25 inches wide. The side edging takes a little from
 ### Stage 1: the two panels
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-panels.svg" alt="Diagram. Two stitch grids side by side. The back panel is 17 stitches wide, 18 straight rows, then rows 19 to 22 decrease to 15, 13, 11, and 9 stitches for a rounded head. The front panel is 17 stitches by 14 rows. A label marks where the front panel ends on the back." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-wallet-panels.svg" alt="Diagram. Two stitch grids side by side. The back panel is 17 stitches wide, 18 straight rows, then rows 19 to 22 decrease to 15, 13, 11, and 9 stitches for a rounded head. The front panel is 17 stitches by 14 rows. A label marks where the front panel ends on the back." width="480" height="684" loading="lazy" decoding="async" />
 <figcaption>Diagram. Both panels start the same way. The back keeps going and rounds off.</figcaption>
 </figure>
 
@@ -100,7 +98,7 @@ Lay the front on the back with the hems matched. The front should end with 8 row
 ### Stage 2: the face, while the back is flat
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-face.svg" alt="Diagram. The back panel from row 14 to row 22, 17 stitches across with stitch 9 at the center. Black oval eyes on rows 17 and 18 at stitches 6 and 12. A small black mouth on row 16 at stitch 9. Pink cheeks on row 16 at stitches 5 and 13. A dashed line at the top of row 14 marks the pocket opening." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-wallet-face.svg" alt="Diagram. The back panel from row 14 to row 22, 17 stitches across with stitch 9 at the center. Black oval eyes on rows 17 and 18 at stitches 6 and 12. A small black mouth on row 16 at stitch 9. Pink cheeks on row 16 at stitches 5 and 13. A dashed line at the top of row 14 marks the pocket opening." width="480" height="556" loading="lazy" decoding="async" />
 <figcaption>Diagram. Stitch k mirrors stitch 18 minus k, so the face stays centered.</figcaption>
 </figure>
 
@@ -123,7 +121,7 @@ Work through the back panel only and keep the strands on the wrong side short. T
 
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-snap.svg" alt="Diagram. Left, a side view: the tall back panel and shorter front panel joined at the hem, with the two halves of a snap facing each other inside the pocket at row 13. Right, the wallet to scale with an ID-1 card in the pocket, about 3.9 inches wide and 2.7 inches deep inside on paper, the snap above the top of the card." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-wallet-snap.svg" alt="Diagram. Left, a side view: the tall back panel and shorter front panel joined at the hem, with the two halves of a snap facing each other inside the pocket at row 13. Right, the wallet to scale with an ID-1 card in the pocket, about 3.9 inches wide and 2.7 inches deep inside on paper, the snap above the top of the card." width="480" height="716" loading="lazy" decoding="async" />
 <figcaption>Diagram. The snap closes the top of the pocket from inside, so nothing shows on the ghost.</figcaption>
 </figure>
 
@@ -136,7 +134,7 @@ Sew with doubled thread, four or five passes per hole, catching only the panel y
 ### Stage 4: the joining round
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-join.svg" alt="Diagram. The front panel on the back panel with one edging round. Along the hem through both layers: slip stitch in stitch 1, then skip 1, 5 half double crochet in the next, skip 1, slip stitch in the next, four times. Up the first side 14 single crochet through both layers, 4 through the back only, 5 along the head slope. 9 across the top. 23 down the other side." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-wallet-join.svg" alt="Diagram. The front panel on the back panel with one edging round. Along the hem through both layers: slip stitch in stitch 1, then skip 1, 5 half double crochet in the next, skip 1, slip stitch in the next, four times. Up the first side 14 single crochet through both layers, 4 through the back only, 5 along the head slope. 9 across the top. 23 down the other side." width="480" height="684" loading="lazy" decoding="async" />
 <figcaption>Diagram. One round joins the panels, scallops the hem, and leaves the front's top edge open.</figcaption>
 </figure>
 

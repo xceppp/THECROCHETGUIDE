@@ -1,52 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 684" role="img">
 <title>Pumpkin wallet: one sideways piece in back-loop ribbing</title>
-<desc>The piece is worked sideways. A chain of 21 sets the height: row 1 is 20 single crochet. Every row after it is 20 single crochet in the back loop only, which raises a ridge every two rows. The rows stack from left to right, and their number sets the width: about 22 rows, or 4.25 inches. Stitches 1 to 10 become the front and stitches 11 to 20 the back, with the fold between stitches 10 and 11.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .arrow { fill: none; stroke: #2f2a26; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
-</style>
-<defs>
-  <pattern id="rib" x="50" y="0" width="20" height="250" patternUnits="userSpaceOnUse">
-    <rect width="10" height="250" fill="#e08a3c"/>
-    <rect x="10" width="10" height="250" fill="#c9702a"/>
-  </pattern>
-</defs>
-<rect class="panel" x="16" y="16" width="290" height="388" rx="10"/>
-<rect class="panel" x="322" y="16" width="302" height="388" rx="10"/>
-<text class="label" x="32" y="48">Laid flat, before folding</text>
-<text class="label" x="338" y="48">Counts</text>
-<rect x="50" y="90" width="220" height="250" fill="url(#rib)" stroke="#6b4428" stroke-width="2"/>
-<line x1="40" y1="215" x2="280" y2="215" stroke="#b0604a" stroke-width="2.5" stroke-dasharray="8 5"/>
-<path class="arrow" d="M55 100 V330 M49 318 L55 330 L61 318"/>
-<path class="arrow" d="M65 330 V100 M59 112 L65 100 L71 112"/>
-<text class="small" x="40" y="82">st 1: front rim</text>
-<text class="small" x="150" y="358">st 20: back rim</text>
-<text class="small" x="54" y="378">row 1</text>
-<text class="small" x="236" y="378">row 22</text>
-<rect x="192" y="198" width="36" height="16" rx="3" fill="#fdfaf6"/>
-<text class="small" x="196" y="210">fold</text>
-<rect x="134" y="147" width="100" height="18" rx="3" fill="#fdfaf6"/>
-<text class="small" x="140" y="160">front, sts 1-10</text>
-<rect x="134" y="267" width="104" height="18" rx="3" fill="#fdfaf6"/>
-<text class="small" x="140" y="280">back, sts 11-20</text>
-<text class="soft" x="338" y="84">Ch 21. Row 1: sc in 2nd ch</text>
-<text class="soft" x="338" y="104">from hook and across. (20)</text>
-<text class="soft" x="338" y="132">Rows 2 on: ch 1 (not a st),</text>
-<text class="soft" x="338" y="152">turn, sc BLO in each st. (20)</text>
-<text class="soft" x="338" y="186">Stitches set the height:</text>
-<text class="soft" x="338" y="206">20 sts = 5 in, folded to 2.5.</text>
-<text class="soft" x="338" y="240">Rows set the width: work to</text>
-<text class="soft" x="338" y="260">4.25 in, an even number of</text>
-<text class="soft" x="338" y="280">rows. About 22 at the example</text>
-<text class="soft" x="338" y="300">gauge. Each pair of rows</text>
-<text class="soft" x="338" y="320">makes one raised rib.</text>
-<text class="small" x="338" y="356">Stripes here show the ribs, not</text>
-<text class="small" x="338" y="374">color changes. Rows run up and</text>
-<text class="small" x="338" y="392">down; arrows show rows 1 and 2.</text>
+<desc>Chain 21 gives 20 sc, the height. Rows set the width. Fold between stitches 10 and 11.</desc>
+<rect width="480" height="684" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Chain 21. Row 1: sc in the 2nd chain</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">and across. (20)</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">Later rows: ch 1, turn, sc in the</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">back loop of each stitch. (20)</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">Ch 1 is not a stitch.</text>
+<text x="16" y="292" font-size="22" fill="#2f2a26">Stitches 1-10 are the front.</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">Stitches 11-20 are the back.</text>
+<text x="16" y="388" font-size="22" fill="#2f2a26">The fold is between stitches 10 and</text>
+<text x="16" y="420" font-size="22" fill="#2f2a26">11.</text>
+<text x="16" y="484" font-size="22" fill="#2f2a26">20 stitches are about 5 in, which</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">folds to about 2.5 in.</text>
+<text x="16" y="580" font-size="22" fill="#2f2a26">Work an even number of rows until</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">the piece is about 4.25 in wide.</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">About 22 rows at the example gauge.</text>
+</g>
 </svg>

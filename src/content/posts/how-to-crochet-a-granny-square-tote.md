@@ -23,13 +23,10 @@ It is an open bag. A pen will drop through the holes, and rain will not stay out
 
 US terms. US double crochet is UK treble. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/) and the [basic stitches](/basic-crochet-stitches/). The pictures are illustrations. No tote for this page was crocheted, loaded, or carried. Inches below are estimates from a gauge you still have to swatch.
 
-![A cream cotton tote made of granny squares with two straps](../../assets/articles/how-to-crochet-a-granny-square-tote-result.jpg "Illustration. It draws a different square motif and a boxed base. This page makes two flat panels with no base. Not a finished sample.")
-
-
 ## How the bag is built
 
 <figure class="diagram">
-<img src="/diagrams/tote-assembly.svg" alt="A front panel and a back panel, each four squares in a 2 by 2 grid. Each panel edge is 19 plus 19, which is 38 single crochet. The two panels joined along the sides and bottom with a dashed seam, top open, with two straps. A bar shows one panel's 34-stitch top edge split 8, strap 5, 8, strap 5, 8." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/tote-assembly.svg" alt="Eight 4-round squares make two panels of two by two. Join the sides and the bottom. Leave the top open. There is no separate base. One panel top is 34 sc: skip 8, sew a 5-stitch strap, skip 8, sew 5, skip 8." width="480" height="844" loading="lazy" decoding="async" />
 <figcaption>Two flat panels and three seams. Every number on the drawing follows from the 4-round square.</figcaption>
 </figure>
 
@@ -39,7 +36,7 @@ US terms. US double crochet is UK treble. US single crochet is UK double crochet
 4. Work two rounds of single crochet around the opening.
 5. Make two straps and sew them through that edge.
 
-The bag is flat. It has no base, so a bulky item takes height out of it. The rounded, boxed bag in the illustration would need a separate base strip, which this page does not cover. The size follows the square: each panel is about twice the side of one square. If your square is 5 inches, the panel is about 10 by 10 and the opening is about 20 inches around. If your square is 4 inches, every one of those numbers shrinks by a fifth.
+The bag is flat. It has no base, so a bulky item takes height out of it. A boxed bottom would need a separate base strip, which this page does not include. The size follows the square: each panel is about twice the side of one square. If your square is 5 inches, the panel is about 10 by 10 and the opening is about 20 inches around. If your square is 4 inches, every one of those numbers shrinks by a fifth.
 
 ## Materials
 

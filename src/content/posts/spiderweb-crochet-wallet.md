@@ -21,8 +21,6 @@ A spiderweb on a crochet wallet usually means a lot of fiddly white color change
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/), and the one that teaches surface embroidery and a button loop.
 
-![A black crochet wallet with a white spiderweb, a small spider, and a side button](../../assets/articles/spiderweb-crochet-wallet-thumb.png)
-
 The pocket size, flap drop, and loop length here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and slip a real bank card in before you join. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size.
 
 ## Materials
@@ -67,7 +65,7 @@ Seventeen stitches are 4.25 inches; after the side seams, the pocket is about 3.
 ### Stage 1: the rectangle and pointed flap
 
 <figure class="diagram">
-<img src="/diagrams/spiderweb-wallet-zones.svg" alt="Diagram. A black rectangle 17 stitches wide. Rows 1 to 13 are the front, rows 14 to 26 the back, and rows 27 to 34 a pointed flap that decreases at both ends of each row, 15, 13, 11, 9, 7, 5, 3, then a three-together decrease. A chain-8 loop sits at the point." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/spiderweb-wallet-zones.svg" alt="Diagram. A black rectangle 17 stitches wide. Rows 1 to 13 are the front, rows 14 to 26 the back, and rows 27 to 34 a pointed flap that decreases at both ends of each row, 15, 13, 11, 9, 7, 5, 3, then a three-together decrease. A chain-8 loop sits at the point." width="480" height="652" loading="lazy" decoding="async" />
 <figcaption>Diagram. The flap loses one stitch at each end of every row until it comes to a point.</figcaption>
 </figure>
 
@@ -108,7 +106,7 @@ The flap edges will be a little bumpy where each row decreases. A round of slip 
 ### Stage 2: the web
 
 <figure class="diagram">
-<img src="/diagrams/spiderweb-wallet-web.svg" alt="Diagram. The closed flap with five white spokes running from the point at row 34 to row 27 at stitches 2, 5, 8, 11, and 14, and three rings at rows 29, 31, and 33, each made of four segments that dip toward the point. A purple spider sits between the rings at rows 29 and 31 on the fourth spoke." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/spiderweb-wallet-web.svg" alt="Diagram. The closed flap with five white spokes running from the point at row 34 to row 27 at stitches 2, 5, 8, 11, and 14, and three rings at rows 29, 31, and 33, each made of four segments that dip toward the point. A purple spider sits between the rings at rows 29 and 31 on the fourth spoke." width="480" height="684" loading="lazy" decoding="async" />
 <figcaption>Diagram. Spokes first, inner ring first, spider last.</figcaption>
 </figure>
 
@@ -123,7 +121,7 @@ Work through the flap only. If a line comes out crooked, unpick it; backstitch c
 ### Stage 3: the spider
 
 <figure class="diagram">
-<img src="/diagrams/spider-applique.svg" alt="Diagram. Left, the abdomen: magic ring of 6, round 2 increases to 12, round 3 even, round 4 decreases to 6. The head: magic ring of 6 and one even round. Right, the head sewn to the abdomen with eight two-segment legs, four per side, bent at the knee." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/spider-applique.svg" alt="Diagram. Left, the abdomen: magic ring of 6, round 2 increases to 12, round 3 even, round 4 decreases to 6. The head: magic ring of 6 and one even round. Right, the head sewn to the abdomen with eight two-segment legs, four per side, bent at the knee." width="480" height="716" loading="lazy" decoding="async" />
 <figcaption>Diagram. Two tiny balls and eight stitched legs.</figcaption>
 </figure>
 
@@ -148,7 +146,7 @@ With purple, on the smaller hook if you have one:
 ### Stage 4: seam and button
 
 <figure class="diagram">
-<img src="/diagrams/spiderweb-wallet-closure.svg" alt="Diagram. The loop at the point of the flap, chain 8 slip stitched to the same stitch. The closed wallet to scale, about 4.25 by 2.6 inches, with the flap about 1.6 inches below the fold, the loop 0.4 inch more, and the button near row 10 of the front at stitch 9. A dashed ID-1 card fits inside on paper." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/spiderweb-wallet-closure.svg" alt="Diagram. The loop at the point of the flap, chain 8 slip stitched to the same stitch. The closed wallet to scale, about 4.25 by 2.6 inches, with the flap about 1.6 inches below the fold, the loop 0.4 inch more, and the button near row 10 of the front at stitch 9. A dashed ID-1 card fits inside on paper." width="480" height="748" loading="lazy" decoding="async" />
 <figcaption>Diagram. Close the flap with cards inside before marking the button.</figcaption>
 </figure>
 

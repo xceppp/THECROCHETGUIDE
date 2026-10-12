@@ -1,41 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 716" role="img">
 <title>Witch hat wallet: divider and three-layer side seams</title>
-<desc>Left: side view. The front folds up against the back. A separate divider panel, 17 stitches by 11 rows, sits between them with its lower edge at the fold and its top one row below the rim. That makes two pockets of the same width. Right: each side seam is single crochet through all three layers, one stitch per row end, 12 per side, with only front and back at the top row.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .wall { fill: none; stroke: #8a6aa8; stroke-width: 7; stroke-linecap: round; }
-  .div { fill: none; stroke: #b49ccc; stroke-width: 6; stroke-linecap: round; }
-  .seam { fill: none; stroke: #7d8b72; stroke-width: 5; stroke-dasharray: 1 7; stroke-linecap: round; }
-</style>
-<rect class="panel" x="16" y="16" width="296" height="388" rx="10"/>
-<rect class="panel" x="328" y="16" width="296" height="388" rx="10"/>
-<text class="label" x="32" y="48">Side view</text>
-<text class="label" x="344" y="48">Side seam</text>
-<line class="wall" x1="110" y1="150" x2="110" y2="320"/>
-<line class="wall" x1="170" y1="150" x2="170" y2="320"/>
-<path d="M110 320 Q140 344 170 320" fill="none" stroke="#8a6aa8" stroke-width="7"/>
-<line class="div" x1="140" y1="166" x2="140" y2="322"/>
-<path d="M170 150 V96 Q170 80 150 80 H120 Q100 80 98 100 V128" fill="none" stroke="#8a6aa8" stroke-width="7" stroke-linecap="round"/>
-<text class="small" x="54" y="250">front</text>
-<text class="small" x="180" y="250">back</text>
-<text class="small" x="128" y="356">divider</text>
-<line x1="140" y1="340" x2="140" y2="326" stroke="#6d635a" stroke-width="1.5"/>
-<text class="small" x="180" y="96">flap</text>
-<text class="soft" x="32" y="392">Two pockets, same width.</text>
-<rect x="380" y="110" width="40" height="216" fill="#8a6aa8"/>
-<rect x="426" y="128" width="40" height="198" fill="#b49ccc"/>
-<rect x="472" y="110" width="40" height="216" fill="#8a6aa8"/>
-<line class="seam" x1="372" y1="114" x2="372" y2="322"/>
-<text class="small" x="384" y="100">front</text>
-<text class="small" x="428" y="118">divider</text>
-<text class="small" x="478" y="100">back</text>
-<text class="soft" x="344" y="356">12 sc per side, one per row</text>
-<text class="soft" x="344" y="376">end, through all layers. The</text>
-<text class="soft" x="344" y="396">top row catches two layers.</text>
+<desc>Divider is 17 stitches by 11 rows. Sew its whole bottom edge into the fold. Each side seam is 11 three-layer stitches and 1 two-layer stitch.</desc>
+<rect width="480" height="716" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">The divider is 17 sc wide and 11</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">rows tall, one row shorter than the</text>
+<text x="16" y="100" font-size="22" fill="#2f2a26">front.</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">Whipstitch all 17 foundation chains</text>
+<text x="16" y="196" font-size="22" fill="#2f2a26">to the inside of the bottom fold.</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">The seam must be continuous or a</text>
+<text x="16" y="292" font-size="22" fill="#2f2a26">card can pass under the divider.</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">Each side: 11 sc through front,</text>
+<text x="16" y="388" font-size="22" fill="#2f2a26">divider, and back.</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">The 12th sc catches front and back</text>
+<text x="16" y="484" font-size="22" fill="#2f2a26">only.</text>
+<text x="16" y="548" font-size="22" fill="#2f2a26">Repeat on the other side. The flap</text>
+<text x="16" y="580" font-size="22" fill="#2f2a26">stays outside both seams.</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">Test one card in each pocket before</text>
+<text x="16" y="676" font-size="22" fill="#2f2a26">you weave the ends.</text>
+</g>
 </svg>

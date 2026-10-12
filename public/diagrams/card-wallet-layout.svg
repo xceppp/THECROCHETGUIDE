@@ -1,33 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
-<title>Card wallet rectangle layout</title>
-<desc>One rectangle 16 stitches wide divided into three zones. Rows 1 to 12 are the front, folded up. Rows 13 to 24 are the back. Rows 25 to 31 are the flap, with a button loop on row 31. Width is the card's 3.37 inches plus stack thickness, ease, and about a stitch for seams, near 3.9 inches. Pocket depth is the card's 2.125 inches plus a little ease, 2.4 inches or 12 rows. The flap is 7 rows, 1.4 inches. A small ghost sits on the flap beside the loop.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .fab { fill: #f3e6d4; stroke: #6b4428; stroke-width: 4; }
-  .flap { fill: #ead2b5; stroke: #6b4428; stroke-width: 4; }
-  .fold { stroke: #b0604a; stroke-width: 3; stroke-dasharray: 8 5; }
-  .ghost { fill: #ffffff; stroke: #2f2a26; stroke-width: 2; }
-  .loop { fill: none; stroke: #6b4428; stroke-width: 3; }
-</style>
-<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
-<text class="label" x="32" y="46">One rectangle, three zones</text>
-<rect class="flap" x="60" y="66" width="200" height="70"/>
-<rect class="fab" x="60" y="136" width="200" height="120"/>
-<rect class="fab" x="60" y="256" width="200" height="120"/>
-<line class="fold" x1="48" y1="256" x2="272" y2="256"/>
-<line class="fold" x1="48" y1="136" x2="272" y2="136"/>
-<path class="loop" d="M148 70 q12 -22 24 0"/>
-<path class="ghost" d="M90 120 v-26 a12 12 0 0 1 24 0 v26 l-6 -5 l-6 5 l-6 -5 z"/>
-<text class="soft" x="284" y="92">rows 25-31: flap, 7 rows = 1.4 in</text>
-<text class="soft" x="284" y="114">loop on row 31, ghost on the flap</text>
-<text class="soft" x="284" y="190">rows 13-24: back, 12 rows = 2.4 in</text>
-<text class="soft" x="284" y="300">rows 1-12: front, folded up</text>
-<text class="soft" x="284" y="322">12 rows = 2.4 in deep</text>
-<text class="soft" x="64" y="396">16 sc wide, about 4 in</text>
-<text class="soft" x="284" y="356">Width: 3.37 card + stack + ease + seams</text>
-<text class="soft" x="284" y="380">= about 3.9 in, so 16 sc at 4 per in</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 684" role="img">
+<title>Halloween card wallet: three zones</title>
+<desc>One rectangle, 16 sc wide. Front rows 1-12, back 13-24, flap 25-31. Row 31 holds the loop.</desc>
+<rect width="480" height="684" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Chain 17. Row 1 is 16 sc. Ch 1 does</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">not count.</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">Rows 1-12: front. Fold these up.</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">About 2.4 in at 5 rows per inch.</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">Rows 13-24: back. The foundation</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">edge meets row 24.</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">Rows 25-31: flap. Leave it outside</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">the side seams.</text>
+<text x="16" y="420" font-size="22" fill="#2f2a26">Row 31: sc 6, chain 4, skip 4, sc 6.</text>
+<text x="16" y="484" font-size="22" fill="#2f2a26">6 + 4 skipped + 6 = 16, so the loop</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">stays centered.</text>
+<text x="16" y="580" font-size="22" fill="#2f2a26">Test the button before you fasten</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">off. Sew it through the front wall</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">only.</text>
+</g>
 </svg>

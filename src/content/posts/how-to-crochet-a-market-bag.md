@@ -135,6 +135,8 @@ A key or a loose berry will find a hole. Put small things inside something large
 
 **Rounds 2–3:** Ch 1, sc in each stitch. Slip stitch to the first sc. (96)
 
+Fasten off. Weave that end into the band. The handles are separate pieces.
+
 ## Stage 5: the handles
 
 <figure class="diagram">
@@ -149,7 +151,7 @@ Make 2. Chain 9.
 
 **Next rows:** Sc in each stitch. Ch 1, turn. (8)
 
-Work to about 18 inches, about 90 rows at 5 rows per inch. Pin one handle on, put some weight in the bag, and try it in your hand and on your shoulder before you decide the length.
+Work to about 18 inches, about 90 rows at 5 rows per inch. Fasten off, leaving a tail long enough to sew the end down. Pin one handle on, put some weight in the bag, and try it in your hand and on your shoulder before you decide the length. If you change the length, make the second handle to the same row count.
 
 **Placement.** Put a marker at the start of the band round and another at stitch 49. Each half has 48 stitches. On each half: skip 10, sew a handle end over 8, skip 12, sew the other end over 8, skip 10. The two handles sit opposite each other, and the four ends are spaced the same way on both sides, so neither handle pulls the band crooked.
 

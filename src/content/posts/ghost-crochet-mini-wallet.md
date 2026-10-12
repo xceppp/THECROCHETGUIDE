@@ -49,7 +49,7 @@ If you will never carry cash, see the card-only variation below. Its pocket is 2
 A single crochet decrease (sc2tog) turns two stitches into one. Work one at the start and one at the end of a row, and the row is two stitches shorter, one from each side. Both edges step inward by a stitch, a quarter inch at this gauge. Three such rows take the flap from 16 stitches to 10, from 4 inches to 2.5, and the corners slope evenly on both sides.
 
 <figure class="diagram">
-<img src="/diagrams/ghost-wallet-flap.svg" alt="The flap rows stacked: rows 29 and 30 at 16 stitches, row 31 at 14, row 32 at 12, row 33 at 10, each with a decrease marked at both ends, and row 34 as 3 single crochet, a chain-5 loop over 4 skipped stitches, and 3 single crochet. Notes: each decrease row moves both edges in a quarter inch; the pocket is 2.8 inches deep for a 2.125 inch card or a bill folded to 2.61 inches." width="640" height="420" loading="lazy" decoding="async" />
+<img src="/diagrams/ghost-wallet-flap.svg" alt="The flap rows stacked: rows 29 and 30 at 16 stitches, row 31 at 14, row 32 at 12, row 33 at 10, each with a decrease marked at both ends, and row 34 as 3 single crochet, a chain-5 loop over 4 skipped stitches, and 3 single crochet. Notes: each decrease row moves both edges in a quarter inch; the pocket is 2.8 inches deep for a 2.125 inch card or a bill folded to 2.61 inches." width="480" height="556" loading="lazy" decoding="async" />
 <figcaption>Decrease at both ends of the same row, or the flap leans to one side.</figcaption>
 </figure>
 

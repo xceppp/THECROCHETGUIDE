@@ -1,40 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 684" role="img">
 <title>Ghost wallet: joining edging and scalloped hem</title>
-<desc>The front panel lies on the back panel with hems and sides matched. One edging round joins them. Along the hem, through both layers: slip stitch in stitch 1, then skip 1, 5 half double crochet in the next, skip 1, slip stitch in the next, four times, using all 17 stitches. Then 23 single crochet up the right side, 14 through both layers, 4 through the back only, and 5 along the head slope, 9 across the top, and 23 down the left side.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
-  .scal { fill: none; stroke: #6b4428; stroke-width: 3; }
-</style>
-<rect class="panel" x="16" y="16" width="608" height="388" rx="10"/>
-<text class="label" x="32" y="48">One edging round joins the panels</text>
-<path d="M45 350 H283 V134 H269 V122 H255 V110 H241 V98 H227 V86 H101 V98 H87 V110 H73 V122 H59 V134 H45 Z" fill="#fbf7ef" stroke="#6b4428" stroke-width="2"/>
-<rect x="45" y="182" width="238" height="168" fill="#efe6d8" stroke="#6b4428" stroke-width="2"/>
-<text class="small" x="130" y="272">two layers</text>
-<text class="small" x="132" y="160">back only</text>
-<path class="scal" d="M52 354 Q80 384 108 354 Q136 384 164 354 Q192 384 220 354 Q248 384 276 354"/>
-<circle cx="52" cy="354" r="5" fill="#7d8b72"/>
-<text class="small" x="30" y="398">start: st 1 of the hem</text>
-<path class="arrow" d="M298 340 V150 M290 164 L298 150 L306 164"/>
-<path class="arrow" d="M240 74 H100 M114 66 L100 74 L114 82"/>
-<path class="arrow" d="M30 150 V330 M22 316 L30 330 L38 316"/>
-<text class="soft" x="330" y="84">Hem, through both layers:</text>
-<text class="soft" x="330" y="104">sl st in st 1, then</text>
-<text class="soft" x="330" y="124">(sk 1, 5 hdc in next, sk 1,</text>
-<text class="soft" x="330" y="144">sl st in next) 4 times.</text>
-<text class="soft" x="330" y="164">1 + 4 x 4 = 17 sts used.</text>
-<text class="soft" x="330" y="200">Ch 1. Right side: 14 sc through</text>
-<text class="soft" x="330" y="220">both layers, 4 sc back only,</text>
-<text class="soft" x="330" y="240">5 sc along the head slope. (23)</text>
-<text class="soft" x="330" y="268">Top: 1 sc in each of 9 sts.</text>
-<text class="soft" x="330" y="296">Left side: 5 + 4 + 14. (23)</text>
-<text class="soft" x="330" y="324">Sl st in the first sl st.</text>
-<text class="soft" x="330" y="352">The front's top edge is the</text>
-<text class="soft" x="330" y="372">opening. Do not edge it shut.</text>
+<desc>Hem uses all 17 stitches: slip stitch in stitch 1, then the 4-stitch scallop four times. Each side is 23 sc. Top is 9. Do not close the front opening.</desc>
+<rect width="480" height="684" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Start in stitch 1 of the hem,</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">through both layers.</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">Hem: sl st in st 1, then (skip 1, 5</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">hdc in the next, skip 1, sl st in</text>
+<text x="16" y="196" font-size="22" fill="#2f2a26">the next) 4 times.</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">1 + 4 times 4 = 17 hem stitches.</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">Right side: 14 sc through both</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">layers, 4 sc in the back only, 5 sc</text>
+<text x="16" y="388" font-size="22" fill="#2f2a26">along the slope. (23)</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">Top: 9 sc across the head.</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">Left side: 5 + 4 + 14. (23)</text>
+<text x="16" y="580" font-size="22" fill="#2f2a26">Slip stitch to the first slip</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">stitch. Do not edge the front</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">panel's top. That is the opening.</text>
+</g>
 </svg>

@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 652" role="img">
 <title>Spiderweb wallet: rectangle and pointed flap</title>
-<desc>One piece 17 single crochet wide, one grid square per stitch. Rows 1 to 13 are the front, folded up. Rows 14 to 26 are the back. Rows 27 to 34 are the flap: every row decreases at both ends, 15, 13, 11, 9, 7, 5, 3, then a three-together decrease to 1 stitch at the point. A chain-8 loop is made at the point. Dashed lines mark the two folds.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .fold { stroke: #b0604a; stroke-width: 2.5; stroke-dasharray: 8 5; }
-</style>
-<defs>
-  <pattern id="sg" x="50" y="2" width="12" height="9" patternUnits="userSpaceOnUse">
-    <rect width="12" height="9" fill="#3b3532" stroke="#6d635a" stroke-width="1"/>
-  </pattern>
-</defs>
-<rect class="panel" x="16" y="16" width="608" height="388" rx="10"/>
-<text class="label" x="276" y="52">Rows 1-34, one square per stitch</text>
-<path d="M50 380 H254 V146 H242 V137 H230 V128 H218 V119 H206 V110 H194 V101 H182 V92 H170 V83 H158 V74 H146 V83 H134 V92 H122 V101 H110 V110 H98 V119 H86 V128 H74 V137 H62 V146 H50 Z" fill="url(#sg)" stroke="#2f2a26" stroke-width="2"/>
-<path d="M152 74 Q144 62 152 57 Q160 62 152 74" fill="none" stroke="#2f2a26" stroke-width="3"/>
-<line class="fold" x1="40" y1="263" x2="264" y2="263"/>
-<line class="fold" x1="40" y1="146" x2="264" y2="146"/>
-<text class="small" x="22" y="378">r1</text>
-<text class="small" x="18" y="267">r13</text>
-<text class="small" x="18" y="150">r26</text>
-<text class="small" x="166" y="68">ch-8 loop</text>
-<text class="soft" x="276" y="84">Rows 27-34: flap, 8 rows</text>
-<text class="soft" x="276" y="104">Each row: sc2tog, sc across</text>
-<text class="soft" x="276" y="124">to the last 2, sc2tog.</text>
-<text class="soft" x="276" y="144">15, 13, 11, 9, 7, 5, 3, then sc3tog</text>
-<text class="soft" x="276" y="210">Rows 14-26: back, 13 rows</text>
-<text class="soft" x="276" y="230">= about 2.6 in</text>
-<text class="soft" x="276" y="314">Rows 1-13: front, folds up so</text>
-<text class="soft" x="276" y="334">the chain edge becomes the rim</text>
-<text class="soft" x="276" y="366">Ch 18. Row 1: sc in 2nd ch and</text>
-<text class="soft" x="276" y="386">across. (17) Ch 1 does not count.</text>
-<text class="small" x="74" y="398">17 sts, about 4.25 in</text>
+<desc>17 sc wide. Front rows 1-13, back 14-26, flap 27-34 decreasing to 1, then a chain-8 loop.</desc>
+<rect width="480" height="652" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Chain 18. Row 1: sc in the 2nd chain</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">and across. (17)</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">Ch 1 does not count as a stitch.</text>
+<text x="16" y="196" font-size="22" fill="#2f2a26">Rows 1-13: front. It folds up. The</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">chain edge becomes the rim.</text>
+<text x="16" y="292" font-size="22" fill="#2f2a26">Rows 14-26: back, 13 rows, about 2.6</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">in at the example gauge.</text>
+<text x="16" y="388" font-size="22" fill="#2f2a26">Rows 27-34: flap. Each row is</text>
+<text x="16" y="420" font-size="22" fill="#2f2a26">sc2tog, sc across, sc2tog.</text>
+<text x="16" y="484" font-size="22" fill="#2f2a26">Flap counts: 15, 13, 11, 9, 7, 5, 3,</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">then sc3tog. (1)</text>
+<text x="16" y="580" font-size="22" fill="#2f2a26">Chain 8 at that stitch for the loop.</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">Leave the top of the front open.</text>
+</g>
 </svg>

@@ -1,71 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 844" role="img">
 <title>Pumpkin wallet: stem, leaf tab, and snap</title>
-<desc>Left: the stem is a green strip of 6 single crochet by 3 rows, rolled up from one short end into a small cylinder about 0.6 inch tall. Center: the leaf tab is 3 single crochet wide for 6 rows, then a three-together decrease to a point on row 7. Right: side view. The tab's foundation edge is sewn to the inside of the back rim at the center. The tab rises over both rims and down the front. A snap joins the underside of the tab tip to the front about 3 to 4 stitches below the rim. The stem stands on the back rim over the tab's base.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .small { font-size: 13px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .st { fill: #7d8b72; stroke: #56634c; stroke-width: 1; }
-  .wall { fill: none; stroke: #e08a3c; stroke-width: 7; stroke-linecap: round; }
-  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
-</style>
-<rect class="panel" x="16" y="16" width="196" height="388" rx="10"/>
-<rect class="panel" x="222" y="16" width="196" height="388" rx="10"/>
-<rect class="panel" x="428" y="16" width="196" height="388" rx="10"/>
-<text class="label" x="32" y="48">Stem</text>
-<text class="label" x="238" y="48">Leaf tab</text>
-<text class="label" x="444" y="48">Side view</text>
-<g>
-  <rect class="st" x="40" y="80" width="24" height="20"/><rect class="st" x="64" y="80" width="24" height="20"/>
-  <rect class="st" x="88" y="80" width="24" height="20"/><rect class="st" x="112" y="80" width="24" height="20"/>
-  <rect class="st" x="136" y="80" width="24" height="20"/><rect class="st" x="160" y="80" width="24" height="20"/>
-  <rect class="st" x="40" y="100" width="24" height="20"/><rect class="st" x="64" y="100" width="24" height="20"/>
-  <rect class="st" x="88" y="100" width="24" height="20"/><rect class="st" x="112" y="100" width="24" height="20"/>
-  <rect class="st" x="136" y="100" width="24" height="20"/><rect class="st" x="160" y="100" width="24" height="20"/>
-  <rect class="st" x="40" y="120" width="24" height="20"/><rect class="st" x="64" y="120" width="24" height="20"/>
-  <rect class="st" x="88" y="120" width="24" height="20"/><rect class="st" x="112" y="120" width="24" height="20"/>
-  <rect class="st" x="136" y="120" width="24" height="20"/><rect class="st" x="160" y="120" width="24" height="20"/>
+<desc>Stem is 6 sc by 3 rows, rolled. Tab is 3 sc for 6 rows, then sc3tog. Sew the tab inside the back rim. Stem sits on the back rim.</desc>
+<rect width="480" height="844" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Stem: chain 7. Sc in the 2nd chain</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">and across. (6)</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">Rows 2-3: ch 1, turn, sc 6. Fasten</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">off.</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">Roll from a short end and sew the</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">edge down.</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">Tab: chain 4. Sc in the 2nd chain</text>
+<text x="16" y="356" font-size="22" fill="#2f2a26">and across. (3)</text>
+<text x="16" y="420" font-size="22" fill="#2f2a26">Rows 2-6: sc 3. Row 7: sc3tog. (1)</text>
+<text x="16" y="452" font-size="22" fill="#2f2a26">Fasten off.</text>
+<text x="16" y="516" font-size="22" fill="#2f2a26">Sew the tab's foundation edge inside</text>
+<text x="16" y="548" font-size="22" fill="#2f2a26">the back rim, centered.</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">The tab comes over both rims. Mark</text>
+<text x="16" y="644" font-size="22" fill="#2f2a26">the snap on the front with the tab</text>
+<text x="16" y="676" font-size="22" fill="#2f2a26">closed.</text>
+<text x="16" y="740" font-size="22" fill="#2f2a26">Sew the stem on the back rim, over</text>
+<text x="16" y="772" font-size="22" fill="#2f2a26">the tab's base, not on the front of</text>
+<text x="16" y="804" font-size="22" fill="#2f2a26">the tab.</text>
 </g>
-<path class="arrow" d="M184 158 Q150 182 112 168 M124 162 L112 168 L122 178"/>
-<rect x="96" y="196" width="34" height="56" rx="12" fill="#7d8b72" stroke="#56634c" stroke-width="2"/>
-<text class="soft" x="32" y="290">Ch 7. Row 1: sc in</text>
-<text class="soft" x="32" y="310">2nd ch and across. (6)</text>
-<text class="soft" x="32" y="334">Rows 2-3: ch 1, turn,</text>
-<text class="soft" x="32" y="354">sc 6. Roll from a short</text>
-<text class="soft" x="32" y="374">end; sew the edge down.</text>
-<g>
-  <rect class="st" x="290" y="220" width="24" height="20"/><rect class="st" x="314" y="220" width="24" height="20"/><rect class="st" x="338" y="220" width="24" height="20"/>
-  <rect class="st" x="290" y="200" width="24" height="20"/><rect class="st" x="314" y="200" width="24" height="20"/><rect class="st" x="338" y="200" width="24" height="20"/>
-  <rect class="st" x="290" y="180" width="24" height="20"/><rect class="st" x="314" y="180" width="24" height="20"/><rect class="st" x="338" y="180" width="24" height="20"/>
-  <rect class="st" x="290" y="160" width="24" height="20"/><rect class="st" x="314" y="160" width="24" height="20"/><rect class="st" x="338" y="160" width="24" height="20"/>
-  <rect class="st" x="290" y="140" width="24" height="20"/><rect class="st" x="314" y="140" width="24" height="20"/><rect class="st" x="338" y="140" width="24" height="20"/>
-  <rect class="st" x="290" y="120" width="24" height="20"/><rect class="st" x="314" y="120" width="24" height="20"/><rect class="st" x="338" y="120" width="24" height="20"/>
-  <path d="M290 120 L326 92 L362 120 Z" class="st"/>
-</g>
-<circle cx="326" cy="128" r="6" fill="none" stroke="#2f2a26" stroke-width="2" stroke-dasharray="3 2"/>
-<text class="small" x="240" y="234">row 1</text>
-<text class="small" x="240" y="114">row 7</text>
-<text class="soft" x="238" y="280">Ch 4. Row 1: sc in</text>
-<text class="soft" x="238" y="300">2nd ch and across. (3)</text>
-<text class="soft" x="238" y="324">Rows 2-6: sc 3.</text>
-<text class="soft" x="238" y="348">Row 7: sc3tog. (1)</text>
-<text class="soft" x="238" y="372">Dashed: snap, underside.</text>
-<line class="wall" x1="540" y1="140" x2="540" y2="330"/>
-<line class="wall" x1="500" y1="140" x2="500" y2="330"/>
-<path d="M500 330 Q520 348 540 330" fill="none" stroke="#e08a3c" stroke-width="7"/>
-<path d="M534 160 V140 Q534 124 520 124 Q506 124 506 140 V146 Q494 146 494 158 V196" fill="none" stroke="#7d8b72" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="526" y="98" width="14" height="30" rx="5" fill="#7d8b72" stroke="#56634c" stroke-width="2"/>
-<circle cx="488" cy="190" r="5" fill="#2f2a26"/>
-<text class="small" x="550" y="114">stem</text>
-<text class="small" x="550" y="166">tab sewn</text>
-<text class="small" x="550" y="182">inside back</text>
-<text class="small" x="444" y="214">snap</text>
-<text class="small" x="452" y="300">front</text>
-<text class="small" x="550" y="300">back</text>
-<text class="soft" x="444" y="356">Close the tab and</text>
-<text class="soft" x="444" y="376">mark the snap spot.</text>
 </svg>

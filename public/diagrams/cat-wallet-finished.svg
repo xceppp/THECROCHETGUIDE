@@ -1,37 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
-<title>Black cat wallet: finished shape and card fit</title>
-<desc>Drawn to one scale. Left: the closed wallet, about 4 inches wide and 2.4 inches tall, with the flap covering the top and two ears above the fold. Right: the open pocket with a standard ID-1 card, 3.37 by 2.125 inches, drawn inside. On paper the inside is about 3.8 inches wide and 2.3 inches deep, which leaves the card a little room on each side and below the rim.</desc>
-<rect width="640" height="420" fill="#fdfaf6"/>
-<style>
-  text { font-family: Georgia, "Times New Roman", serif; }
-  .label { font-size: 20px; fill: #2f2a26; }
-  .soft { font-size: 16px; fill: #6d635a; }
-  .panel { fill: #f6efe6; stroke: #e6ddd1; }
-  .fab { fill: #4a4440; stroke: #2f2a26; stroke-width: 2; }
-  .flap { fill: #3b3532; stroke: #2f2a26; stroke-width: 2; }
-  .card { fill: #fdfaf6; fill-opacity: 0.85; stroke: #7d8b72; stroke-width: 2.5; stroke-dasharray: 6 4; }
-</style>
-<rect class="panel" x="16" y="16" width="296" height="346" rx="10"/>
-<rect class="panel" x="328" y="16" width="296" height="346" rx="10"/>
-<text class="label" x="32" y="48">Closed</text>
-<text class="label" x="344" y="48">Open, with a card</text>
-<rect class="fab" x="44" y="130" width="240" height="144" rx="6"/>
-<path class="ear" d="M59 130 L84 98 L109 130 Z" fill="#3b3532" stroke="#2f2a26" stroke-width="2"/>
-<path d="M219 130 L244 98 L269 130 Z" fill="#3b3532" stroke="#2f2a26" stroke-width="2"/>
-<path class="flap" d="M44 130 H284 V220 L268 230 H60 L44 220 Z"/>
-<ellipse cx="119" cy="166" rx="12" ry="9" fill="#d9a521"/>
-<ellipse cx="209" cy="166" rx="12" ry="9" fill="#d9a521"/>
-<path d="M156 184 H172 L164 195 Z" fill="#e79aa8"/>
-<text class="soft" x="44" y="306">about 4.0 in wide</text>
-<text class="soft" x="44" y="328">2.4 in tall, ears above</text>
-<rect class="fab" x="360" y="130" width="240" height="144" rx="6"/>
-<rect class="card" x="379" y="141" width="202" height="128"/>
-<line x1="360" y1="130" x2="600" y2="130" stroke="#d9a521" stroke-width="3"/>
-<text class="soft" x="398" y="218">ID-1 card</text>
-<text class="soft" x="398" y="238">3.37 x 2.125 in</text>
-<text class="soft" x="344" y="306">Inside on paper: about</text>
-<text class="soft" x="344" y="328">3.8 in wide, 2.3 in deep.</text>
-<text class="soft" x="344" y="350">Gold line: the opening.</text>
-<text class="soft" x="32" y="394">Sizes at 16 sc and 20 rows to 4 in. Swatch to confirm.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 652" role="img">
+<title>Black cat wallet: closed size on paper</title>
+<desc>Outside about 4.0 by 2.4 inches at the example gauge, ears extra. Inside about 3.8 by 2.3. Not a measured sample.</desc>
+<rect width="480" height="652" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="16" y="36" font-size="22" fill="#2f2a26">Outside, from the example gauge:</text>
+<text x="16" y="68" font-size="22" fill="#2f2a26">about 4.0 in wide and 2.4 in tall.</text>
+<text x="16" y="132" font-size="22" fill="#2f2a26">The ears stand above that, on the</text>
+<text x="16" y="164" font-size="22" fill="#2f2a26">fold.</text>
+<text x="16" y="228" font-size="22" fill="#2f2a26">Inside on paper: about 3.8 in wide</text>
+<text x="16" y="260" font-size="22" fill="#2f2a26">and 2.3 in deep.</text>
+<text x="16" y="324" font-size="22" fill="#2f2a26">An ID-1 card is 3.37 by 2.125 in.</text>
+<text x="16" y="388" font-size="22" fill="#2f2a26">Slip the card in at round 10, before</text>
+<text x="16" y="420" font-size="22" fill="#2f2a26">the flap.</text>
+<text x="16" y="484" font-size="22" fill="#2f2a26">The closure is a snap, not a zipper.</text>
+<text x="16" y="548" font-size="22" fill="#2f2a26">These inches are calculations. They</text>
+<text x="16" y="580" font-size="22" fill="#2f2a26">are not measurements from a finished</text>
+<text x="16" y="612" font-size="22" fill="#2f2a26">wallet.</text>
+</g>
 </svg>
