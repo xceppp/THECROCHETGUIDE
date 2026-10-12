@@ -17,7 +17,7 @@ glance:
 
 A Halloween wallet is a quick project, a good gift, and a reason to use up the scraps of black, orange, and purple you bought last October. The trouble with most "wallet" patterns is that nobody checked whether a card goes in. These five were sized on paper against a standard bank card, and each one uses a different construction, so making all five teaches you five techniques rather than one rectangle five times.
 
-![Five Halloween crochet wallets: a black cat, a ghost, a jack-o'-lantern, a witch hat, and a spiderweb](../../assets/articles/halloween-crochet-wallets-thumb.png "Illustration.")
+![Five Halloween crochet coin purses: a black cat, a ghost, a jack-o'-lantern, a spiderweb, and a witch hat](../../assets/articles/halloween-crochet-wallets-thumb.png)
 
 All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single-crochet swatch checks the gauge the cat, ghost, witch hat, and spiderweb assume. It does not prove a card will fit, and it does not measure the pumpkin, which is worked in the back loop only. Each pattern names the row where you slide a real card in.
 
@@ -34,7 +34,7 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 **[Ghost crochet wallet](/ghost-crochet-wallet/).** Intermediate. Two shaped panels, a soft embroidered face with pink cheeks, and one edging round that joins the layers and scallops the hem. The snap hides inside.
 
-![A cream crochet ghost wallet with a zipper, black eyes, and an orange heart button](../../assets/articles/ghost-crochet-wallet-thumb.png "Illustration.")
+![A cream crochet ghost pouch with a zipper, black eyes, and pink cheeks](../../assets/articles/ghost-crochet-wallet-thumb.png)
 
 **[Pumpkin crochet wallet](/pumpkin-crochet-wallet/).** Beginner. One sideways piece in back-loop ribs, folded and seamed, with a jack-o'-lantern face, a rolled stem, and a green leaf tab that snaps shut.
 
@@ -42,13 +42,13 @@ All five are written for worsted yarn and a US G/6 (4.0 mm) hook. A plain single
 
 **[Witch hat crochet wallet](/witch-hat-crochet-wallet/).** Intermediate. One purple rectangle with a worked buttonhole, an inner divider for two pockets, and a black and orange hat appliqué.
 
-![A purple and black crochet wallet with a witch hat, stars, and a moon on the flap](../../assets/articles/witch-hat-crochet-wallet-thumb.png "Illustration.")
+![A black crochet witch-hat pouch with a purple band, an orange buckle, and a zipper](../../assets/articles/witch-hat-crochet-wallet-thumb.png)
 
 **[Spiderweb crochet wallet](/spiderweb-crochet-wallet/).** Intermediate. A black wallet with a pointed flap, a backstitched white web, a tiny purple spider, and a button loop.
 
-![A black crochet wallet with a white spiderweb on the flap and a small spider charm](../../assets/articles/spiderweb-crochet-wallet-thumb.png "Illustration.")
+![A black crochet wallet with a white spiderweb, a small spider, and a side button](../../assets/articles/spiderweb-crochet-wallet-thumb.png)
 
-All five pictures are illustrations of the intended look. None is a photograph of a wallet made from these patterns. The diagrams further down are the counted construction.
+The diagrams further down are the counted construction.
 
 ## How they compare
 

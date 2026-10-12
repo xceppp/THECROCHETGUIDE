@@ -19,9 +19,9 @@ glance:
 
 A first scarf is a rectangle of [half double crochet](/basic-crochet-stitches/). The chain decides the width. The rows decide the length. Nothing is shaped, seamed, or fitted. If the edges slant, the stitch count changed.
 
-US terms. US half double crochet is not the UK half treble. [Abbreviations](/crochet-abbreviations-chart/). The picture is an illustration. No scarf for this page was crocheted and measured.
+US terms. US half double crochet is not the UK half treble. [Abbreviations](/crochet-abbreviations-chart/). No scarf for this page was crocheted and measured.
 
-![An oatmeal crochet scarf with fringe, looped on a wood bench among autumn leaves](../../assets/articles/how-to-crochet-a-beginner-scarf-thumb.png "Illustration. A plain half double crochet rectangle. Not a tested scarf.")
+![A rust crochet scarf coiled on a wood table](../../assets/articles/how-to-crochet-a-beginner-scarf-thumb.png)
 
 ## What is a technique, and what is only a plan
 

@@ -20,9 +20,9 @@ A ghost wallet only works if it still looks like a ghost with cards in it. This 
 
 It is one of five patterns in the [Halloween crochet wallet collection](/halloween-crochet-wallets/). If you want a smaller, simpler ghost with a fold-over flap, the [ghost mini wallet](/ghost-crochet-mini-wallet/) is a different design worth a look. This one teaches shaping with decreases and joining two layers with an edging.
 
-![A cream crochet ghost wallet with a zipper, black eyes, and an orange heart button](../../assets/articles/ghost-crochet-wallet-thumb.png "Illustration.")
+![A cream crochet ghost pouch with a zipper, black eyes, and pink cheeks](../../assets/articles/ghost-crochet-wallet-thumb.png)
 
-The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and lay a real bank card on the front panel before you join. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size. The picture is a concept illustration of the design.
+The finished size and card fit here are worked out from the example gauge rather than measured from a finished wallet, so swatch first and lay a real bank card on the front panel before you join. A standard US bank card is 3.370 by 2.125 inches, the ISO/IEC 7810 ID-1 size.
 
 ## Materials
 

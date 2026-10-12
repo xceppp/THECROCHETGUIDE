@@ -18,7 +18,9 @@ glance:
 
 A drawstring bag is the same four pieces every time, whatever you are putting in it: a flat round base, a straight tube, one row of holes, and a cord. Learn it once at coin-pouch size and you can work it at candy-bag size, add a pumpkin belly, or swap a thin cord for a thick one, without a new pattern. This page teaches the method and then shows three worked sizes so you can see the choices.
 
-US terms throughout. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart/) if a term is new. The pictures are illustrations, and the inch figures are worked out from an example gauge, not from a finished bag, so swatch first and drop the real contents in before you fix the cord length.
+US terms throughout. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart/) if a term is new. The inch figures are worked out from an example gauge, not from a finished bag, so swatch first and drop the real contents in before you fix the cord length.
+
+![A sage crochet drawstring bag with wooden beads on the cords](../../assets/articles/how-to-crochet-a-drawstring-bag-thumb.png)
 
 If your opening gathers shut, this is your page. If instead you want a flat pouch that folds and seams with a drawstring across a straight top, that is the [makeup pouch](/how-to-crochet-a-makeup-pouch/). If you want a zipper rather than a cord, that is the [pumpkin zipper pouch](/how-to-crochet-a-pumpkin-zipper-pouch/).
 

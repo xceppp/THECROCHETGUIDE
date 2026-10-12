@@ -15,11 +15,11 @@ The useful Christmas question is not "what can I invent in December." It is whic
 
 <div class="warning">
 
-This is a guide to existing tutorials rather than a new pattern, and the picture is an illustration of the kind of projects those pages describe. Pick the project you can finish, not the one with the newest date.
+This is a guide to existing tutorials rather than a new pattern. Pick the project you can finish, not the one with the newest date.
 
 </div>
 
-![A table of crochet holiday gifts: a green scarf, a tree, a snowflake, a reindeer, hearts, a mug cozy, and a gift pocket](../../assets/articles/crochet-christmas-gift-ideas-thumb.png "Illustration. Follow the linked tutorials for the instructions.")
+![Crochet holiday gifts: a holly ornament, a red mug cozy with a tree, a gingerbread keychain, and a green snowflake pouch](../../assets/articles/crochet-christmas-gift-ideas-thumb.png)
 
 ## If you have one evening
 

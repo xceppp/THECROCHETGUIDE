@@ -18,9 +18,9 @@ glance:
 
 A strap is what turns a crochet sleeve into a bag you can wear. The body is the easy part — it is a folded rectangle, the same construction as any flat sleeve. The strap is where bags fail: sewn through one stitch it tears out, and made to the length that looked right on the table it hangs too low once the bag is full, because cotton stretches under weight and does not spring back. This page covers both the shoulder length and the crossbody length, how to attach a strap so it holds, and how to set its length after it has carried a load.
 
-US terms throughout. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart/) if a term is new. The pictures are illustrations, and the sizes are worked out from an example gauge rather than from a finished, worn bag, so swatch, and wear it loaded before you fix the strap.
+US terms throughout. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart/) if a term is new. The sizes are worked out from an example gauge rather than from a finished, worn bag, so swatch, and wear it loaded before you fix the strap.
 
-![A small cotton bag with a short shoulder strap](../../assets/articles/how-to-crochet-a-mini-shoulder-bag-result.jpg "Illustration. A small folded-rectangle bag with a short strap.")
+![A dusty rose crochet shoulder bag with a long strap](../../assets/articles/how-to-crochet-a-strap-bag-thumb.png)
 
 ## The body: a folded rectangle, sized to what you carry
 

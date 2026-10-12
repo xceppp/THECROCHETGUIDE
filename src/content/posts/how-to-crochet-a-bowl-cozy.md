@@ -21,7 +21,7 @@ A bowl cozy is a cotton square made of two layers, with the four corners sewn so
 
 US terms. US single crochet is UK double crochet. [Abbreviations](/crochet-abbreviations-chart/). The pictures are illustrations. No cozy for this page was crocheted, fitted on a bowl, or held against heat. The 12 inch square below is arithmetic for one example bowl. It is not a size to copy onto a different bowl.
 
-![A cream crochet bowl cozy with orange, rust, and green flowers around a bowl of soup](../../assets/articles/how-to-crochet-a-bowl-cozy-thumb.png "Illustration. Two cotton layers with the corners pinched. Not heat-tested.")
+![A pink and cream crochet bowl cozy with side handles around a white bowl](../../assets/articles/how-to-crochet-a-bowl-cozy-thumb.png)
 
 <div class="warning">
 

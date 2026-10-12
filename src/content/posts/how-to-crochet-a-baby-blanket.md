@@ -19,9 +19,9 @@ glance:
 
 A baby blanket on this page is a rectangle of [half double crochet](/basic-crochet-stitches/), the same stitch as the [beginner scarf](/how-to-crochet-a-beginner-scarf/). The scarf can be an inch off and still be a scarf. A blanket planned at 30 inches can come out a different size after it is washed. The other rule is what you leave off the surface.
 
-US terms. The chain-2 does not count. [Abbreviations](/crochet-abbreviations-chart/). The picture is an illustration. No blanket for this page was crocheted, washed, or measured.
+US terms. The chain-2 does not count. [Abbreviations](/crochet-abbreviations-chart/). No blanket for this page was crocheted, washed, or measured.
 
-![A folded crochet baby blanket with cream, sage, blush, and blue stripes and a scalloped edge](../../assets/articles/how-to-crochet-a-baby-blanket-thumb.png "Illustration. Not a tested blanket.")
+![A folded cream, blush, and blue crochet blanket with a scalloped edge](../../assets/articles/how-to-crochet-a-baby-blanket-thumb.png)
 
 <div class="warning">
 

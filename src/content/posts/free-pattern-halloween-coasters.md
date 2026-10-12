@@ -28,7 +28,7 @@ glance:
 
 <div class="warning">
 
-The sizes here come from gauge rather than a finished sample, so set your mug on the disc before you fasten off. The picture is an illustration.
+The sizes here come from gauge rather than a finished sample, so set your mug on the disc before you fasten off.
 
 </div>
 
@@ -36,7 +36,7 @@ A coaster has one job: lie flat under a mug. The pumpkin coaster on this page is
 
 US terms. US single crochet is UK double crochet. US double crochet is UK treble. [Abbreviations](/crochet-abbreviations-chart/).
 
-![An orange crochet pumpkin coaster beside a black, orange, and cream granny square](../../assets/articles/free-pattern-halloween-coasters-thumb.png "Illustration. The drawn stem stands up and is thicker than the slip-stitch chain this page makes.")
+![Four Halloween crochet coasters: a spiderweb, a ghost, a jack-o'-lantern, and a black cat square](../../assets/articles/free-pattern-halloween-coasters-thumb.png)
 
 ## What is a technique, and what is only a plan
 

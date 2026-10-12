@@ -18,7 +18,9 @@ glance:
 
 Almost every "crochet case" pattern hands you one stitch count and hopes your phone, your earbuds, or your paperback happens to match it. They rarely do. This guide works the other way round: you measure your device, pick the construction that suits its shape, and size the piece from your own gauge. Two constructions cover nearly everything small enough to carry.
 
-US terms throughout. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart/) if a term is new. The pictures here are illustrations, and the sizes are worked out from an example gauge rather than from a finished sample, so swatch first and slide your device in before you sew anything shut. None of these counts is a promise about your yarn.
+US terms throughout. US single crochet is UK double crochet. See the [abbreviations chart](/crochet-abbreviations-chart/) if a term is new. The sizes are worked out from an example gauge rather than from a finished sample, so swatch first and slide your device in before you sew anything shut. None of these counts is a promise about your yarn.
+
+![A beige crochet flap sleeve closed with a wood button](../../assets/articles/how-to-crochet-a-device-case-thumb.png)
 
 ## Which construction does your device need
 
@@ -46,8 +48,6 @@ A quick note on yarn: smooth worsted cotton is the easiest choice here. It is fi
 ## Method 1: a folded sleeve for flat devices
 
 A flat sleeve is a single rectangle, folded in half, seamed up both sides, open at the top. The stitch count sets the width of the opening. The row count, folded in half, sets how deep the device sits. The fold becomes the bottom.
-
-![A closed laptop part way into a soft crochet sleeve](../../assets/articles/how-to-crochet-a-laptop-sleeve-result.jpg "Illustration. A soft sleeve around a closed laptop, not drop protection.")
 
 ### Measure the device, then add its thickness to the width
 
