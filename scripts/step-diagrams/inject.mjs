@@ -4,7 +4,7 @@
 // `after` is a literal string that starts the paragraph or heading the figure
 // goes after. Alt text is the SVG's own <desc>, so it always describes what
 // is drawn. A placement whose diagram is already in the article is skipped.
-import { readFileSync, writeFileSync, readdirSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync, readdirSync } from "node:fs";
 
 const placements = [];
 for (const file of readdirSync(new URL(".", import.meta.url)).filter((f) => /^articles-.*\.mjs$/.test(f))) {
@@ -19,6 +19,10 @@ let added = 0;
 const problems = [];
 for (const p of placements) {
   const path = `src/content/posts/${p.slug}.md`;
+  if (!existsSync(path)) {
+    problems.push(`${p.slug}: post file missing, skipped ${p.file}`);
+    continue;
+  }
   let md = readFileSync(path, "utf8");
   if (md.includes(`/diagrams/${p.file}"`)) continue;
   const svg = readFileSync(`public/diagrams/${p.file}`, "utf8");

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 244" role="img">
+<title>Spiderweb wallet: the pointed flap</title>
+<desc>Rows 27 to 34 each lose one stitch at both ends: 15, 13, 11, 9, 7, 5, 3, then 1.</desc>
+<rect width="480" height="244" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Spiderweb wallet: the pointed flap</text>
+<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Decrease at both ends</text>
+<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">An even count means one end was missed.</text>
+<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Row 34 is 3 together</text>
+<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">One stitch is left for the loop.</text>
+</svg>

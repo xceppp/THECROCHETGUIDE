@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 322" role="img">
+<title>Ghost wallet: the front panel</title>
+<desc>The front is 17 stitches by 14 rows. Its top edge is the pocket opening and stays unworked.</desc>
+<rect width="480" height="322" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Ghost wallet: the front panel</text>
+<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Same chain as the back</text>
+<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">18 chains, 17 single crochet.</text>
+<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Stop at row 14</text>
+<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">Do not add a 15th row.</text>
+<rect x="16" y="228" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="32" y="256" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Eight back rows show above it</text>
+<text x="32" y="282" font-size="20" fill="#6d635a" text-anchor="start">Rows 15 to 22 stay uncovered.</text>
+</svg>

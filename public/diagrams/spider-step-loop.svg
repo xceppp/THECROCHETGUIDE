@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 244" role="img">
+<title>Spiderweb wallet: the chain loop</title>
+<desc>Chain from the point and slip stitch back into the same stitch. The button should pass with a little push.</desc>
+<rect width="480" height="244" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="16" y="40" font-size="24" fill="#2f2a26" text-anchor="start" font-weight="bold">Spiderweb wallet: the chain loop</text>
+<rect x="16" y="72" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="32" y="100" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Start with 8 chains</text>
+<text x="32" y="126" font-size="20" fill="#6d635a" text-anchor="start">Slip stitch into the point stitch.</text>
+<rect x="16" y="150" width="448" height="66" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="32" y="178" font-size="22" fill="#2f2a26" text-anchor="start" font-weight="bold">Test the real button</text>
+<text x="32" y="204" font-size="20" fill="#6d635a" text-anchor="start">Use 7 to 10 chains, then fasten off.</text>
+</svg>
