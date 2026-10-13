@@ -144,11 +144,7 @@ const themeColor =
       (function () {
         try {
           var stored = localStorage.getItem("tcg-theme");
-          var prefersDark = window.matchMedia(
-            "(prefers-color-scheme: dark)",
-          ).matches;
-          var dark =
-            stored === "dark" || (stored !== "light" && prefersDark);
+          var dark = stored === "dark";
           if (dark) document.documentElement.classList.add("dark");
           document.documentElement.dataset.theme = dark ? "dark" : "light";
         } catch (_) {}

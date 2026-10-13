@@ -23,101 +23,30 @@ const stages = await getPathStages();
 const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
 
 /**
- * Which set of projects the home page leads with is driven by an explicit
- * editorial calendar, deliberately independent of the site's seasonal skin:
- * the featured picks can switch over without recoloring the whole site.
- *
- *   Christmas picks:  Nov 1  – Dec 25
- *   Evergreen:        the rest of the year
- *
- * The date is read in the site's editorial timezone (US Eastern) so the
- * switch happens on the same calendar day for the US audience regardless of
- * where the build runs.
+ * Fixed homepage cards. These are the projects that were on the home page
+ * before the theme change. Do not swap them for the date or for newer posts.
  */
-const EDITORIAL_TZ = "America/New_York";
-
-function editorialMonthDay(now = new Date()): number {
-  const parts = new Intl.DateTimeFormat("en-US", {
-    timeZone: EDITORIAL_TZ,
-    month: "2-digit",
-    day: "2-digit",
-  }).formatToParts(now);
-  const month = Number(parts.find((p) => p.type === "month")?.value ?? "0");
-  const day = Number(parts.find((p) => p.type === "day")?.value ?? "0");
-  return month * 100 + day;
-}
-
-function featuredSeasonTag(now = new Date()): "halloween" | "christmas" | null {
-  const md = editorialMonthDay(now);
-  if (md >= 1101 && md <= 1225) return "christmas";
-  return null;
-}
-
-const seasonTag = featuredSeasonTag();
-
-/**
- * Hand-picked seasonal line-ups so the featured grid reads as a varied
- * editorial selection (an amigurumi, a wallet, a motif…) rather than six
- * near-identical cards. Each slug is filtered to ones that actually have a
- * cover image, and evergreen projects fill any gap.
- */
-const seasonalSlugs: Record<"halloween" | "christmas", string[]> = {
-  halloween: [
-    "halloween-crochet-wallets",
-    "black-cat-crochet-wallet",
-    "ghost-crochet-wallet",
-    "pumpkin-crochet-wallet",
-    "spiderweb-crochet-wallet",
-    "witch-hat-crochet-wallet",
-  ],
-  christmas: [
-    "how-to-crochet-a-snowflake",
-    "how-to-crochet-a-christmas-tree",
-    "how-to-crochet-a-gnome",
-    "crochet-santa-amigurumi-for-beginners",
-    "easy-crochet-christmas-ornaments",
-    "how-to-crochet-a-christmas-gift-card-holder",
-  ],
-};
-
-const seasonalFeatured = seasonTag
-  ? seasonalSlugs[seasonTag].map(withThumb).filter((post) => post != null)
-  : [];
-
-const evergreenSlugs = [
-  "how-to-crochet-a-beginner-scarf",
-  "crochet-mug-cozy-for-beginners",
-  "how-to-crochet-a-device-case",
-  "how-to-crochet-a-phone-case",
-  "how-to-crochet-a-wine-bottle-bag",
-  "how-to-crochet-a-simple-flower",
-];
-const evergreenFeatured = evergreenSlugs
+const featured = [
+  "halloween-crochet-wallets",
+  "black-cat-crochet-wallet",
+  "ghost-crochet-wallet",
+  "pumpkin-crochet-wallet",
+  "spiderweb-crochet-wallet",
+  "witch-hat-crochet-wallet",
+]
   .map(withThumb)
   .filter((post) => post != null);
 
-const featured = [...seasonalFeatured, ...evergreenFeatured]
-  .filter(
-    (post, index, list) => list.findIndex((p) => p.id === post.id) === index,
-  )
-  .slice(0, 6);
-
-const featuredHeading =
-  seasonalFeatured.length > 0 && seasonTag === "halloween"
-    ? "Halloween projects to make"
-    : seasonalFeatured.length > 0 && seasonTag === "christmas"
-      ? "Christmas projects to make"
-      : "Projects worth making";
-
-/**
- * Newest six — but never repeat a card that is already in the featured grid,
- * so the two sections stay distinct. With 69 articles there is always a next
- * newest to promote in its place.
- */
-const featuredIds = new Set(featured.map((post) => post.id));
-const latest = posts
-  .filter((post) => !featuredIds.has(post.id))
-  .slice(0, 6);
+const latest = [
+  "how-to-crochet-a-lipstick-holder",
+  "how-to-crochet-a-strap-bag",
+  "how-to-crochet-a-drawstring-bag",
+  "how-to-crochet-a-device-case",
+  "halloween-crochet-airpods-case",
+  "crochet-christmas-gift-ideas",
+]
+  .map(withThumb)
+  .filter((post) => post != null);
 
 /** Interactive helpers plus the printable reference charts, in one place. */
 const tools = [
@@ -188,7 +117,7 @@ const tools = [
         <div class="mx-auto max-w-5xl px-6 py-12 sm:px-8 sm:py-16">
           <div class="flex flex-wrap items-baseline justify-between gap-2">
             <h2 class="font-serif text-2xl tracking-tight sm:text-3xl">
-              {featuredHeading}
+              Projects worth making
             </h2>
             <a
               href="/free-patterns/"

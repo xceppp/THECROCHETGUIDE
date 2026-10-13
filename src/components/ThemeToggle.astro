@@ -82,16 +82,4 @@
   });
 
   syncUi();
-
-  try {
-    window
-      .matchMedia("(prefers-color-scheme: dark)")
-      .addEventListener("change", (event) => {
-        const stored = localStorage.getItem(STORAGE_KEY);
-        if (stored === "light" || stored === "dark") return;
-        setDark(event.matches);
-      });
-  } catch {
-    /* ignore */
-  }
 </script>

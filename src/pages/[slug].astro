@@ -11,6 +11,8 @@ import { SITE, CATEGORIES } from "../config";
 import StructuredData from "../components/StructuredData.astro";
 import StitchChart from "../components/StitchChart.astro";
 import StageChecklist from "../components/StageChecklist.astro";
+import { Image } from "astro:assets";
+import { getPostThumbnail } from "../lib/postThumbnails";
 
 export async function getStaticPaths() {
   const posts = await getCollection("posts", ({ data }) => !data.draft);
@@ -99,6 +101,7 @@ const showGlance =
 const grannyChart =
   post.id === "halloween-granny-square-variations" ||
   post.id === "christmas-granny-square-variations";
+const thumb = getPostThumbnail(post.id);
 ---
 
 <BaseLayout
@@ -212,6 +215,19 @@ const grannyChart =
         }
       </div>
     </header>
+
+    {
+      thumb && (
+        <Image
+          src={thumb}
+          alt={post.data.title}
+          widths={[480, 720, 960]}
+          sizes="(min-width: 720px) 720px, 100vw"
+          class="no-print mt-6 aspect-[3/2] w-full rounded-lg border border-rule object-cover"
+          loading="eager"
+        />
+      )
+    }
 
     {
       post.data.videoUrl && (
