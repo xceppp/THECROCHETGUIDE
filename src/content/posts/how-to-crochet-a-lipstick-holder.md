@@ -137,6 +137,8 @@ The strap is a separate strip. It is not part of the pocket. The height of the t
 <figcaption>Diagram. The chain that secures the ring is not a stitch.</figcaption>
 </figure>
 
+![Hands starting a dusty-rose magic ring](../../assets/articles/lipstick-step-1.jpg "Illustration. The hook goes into the loop before the six single crochet of round 1.")
+
 A magic ring is an adjustable loop. You crochet into it, then pull the tail to close the hole. A lipstick base wants that hole closed.
 
 1. Wrap the yarn into a loop.
@@ -156,6 +158,8 @@ If you would rather not use a magic ring, chain 2 and work the six single croche
 <figcaption>Diagram. Round 1 is six stitches. The starting chain is not one of them.</figcaption>
 </figure>
 
+![A small dusty-rose crochet disc with a stitch marker](../../assets/articles/lipstick-step-2.jpg "Illustration. Round 1 closes into a small disc. The marker sits in the first stitch.")
+
 **Round 1:** 6 sc into the magic ring. (6 sts)
 
 Insert the hook into the ring, yarn over, pull up a loop, yarn over, pull through both loops. That is one single crochet. Do it six times.
@@ -172,6 +176,8 @@ The chain from step 1 is the mistake that throws the next rounds off. It is not 
 <img src="/diagrams/lipstick-step-r2.svg" alt="Round 2 puts two single crochet in every stitch, so six stitches become twelve." width="480" height="280" loading="lazy" decoding="async" />
 <figcaption>Diagram. Two stitches in each of the six. The count is 12.</figcaption>
 </figure>
+
+![A flat dusty-rose circle still on the hook](../../assets/articles/lipstick-step-3.jpg "Illustration. The base stays flat while the increases take it from 6 stitches to 12.")
 
 **Round 2:** 2 sc in each stitch around. (12 sts)
 
@@ -219,6 +225,8 @@ Decide from the fabric on the table, not from a number that sounded typical.
 <figcaption>Diagram. Back loop only for one round. The count does not change.</figcaption>
 </figure>
 
+![A dusty-rose crochet cup with the edge turned up](../../assets/articles/lipstick-step-5.jpg "Illustration. One back-loop round turns the edge up. The stitch count stays the same.")
+
 The next round is the corner between the floor and the wall.
 
 **Round 4:** 1 sc in the back loop only of each stitch around. (18 sts)
@@ -265,6 +273,8 @@ Do not stuff the holder. The lipstick is what fills it. Stuffing, and stray tail
 <figcaption>Diagram. Cover enough to support the tube. Leave the cap where your fingers can reach it.</figcaption>
 </figure>
 
+![A closed lipstick standing in a short dusty-rose crochet sleeve](../../assets/articles/lipstick-step-7.jpg "Illustration. The cap stays above the opening so you can pinch it out.")
+
 At round 20, put the closed lipstick in. Look at how much cap is still above the opening.
 
 If the sleeve is short, keep going:
@@ -282,6 +292,8 @@ The base is crochet, not a rigid cup. Soft yarn will flex. You want the tube sup
 <figcaption>Diagram. If you slip stitch the rim, keep those stitches loose.</figcaption>
 </figure>
 
+![Looking down into the open top of the dusty-rose sleeve](../../assets/articles/lipstick-step-8.jpg "Illustration. The opening stays a full circle. A tight slip-stitch round would shrink it.")
+
 You can fasten off after the last single crochet round. That is a clean edge.
 
 A slip-stitch round is optional. Slip stitch loosely in each stitch around the opening. Tight slip stitches shrink the mouth, and the lipstick then fights you on the way out. If that happens, pull the slip-stitch round out and fasten off from the single crochet instead.
@@ -296,6 +308,8 @@ Skip a scalloped border on a piece this small. Scallops crowd the opening and fi
 <img src="/diagrams/lipstick-step-strap.svg" alt="The strap is a narrow strip, five single crochet wide." width="480" height="280" loading="lazy" decoding="async" />
 <figcaption>Diagram. Chain 6 gives five single crochet. The turning chain is not a stitch.</figcaption>
 </figure>
+
+![A narrow dusty-rose crochet strip](../../assets/articles/lipstick-step-9.jpg "Illustration. The strap is a separate strip, five stitches wide, before it is folded.")
 
 The strap is a separate strip, folded, with the hardware in the fold. A single chain loop puts the whole lipstick on one strand. The strip spreads the sewing across several stitches of the sleeve.
 
@@ -357,6 +371,8 @@ If the flower swamps the sleeve, make it in a thinner yarn or a smaller hook, or
 
 ## Step 12: Weave the ends
 
+![A needle weaving a yarn tail into the sleeve](../../assets/articles/lipstick-step-12.jpg "Illustration. Weave each tail through the stitches. Do not leave it inside the pocket.")
+
 A small piece shows every tail, and a piece that lives in a bag rubs those tails loose.
 
 Weave each tail through several stitches. Do not pile every tail in one spot inside the sleeve, or the lipstick will snag. Spread them.
@@ -374,6 +390,8 @@ Lift each petal. If one is only caught by a single loose loop, add a stitch.
 <figcaption>Diagram. Cap on. The sleeve is a cover, not a second lid.</figcaption>
 </figure>
 
+![A hand lowering a closed lipstick into the finished holder](../../assets/articles/lipstick-step-13.jpg "Illustration. The cap stays on. The sleeve is a cover, not a second lid.")
+
 Slide the closed lipstick in. Do not force it. You want it to move, and you want a little grip so it is not obviously loose.
 
 Hang it from the clasp over a soft surface. Take the lipstick out and put it back a few times.
@@ -381,6 +399,30 @@ Hang it from the clasp over a soft surface. Take the lipstick out and put it bac
 Look for: a fit you can live with, a cap you can pinch, an opening that stays roughly round, a strap that does not open, a flower that stays on, and no tails sticking into the pocket.
 
 The sleeve is not a sealed case. Heat can spoil the lipstick whether or not it is in yarn. If a tube leaks, take it out. Makeup pigment does not always leave cotton.
+
+## The finished holder
+
+When the sewing is done, you should be able to name every part without turning the piece over twice.
+
+The body is one open cup. The top is a round mouth, the same stitch count as the last body round, with nothing stuffed inside. The flower, if you added one, sits on the front wall below that mouth. It does not cover the opening, and it has five petals.
+
+The strap is on the outside, near the top. The ring or clasp sits in the fold. Both ends of the strip are sewn to the sleeve, so the hardware is not a loose ring sitting beside the cup and not a single chain loop.
+
+Hung from the ring, the opening stays up and the base stays down. That is the point of sewing the strap at the top rather than at the bottom.
+
+These drawings show that arrangement. They are illustrations of the shape, not photographs of a finished sample.
+
+![The finished lipstick holder from the front, with a flower and a ring](../../assets/articles/lipstick-result-front.jpg "Illustration. Flower on the front, below the opening. The ring is in a short strap at the side.")
+
+![The open top of the holder, with the flower below the rim](../../assets/articles/lipstick-result-opening.jpg "Illustration. The mouth stays open. The flower is on the wall, not across the opening.")
+
+![The holder hanging from the ring, opening upward](../../assets/articles/lipstick-result-hang2.jpg "Illustration. The strap is at the top, so the sleeve hangs with the opening up.")
+
+![The strap sewn on the side of the sleeve](../../assets/articles/lipstick-result-side.jpg "Illustration. The folded strip is sewn on the outside. The ring sits in the fold.")
+
+![Five cream petals sewn on the pink sleeve](../../assets/articles/lipstick-result-flower.jpg "Illustration. Five petals. The flower is sewn on, and the opening is left clear.")
+
+If your piece does not match this layout, fix the placement before you weave the last tail. A flower across the mouth, a strap at the base, or a ring that can slip out of the fold will show up the first time you hang it.
 
 ## Quick pattern
 
