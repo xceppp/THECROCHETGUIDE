@@ -130,7 +130,7 @@ export const NAV = [
  * - occasion id (e.g. `"halloween"`, `"christmas"`) → force that occasion
  *   for local preview before its window opens
  */
-export const OCCASION_THEME_FORCE: string | false | null = null;
+export const OCCASION_THEME_FORCE: string | false | null = false;
 
 /**
  * The guided route through the site, in teaching order.

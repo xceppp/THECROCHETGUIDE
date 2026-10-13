@@ -27,7 +27,6 @@ const totalSteps = stages.reduce((sum, stage) => sum + stage.steps.length, 0);
  * editorial calendar, deliberately independent of the site's seasonal skin:
  * the featured picks can switch over without recoloring the whole site.
  *
- *   Halloween picks:  Sep 15 – Oct 31
  *   Christmas picks:  Nov 1  – Dec 25
  *   Evergreen:        the rest of the year
  *
@@ -50,7 +49,6 @@ function editorialMonthDay(now = new Date()): number {
 
 function featuredSeasonTag(now = new Date()): "halloween" | "christmas" | null {
   const md = editorialMonthDay(now);
-  if (md >= 915 && md <= 1031) return "halloween";
   if (md >= 1101 && md <= 1225) return "christmas";
   return null;
 }

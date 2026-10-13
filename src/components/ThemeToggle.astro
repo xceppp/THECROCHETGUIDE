@@ -48,9 +48,8 @@
   const isDark = () => document.documentElement.classList.contains("dark");
 
   const themeColor = () => {
-    if (isDark()) return "#1c1917";
-    if (document.body.classList.contains("theme-halloween")) return "#d9731f";
-    return "#fdfaf6";
+    if (isDark()) return "#000000";
+    return "#ffffff";
   };
 
   const syncUi = () => {

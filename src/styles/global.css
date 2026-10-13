@@ -8,8 +8,8 @@
    Chosen to read like a well-made craft book rather than a tech blog.
    -------------------------------------------------------------------------- */
 @theme {
-  --color-paper: #fdfaf6;
-  --color-paper-deep: #f6efe6;
+  --color-paper: #ffffff;
+  --color-paper-deep: #f5f5f5;
   --color-ink: #2f2a26;
   --color-ink-soft: #6d635a;
   --color-ink-faint: #9a9088;
@@ -46,20 +46,20 @@ body {
 }
 
 /* --------------------------------------------------------------------------
-   Dark mode. Warm charcoal paper, light ink — still a craft book, not a
-   tech dashboard. Class is set on <html> before paint (see BaseLayout).
+   Dark mode. Black background, white ink. Class is set on <html> before
+   paint (see BaseLayout).
    -------------------------------------------------------------------------- */
 html.dark {
   color-scheme: dark;
-  --color-paper: #1c1917;
-  --color-paper-deep: #141211;
-  --color-ink: #f0e8df;
-  --color-ink-soft: #b5a99c;
-  --color-ink-faint: #8a7f74;
+  --color-paper: #000000;
+  --color-paper-deep: #111111;
+  --color-ink: #ffffff;
+  --color-ink-soft: #d4d4d4;
+  --color-ink-faint: #a3a3a3;
   --color-terracotta: #d4846a;
   --color-terracotta-deep: #e09a84;
   --color-sage: #8fa083;
-  --color-rule: #3a342e;
+  --color-rule: #2a2a2a;
 }
 
 html.dark .hero-cover-image {
@@ -564,8 +564,8 @@ html.dark .prose img {
   /* Print always uses the light craft-book palette, even if the screen is dark. */
   html.dark {
     color-scheme: light;
-    --color-paper: #fdfaf6;
-    --color-paper-deep: #f6efe6;
+    --color-paper: #ffffff;
+    --color-paper-deep: #f5f5f5;
     --color-ink: #2f2a26;
     --color-ink-soft: #6d635a;
     --color-ink-faint: #9a9088;
