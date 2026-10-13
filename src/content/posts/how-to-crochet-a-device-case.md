@@ -48,6 +48,8 @@ A quick note on yarn: smooth worsted cotton is the easiest choice here. It is fi
 
 ## Method 1: a folded sleeve for flat devices
 
+![A flat device gets a folded rectangle and a flap.](../../assets/articles/device-case-sleeve.jpg "Illustration. A flat device gets a folded rectangle and a flap.")
+
 A flat sleeve is a single rectangle, folded in half, seamed up both sides, open at the top. The stitch count sets the width of the opening. The row count, folded in half, sets how deep the device sits. The fold becomes the bottom.
 
 ### Measure the device, then add its thickness to the width

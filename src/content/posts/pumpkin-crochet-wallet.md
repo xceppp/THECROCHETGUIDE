@@ -109,6 +109,8 @@ Count 20 at the end of every few rows. Back-loop rows are easy to miscount at th
 
 ### Step 3: one stitch per row end on each rim
 
+![One single crochet in each row-end bump along the long edge.](../../assets/articles/pumpkin-step-3.jpg "Illustration. One single crochet in each row-end bump along the long edge.")
+
 <figure class="diagram">
 <img src="/diagrams/pumpkin-step-rims.svg" alt="Each long edge gets one single crochet in each row-end bump. The stitch count matches the row count." width="480" height="322" loading="lazy" decoding="async" />
 <figcaption>Diagram. One single crochet in each row-end bump.</figcaption>
@@ -126,6 +128,8 @@ Count 20 at the end of every few rows. Back-loop rows are easy to miscount at th
 If a rim ripples, two stitches went into one row end. If it puckers, a row end was skipped. Pull that rim out and match the count.
 
 ### Step 4: place the face on the front half only
+
+![The face sits on the front half, before the fold.](../../assets/articles/pumpkin-step-4.jpg "Illustration. The face sits on the front half, before the fold.")
 
 <figure class="diagram">
 <img src="/diagrams/pumpkin-wallet-face.svg" alt="Diagram. A grid of the front half with rows 1 to 22 left to right and stitches 1 to 10 down from the rim. The leaf tab covers rows 10 to 13 on stitches 1 to 5. Triangle eyes span rows 5 to 7 and 16 to 18 on stitches 3 to 5. The nose covers rows 11 and 12 on stitches 6 and 7. A zigzag mouth runs from row 6 to row 17 on stitches 8 and 9." width="480" height="652" loading="lazy" decoding="async" />
@@ -146,6 +150,8 @@ The leaf tab will cover rows 10 to 13 on stitches 1 to 5. Leave that rectangle e
 
 ### Step 5: fold, then seam one short edge at a time
 
+![Fold right side out so the ribs and face stay outside.](../../assets/articles/pumpkin-step-5.jpg "Illustration. Fold right side out so the ribs and face stay outside.")
+
 <figure class="diagram">
 <img src="/diagrams/pumpkin-wallet-fold.svg" alt="Seam the foundation edge and the last-row edge. The two rims meet at the top and stay open. Fold right side out between stitch positions 10 and 11." width="480" height="860" loading="lazy" decoding="async" />
 <figcaption>Diagram. Fold right side out so the ribs and face stay outside.</figcaption>
@@ -158,6 +164,8 @@ The leaf tab will cover rows 10 to 13 on stitches 1 to 5. Leave that rectangle e
 5. Slide a card in. It should lie flat. If it sticks at a seam, loosen those whipstitches.
 
 ### Step 6: the stem, flat first, then rolled
+
+![The stem is a small green strip, rolled into a short cylinder.](../../assets/articles/pumpkin-step-6.jpg "Illustration. The stem is a small green strip, rolled into a short cylinder.")
 
 <figure class="diagram">
 <img src="/diagrams/pumpkin-wallet-stem-tab.svg" alt="A stem of 6 stitches by 3 rows. Roll the six-stitch width so the two three-row edges meet. The three-row direction is the cylinder height. Sew the stem upright on the back rim over the tab base. The tab folds over the opening on its own." width="480" height="1480" loading="lazy" decoding="async" />
@@ -175,6 +183,8 @@ Use green.
 
 ### Step 7: the leaf tab
 
+![The leaf tab is a narrow green strip that ends in a point.](../../assets/articles/pumpkin-step-7.jpg "Illustration. The leaf tab is a narrow green strip that ends in a point.")
+
 <figure class="diagram">
 <img src="/diagrams/pumpkin-step-tab.svg" alt="Chain 4 for 3 stitches, work rows 2 to 6 even, then single crochet three together on row 7." width="480" height="244" loading="lazy" decoding="async" />
 <figcaption>Diagram. Six even rows of 3, then one decrease row.</figcaption>
@@ -188,6 +198,8 @@ Use green.
 At the example gauge the tab is about 0.75 inch wide and 1.4 inches long.
 
 ### Step 8: sew the tab, the snap, then the stem
+
+![The stem stands on the back rim. The tab closes over the opening.](../../assets/articles/pumpkin-step-8.jpg "Illustration. The stem stands on the back rim. The tab closes over the opening.")
 
 <figure class="diagram">
 <img src="/diagrams/pumpkin-step-close.svg" alt="Sew the tab inside the back rim, mark the snap with a card inside, then stand the stem on the tab's base." width="480" height="322" loading="lazy" decoding="async" />

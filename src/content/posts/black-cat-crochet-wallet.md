@@ -91,6 +91,8 @@ Use black.
 
 ### Step 2: twelve rounds, counted every time
 
+![A black pocket of 32 single crochet each round, before the ears or the face.](../../assets/articles/black-cat-step-2.jpg "Illustration. A black pocket of 32 single crochet each round, before the ears or the face.")
+
 <figure class="diagram">
 <img src="/diagrams/cat-step-rounds.svg" alt="Each round is chain 1, 32 single crochet, slip stitch to the first stitch. Do not turn. Test a card at round 10." width="480" height="322" loading="lazy" decoding="async" />
 <figcaption>Diagram. Do not turn. Count 32, and test a card at round 10.</figcaption>
@@ -107,6 +109,8 @@ Do this for round 2, then the same list for rounds 3 through 12. Do not turn.
 At the end of round 10, stop and test. Flatten the tube with the join at one side fold. Slide a card in. It should lie flat with a little room at each side. Too tight: start over on a larger hook. Too loose: a smaller hook. Do not fasten off after round 12.
 
 ### Step 3: mark 16 stitches for the flap
+
+![The flap rises from the back. It is not closed yet.](../../assets/articles/black-cat-step-3.jpg "Illustration. The flap rises from the back. It is not closed yet.")
 
 <figure class="diagram">
 <img src="/diagrams/cat-wallet-flap.svg" alt="Diagram. Side view of the pocket with the flap rising from the back and folding over the front, and a snap on the front. Flap rows as worked: rows 1 to 7 are 16 stitches, row 8 is 14 and row 9 is 12, each with a decrease at both ends." width="480" height="556" loading="lazy" decoding="async" />
@@ -186,6 +190,8 @@ Every stitch goes through the flap only. On the underside, keep the threads shor
 
 ### Step 7: the snap
 
+![Mark the snap with a card inside, then sew the front wall only.](../../assets/articles/black-cat-step-7.jpg "Illustration. Mark the snap with a card inside, then sew the front wall only.")
+
 <figure class="diagram">
 <img src="/diagrams/cat-step-snap.svg" alt="Mark with a card inside. Ball under flap row 8 at its middle. Socket on the front at the mark, through the front only." width="480" height="244" loading="lazy" decoding="async" />
 <figcaption>Diagram. Mark with a card in the pocket, then sew the front wall only.</figcaption>
@@ -199,6 +205,8 @@ Every stitch goes through the flap only. On the underside, keep the threads shor
 6. Open and close the flap a few times before you bury the thread tails.
 
 ### Step 8: tails
+
+![Weave each tail inside the tube, then change direction once.](../../assets/articles/black-cat-step-8.jpg "Illustration. Weave each tail inside the tube, then change direction once.")
 
 <figure class="diagram">
 <img src="/diagrams/cat-step-tails.svg" alt="Run each tail inside the tube along a fold, then change direction once before you cut it." width="480" height="244" loading="lazy" decoding="async" />

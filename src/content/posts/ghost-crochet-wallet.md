@@ -80,6 +80,8 @@ Use cream. The chain you make now is the hem, the wide bottom of the ghost.
 
 ### Step 2: straight rows 2 through 18
 
+![Rows 2 through 18 stay a straight rectangle of 17 single crochet.](../../assets/articles/ghost-step-2.jpg "Illustration. Rows 2 through 18 stay a straight rectangle of 17 single crochet.")
+
 <figure class="diagram">
 <img src="/diagrams/ghost-step-straight-rows.svg" alt="Each straight row is chain 1, turn, 17 single crochet. The chain 1 is not a stitch. Stop at row 18, still a rectangle." width="480" height="322" loading="lazy" decoding="async" />
 <figcaption>Diagram. Chain 1 does not count. Each of these rows is 17 single crochet.</figcaption>
@@ -98,6 +100,8 @@ Do this same short list for row 2. Then do it again for row 3, row 4, and so on,
 After row 18 the panel is still a rectangle. Do not decrease yet.
 
 ### Step 3: narrow the top, one row at a time
+
+![Only the top rows step inward. The hem stays wide.](../../assets/articles/ghost-step-3.jpg "Illustration. Only the top rows step inward. The hem stays wide.")
 
 <figure class="diagram">
 <img src="/diagrams/ghost-step-decreases.svg" alt="Rows 1 to 18 stay 17 stitches wide. Only rows 19 to 22 step inward at the top, ending at 9 stitches. The hem is the wide bottom." width="480" height="560" loading="lazy" decoding="async" />
@@ -118,6 +122,8 @@ Cut the yarn, pull the tail through the loop on the hook, and weave that tail in
 
 ### Step 4: the front panel
 
+![The front is the same width as the back and stops at row 14.](../../assets/articles/ghost-step-4.jpg "Illustration. The front is the same width as the back and stops at row 14.")
+
 <figure class="diagram">
 <img src="/diagrams/ghost-step-front.svg" alt="The front is 17 stitches by 14 rows. Its top edge is the pocket opening and stays unworked." width="480" height="322" loading="lazy" decoding="async" />
 <figcaption>Diagram. Stop at row 14. That top edge is the opening.</figcaption>
@@ -132,6 +138,8 @@ This panel is the pocket. It is the same width as the back and shorter.
 5. Fasten off and weave the tail in.
 
 ### Step 5: check the two panels before you decorate
+
+![Match the hems before any embroidery or snap.](../../assets/articles/ghost-step-5.jpg "Illustration. Match the hems before any embroidery or snap.")
 
 <figure class="diagram">
 <img src="/diagrams/ghost-step-match.svg" alt="Hems together, 17 stitches on both, eight back rows showing above the front. Remake a panel that is a different width." width="480" height="322" loading="lazy" decoding="async" />
@@ -168,6 +176,8 @@ This panel is the pocket. It is the same width as the back and shorter.
 Every stitch goes through the back panel only. On the wrong side, do not tie a knot. Run the tail under the backs of the stitches you just made, then cut it short. That wrong side becomes the outside back of the wallet, so a knot would show.
 
 ### Step 7: sew the snap while the panels are still flat
+
+![Sew the snap while both panels are still flat.](../../assets/articles/ghost-step-7.jpg "Illustration. Sew the snap while both panels are still flat.")
 
 <figure class="diagram">
 <img src="/diagrams/ghost-pocket-orientation.svg" alt="The wide foundation hem is at the bottom. Rows 19 to 22 narrow at the top. The front covers rows 1 to 14. The face sits above the unworked row-14 opening." width="480" height="860" loading="lazy" decoding="async" />
@@ -226,6 +236,8 @@ Join cream at a bottom corner, in hem stitch 1, with the hook going through both
 
 ### Step 10: first side, then stop at the opening
 
+![Seam up the first side and stop at the pocket opening.](../../assets/articles/ghost-step-10.jpg "Illustration. Seam up the first side and stop at the pocket opening.")
+
 <figure class="diagram">
 <img src="/diagrams/ghost-step-first-side.svg" alt="14 single crochet through both layers, then 4 through the back only, then 5 along the slope. Do not cross the front's top." width="480" height="322" loading="lazy" decoding="async" />
 <figcaption>Diagram. Fourteen through both layers, then the back alone.</figcaption>
@@ -240,6 +252,8 @@ Join cream at a bottom corner, in hem stitch 1, with the hook going through both
 
 ### Step 11: the top of the head
 
+![Nine single crochet across the top of row 22.](../../assets/articles/ghost-step-11.jpg "Illustration. Nine single crochet across the top of row 22.")
+
 <figure class="diagram">
 <img src="/diagrams/ghost-step-top.svg" alt="Nine single crochet across row 22. Do not reuse the corner stitch the slope already used." width="480" height="244" loading="lazy" decoding="async" />
 <figcaption>Diagram. Nine stitches across the top of row 22.</figcaption>
@@ -248,6 +262,8 @@ Join cream at a bottom corner, in hem stitch 1, with the hook going through both
 Single crochet in each of the 9 stitches of row 22. Count them. Do not use the corner stitch twice: the last slope stitch already used the side of row 22, and these 9 are the top Vs.
 
 ### Step 12: the way back down
+
+![Mirror the first side, then test the opening with a card.](../../assets/articles/ghost-step-12.jpg "Illustration. Mirror the first side, then test the opening with a card.")
 
 <figure class="diagram">
 <img src="/diagrams/ghost-step-return.svg" alt="Mirror the first side: 5 down the slope, 4 through the back only, 14 through both layers. Then slip stitch to the hem." width="480" height="322" loading="lazy" decoding="async" />

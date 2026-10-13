@@ -25,6 +25,8 @@ US terms throughout. US single crochet is UK double crochet. See the [abbreviati
 
 ## The body: a folded rectangle, sized to what you carry
 
+![The body is a rectangle folded once. The strap is a separate strip.](../../assets/articles/strap-bag-body.jpg "Illustration. The body is a rectangle folded once. The strap is a separate strip.")
+
 ![A folded crochet bag with a wide strap](../../assets/articles/strap-bag-illustration.jpg "Illustration. The strap is a crocheted strip sewn to the bag.")
 
 The body is a single-crochet rectangle folded in half and seamed up the sides, open at the top, with one round worked around the opening to firm it. That full method — measuring the contents, adding the stack's thickness to the width, and keeping the stitch count honest over many rows — is the folded-sleeve method in the [device case guide](/how-to-crochet-a-device-case/). Work the body at the size you need:
@@ -40,6 +42,8 @@ After seaming, join yarn at a side seam and work one round of single crochet aro
 </figure>
 
 ## The strap: a worked strip, never a bare chain
+
+![The strap is several stitches wide, not a single chain.](../../assets/articles/strap-bag-strap.jpg "Illustration. The strap is several stitches wide, not a single chain.")
 
 A strap carries the whole weight of the bag at two small points, so it has to be fabric, not a chain. A bare chain stretches without limit and the bag ends up at your knee. Work a narrow single-crochet strip instead:
 

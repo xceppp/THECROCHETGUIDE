@@ -92,6 +92,8 @@ Work in a spiral without joining, and keep a marker in the first stitch of each 
 
 ### Stage 1: the oval base
 
+![The base is a flat oval. The walls come after this.](../../assets/articles/airpods-stage-1.jpg "Illustration. The base is a flat oval. The walls come after this.")
+
 <figure class="diagram">
 <img src="/diagrams/airpods-oval-corrected.svg" alt="Ten chains with chain one skipped. Three single crochet in each end chain two and ten; seven along each side. Twenty in round one and twenty-six in round two." width="480" height="620" loading="lazy" decoding="async" />
 <figcaption>The exact chain positions and stitch totals for the revised base.</figcaption>
@@ -112,6 +114,8 @@ Work both long sides of the foundation chain and put three stitches in each end 
 
 ### Stage 2: the body
 
+![With no increases, the oval turns up into straight walls.](../../assets/articles/airpods-stage-2.jpg "Illustration. With no increases, the oval turns up into straight walls.")
+
 **Rounds 3–8:** sc in each stitch around. (26 each round)
 
 With no increases, the oval turns up and the walls climb straight. Stand the case in every couple of rounds and stop when the lid seam clears the rim, so the lid stays free to open. Six rounds reach it on the example case; your count is whatever covers your case to its seam.
@@ -122,6 +126,8 @@ With no increases, the oval turns up and the walls climb straight. Stand the cas
 </figure>
 
 ### Stage 3: the flap and buttonhole
+
+![The flap is worked on seven stitches at the back of the rim.](../../assets/articles/airpods-stage-3.jpg "Illustration. The flap is worked on seven stitches at the back of the rim.")
 
 The flap is worked back and forth on 7 stitches at the back of the rim — the stitches that will sit behind the hinge. The ch 1 at the end of each row does not count as a stitch.
 
@@ -139,6 +145,8 @@ Fasten off, leaving a tail. The flap folds over the top of the case; mark where 
 </figure>
 
 ### Stage 4: the ears
+
+![Each ear is a small flat triangle, made before it is sewn on.](../../assets/articles/airpods-stage-4.jpg "Illustration. Each ear is a small flat triangle, made before it is sewn on.")
 
 Make two. Each ear is a small triangle worked flat, losing a stitch at each edge until it points.
 

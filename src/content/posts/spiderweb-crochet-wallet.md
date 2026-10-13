@@ -82,6 +82,8 @@ Use black.
 
 ### Step 2: the point, one decrease row at a time
 
+![Both ends decrease on every flap row until the tip is one stitch.](../../assets/articles/spider-step-2.jpg "Illustration. Both ends decrease on every flap row until the tip is one stitch.")
+
 <figure class="diagram">
 <img src="/diagrams/spider-step-point.svg" alt="Rows 27 to 34 each lose one stitch at both ends: 15, 13, 11, 9, 7, 5, 3, then 1." width="480" height="244" loading="lazy" decoding="async" />
 <figcaption>Diagram. Both ends decrease on every flap row.</figcaption>
@@ -101,6 +103,8 @@ A decrease uses two stitches to make one. Pull up a loop in the first stitch, pu
 If any row is an even number, a decrease was missed at one end. Pull that row out. The list is 15, 13, 11, 9, 7, 5, 3, 1.
 
 ### Step 3: the button loop
+
+![The chain loop starts at the point and returns to that same stitch.](../../assets/articles/spider-step-3.jpg "Illustration. The chain loop starts at the point and returns to that same stitch.")
 
 <figure class="diagram">
 <img src="/diagrams/spider-step-loop.svg" alt="Chain from the point and slip stitch back into the same stitch. The button should pass with a little push." width="480" height="244" loading="lazy" decoding="async" />
@@ -177,6 +181,8 @@ Use purple. A hook one size smaller than the wallet hook makes a tighter ball. I
 5. Before the legs, the spider is about 0.5 inch across.
 
 ### Step 6: fold, seam the sides, then mark the button
+
+![Close the flap with cards inside, then mark where the loop lands.](../../assets/articles/spider-step-6.jpg "Illustration. Close the flap with cards inside, then mark where the loop lands.")
 
 <figure class="diagram">
 <img src="/diagrams/spiderweb-wallet-closure.svg" alt="The flap ends in a chain-8 loop. With cards inside, close the flap without stretching it and mark where the loop lands on the front wall. Remove the cards and sew the button through the front wall only." width="480" height="1240" loading="lazy" decoding="async" />

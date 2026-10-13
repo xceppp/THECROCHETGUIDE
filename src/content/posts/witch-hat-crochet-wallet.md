@@ -78,6 +78,8 @@ Use purple.
 
 ### Step 2: the buttonhole, then count back to 17
 
+![The buttonhole is a chain-3 space in the middle of the row.](../../assets/articles/witch-step-2.jpg "Illustration. The buttonhole is a chain-3 space in the middle of the row.")
+
 **Row 31**
 
 1. Chain 1 and turn.
@@ -104,6 +106,8 @@ Push the button through the hole now, before row 33. It should pass with a small
 </figure>
 
 ### Step 3: the divider, one row shorter than the front
+
+![The divider is a shorter purple rectangle so it hides under the rim.](../../assets/articles/witch-step-3.jpg "Illustration. The divider is a shorter purple rectangle so it hides under the rim.")
 
 <figure class="diagram">
 <img src="/diagrams/witch-step-divider.svg" alt="The divider is 17 stitches and 11 rows, one row shorter than the 12-row front, so it hides under the rim." width="480" height="244" loading="lazy" decoding="async" />

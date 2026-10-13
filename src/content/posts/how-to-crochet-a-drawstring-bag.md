@@ -77,6 +77,8 @@ End the base on a count the eyelet round can divide. Small eyelets (two stitches
 
 ## Stage 2: the tube
 
+![After the base, the same stitch count each round makes the tube.](../../assets/articles/drawstring-stage-2.jpg "Illustration. After the base, the same stitch count each round makes the tube.")
+
 **Even rounds:** Single crochet in each stitch, the same count every round, until the wall is as tall as you need. The fabric turns up into a tube by itself once the increases stop.
 
 <figure class="diagram">
@@ -99,6 +101,8 @@ For a 48-stitch neck: at the belly, **(sc 7, 2 sc in next) 6 times** widens to 5
 
 ## Stage 3: the eyelet round
 
+![The eyelet round leaves even holes for the cord.](../../assets/articles/drawstring-stage-3.jpg "Illustration. The eyelet round leaves even holes for the cord.")
+
 The eyelet round repeats one idea: single crochet into some stitches, then chain over a skipped stitch or two. The chain bridges the gap so the round keeps its length, and the opening under each chain is a hole. The repeat must divide evenly into your stitch count, or the last hole lands short and the cord bunches there.
 
 <figure class="diagram">
@@ -112,6 +116,8 @@ The eyelet round repeats one idea: single crochet into some stitches, then chain
 After the eyelet round, work one round putting 1 sc into each single crochet and 1 sc into each ch-1 space, or 2 sc into each ch-2 space, to restore the full count, then one or two plain rounds. That short frill above the holes stops the cord riding up over the top edge when you pull it.
 
 ## Stage 4: the cord
+
+![The cord runs through the eyelets and closes the top.](../../assets/articles/drawstring-stage-4.jpg "Illustration. The cord runs through the eyelets and closes the top.")
 
 <figure class="diagram">
 <img src="/diagrams/drawstring-cord.svg" alt="The cord passes through the eyelet round." width="480" height="300" loading="lazy" decoding="async" />
