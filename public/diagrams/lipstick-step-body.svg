@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img">
+<title>The tube stays 18 around</title>
+<desc>Each body round is one single crochet in every stitch. No increases.</desc>
+<rect width="480" height="320" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">The tube stays 18 around</text>
+<path d="M150 70 H330 V230 H150 Z" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<line x1="150" y1="100" x2="330" y2="100" stroke="#7d8b72" stroke-width="2"/><line x1="150" y1="126" x2="330" y2="126" stroke="#7d8b72" stroke-width="2"/><line x1="150" y1="152" x2="330" y2="152" stroke="#7d8b72" stroke-width="2"/><line x1="150" y1="178" x2="330" y2="178" stroke="#7d8b72" stroke-width="2"/><line x1="150" y1="204" x2="330" y2="204" stroke="#7d8b72" stroke-width="2"/>
+<text x="240" y="290" font-size="22" fill="#2f2a26" text-anchor="middle">no increases</text>
+</svg>

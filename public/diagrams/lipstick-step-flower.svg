@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>Five petals, one per stitch</title>
+<desc>Five single crochet in a ring, then one petal in each stitch.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Five petals, one per stitch</text>
+<ellipse cx="240" cy="87" rx="22" ry="16" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/><ellipse cx="295" cy="127" rx="22" ry="16" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/><ellipse cx="274" cy="192" rx="22" ry="16" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/><ellipse cx="206" cy="192" rx="22" ry="16" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/><ellipse cx="185" cy="127" rx="22" ry="16" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<circle cx="240" cy="145" r="16" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<text x="240" y="270" font-size="22" fill="#2f2a26" text-anchor="middle">sew it below the opening</text>
+</svg>

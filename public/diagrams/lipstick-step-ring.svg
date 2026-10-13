@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 260" role="img">
+<title>Start with an adjustable ring</title>
+<desc>Six single crochet will go into the ring. The chain does not count.</desc>
+<rect width="480" height="260" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Start with an adjustable ring</text>
+<ellipse cx="240" cy="140" rx="54" ry="36" fill="none" stroke="#b0604a" stroke-width="5"/>
+<text x="240" y="230" font-size="22" fill="#2f2a26" text-anchor="middle">the chain does not count</text>
+</svg>

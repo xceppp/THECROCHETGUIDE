@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 260" role="img">
+<title>A loose finish at the opening</title>
+<desc>A tight slip stitch round makes the opening smaller.</desc>
+<rect width="480" height="260" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">A loose finish at the opening</text>
+<ellipse cx="240" cy="130" rx="90" ry="28" fill="none" stroke="#b0604a" stroke-width="6"/>
+<text x="240" y="220" font-size="22" fill="#2f2a26" text-anchor="middle">keep the opening loose</text>
+</svg>

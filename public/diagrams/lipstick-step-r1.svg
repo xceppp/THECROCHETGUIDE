@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" role="img">
+<title>Round 1: 6 single crochet</title>
+<desc>Six stitches in the ring, then close the center.</desc>
+<rect width="480" height="280" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Round 1: 6 single crochet</text>
+<circle cx="240" cy="93" r="14" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><circle cx="285" cy="119" r="14" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><circle cx="285" cy="171" r="14" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><circle cx="240" cy="197" r="14" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><circle cx="195" cy="171" r="14" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/><circle cx="195" cy="119" r="14" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<text x="240" y="250" font-size="22" fill="#2f2a26" text-anchor="middle">count 6</text>
+</svg>

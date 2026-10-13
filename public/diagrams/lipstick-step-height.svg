@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img">
+<title>Leave the cap easy to hold</title>
+<desc>Stop when enough of the closed tube is covered and the top can still be gripped.</desc>
+<rect width="480" height="320" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Leave the cap easy to hold</text>
+<rect x="170" y="60" width="140" height="200" rx="8" fill="#fdfaf6" stroke="#2f2a26" stroke-width="3"/>
+<rect x="160" y="130" width="160" height="130" fill="#f6efe6" stroke="#b0604a" stroke-width="3"/>
+<text x="240" y="100" font-size="22" fill="#2f2a26" text-anchor="middle">cap stays out</text>
+<text x="240" y="290" font-size="22" fill="#2f2a26" text-anchor="middle">sleeve covers the lower part</text>
+</svg>

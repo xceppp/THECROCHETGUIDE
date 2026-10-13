@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" role="img">
+<title>Test with the closed tube</title>
+<desc>The tube should slide in. The original cap stays on.</desc>
+<rect width="480" height="280" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Test with the closed tube</text>
+<rect x="190" y="70" width="100" height="150" rx="12" fill="#fdfaf6" stroke="#2f2a26" stroke-width="3"/>
+<rect x="175" y="120" width="130" height="110" fill="#f6efe6" stroke="#b0604a" stroke-width="3"/>
+<text x="240" y="250" font-size="22" fill="#2f2a26" text-anchor="middle">cap stays closed</text>
+</svg>

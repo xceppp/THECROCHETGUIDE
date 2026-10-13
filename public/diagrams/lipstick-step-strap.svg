@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 280" role="img">
+<title>A strip, 5 stitches wide</title>
+<desc>Chain 6, then single crochet rows of 5. The turning chain does not count.</desc>
+<rect width="480" height="280" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">A strip, 5 stitches wide</text>
+<rect x="150" y="80" width="180" height="70" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<text x="240" y="122" font-size="22" fill="#2f2a26" text-anchor="middle">5 stitches</text>
+<text x="240" y="210" font-size="22" fill="#2f2a26" text-anchor="middle">fold it later</text>
+</svg>

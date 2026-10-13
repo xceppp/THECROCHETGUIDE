@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img">
+<title>Round 3: 18 stitches</title>
+<desc>One single crochet, then an increase, repeated six times.</desc>
+<rect width="480" height="300" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="240" y="36" font-size="22" fill="#2f2a26" text-anchor="middle" font-weight="bold">Round 3: 18 stitches</text>
+<circle cx="240" cy="150" r="88" fill="none" stroke="#2f2a26" stroke-width="3"/>
+<circle cx="240" cy="150" r="48" fill="#f6efe6" stroke="#7d8b72" stroke-width="3"/>
+<text x="240" y="155" font-size="22" fill="#2f2a26" text-anchor="middle">1 sc, inc</text>
+<text x="240" y="270" font-size="22" fill="#2f2a26" text-anchor="middle">six repeats, 18 stitches</text>
+</svg>
