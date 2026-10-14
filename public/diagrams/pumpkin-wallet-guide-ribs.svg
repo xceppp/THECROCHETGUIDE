@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Pumpkin ribs come in pairs of rows</title>
+<desc>Row 1 uses both loops. Every later row uses the back loop only. Two turned rows leave one raised rib. At the example, 22 rows make 11 ribs. An odd last row leaves a half rib at the seam.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">One rib for every two rows after the setup</text>
+<text class="soft" x="32" y="96">Row 1: both loops. Rows 2 onward: back loop only.</text>
+<rect x="32" y="120" width="28" height="150" fill="#e6ddd1" stroke="#2f2a26" stroke-width="2"/>
+<rect x="68" y="120" width="28" height="150" fill="#b0604a"/>
+<rect x="104" y="120" width="28" height="150" fill="#fdfaf6" stroke="#2f2a26" stroke-width="2"/>
+<rect x="140" y="120" width="28" height="150" fill="#b0604a"/>
+<rect x="176" y="120" width="28" height="150" fill="#fdfaf6" stroke="#2f2a26" stroke-width="2"/>
+<rect x="212" y="120" width="28" height="150" fill="#b0604a"/>
+<rect x="248" y="120" width="28" height="150" fill="#fdfaf6" stroke="#2f2a26" stroke-width="2"/>
+<rect x="284" y="120" width="28" height="150" fill="#b0604a"/>
+<rect x="320" y="120" width="28" height="150" fill="#fdfaf6" stroke="#2f2a26" stroke-width="2"/>
+<text class="soft" x="32" y="300">Pair of rows</text>
+<text class="soft" x="160" y="300">Next pair</text>
+<text class="label" x="32" y="350">22 even rows, about 11 ribs</text>
+<text class="soft" x="32" y="386">Measure 4.25 in. Do not stop on an odd row.</text>
+</svg>

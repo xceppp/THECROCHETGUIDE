@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Fold on the halfway row and test the device</title>
+<desc>Fold so row 1 meets the last row. The laptop example folds after row 45 of 90. A drifted count makes a wedge and the edges will not meet. Slide the device in before weaving the ends. If it will not enter, the next rectangle needs more stitches. Seams do not add fabric.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">The fold is the bottom. Test it open.</text>
+<rect x="16" y="60" width="300" height="250" rx="8" fill="#f6efe6"/>
+<text x="28" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Halfway row</text>
+<rect x="70" y="110" width="100" height="160" fill="#fdfaf6" stroke="#2f2a26" stroke-width="3"/>
+<line x1="70" y1="190" x2="170" y2="190" stroke="#b0604a" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="184" y="160" font-size="16" fill="#6d635a">Last row</text>
+<text x="184" y="198" font-size="16" fill="#b0604a">Fold</text>
+<text x="184" y="236" font-size="16" fill="#6d635a">Row 1</text>
+<rect x="328" y="60" width="296" height="250" rx="8" fill="#f6efe6"/>
+<text x="340" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Wedge, do not seam</text>
+<path d="M400 120 L560 150 L530 250 L380 230 Z" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<text x="340" y="280" font-size="16" fill="#6d635a">Edges will not meet.</text>
+<text x="24" y="340" font-size="16" fill="#2f2a26">Laptop example folds after row 45. Paperback example is 60 rows, 30 a side.</text>
+<text x="24" y="368" font-size="16" fill="#2f2a26">Slide the device in before you weave the ends, while the seam can be redone.</text>
+<text x="24" y="396" font-size="16" fill="#6d635a">If it binds, start wider. Pulling the seam tighter removes ease.</text>
+</svg>

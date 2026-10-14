@@ -19,17 +19,41 @@ glance:
 
 A lipstick tube will not stay put in a sleeve that was sized for a different brand. This holder is a small open cylinder in [single crochet](/basic-crochet-stitches/), worked from a round base, with a folded strap for a ring or clasp.
 
-The stitch counts below are worked out from the rounds, not from a finished sample. Lay the base against your own closed lipstick before you crochet the walls. The pictures are illustrations of the shape. The drawings show the stitch counts.
+#### Check the base before the walls
+
+1. Treat the stitch counts below as counts worked out from the rounds.
+2. Lay the base against your own closed lipstick before you crochet the walls.
+3. Read the pictures as illustrations of the shape.
+4. Read the drawings as the stitch counts.
+
+<div class="tip">
 
 US terms are used throughout. US single crochet is the UK double crochet. US half double crochet, used only on the optional flower, is the UK half treble.
 
+</div>
+
 ## What the holder is
 
-It is a sleeve for one closed lipstick, lip balm, or a tube of a similar size. It is not a makeup bag. The tube sits upright in the pocket. A strap near the top holds a lobster clasp, a swivel clasp, or a split ring so you can clip it to a bag.
+#### Name the object before you count stitches
+
+1. Make a sleeve for one closed lipstick, lip balm, or a tube of a similar size.
+2. Keep it as one pocket. This is not a makeup bag.
+3. Sit the tube upright in the pocket.
+4. Put a strap near the top for a lobster clasp, a swivel clasp, or a split ring so you can clip it to a bag.
+
+<div class="warning">
 
 The sleeve does not replace the lipstick cap. Keep the original cap on. The crochet is an extra cover around the closed tube.
 
-The main piece is one spiral. You do not seam a rectangle into a tube. A separate strip becomes the strap. That is fewer joins than a pouch made from flat panels. If you want a pocket for several items, use the [makeup pouch](/how-to-crochet-a-makeup-pouch/) instead.
+</div>
+
+#### How the pieces join
+
+1. Work the main piece as one spiral.
+2. Do not seam a rectangle into a tube.
+3. Crochet a separate strip for the strap.
+4. Expect fewer joins than a pouch made from flat panels.
+5. If you want a pocket for several items, use the [makeup pouch](/how-to-crochet-a-makeup-pouch/) instead.
 
 Five parts:
 
@@ -52,29 +76,62 @@ Five parts:
 | Strap | A separate strip, 5 stitches wide, folded through the hardware |
 | Terms | US |
 
+<div class="warning">
+
 Eighteen stitches is a starting count, not a size that fits every lipstick. Yarn, hook, and tension change the diameter. Measure the tube you have.
+
+</div>
 
 ## Materials
 
-Work on a flat surface in decent light. You are counting a small circle, and a missed stitch shows up fast.
+#### Set up the counting surface
+
+1. Work on a flat surface in decent light.
+2. Count the small circle as you go. A missed stitch shows up fast.
 
 ### Yarn
 
-Use smooth DK cotton, or a yarn of similar thickness that does not fuzz. Cotton shows the stitches, which matters when you are counting increases in the round. A lipstick sleeve should hold a shape. A drapey or very stretchy yarn collapses, and the tube rattles inside it.
+#### Choose a yarn you can count
 
-You need a small amount for the sleeve and the strap. A leftover ball is often enough. Do not start a stripe unless you have enough of each color to finish the round you are on.
+1. Use smooth DK cotton, or a yarn of similar thickness that does not fuzz.
+2. Prefer cotton when you are counting increases in the round, because the stitches show.
+3. Ask the sleeve to hold a shape.
+4. Set aside a drapey or very stretchy yarn. It collapses, and the tube rattles inside it.
 
-Colors that read clearly in a small piece: dusty rose, cream, sage, lavender, black, burgundy. A second small amount of a contrast color is enough for the flower. A blush sleeve with a cream flower is one contrast, not a pattern of many colors.
+#### How much, and when a second color is safe
+
+1. Plan a small amount for the sleeve and the strap.
+2. A leftover ball is often enough.
+3. Do not start a stripe unless you have enough of each color to finish the round you are on.
+
+#### Color on a piece this small
+
+1. Colors that read clearly: dusty rose, cream, sage, lavender, black, burgundy.
+2. Keep a second small amount of a contrast color for the flower.
+3. A blush sleeve with a cream flower is one contrast, not a pattern of many colors.
+
+<div class="tip">
 
 Acrylic can work if the fabric at your hook is firm. Fuzzy, loosely spun, or very elastic yarn makes the stitches hard to see and the sleeve soft. Skip those for the first one.
+
+</div>
 
 Yarn labels and the standard weight numbers are on the [yarn weight chart](/yarn-weight-chart/).
 
 ### Hook
 
-Start with a 3.0 mm hook for DK cotton. That size sits between the letter sizes on the [hook chart](/crochet-hook-size-conversion-chart/). If the fabric is stiff and unpleasant to work, go up a hook size. If you can see holes the lipstick could slip against, or the stitches look loose, go down a hook size or ease your tension.
+#### Start at 3.0 mm, then match the fabric
+
+1. Start with a 3.0 mm hook for DK cotton.
+2. That size sits between the letter sizes on the [hook chart](/crochet-hook-size-conversion-chart/).
+3. If the fabric is stiff and unpleasant to work, go up a hook size.
+4. If you can see holes the lipstick could slip against, or the stitches look loose, go down a hook size or ease your tension.
+
+<div class="warning">
 
 The sleeve should be flexible enough to take the tube and dense enough that the tube does not fall through the opening when the holder tips.
+
+</div>
 
 ### The rest
 
@@ -86,7 +143,11 @@ The sleeve should be flexible enough to take the tube and dense enough that the 
 - Optional contrast yarn for the flower.
 - Optional clips to hold the strap while you sew.
 
+<div class="warning">
+
 Do not rely on glue for the strap. The join has to hold the weight of the tube. Sew it.
+
+</div>
 
 ## Measure the lipstick first
 
@@ -99,11 +160,26 @@ Put the closed tube on the table. Write down four numbers. They are for this tub
 
 ### One example, not a standard size
 
-Suppose a tube is about 7.5 cm tall and about 2.2 cm across at the widest point. A sleeve that covers about 5.5 cm would leave about 2 cm of cap to hold. Those figures are an example of the arithmetic. They are not the size of a named brand, and they are not the size this pattern produces in every yarn.
+#### Walk the example arithmetic
+
+1. Suppose a tube is about 7.5 cm tall and about 2.2 cm across at the widest point.
+2. A sleeve that covers about 5.5 cm would leave about 2 cm of cap to hold.
+3. Treat those figures as an example of the arithmetic.
+4. They are not the size of a named brand, and they are not the size this pattern produces in every yarn.
+
+<div class="tip">
+
+7.5 cm of tube, minus about 5.5 cm of sleeve, leaves about 2 cm of cap. Use that only to see the subtraction. Measure your own tube for the real numbers.
+
+</div>
 
 ### The rule that matters
 
+<div class="warning">
+
 Use the tube in your hand. A stitch count cannot promise a fit, because thickness, hook, and tension all move the fabric.
+
+</div>
 
 ## Abbreviations
 
@@ -120,15 +196,31 @@ Use the tube in your hand. A stitch count cannot promise a fit, because thicknes
 | rnd | Round |
 | FO | Fasten off |
 
-**(1 sc, inc) x 6** means: one single crochet in the next stitch, two single crochet in the stitch after that, and do that pair six times. Each pair turns 2 stitches into 3. Six pairs make 18 stitches.
+#### Read (1 sc, inc) x 6 before round 3
+
+1. Make one single crochet in the next stitch.
+2. Make two single crochet in the stitch after that.
+3. Do that pair six times.
+4. Each pair turns 2 stitches into 3.
+5. Six pairs make 18 stitches.
 
 The full abbreviation list is the [crochet abbreviations chart](/crochet-abbreviations-chart/). Working in a spiral, without joining every round, is covered in [crochet in the round](/crochet-in-the-round/).
 
 ## The pattern
 
-Work from the bottom up. Do not join a round unless the line says to. Mark the first stitch of the round, and move the marker each time you pass it. Count after every increase round.
+#### Before round 1
 
-The strap is a separate strip. It is not part of the pocket. The height of the tube depends on your lipstick and on how tall your rounds are. Rounds 5 to 20 are a working length to pause at, not a required finished height.
+1. Work from the bottom up.
+2. Do not join a round unless the line says to.
+3. Mark the first stitch of the round, and move the marker each time you pass it.
+4. Count after every increase round.
+
+#### What the later steps are allowed to change
+
+1. Crochet the strap as a separate strip.
+2. Keep the strap out of the pocket stitch count.
+3. Let the height of the tube depend on your lipstick and on how tall your rounds are.
+4. Treat rounds 5 to 20 as a working length to pause at, not a required finished height.
 
 ## Step 1: Make a magic ring
 
@@ -139,7 +231,11 @@ The strap is a separate strip. It is not part of the pocket. The height of the t
 
 ![Hands starting a dusty-rose magic ring](../../assets/articles/lipstick-step-1.jpg "Illustration. The hook goes into the loop before the six single crochet of round 1.")
 
-A magic ring is an adjustable loop. You crochet into it, then pull the tail to close the hole. A lipstick base wants that hole closed.
+#### What the ring is for
+
+1. Treat the magic ring as an adjustable loop.
+2. Crochet into it, then pull the tail to close the hole.
+3. A lipstick base wants that hole closed.
 
 1. Wrap the yarn into a loop.
 2. Insert the hook through the loop.
@@ -147,9 +243,19 @@ A magic ring is an adjustable loop. You crochet into it, then pull the tail to c
 4. Chain 1 to hold the start. That chain is not a single crochet.
 5. Leave the ring open until the six stitches of round 1 are in it.
 
+<div class="warning">
+
 If the ring is new, practice it on a scrap before you count the real round. Pulling it shut before the six stitches are made makes the first round miserable.
 
-If you would rather not use a magic ring, chain 2 and work the six single crochet of round 1 into the second chain from the hook. The center may stay a little open. Close it later with the tail and a needle. Check the bottom in the light before you call it done.
+</div>
+
+#### Chain 2, if you skip the ring
+
+1. Chain 2.
+2. Work the six single crochet of round 1 into the second chain from the hook.
+3. Expect the center to stay a little open.
+4. Close it later with the tail and a needle.
+5. Check the bottom in the light before you call it done.
 
 ## Step 2: Round 1, six single crochet
 
@@ -162,13 +268,32 @@ If you would rather not use a magic ring, chain 2 and work the six single croche
 
 **Round 1:** 6 sc into the magic ring. (6 sts)
 
-Insert the hook into the ring, yarn over, pull up a loop, yarn over, pull through both loops. That is one single crochet. Do it six times.
+#### Make six single crochet in the ring
 
-Pull the tail until the center is closed. Put the marker in the first single crochet.
+1. Insert the hook into the ring.
+2. Yarn over and pull up a loop.
+3. Yarn over and pull through both loops. That is one single crochet.
+4. Do it six times.
+5. Pull the tail until the center is closed.
+6. Put the marker in the first single crochet.
 
-Count six stitches. You should see a small disc, not a hole you could push a pencil through. If a gap remains, tighten the tail again. Do not cut the tail. You will weave it through the base later.
+#### Look at the disc before round 2
+
+1. Count six stitches.
+2. You should see a small disc, not a hole you could push a pencil through.
+3. If a gap remains, tighten the tail again.
+4. Do not cut the tail. You will weave it through the base later.
+
+| What you counted | What it means |
+| --- | --- |
+| 6 single crochet, chain left out | Round 1. The marker sits in the first single crochet. |
+| The chain from step 1 counted as stitch number one | The next rounds are off by one. That chain is not a stitch. |
+
+<div class="warning">
 
 The chain from step 1 is the mistake that throws the next rounds off. It is not stitch number one. Round 1 is six single crochet, nothing else.
+
+</div>
 
 ## Step 3: Increase to 12
 
@@ -181,13 +306,32 @@ The chain from step 1 is the mistake that throws the next rounds off. It is not 
 
 **Round 2:** 2 sc in each stitch around. (12 sts)
 
-Start at the marked stitch. Make one single crochet, then a second single crochet in the same stitch. Move to the next stitch and do the same. Six increases give 12 stitches.
+#### Put two single crochet in each of the six
 
-Move the marker to the first stitch of this round when you come around to it.
+1. Start at the marked stitch.
+2. Make one single crochet, then a second single crochet in the same stitch.
+3. Move to the next stitch and do the same.
+4. Six increases give 12 stitches.
+5. Move the marker to the first stitch of this round when you come around to it.
+
+<div class="tip">
 
 A flat circle has to gain stitches as it grows. One stitch in every stitch, from the start, makes a tube too soon. This round doubles 6 into 12.
 
-The disc is still small. Set it on the table and smooth it without stretching. Strong cupping often means tight tension. A wavy edge often means an extra stitch or uneven tension. Count 12 before you go on.
+</div>
+
+#### Smooth the disc and count 12
+
+1. The disc is still small. Set it on the table and smooth it without stretching.
+2. Strong cupping often means tight tension.
+3. A wavy edge often means an extra stitch or uneven tension.
+4. Count 12 before you go on.
+
+| Count | What happened |
+| --- | --- |
+| 12 | Two single crochet in each of the six stitches of round 1. |
+| 11 | One stitch of round 1 got only one single crochet. |
+| 13 | One stitch got three, or you worked into the chain. |
 
 ## Step 4: Increase to 18, then compare it to the lipstick
 
@@ -204,19 +348,44 @@ The disc is still small. Set it on the table and smooth it without stretching. S
 2. Two single crochet in the stitch after that.
 3. Repeat that pair until you have done it six times.
 
-18 stitches. The diameter is whatever your yarn and tension made. It is not a fixed centimeter measurement.
+#### Set the lipstick on the 18-stitch disc
 
-Put the closed lipstick on the disc. The circle should be close to the footprint of the tube. You should not have to stretch the fabric hard to imagine the tube sitting on it.
+1. You have 18 stitches.
+2. The diameter is whatever your yarn and tension made. It is not a fixed centimeter measurement.
+3. Put the closed lipstick on the disc.
+4. The circle should be close to the footprint of the tube.
+5. You should not have to stretch the fabric hard to imagine the tube sitting on it.
+
+<div class="warning">
 
 If the disc is much too small, another full increase round can jump the size too far. Read the options before you add stitches.
 
+</div>
+
 **Wider tube, optional next round:** (2 sc, inc) x 6. (24 sts)
 
-That is two single crochet, then an increase, six times. 6 times 4 stitches is 24. Use it only if the 18-stitch disc is clearly too small for the tube in your hand. If you take this round, every body round after it is 24 stitches. Do not switch back to 18.
+#### Take 24 only when 18 is clearly small
 
-**Narrow tube:** stop after round 2, at 12 stitches, and make the body at 12. Check that disc against the tube before you commit. A 12-stitch circle in a thick yarn can still be wide. A 12-stitch circle in a thin yarn can be tiny.
+1. Work two single crochet, then an increase, six times.
+2. 6 times 4 stitches is 24.
+3. Use it only if the 18-stitch disc is clearly too small for the tube in your hand.
+4. If you take this round, every body round after it is 24 stitches.
+5. Do not switch back to 18.
 
-Decide from the fabric on the table, not from a number that sounded typical.
+**Narrow tube:** stop after round 2, at 12 stitches, and make the body at 12.
+
+#### Stop at 12 only after you see the disc
+
+1. Check that disc against the tube before you commit.
+2. A 12-stitch circle in a thick yarn can still be wide.
+3. A 12-stitch circle in a thin yarn can be tiny.
+4. Decide from the fabric on the table, not from a number that sounded typical.
+
+| Base you keep | Body count after it |
+| --- | --- |
+| 12, stopped after round 2 | 12 on every later round |
+| 18, after (1 sc, inc) x 6 | 18 on every later round |
+| 24, after (2 sc, inc) x 6 | 24 on every later round. Do not switch back to 18. |
 
 ## Step 5: Turn the edge up
 
@@ -231,13 +400,33 @@ The next round is the corner between the floor and the wall.
 
 **Round 4:** 1 sc in the back loop only of each stitch around. (18 sts)
 
-The top of a single crochet is a V of two loops. The front loop is the one closer to you. The back loop is the one farther from you when the right side faces you. Insert the hook under the back loop only, and finish the single crochet as usual. Do that in all 18 stitches.
+#### Find the back loop, then use only that
 
-If you chose the 24-stitch base, this round is 24 back-loop single crochet. If you stopped at 12, it is 12.
+1. The top of a single crochet is a V of two loops.
+2. The front loop is the one closer to you.
+3. The back loop is the one farther from you when the right side faces you.
+4. Insert the hook under the back loop only, and finish the single crochet as usual.
+5. Do that in all 18 stitches.
+6. If you chose the 24-stitch base, this round is 24 back-loop single crochet. If you stopped at 12, it is 12.
 
-The unworked front loops sit as a ridge. The following rounds stand up from that ridge more readily than they do from a round worked through both loops. Working both loops still makes a pocket. The bottom stays rounder, and the ridge is weaker. Use the back loop for the first holder so you can see the corner.
+#### Read the ridge
+
+1. The unworked front loops sit as a ridge.
+2. The following rounds stand up from that ridge more readily than they do from a round worked through both loops.
+3. Working both loops still makes a pocket. The bottom stays rounder, and the ridge is weaker.
+4. Use the back loop for the first holder so you can see the corner.
+
+<div class="warning">
 
 After this round: same stitch count as the base you chose, the fabric starting to turn up, no new increases. Fix a wrong count here. Every round after this one repeats that number.
+
+</div>
+
+| Base you chose | Back-loop round |
+| --- | --- |
+| 18 | 18 single crochet in the back loop only |
+| 12 | 12 single crochet in the back loop only |
+| 24 | 24 single crochet in the back loop only |
 
 ## Step 6: Crochet the tube
 
@@ -250,11 +439,40 @@ After this round: same stitch count as the base you chose, the fabric starting t
 
 **Rounds 5 to 20:** 1 sc in each stitch around. (18 sts each round)
 
-One single crochet in the next stitch, then the next, until you are back at the marker. Move the marker up. Do not increase.
+#### One stitch, one home, no increase
 
-The bottom can look domed for the first few rounds. That settles as the wall gets taller. Keep the yarn in the same place in your hand. Do not yank the last stitch of the round tighter than the others. In a spiral, the start of the round walks slowly around the tube. That jog is normal. It is not a seam you failed to hide.
+1. Make one single crochet in the next stitch, then the next, until you are back at the marker.
+2. Move the marker up.
+3. Do not increase.
 
-Count every few rounds. Eighteen, or 12, or 24, whichever base you kept. Nineteen means two stitches landed in one stitch. Seventeen means a stitch was skipped. On a narrow tube, one stitch is enough to change the fit.
+#### What the spiral is allowed to look like
+
+1. The bottom can look domed for the first few rounds. That settles as the wall gets taller.
+2. Keep the yarn in the same place in your hand.
+3. Do not yank the last stitch of the round tighter than the others.
+4. In a spiral, the start of the round walks slowly around the tube.
+5. That jog is normal. It is not a seam you failed to hide.
+
+#### Count every few rounds
+
+1. Count eighteen, or 12, or 24, whichever base you kept.
+2. Nineteen means two stitches landed in one stitch.
+3. Seventeen means a stitch was skipped.
+4. On a narrow tube, one stitch is enough to change the fit.
+
+| Count on an 18-stitch body | What happened |
+| --- | --- |
+| 18 | One single crochet in each stitch. Keep going. |
+| 19 | Two stitches landed in one stitch. |
+| 17 | A stitch was skipped. |
+
+<div class="warning">
+
+On a 12-stitch or 24-stitch body, use that number in place of 18. Nineteen and seventeen are the off-by-one counts for the 18-stitch start only.
+
+</div>
+
+#### Slide the lipstick in after about five body rounds
 
 After about five body rounds, slide the closed lipstick in.
 
@@ -262,9 +480,18 @@ After about five body rounds, slide the closed lipstick in.
 - If it is already tight, stop. Forcing it stretches the stitches and does not fix the size.
 - If it knocks around, the circumference is large for that tube. A smaller count, a smaller hook, or firmer tension is the fix. Do not wait until the strap is sewn.
 
-A little friction is useful. A tug that bends the tube is not. If the first try is tight and the count is right, remake from the base with a larger hook, or use the 24-stitch base for a clearly wider tube. Shrinking a finished sleeve by pulling on it does not give an even fit.
+#### Judge the friction
+
+1. A little friction is useful.
+2. A tug that bends the tube is not.
+3. If the first try is tight and the count is right, remake from the base with a larger hook, or use the 24-stitch base for a clearly wider tube.
+4. Shrinking a finished sleeve by pulling on it does not give an even fit.
+
+<div class="warning">
 
 Do not stuff the holder. The lipstick is what fills it. Stuffing, and stray tails left in the middle, block the tube.
+
+</div>
 
 ## Step 7: Set the height from the tube
 
@@ -275,15 +502,28 @@ Do not stuff the holder. The lipstick is what fills it. Stuffing, and stray tail
 
 ![A closed lipstick standing in a short dusty-rose crochet sleeve](../../assets/articles/lipstick-step-7.jpg "Illustration. The cap stays above the opening so you can pinch it out.")
 
-At round 20, put the closed lipstick in. Look at how much cap is still above the opening.
+#### Pause at round 20 and look at the cap
 
-If the sleeve is short, keep going:
+1. At round 20, put the closed lipstick in.
+2. Look at how much cap is still above the opening.
+3. If the sleeve is short, keep going.
 
 **Later rounds:** 1 sc in each stitch around, same count, until the height is right.
 
-There is no single correct number of rounds. Your row height is part of the answer. A short sleeve lets the tube tip. A tall sleeve hides the cap and you end up pulling on the yarn. Stand the holder on the table with the lipstick in it. Then take the lipstick out the way you would in a bag. If either of those feels awkward, change the height before you fasten off.
+#### There is no single correct number of rounds
+
+1. Your row height is part of the answer.
+2. A short sleeve lets the tube tip.
+3. A tall sleeve hides the cap and you end up pulling on the yarn.
+4. Stand the holder on the table with the lipstick in it.
+5. Then take the lipstick out the way you would in a bag.
+6. If either of those feels awkward, change the height before you fasten off.
+
+<div class="tip">
 
 The base is crochet, not a rigid cup. Soft yarn will flex. You want the tube supported, not a sleeve that mimics plastic.
+
+</div>
 
 ## Step 8: Finish the opening
 
@@ -294,13 +534,26 @@ The base is crochet, not a rigid cup. Soft yarn will flex. You want the tube sup
 
 ![Looking down into the open top of the dusty-rose sleeve](../../assets/articles/lipstick-step-8.jpg "Illustration. The opening stays a full circle. A tight slip-stitch round would shrink it.")
 
-You can fasten off after the last single crochet round. That is a clean edge.
+#### Fasten off, or add a loose slip-stitch round
 
-A slip-stitch round is optional. Slip stitch loosely in each stitch around the opening. Tight slip stitches shrink the mouth, and the lipstick then fights you on the way out. If that happens, pull the slip-stitch round out and fasten off from the single crochet instead.
+1. You can fasten off after the last single crochet round. That is a clean edge.
+2. A slip-stitch round is optional.
+3. Slip stitch loosely in each stitch around the opening.
+4. Tight slip stitches shrink the mouth, and the lipstick then fights you on the way out.
+5. If that happens, pull the slip-stitch round out and fasten off from the single crochet instead.
 
-Leave a tail. Weave it through several stitches on the inside, change direction once, and trim it only after it is buried.
+#### Bury the tail
+
+1. Leave a tail.
+2. Weave it through several stitches on the inside.
+3. Change direction once.
+4. Trim it only after it is buried.
+
+<div class="warning">
 
 Skip a scalloped border on a piece this small. Scallops crowd the opening and fight the flower if you add one. A straight rim is the one that still lets the tube out.
+
+</div>
 
 ## Step 9: Crochet the strap
 
@@ -311,7 +564,11 @@ Skip a scalloped border on a piece this small. Scallops crowd the opening and fi
 
 ![A narrow dusty-rose crochet strip](../../assets/articles/lipstick-step-9.jpg "Illustration. The strap is a separate strip, five stitches wide, before it is folded.")
 
-The strap is a separate strip, folded, with the hardware in the fold. A single chain loop puts the whole lipstick on one strand. The strip spreads the sewing across several stitches of the sleeve.
+#### Why the strap is a strip
+
+1. The strap is a separate strip, folded, with the hardware in the fold.
+2. A single chain loop puts the whole lipstick on one strand.
+3. The strip spreads the sewing across several stitches of the sleeve.
 
 **Foundation:** ch 6.
 
@@ -319,11 +576,28 @@ The strap is a separate strip, folded, with the hardware in the fold. A single c
 
 **Rows 2 to 18:** Ch 1, turn, 1 sc in each stitch. (5 sts)
 
-The turning chain does not count. Fasten off and leave a long tail for sewing.
+#### Count five, then fold
 
-Fold the strip in half before you sew anything. The ring or the clasp sits in the fold. The two ends go to the outside of the sleeve. If the fold will not go around the hardware with room to sew, add rows. If the strap will hang far past the sleeve, stop earlier than row 18. The hardware decides the length. Eighteen rows is a starting strip, not a measured drop.
+1. The turning chain does not count.
+2. Fasten off and leave a long tail for sewing.
+3. Fold the strip in half before you sew anything.
+4. The ring or the clasp sits in the fold.
+5. The two ends go to the outside of the sleeve.
+6. If the fold will not go around the hardware with room to sew, add rows.
+7. If the strap will hang far past the sleeve, stop earlier than row 18.
+8. The hardware decides the length. Eighteen rows is a starting strip, not a measured drop.
+
+| Stitches across the strap | What happened |
+| --- | --- |
+| 5 | Row 1 started in the second chain, and later rows skipped the turning chain. |
+| 6 | You crocheted into the turning chain. |
+| 4 | You missed an edge stitch. |
+
+<div class="tip">
 
 A separate strap can be replaced later without remaking the tube. You can also choose which side of the sleeve faces out when it hangs.
+
+</div>
 
 ## Step 10: Sew the strap and the hardware
 
@@ -334,15 +608,42 @@ A separate strap can be replaced later without remaking the tube. You can also c
 
 ![A dusty-rose crochet cylinder with a folded strap and a metal ring](../../assets/articles/lipstick-strap-illustration.jpg "Illustration. The strap is a folded strip. The ring sits in the fold, and both ends are sewn to the sleeve.")
 
-Thread the strip through the clasp or the ring. Fold it so the short ends meet. The metal sits in the fold.
+#### Seat the hardware in the fold
 
-Set the ends on the outside of the sleeve, near the top, running down the side. The opening stays clear. Clip them. Check that the lipstick still comes out without catching the strap. When the piece hangs, the sleeve should point the same way you want the lipstick to point. Flip the clasp now if it is backwards.
+1. Thread the strip through the clasp or the ring.
+2. Fold it so the short ends meet.
+3. The metal sits in the fold.
 
-Sew with the long tail. Go through the strap and into the sleeve, across the width of the strip, and through more than one round of the body so the pull is not on a single row. Sew both ends. Go over the join a second time. Match the yarn color if you want the stitches quiet.
+#### Place both ends before you sew
 
-Look inside. Loops of tail will catch the lipstick. Tuck them. Put the lipstick in again after the sewing, not only before.
+1. Set the ends on the outside of the sleeve, near the top, running down the side.
+2. The opening stays clear.
+3. Clip them.
+4. Check that the lipstick still comes out without catching the strap.
+5. When the piece hangs, the sleeve should point the same way you want the lipstick to point.
+6. Flip the clasp now if it is backwards.
 
-Hold the clasp and lift the empty sleeve over a soft surface. Then lift it with the closed lipstick in it. Look for stitches that open or a ring that can slide out of the fold. Do not clip it to a bag you care about until that join looks sound. Yarn is not a guarantee. A heavy tube on a thin join can pull free. Keep expensive lipstick inside the bag rather than swinging from an outside clasp.
+#### Sew both ends, twice
+
+1. Sew with the long tail.
+2. Go through the strap and into the sleeve, across the width of the strip, and through more than one round of the body so the pull is not on a single row.
+3. Sew both ends.
+4. Go over the join a second time.
+5. Match the yarn color if you want the stitches quiet.
+
+#### Look inside, then lift
+
+1. Look inside. Loops of tail will catch the lipstick. Tuck them.
+2. Put the lipstick in again after the sewing, not only before.
+3. Hold the clasp and lift the empty sleeve over a soft surface.
+4. Then lift it with the closed lipstick in it.
+5. Look for stitches that open or a ring that can slide out of the fold.
+
+<div class="warning">
+
+Do not clip it to a bag you care about until that join looks sound. Yarn is not a guarantee. A heavy tube on a thin join can pull free. Keep expensive lipstick inside the bag rather than swinging from an outside clasp.
+
+</div>
 
 ## Step 11: The flower, if you want one
 
@@ -353,7 +654,10 @@ Hold the clasp and lift the empty sleeve over a soft surface. Then lift it with 
 
 ![A five-petal cream flower on a dusty-rose crochet cylinder](../../assets/articles/lipstick-flower-illustration.jpg "Illustration. Five petals, sewn on the front, clear of the opening.")
 
-Use a contrast color. Cream, white, or a pale yellow reads against dusty rose.
+#### Pick the contrast
+
+1. Use a contrast color.
+2. Cream, white, or a pale yellow reads against dusty rose.
 
 **Center:** Magic ring, 5 sc into the ring, pull the ring closed, slip stitch to the first single crochet to join. Five stitches.
 
@@ -361,27 +665,51 @@ Use a contrast color. Cream, white, or a pale yellow reads against dusty rose.
 
 (sl st, ch 2, 2 hdc, ch 2, sl st)
 
-Keep the chains loose enough that the petal can round out. Five petals, one on each base stitch. Because several stitches share one base stitch, the flower spreads instead of stacking into a tube. Fasten off. Leave a tail long enough to sew.
+#### Five petals, one stitch each
+
+1. Keep the chains loose enough that the petal can round out.
+2. Five petals, one on each base stitch.
+3. Because several stitches share one base stitch, the flower spreads instead of stacking into a tube.
+4. Fasten off. Leave a tail long enough to sew.
+
+| Petals | What you see |
+| --- | --- |
+| 5, one in each of the 5 center stitches | The flower the pattern describes. |
+| A stitch left empty | That base stitch has no petal. |
+| Two petals in one stitch | That stitch is holding two petals. The pattern puts one petal in each of the five. |
+
+<div class="tip">
 
 Arrange the petals with your fingers. Do not yank them. A handmade flower will not be identical on every side.
 
-Sew it to the front, below the opening, so it does not cover the mouth. Catch the inner part of the petals so the flower does not flop forward. An embroidered center in a second color is optional. Skip buttons and beads if a child might handle the piece.
+</div>
 
-If the flower swamps the sleeve, make it in a thinner yarn or a smaller hook, or replace it with a few embroidered stitches.
+#### Sew below the opening
+
+1. Sew it to the front, below the opening, so it does not cover the mouth.
+2. Catch the inner part of the petals so the flower does not flop forward.
+3. An embroidered center in a second color is optional.
+4. Skip buttons and beads if a child might handle the piece.
+5. If the flower swamps the sleeve, make it in a thinner yarn or a smaller hook, or replace it with a few embroidered stitches.
 
 ## Step 12: Weave the ends
 
 ![A needle weaving a yarn tail into the sleeve](../../assets/articles/lipstick-step-12.jpg "Illustration. Weave each tail through the stitches. Do not leave it inside the pocket.")
 
-A small piece shows every tail, and a piece that lives in a bag rubs those tails loose.
+#### Weave so the lipstick cannot snag
 
-Weave each tail through several stitches. Do not pile every tail in one spot inside the sleeve, or the lipstick will snag. Spread them.
+1. A small piece shows every tail, and a piece that lives in a bag rubs those tails loose.
+2. Weave each tail through several stitches.
+3. Do not pile every tail in one spot inside the sleeve, or the lipstick will snag.
+4. Spread them.
 
-Check the center of the ring again. If it opened, use the original tail to close it from the inside.
+#### Close, strap, petals
 
-Check the strap a second time. Both ends sewn. The ring or clasp unable to slip out of the fold. No sharp edge cutting the yarn.
-
-Lift each petal. If one is only caught by a single loose loop, add a stitch.
+1. Check the center of the ring again. If it opened, use the original tail to close it from the inside.
+2. Check the strap a second time. Both ends sewn.
+3. The ring or clasp should be unable to slip out of the fold.
+4. No sharp edge should be cutting the yarn.
+5. Lift each petal. If one is only caught by a single loose loop, add a stitch.
 
 ## Step 13: Try the finished holder
 
@@ -392,25 +720,48 @@ Lift each petal. If one is only caught by a single loose loop, add a stitch.
 
 ![A hand lowering a closed lipstick into the finished holder](../../assets/articles/lipstick-step-13.jpg "Illustration. The cap stays on. The sleeve is a cover, not a second lid.")
 
-Slide the closed lipstick in. Do not force it. You want it to move, and you want a little grip so it is not obviously loose.
+#### Put the closed tube in and take it out
 
-Hang it from the clasp over a soft surface. Take the lipstick out and put it back a few times.
+1. Slide the closed lipstick in. Do not force it.
+2. You want it to move, and you want a little grip so it is not obviously loose.
+3. Hang it from the clasp over a soft surface.
+4. Take the lipstick out and put it back a few times.
 
-Look for: a fit you can live with, a cap you can pinch, an opening that stays roughly round, a strap that does not open, a flower that stays on, and no tails sticking into the pocket.
+#### What to look for
+
+1. A fit you can live with.
+2. A cap you can pinch.
+3. An opening that stays roughly round.
+4. A strap that does not open.
+5. A flower that stays on.
+6. No tails sticking into the pocket.
+
+<div class="warning">
 
 The sleeve is not a sealed case. Heat can spoil the lipstick whether or not it is in yarn. If a tube leaks, take it out. Makeup pigment does not always leave cotton.
 
+</div>
+
 ## The finished holder
 
-When the sewing is done, you should be able to name every part without turning the piece over twice.
+#### Name every part
 
-The body is one open cup. The top is a round mouth, the same stitch count as the last body round, with nothing stuffed inside. The flower, if you added one, sits on the front wall below that mouth. It does not cover the opening, and it has five petals.
+1. When the sewing is done, you should be able to name every part without turning the piece over twice.
+2. The body is one open cup.
+3. The top is a round mouth, the same stitch count as the last body round, with nothing stuffed inside.
+4. The flower, if you added one, sits on the front wall below that mouth.
+5. It does not cover the opening, and it has five petals.
+6. The strap is on the outside, near the top.
+7. The ring or clasp sits in the fold.
+8. Both ends of the strip are sewn to the sleeve, so the hardware is not a loose ring sitting beside the cup and not a single chain loop.
+9. Hung from the ring, the opening stays up and the base stays down.
+10. That is the point of sewing the strap at the top rather than at the bottom.
 
-The strap is on the outside, near the top. The ring or clasp sits in the fold. Both ends of the strip are sewn to the sleeve, so the hardware is not a loose ring sitting beside the cup and not a single chain loop.
-
-Hung from the ring, the opening stays up and the base stays down. That is the point of sewing the strap at the top rather than at the bottom.
+<div class="tip">
 
 These drawings show that arrangement. They are illustrations of the shape, not photographs of a finished sample.
+
+</div>
 
 ![The finished lipstick holder from the front, with a flower and a ring](../../assets/articles/lipstick-result-front.jpg "Illustration. Flower on the front, below the opening. The ring is in a short strap at the side.")
 
@@ -422,7 +773,11 @@ These drawings show that arrangement. They are illustrations of the shape, not p
 
 ![Five cream petals sewn on the pink sleeve](../../assets/articles/lipstick-result-flower.jpg "Illustration. Five petals. The flower is sewn on, and the opening is left clear.")
 
+<div class="warning">
+
 If your piece does not match this layout, fix the placement before you weave the last tail. A flower across the mouth, a strap at the base, or a ring that can slip out of the fold will show up the first time you hang it.
+
+</div>
 
 ## Quick pattern
 
@@ -469,81 +824,207 @@ Optional narrower base: stop at 12 after round 2, and keep 12 for the tube.
 
 ## Fit a different tube
 
-A few millimeters change this object. Adjust the count. Do not follow 18 because it was printed.
+#### Change the count, not the printed 18
 
-**Slim lipstick or many lip balms.** Try the 12-stitch base. Check after a few body rounds. If 12 is a struggle, change hook or yarn. Do not stretch 12 stitches around a tube that wants 18.
+1. A few millimeters change this object.
+2. Adjust the count.
+3. Do not follow 18 because it was printed.
 
-**Wide lipstick.** Use the 24-stitch round, then a back-loop round of 24, then a body of 24. Test after a few rounds.
+#### Slim lipstick or many lip balms
 
-**Square packaging.** A circle can go around a square, and the corners will press. Measure the width and the distance across the corners. A very boxy compact is a [makeup pouch](/how-to-crochet-a-makeup-pouch/), not this cylinder.
+1. Try the 12-stitch base.
+2. Check after a few body rounds.
+3. If 12 is a struggle, change hook or yarn.
+4. Do not stretch 12 stitches around a tube that wants 18.
 
-**Taller tube.** Add body rounds. Do not increase if the width stays the same. If the tube gets wider near the cap, the opening has to clear that wider part.
+#### Wide lipstick
 
-**Shorter tube.** Stop the body sooner. A sleeve taller than the product hides the cap.
+1. Use the 24-stitch round.
+2. Then a back-loop round of 24.
+3. Then a body of 24.
+4. Test after a few rounds.
+
+#### Square packaging
+
+1. A circle can go around a square, and the corners will press.
+2. Measure the width and the distance across the corners.
+3. A very boxy compact is a [makeup pouch](/how-to-crochet-a-makeup-pouch/), not this cylinder.
+
+#### Taller tube
+
+1. Add body rounds.
+2. Do not increase if the width stays the same.
+3. If the tube gets wider near the cap, the opening has to clear that wider part.
+
+#### Shorter tube
+
+1. Stop the body sooner.
+2. A sleeve taller than the product hides the cap.
 
 ### A gauge estimate, then a real try
 
-Crochet a small single-crochet swatch in the yarn and hook you will use.
+#### Multiply, then test the disc
 
-Suppose the swatch has 20 stitches across 8 cm. That is 20 divided by 8, or 2.5 stitches per centimeter. Suppose the tube measures 7.2 cm around. 7.2 times 2.5 is 18 stitches. That is why 18 is the starting count in this pattern. It is an example of the multiplication, not a promise that your swatch is 2.5 stitches per centimeter.
+1. Crochet a small single-crochet swatch in the yarn and hook you will use.
+2. Suppose the swatch has 20 stitches across 8 cm.
+3. That is 20 divided by 8, or 2.5 stitches per centimeter.
+4. Suppose the tube measures 7.2 cm around.
+5. 7.2 times 2.5 is 18 stitches.
+6. That is why 18 is the starting count in this pattern.
+7. It is an example of the multiplication, not a promise that your swatch is 2.5 stitches per centimeter.
+
+| Piece of the example | Number |
+| --- | --- |
+| Stitches across the swatch | 20 |
+| Width of that swatch | 8 cm |
+| Stitches per centimeter | 2.5 |
+| Tube around | 7.2 cm |
+| 7.2 times 2.5 | 18 stitches, the starting count |
+
+<div class="warning">
 
 A flat swatch is not a tube. The spiral, the fiber, and how snug you want the sleeve all move the result. Use the number to pick a start. Use the lipstick to accept it.
 
-Snug helps the tube stay. Too snug makes it a fight. Too loose and it falls out when the holder turns over. A smooth metal tube slips more than a textured one. There is no single ease number that covers both.
+</div>
+
+#### How snug is useful
+
+1. Snug helps the tube stay.
+2. Too snug makes it a fight.
+3. Too loose and it falls out when the holder turns over.
+4. A smooth metal tube slips more than a textured one.
+5. There is no single ease number that covers both.
 
 ## When it goes wrong
 
-**Too wide.** Count the body. An increase after the base is the usual cause. If the count is right, the hook is large for that tube, or you needed 12 stitches instead of 18. Remake a sleeve that is far too big. Decreasing only at the rim makes a neck, not a fit.
+#### Too wide
 
-**Too narrow.** Stop pushing the lipstick in. Check the count, the yarn, and the hook. A larger hook or the 24-stitch base is the usual repair.
+1. Count the body.
+2. An increase after the base is the usual cause.
+3. If the count is right, the hook is large for that tube, or you needed 12 stitches instead of 18.
+4. Remake a sleeve that is far too big.
+5. Decreasing only at the rim makes a neck, not a fit.
 
-**A hole in the bottom.** Pull the magic-ring tail, then weave it. If you used chain 2, close the center with the needle.
+#### Too narrow
 
-**The tube leans.** A spiral has a small jog. A strong lean means a missed stitch or an extra one, or tension that changed halfway up. Lay it down and look along the stitches.
+1. Stop pushing the lipstick in.
+2. Check the count, the yarn, and the hook.
+3. A larger hook or the 24-stitch base is the usual repair.
 
-**A tight mouth.** Take out a tight slip-stitch round. Fasten off from the single crochet, or redo the slip stitches loosely.
+#### A hole in the bottom
 
-**The strap grows.** Soft yarn and loose stitches stretch. Sew across more of the sleeve, shorten the strip, or remake the strip at a firmer tension. Find out whether the strip itself is growing or the sewing is opening.
+1. Pull the magic-ring tail, then weave it.
+2. If you used chain 2, close the center with the needle.
 
-**Uneven stitches.** Keep the yarn held the same way. Do not pick at single stitches to bully them into line after the fact.
+#### The tube leans
 
-**A flower that is too big.** Thinner yarn, a smaller hook, or embroidery instead.
+1. A spiral has a small jog.
+2. A strong lean means a missed stitch or an extra one, or tension that changed halfway up.
+3. Lay it down and look along the stitches.
+
+#### A tight mouth
+
+1. Take out a tight slip-stitch round.
+2. Fasten off from the single crochet, or redo the slip stitches loosely.
+
+#### The strap grows
+
+1. Soft yarn and loose stitches stretch.
+2. Sew across more of the sleeve, shorten the strip, or remake the strip at a firmer tension.
+3. Find out whether the strip itself is growing or the sewing is opening.
+
+#### Uneven stitches
+
+1. Keep the yarn held the same way.
+2. Do not pick at single stitches to bully them into line after the fact.
+
+#### A flower that is too big
+
+1. Use thinner yarn, a smaller hook, or embroidery instead.
 
 ## Color, without crowding the shape
 
-One main color, one contrast, and hardware that matches the scale of the sleeve is enough. An oversized clasp makes a light piece hang badly. A tiny ring is hard to sew around.
+#### Keep the palette small
 
-A two-tone sleeve changes color at the start of a round. Weave both ends. In a spiral, the color change shows a small step. That step can sit at the back, under the strap.
+1. One main color, one contrast, and hardware that matches the scale of the sleeve is enough.
+2. An oversized clasp makes a light piece hang badly.
+3. A tiny ring is hard to sew around.
 
-Stripes are the same rule: same stitch count, color change on a round, ends woven. The step in the spiral is still there.
+#### Change color at the marker
+
+1. A two-tone sleeve changes color at the start of a round.
+2. Weave both ends.
+3. In a spiral, the color change shows a small step.
+4. That step can sit at the back, under the strap.
+
+#### Stripes use the same stitch count
+
+1. Stripes are the same rule: same stitch count, color change on a round, ends woven.
+2. The step in the spiral is still there.
+
+<div class="tip">
 
 The strap should be long enough to use and short enough that the sleeve does not dangle far below the clasp.
 
+</div>
+
 ## Gifts and selling
 
-The piece is small, so it is a reasonable gift if you have checked it on the recipient's kind of tube, or you include the measurements of the sleeve you actually made. Skip decorations that snap off in a bag.
+#### A gift needs a checked tube
 
-If you sell finished holders, say what you know from the one in your hand: the fiber, the clasp, about how wide the opening is, about how tall the sleeve is, and that it will not fit every brand. Do not write that it fits all lipsticks. Price it from your time, yarn, hardware, and the rest of your costs.
+1. The piece is small, so it is a reasonable gift if you have checked it on the recipient's kind of tube, or you include the measurements of the sleeve you actually made.
+2. Skip decorations that snap off in a bag.
 
-Before a holder leaves you, look at the base, the walls, the opening with the tube in it, the strap, the hardware, the flower, and the tails.
+#### If you sell a finished holder
+
+1. Say what you know from the one in your hand: the fiber, the clasp, about how wide the opening is, about how tall the sleeve is, and that it will not fit every brand.
+2. Do not write that it fits all lipsticks.
+3. Price it from your time, yarn, hardware, and the rest of your costs.
+
+#### Look before it leaves
+
+1. Look at the base.
+2. Look at the walls.
+3. Look at the opening with the tube in it.
+4. Look at the strap, the hardware, the flower, and the tails.
 
 ## Care
 
-Spot-clean with a damp cloth and a little mild soap. Blot. Do not soak the metal if you can help it. Dry it fully before it goes back in a bag.
+#### Spot-clean
 
-If the yarn label allows washing, hand wash, reshape the damp sleeve, and dry it flat. Do not wring it. Take off hardware that will rust.
+1. Spot-clean with a damp cloth and a little mild soap.
+2. Blot.
+3. Do not soak the metal if you can help it.
+4. Dry it fully before it goes back in a bag.
+
+#### If the label allows washing
+
+1. Hand wash.
+2. Reshape the damp sleeve, and dry it flat.
+3. Do not wring it.
+4. Take off hardware that will rust.
+
+<div class="warning">
 
 Lipstick and other makeup stain cotton. The cap stays on so the product is not rubbing the yarn. If it leaks, take it out.
+
+</div>
 
 Check the strap when you would check any soft loop that carries a small weight.
 
 ## Rounds 1 to 4, one stitch at a time
 
-If the abbreviations are still noisy, work the standard 18-stitch base like this. Do not add stitches that are not in the list.
+#### Use only the stitches in the list
+
+1. If the abbreviations are still noisy, work the standard 18-stitch base like this.
+2. Do not add stitches that are not in the list.
 
 ### Round 1
 
-The ring is open. The chain you made to secure it is sitting on the hook and does not count.
+#### The chain on the hook is not stitch 1
+
+1. The ring is open.
+2. The chain you made to secure it is sitting on the hook and does not count.
 
 1. Insert the hook into the ring.
 2. Yarn over, pull up a loop. Two loops on the hook.
@@ -555,7 +1036,10 @@ The ring is open. The chain you made to secure it is sitting on the hook and doe
 
 ### Round 2
 
-You are putting two single crochet in every stitch. Say the pairs out loud if you lose the count.
+#### Two single crochet in every stitch of round 1
+
+1. You are putting two single crochet in every stitch.
+2. Say the pairs out loud if you lose the count.
 
 1. Stitch 1 of round 1: one single crochet, then another in the same stitch.
 2. Stitch 2: two single crochet.
@@ -564,13 +1048,24 @@ You are putting two single crochet in every stitch. Say the pairs out loud if yo
 5. Stitch 5: two single crochet.
 6. Stitch 6: two single crochet.
 
-You have used every stitch of round 1 exactly once as a home for an increase. The new count is 12. Move the marker to the first of those 12.
+#### The new count is 12
 
-If you have 11, one stitch of round 1 got only one single crochet. If you have 13, one stitch got three, or you worked into the chain.
+1. You have used every stitch of round 1 exactly once as a home for an increase.
+2. The new count is 12.
+3. Move the marker to the first of those 12.
+
+| Count | What happened |
+| --- | --- |
+| 12 | Every stitch of round 1 holds two single crochet. |
+| 11 | One stitch of round 1 got only one single crochet. |
+| 13 | One stitch got three, or you worked into the chain. |
 
 ### Round 3
 
-The repeat is "one, then two." Walk it.
+#### The repeat is one, then two
+
+1. The repeat is "one, then two."
+2. Walk it.
 
 1. Next stitch: 1 sc. Stitch after that: 2 sc. End of pair 1. Running count 3.
 2. Pair 2. Running count 6.
@@ -579,13 +1074,27 @@ The repeat is "one, then two." Walk it.
 5. Pair 5. Running count 15.
 6. Pair 6. Running count 18.
 
-Six pairs, and you should be back at the marker. If the marker arrives at 15, you skipped a pair. If it arrives at 21, one of the "one" stitches was actually an increase.
+#### Six pairs should land on 18
+
+1. Six pairs, and you should be back at the marker.
+
+| Where the marker arrives | What happened |
+| --- | --- |
+| 18 | Six pairs of one single crochet, then an increase. |
+| 15 | You skipped a pair. |
+| 21 | One of the "one" stitches was actually an increase. |
+
+<div class="tip">
 
 Set the lipstick on the disc now, before round 4. This is the cheapest moment to change your mind.
 
+</div>
+
 ### Round 4
 
-Back loop only, one single crochet per stitch, no extras.
+#### Back loop only, no extras
+
+1. Back loop only, one single crochet per stitch, no extras.
 
 1. Find the V on top of the first stitch.
 2. Hook under the back strand only.
@@ -593,21 +1102,53 @@ Back loop only, one single crochet per stitch, no extras.
 4. Do that 18 times.
 5. Count 18. The front strands you skipped should show as a ridge at the corner.
 
-Then the body is the same motion as round 4, except you go under both loops again. One stitch, one home, marker, count, repeat.
+#### The body goes under both loops again
+
+1. Then the body is the same motion as round 4, except you go under both loops again.
+2. One stitch, one home, marker, count, repeat.
 
 ## A second fit example
 
-The 7.2 cm circumference in the gauge section was one multiplication. Here is another, still an example, so you can see when 18 is the wrong start.
+#### See when 18 is the wrong start
 
-Suppose your swatch is 18 stitches across 8 cm. That is 18 divided by 8, or 2.25 stitches per centimeter. Suppose the tube is 6 cm around, a slim balm. 6 times 2.25 is 13.5. You cannot crochet half a stitch, so you would try 12 and then 14 only if 12 will not take the tube. You would not start at 18 and hope the fabric shrinks.
+1. The 7.2 cm circumference in the gauge section was one multiplication.
+2. Here is another, still an example, so you can see when 18 is the wrong start.
 
-Suppose the tube is 10 cm around and the same swatch is 2.25 stitches per centimeter. 10 times 2.25 is 22.5. The pattern's next full increase lands on 24, which is the nearer whole repeat. Try 24, and test after a few rounds. Do not invent a 23-stitch round by increasing once in the middle of the wall. A single extra increase makes a bump, not a size.
+#### A slim balm at 2.25 stitches per centimeter
+
+1. Suppose your swatch is 18 stitches across 8 cm.
+2. That is 18 divided by 8, or 2.25 stitches per centimeter.
+3. Suppose the tube is 6 cm around, a slim balm.
+4. 6 times 2.25 is 13.5.
+5. You cannot crochet half a stitch, so you would try 12 and then 14 only if 12 will not take the tube.
+6. You would not start at 18 and hope the fabric shrinks.
+
+#### A 10 cm tube on the same swatch
+
+1. Suppose the tube is 10 cm around and the same swatch is 2.25 stitches per centimeter.
+2. 10 times 2.25 is 22.5.
+3. The pattern's next full increase lands on 24, which is the nearer whole repeat.
+4. Try 24, and test after a few rounds.
+5. Do not invent a 23-stitch round by increasing once in the middle of the wall.
+6. A single extra increase makes a bump, not a size.
+
+| Example | Product | Start that matches the repeat | Start to refuse |
+| --- | --- | --- | --- |
+| 20 stitches across 8 cm, tube 7.2 cm around, 2.5 per cm | 18 | 18, the printed starting count | Treating 18 as a promise for a different swatch |
+| 18 stitches across 8 cm, tube 6 cm around, 2.25 per cm | 13.5 | 12, then 14 only if 12 will not take the tube | 18, hoping the fabric shrinks |
+| Same 2.25 swatch, tube 10 cm around | 22.5 | 24, the next full increase | A 23-stitch round made by one extra increase in the wall |
+
+<div class="tip">
 
 Write your own two numbers, stitches per centimeter and centimeters around the tube, and multiply. Then ignore the product if the disc on the table disagrees with it.
 
+</div>
+
 ## Changing color on the tube
 
-A second color starts at the beginning of a round, at the marker.
+#### Start the new color at the marker
+
+1. A second color starts at the beginning of a round, at the marker.
 
 1. On the last stitch of the old color, stop when two loops are still on the hook.
 2. Drop the old color. Put the new color over the hook and pull it through those two loops.
@@ -615,13 +1156,23 @@ A second color starts at the beginning of a round, at the marker.
 4. Carry nothing up the inside unless you are coming back to that color within a round or two. For a sleeve this small, cut the old color and weave it.
 5. Weave the new tail in the opposite direction from the old tail so they are not a lump in one spot.
 
-In a spiral the color change looks like a step, not a straight line around the tube. Put that step at the back, on the same side as the strap, if you care where it shows.
+#### Put the step at the back
 
-For narrow stripes, change every two or three rounds and keep the same stitch count. If you change in the middle of a round, you get a jagged patch. Wait for the marker.
+1. In a spiral the color change looks like a step, not a straight line around the tube.
+2. Put that step at the back, on the same side as the strap, if you care where it shows.
+
+#### Narrow stripes
+
+1. For narrow stripes, change every two or three rounds and keep the same stitch count.
+2. If you change in the middle of a round, you get a jagged patch.
+3. Wait for the marker.
 
 ## Strap, row by row
 
-Chain 6. The loop on the hook is not one of the six.
+#### The loop on the hook is not one of the six
+
+1. Chain 6.
+2. The loop on the hook is not one of the six.
 
 1. Skip the chain nearest the hook. Single crochet in the next chain. That is strap stitch 1.
 2. One single crochet in each of the remaining four chains. Five stitches.
@@ -629,13 +1180,32 @@ Chain 6. The loop on the hook is not one of the six.
 4. Single crochet in each of the five stitches.
 5. Repeat the turn-and-five until the folded strip goes around the hardware with both ends long enough to sew.
 
-Eighteen rows is only a place to stop and fold. Fold at row 12 if the clasp is small. Keep going past 18 if the clasp is thick. Count five across every row. Six means you crocheted into the turning chain. Four means you missed an edge stitch.
+#### Fold when the hardware fits
+
+1. Eighteen rows is only a place to stop and fold.
+2. Fold at row 12 if the clasp is small.
+3. Keep going past 18 if the clasp is thick.
+4. Count five across every row.
+
+| Stitches across the row | What happened |
+| --- | --- |
+| 5 | The turning chain was skipped. |
+| 6 | You crocheted into the turning chain. |
+| 4 | You missed an edge stitch. |
+
+<div class="tip">
 
 When you fold, the ring should sit in yarn, not on a single strand you pulled out to the side. Both ends lie flat on the sleeve, one on top of the other or side by side, and the needle goes through both.
 
+</div>
+
 ## Sew the strap in two passes
 
-Clip the folded ends where you want them, with the opening still clear. Use the long tail. Do not start a new piece of yarn if the tail is long enough.
+#### Clip before the first stitch
+
+1. Clip the folded ends where you want them, with the opening still clear.
+2. Use the long tail.
+3. Do not start a new piece of yarn if the tail is long enough.
 
 Pass one:
 
@@ -651,27 +1221,49 @@ Pass two:
 2. Finish on the inside.
 3. Weave the tail through the inside stitches, change direction once, and trim.
 
-Pull the clasp. The sleeve should come with it as one piece. If the strap rotates inside the ring, the fold is too loose. Sew a couple of stitches through the fold just under the metal so the ring stays in the pocket of yarn you made for it. Those stitches should not close the opening of the sleeve.
+#### Pull the clasp
+
+1. Pull the clasp. The sleeve should come with it as one piece.
+2. If the strap rotates inside the ring, the fold is too loose.
+3. Sew a couple of stitches through the fold just under the metal so the ring stays in the pocket of yarn you made for it.
+4. Those stitches should not close the opening of the sleeve.
 
 ## The flower, petal by petal
 
-After the five single crochet and the slip stitch join, you have five stems to put a petal on. Keep the flower flat on the table while you do this, so you can see which stitch is next.
+#### Five stems, one petal each
 
-Petal 1, in the first of the five stitches: slip stitch, chain 2, half double crochet, half double crochet, chain 2, slip stitch. All of that is in the same stitch.
+1. After the five single crochet and the slip stitch join, you have five stems to put a petal on.
+2. Keep the flower flat on the table while you do this, so you can see which stitch is next.
 
-Petal 2, in the next stitch: the same sequence.
+1. Petal 1, in the first of the five stitches: slip stitch, chain 2, half double crochet, half double crochet, chain 2, slip stitch. All of that is in the same stitch.
+2. Petal 2, in the next stitch: the same sequence.
+3. Petal 3, petal 4, and petal 5: the same sequence, one stitch each.
+4. You should be back at the first petal, with no stitch left empty and no stitch holding two petals.
+5. Fasten off.
 
-Petal 3, petal 4, and petal 5: the same sequence, one stitch each.
+#### Half double, not double
 
-You should be back at the first petal, with no stitch left empty and no stitch holding two petals. Fasten off.
+1. A half double crochet is yarn over, insert the hook, pull up a loop, yarn over, pull through all three loops.
+2. If you pull through two and then two, you have made a double crochet, and the petal will be taller than the others.
+3. Rip that petal back and use the three-loop pull-through.
 
-A half double crochet is yarn over, insert the hook, pull up a loop, yarn over, pull through all three loops. If you pull through two and then two, you have made a double crochet, and the petal will be taller than the others. Rip that petal back and use the three-loop pull-through.
+<div class="warning">
 
-Sew the flower with the tail, through the center ring and the sleeve, four or five stitches. Then catch the base of any petal that sticks straight out. The opening of the sleeve stays above the flower.
+A double crochet petal is taller than the half double petals beside it. The sequence is 2 hdc, not 2 dc.
+
+</div>
+
+#### Sew through the center
+
+1. Sew the flower with the tail, through the center ring and the sleeve, four or five stitches.
+2. Then catch the base of any petal that sticks straight out.
+3. The opening of the sleeve stays above the flower.
 
 ## What to check before you give it away
 
-Go in this order. Each one is a yes or a no.
+#### Eight yes-or-no checks
+
+1. Go in this order. Each one is a yes or a no.
 
 1. The center of the base is closed.
 2. The body count matches the base you chose, on a round near the top and on a round near the ridge.
@@ -682,7 +1274,11 @@ Go in this order. Each one is a yes or a no.
 7. The flower, if there is one, is below the opening.
 8. The inside has no tail you can pinch.
 
-If you are selling the holder, those eight checks are the listing, in plainer words: fiber, clasp type, about how wide the opening is on the one you measured, about how tall the sleeve is, and that another brand may not match. Measure with a tape on the finished sleeve. Do not copy the example centimeters from this page into a product note.
+#### If the eight checks become a listing
+
+1. If you are selling the holder, those eight checks are the listing, in plainer words: fiber, clasp type, about how wide the opening is on the one you measured, about how tall the sleeve is, and that another brand may not match.
+2. Measure with a tape on the finished sleeve.
+3. Do not copy the example centimeters from this page into a product note.
 
 ## Frequently asked
 
@@ -692,11 +1288,20 @@ The sleeve is a magic ring, single crochet, increases, and a spiral. The strap i
 
 ### How long does the crochet take?
 
-The tube is most of the work. The strap and the flower are short. A first magic ring, or a first sewn clasp, takes longer than the same steps the next time. There is no timed sample behind a single number of minutes.
+#### What takes the time
+
+1. The tube is most of the work.
+2. The strap and the flower are short.
+3. A first magic ring, or a first sewn clasp, takes longer than the same steps the next time.
+4. There is no timed sample behind a single number of minutes.
 
 ### What yarn should I use?
 
-Smooth DK cotton is the useful start, because you can see the stitches and the fabric can stay firm. The hook you start with is 3.0 mm. Change it if the fabric is stiff or holey.
+#### Start where the stitches show
+
+1. Smooth DK cotton is the useful start, because you can see the stitches and the fabric can stay firm.
+2. The hook you start with is 3.0 mm.
+3. Change it if the fabric is stiff or holey.
 
 ### Can I skip the magic ring?
 
@@ -704,7 +1309,12 @@ Yes. Chain 2, and put the six single crochet into the second chain from the hook
 
 ### Will 18 stitches fit my lipstick?
 
-Maybe. It is the count you get from 6, then 12, then 18, and it matches the example gauge in the section above. Your tube and your tension decide. Try the base before round 5.
+#### 18 is a start, then the tube decides
+
+1. Maybe.
+2. It is the count you get from 6, then 12, then 18, and it matches the example gauge in the section above.
+3. Your tube and your tension decide.
+4. Try the base before round 5.
 
 ### Can I use acrylic?
 
@@ -724,11 +1334,19 @@ No. Compare your tube with the sleeve you made.
 
 ### Can it hold lip balm?
 
-The same tube can, at a stitch count that matches that balm. Many balm tubes are slimmer. Start at 12 and test.
+#### Match the balm, often at 12
+
+1. The same tube can, at a stitch count that matches that balm.
+2. Many balm tubes are slimmer.
+3. Start at 12 and test.
 
 ### How do I keep the lipstick from falling out?
 
-A snug sleeve helps. An open top cannot promise the tube will stay in if the holder turns upside down and gets a knock. Keep it inside the bag, or plan a flap you have actually tried with the cap in place.
+#### Snug helps. An open top does not lock
+
+1. A snug sleeve helps.
+2. An open top cannot promise the tube will stay in if the holder turns upside down and gets a knock.
+3. Keep it inside the bag, or plan a flap you have actually tried with the cap in place.
 
 ### Can I add a button?
 
@@ -740,7 +1358,11 @@ You do not need to. If you add cloth, the lipstick still has to fit in what rema
 
 ### Can I sell holders from this pattern?
 
-You can sell a holder you made and checked. Say what that holder measures. Do not describe an untried stitch count as a fit you have confirmed.
+#### Say what you measured
+
+1. You can sell a holder you made and checked.
+2. Say what that holder measures.
+3. Do not describe an untried stitch count as a fit you have confirmed.
 
 ### What else uses these rounds?
 
@@ -757,6 +1379,22 @@ The same base-and-tube idea shows up in the [AirPods case](/halloween-crochet-ai
 - Stuffing the sleeve.
 - Calling 18 stitches a universal lipstick size.
 
+<div class="tip">
+
 The useful check is the same at the start and at the end. The closed tube goes in, the cap comes out, and the strap holds when you lift it.
 
-If you set the holder down for a day and come back, count the top round once more before you weave the last tail. A sleeve that was 18 in the middle and 19 at the rim will not match the base you tested. Fix that round, then weave. The marker is there so this count takes a few seconds. When the top round matches the base, the sleeve you measured is the sleeve you are finishing. Count it in the same light you used when you first set the lipstick on the disc.
+</div>
+
+#### Count the top round again before the last tail
+
+1. If you set the holder down for a day and come back, count the top round once more before you weave the last tail.
+2. A sleeve that was 18 in the middle and 19 at the rim will not match the base you tested.
+3. Fix that round, then weave.
+4. The marker is there so this count takes a few seconds.
+5. When the top round matches the base, the sleeve you measured is the sleeve you are finishing.
+6. Count it in the same light you used when you first set the lipstick on the disc.
+
+| Where you count an 18-stitch sleeve | What to do |
+| --- | --- |
+| 18 in the middle and 18 at the rim | Weave the last tail. |
+| 18 in the middle and 19 at the rim | Fix that round, then weave. The base you tested is not the rim you have. |

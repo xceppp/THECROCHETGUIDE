@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>An eyelet round that divides, and one that does not</title>
+<desc>Even holes when the repeat divides the stitch count. A short last gap when it does not, so the cord bunches. On 54 stitches, sc 4, ch 2, skip 2, nine times. The next round puts 2 single crochet in each ch-2 space and returns to 54. One single crochet in that space drops the round to 45.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">Count the holes before you cord</text>
+<rect x="16" y="60" width="300" height="230" rx="8" fill="#f6efe6"/>
+<text x="28" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Divides evenly</text>
+<circle cx="70" cy="160" r="14" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="120" cy="160" r="14" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="170" cy="160" r="14" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="220" cy="160" r="14" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="270" cy="160" r="14" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<text x="28" y="220" font-size="16" fill="#6d635a">54 stitches, 9 large holes.</text>
+<text x="28" y="244" font-size="16" fill="#6d635a">30 stitches, 15 small holes.</text>
+<text x="28" y="268" font-size="16" fill="#6d635a">48 stitches, 24 small holes.</text>
+<rect x="328" y="60" width="296" height="230" rx="8" fill="#f6efe6"/>
+<text x="340" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Last gap short</text>
+<circle cx="380" cy="160" r="14" fill="none" stroke="#b0604a" stroke-width="3"/>
+<circle cx="430" cy="160" r="14" fill="none" stroke="#b0604a" stroke-width="3"/>
+<circle cx="480" cy="160" r="14" fill="none" stroke="#b0604a" stroke-width="3"/>
+<path d="M530 148 H590" stroke="#b0604a" stroke-width="3"/>
+<text x="340" y="220" font-size="16" fill="#6d635a">Repeat did not divide.</text>
+<text x="340" y="244" font-size="16" fill="#6d635a">Cord bunches at one spot.</text>
+<text x="340" y="268" font-size="16" fill="#6d635a">Rip the eyelet round.</text>
+<rect x="16" y="306" width="608" height="96" rx="8" fill="#e6ddd1"/>
+<text x="32" y="338" font-size="16" fill="#2f2a26">Next round, large holes: 4 sc in the 4 sc, and 2 sc in each ch-2 space. Count 54.</text>
+<text x="32" y="362" font-size="16" fill="#2f2a26">One sc in that space makes 45 and the rim narrows. Redo that round before the cord.</text>
+<text x="32" y="386" font-size="16" fill="#2f2a26">Small holes: 1 sc in each sc and 1 sc in each ch-1 space, back to the even count.</text>
+</svg>

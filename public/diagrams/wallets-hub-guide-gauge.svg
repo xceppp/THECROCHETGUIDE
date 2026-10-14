@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Two gauges for the Halloween wallet set</title>
+<desc>Four wallets share a plain single crochet gauge of 16 stitches and 20 rows to 4 inches. The pumpkin is back loop only, so its row gauge is measured on a second swatch and the piece is worked to 4.25 inches.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="20" y="36" font-size="22" fill="#2f2a26" font-weight="bold">Swatch the fabric that wallet uses</text>
+<rect x="16" y="56" width="296" height="300" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="32" y="88" font-size="18" fill="#2f2a26" font-weight="bold">Plain single crochet</text>
+<rect x="40" y="108" width="160" height="120" fill="#fdfaf6" stroke="#2f2a26" stroke-width="2"/>
+<text x="120" y="164" font-size="16" fill="#6d635a" text-anchor="middle">middle 4 inches</text>
+<text x="120" y="188" font-size="16" fill="#2f2a26" text-anchor="middle">16 sc, 20 rows</text>
+<text x="32" y="260" font-size="16" fill="#2f2a26">Cat, ghost, witch hat,</text>
+<text x="32" y="284" font-size="16" fill="#2f2a26">and spiderweb.</text>
+<text x="32" y="320" font-size="16" fill="#6d635a">17 or 18 stitches: larger hook.</text>
+<rect x="328" y="56" width="296" height="300" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="344" y="88" font-size="18" fill="#2f2a26" font-weight="bold">Back loop only</text>
+<rect x="352" y="108" width="160" height="120" fill="#fdfaf6" stroke="#b0604a" stroke-width="2"/>
+<path d="M368 128 H496 M368 148 H496 M368 168 H496 M368 188 H496 M368 208 H496" stroke="#b0604a" stroke-width="2"/>
+<text x="432" y="250" font-size="16" fill="#2f2a26" text-anchor="middle">Pumpkin only</text>
+<text x="344" y="284" font-size="16" fill="#2f2a26">Measure this swatch apart</text>
+<text x="344" y="308" font-size="16" fill="#2f2a26">from the plain one.</text>
+<text x="344" y="340" font-size="16" fill="#6d635a">Work until the piece is 4.25 in.</text>
+<text x="20" y="388" font-size="16" fill="#6d635a">A matching plain swatch does not prove a card will fit. Slide a real card in later.</text>
+</g>
+</svg>

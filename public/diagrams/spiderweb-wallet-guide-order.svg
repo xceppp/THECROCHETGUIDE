@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Spiderweb wallet closing order</title>
+<desc>Fold between row 13 and row 14. Pair thirteen row ends on each side and leave rows 27 to 34 free. Embroider only after the flap is folded closed. Mark the button with cards inside and sew it through the front wall only.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50" font-size="22">Close the pocket without sewing the flap</text>
+<text class="label" x="32" y="98">1. Fold between row 13 and row 14</text>
+<text class="soft" x="56" y="128">Row 13 meets row 14. Row 1 meets row 26.</text>
+<text class="label" x="32" y="170">2. Draw the web on the closed flap</text>
+<text class="soft" x="56" y="200">Needle stays in the flap. It does not enter the pocket.</text>
+<text class="label" x="32" y="242">3. Seam 13 paired row ends on each side</text>
+<text class="soft" x="56" y="272">Rows 27 to 34 stay free above the fold.</text>
+<text class="label" x="32" y="314">4. Cards in, then mark the loop</text>
+<text class="soft" x="56" y="344">Sew the button through the front wall only.</text>
+<text class="soft" x="32" y="386">A needle that exits inside the pocket has closed it.</text>
+</svg>

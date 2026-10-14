@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Stop the base when it matches the bottom</title>
+<desc>Lay the circle flat on the real bottom. Flat and the right width is ready for even rounds. A ruffle means too many increases. A bowl means the ring or the early stitches are tight. Coin-pouch example: 30 stitches, about 2.4 inches across. Candy-bag example: 54 stitches, about 4.3 inches across.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">Lay the circle on the real bottom</text>
+<rect x="16" y="60" width="196" height="270" rx="8" fill="#f6efe6"/>
+<text x="28" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Flat</text>
+<circle cx="114" cy="170" r="52" fill="#fdfaf6" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="114" cy="170" r="8" fill="#b0604a"/>
+<text x="28" y="250" font-size="16" fill="#6d635a">Matches the bottom.</text>
+<text x="28" y="272" font-size="16" fill="#6d635a">Stop increasing.</text>
+<text x="28" y="300" font-size="16" fill="#2f2a26">30 st, about 2.4 in</text>
+<rect x="220" y="60" width="196" height="270" rx="8" fill="#f6efe6"/>
+<text x="232" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Ruffle</text>
+<path d="M270 150 Q290 120 310 155 Q330 190 318 210 Q290 230 268 200 Q250 175 270 150" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<text x="232" y="250" font-size="16" fill="#6d635a">Too many increases.</text>
+<text x="232" y="272" font-size="16" fill="#6d635a">Rip one round.</text>
+<text x="232" y="300" font-size="16" fill="#2f2a26">Wavy edge, will not sit</text>
+<rect x="424" y="60" width="200" height="270" rx="8" fill="#f6efe6"/>
+<text x="436" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Bowl</text>
+<ellipse cx="524" cy="180" rx="48" ry="28" fill="none" stroke="#b0604a" stroke-width="3"/>
+<path d="M476 180 Q524 230 572 180" fill="none" stroke="#6d635a" stroke-width="2"/>
+<text x="436" y="250" font-size="16" fill="#6d635a">Ring or stitches tight.</text>
+<text x="436" y="272" font-size="16" fill="#6d635a">Loosen rounds 1 to 5.</text>
+<text x="436" y="300" font-size="16" fill="#2f2a26">Bag will tip.</text>
+<text x="24" y="360" font-size="16" fill="#2f2a26">54 stitches is about 4.3 inches across at 4 single crochet to the inch.</text>
+<text x="24" y="388" font-size="16" fill="#6d635a">End on a count the eyelet round can divide: even, or a multiple of 6.</text>
+</svg>

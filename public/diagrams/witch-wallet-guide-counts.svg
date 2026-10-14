@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Witch hat wallet row zones</title>
+<desc>One 17-stitch rectangle. Rows 1 to 12 are the front, rows 13 to 24 the back, and rows 25 to 33 the flap. Row 31 holds the buttonhole. The divider is a separate piece of 17 stitches and 11 rows.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50">One rectangle, three zones, plus a divider</text>
+<rect x="32" y="78" width="250" height="70" fill="#fdfaf6" stroke="#2f2a26" stroke-width="3"/>
+<text class="soft" x="44" y="108">Rows 1 to 12</text>
+<text class="soft" x="44" y="134">Front, 17 sc</text>
+<rect x="32" y="156" width="250" height="70" fill="#e6ddd1" stroke="#2f2a26" stroke-width="3"/>
+<text class="soft" x="44" y="186">Rows 13 to 24</text>
+<text class="soft" x="44" y="212">Back, 17 sc</text>
+<rect x="32" y="234" width="250" height="100" fill="#f6efe6" stroke="#b0604a" stroke-width="3"/>
+<text class="soft" x="44" y="264">Rows 25 to 33, flap</text>
+<text class="soft" x="44" y="290">Hole on row 31</text>
+<text class="soft" x="44" y="316">Row 33 ends at 15</text>
+<text class="label" x="320" y="120">Divider</text>
+<text class="soft" x="320" y="156">17 stitches</text>
+<text class="soft" x="320" y="188">11 rows, then stop</text>
+<text class="soft" x="320" y="236">One row shorter</text>
+<text class="soft" x="320" y="268">than the 12-row front</text>
+<text class="soft" x="320" y="330">Marker at row 12</text>
+<text class="soft" x="320" y="362">Marker at row 24</text>
+</svg>

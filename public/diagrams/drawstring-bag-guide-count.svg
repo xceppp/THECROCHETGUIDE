@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Move the marker and count the increases</title>
+<desc>A spiral has no seam, so a marker in the first stitch is the start of the round. Each increase round adds six stitches, one more plain stitch between increases. Even rounds keep that count. If the marker count and the stitch count disagree, stop and recount before the next round.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">The marker is the start of the round</text>
+<circle cx="168" cy="200" r="100" fill="#f6efe6" stroke="#2f2a26" stroke-width="3"/>
+<circle cx="168" cy="200" r="62" fill="#fdfaf6" stroke="#e6ddd1" stroke-width="8"/>
+<circle cx="168" cy="200" r="28" fill="#f6efe6" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="168" cy="100" r="10" fill="#b0604a"/>
+<text x="148" y="208" font-size="16" fill="#2f2a26">+6</text>
+<text x="300" y="100" font-size="18" fill="#2f2a26" font-weight="bold">Increase rounds</text>
+<text x="300" y="128" font-size="16" fill="#6d635a">Round 1: 6 in the ring</text>
+<text x="300" y="152" font-size="16" fill="#6d635a">Then 12, 18, 24, 30</text>
+<text x="300" y="176" font-size="16" fill="#6d635a">One more plain stitch</text>
+<text x="300" y="200" font-size="16" fill="#6d635a">between increases</text>
+<text x="300" y="240" font-size="18" fill="#2f2a26" font-weight="bold">Even rounds</text>
+<text x="300" y="268" font-size="16" fill="#6d635a">Same count every round.</text>
+<text x="300" y="292" font-size="16" fill="#6d635a">That count is the tube</text>
+<text x="300" y="316" font-size="16" fill="#6d635a">and the eyelet round.</text>
+<rect x="16" y="340" width="608" height="64" rx="8" fill="#e6ddd1"/>
+<text x="32" y="368" font-size="16" fill="#2f2a26">If you cannot find the marker, count back from a known round before you increase again.</text>
+<text x="32" y="390" font-size="16" fill="#2f2a26">An extra increase ruffles. A missed increase makes a flat spot and a short count.</text>
+</svg>

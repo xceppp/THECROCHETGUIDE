@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Closure choices for the five Halloween wallets</title>
+<desc>Cat uses a snap on the flap and front. Ghost hides a snap inside two panels. Pumpkin uses a leaf tab and a snap. Witch hat uses a worked buttonhole and a 5/8 inch button. Spiderweb uses a chain loop at the point. Every closure is sewn through one layer.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="20" y="34" font-size="22" fill="#2f2a26" font-weight="bold">Five closures, one sewing rule</text>
+<rect x="16" y="52" width="196" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="78" font-size="18" fill="#2f2a26" font-weight="bold">Cat snap</text>
+<circle cx="70" cy="124" r="16" fill="none" stroke="#b0604a" stroke-width="3"/>
+<circle cx="130" cy="124" r="10" fill="#b0604a"/>
+<text x="28" y="170" font-size="16" fill="#6d635a">Ball on flap.</text>
+<text x="28" y="190" font-size="16" fill="#6d635a">Socket on front.</text>
+<rect x="222" y="52" width="196" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="234" y="78" font-size="18" fill="#2f2a26" font-weight="bold">Ghost snap</text>
+<rect x="246" y="100" width="70" height="50" fill="#fdfaf6" stroke="#2f2a26"/>
+<rect x="268" y="112" width="70" height="50" fill="#7d8b72"/>
+<text x="234" y="176" font-size="16" fill="#6d635a">Hidden between</text>
+<text x="234" y="196" font-size="16" fill="#6d635a">the two panels.</text>
+<rect x="428" y="52" width="196" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="440" y="78" font-size="18" fill="#2f2a26" font-weight="bold">Leaf tab</text>
+<path d="M470 150 L526 100 L560 150 Z" fill="#7d8b72" stroke="#2f2a26"/>
+<text x="440" y="184" font-size="16" fill="#6d635a">Tab over both rims.</text>
+<rect x="16" y="214" width="296" height="140" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="242" font-size="18" fill="#2f2a26" font-weight="bold">Witch buttonhole</text>
+<rect x="40" y="260" width="120" height="36" fill="#fdfaf6" stroke="#2f2a26"/>
+<rect x="78" y="268" width="40" height="20" fill="#fdfaf6" stroke="#b0604a" stroke-width="2"/>
+<text x="180" y="284" font-size="16" fill="#6d635a">5/8 in button.</text>
+<text x="28" y="328" font-size="16" fill="#6d635a">Hole is crocheted in the flap row.</text>
+<rect x="328" y="214" width="296" height="140" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="340" y="242" font-size="18" fill="#2f2a26" font-weight="bold">Web loop</text>
+<polygon points="400,260 470,260 448,310 422,310" fill="#2f2a26"/>
+<ellipse cx="435" cy="324" rx="18" ry="12" fill="none" stroke="#b0604a" stroke-width="3"/>
+<text x="470" y="300" font-size="16" fill="#6d635a">Loop at the</text>
+<text x="470" y="322" font-size="16" fill="#6d635a">point. Button</text>
+<text x="470" y="344" font-size="16" fill="#6d635a">on the front.</text>
+<text x="20" y="390" font-size="16" fill="#6d635a">Sew through one layer. A needle that catches the back wall closes the pocket.</text>
+</g>
+</svg>

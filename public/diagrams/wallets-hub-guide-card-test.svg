@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>When to test a card in each Halloween wallet</title>
+<desc>Black cat: test at round 10. Ghost: lay the card on the front panel before the joining round. Pumpkin: test before the fold. Witch hat: test both pockets before the button is sewn. Spiderweb: test before the side seams, then mark the loop with cards inside.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="20" y="34" font-size="22" fill="#2f2a26" font-weight="bold">Put the card in before the closure</text>
+<rect x="16" y="52" width="608" height="58" rx="6" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="76" font-size="18" fill="#b0604a" font-weight="bold">Cat</text>
+<text x="120" y="76" font-size="16" fill="#2f2a26">Round 10, tube still open. Fix the hook before the flap.</text>
+<text x="120" y="98" font-size="16" fill="#6d635a">Inside plan about 3.8 by 2.3 in.</text>
+<rect x="16" y="118" width="608" height="58" rx="6" fill="#fdfaf6" stroke="#e6ddd1"/>
+<text x="28" y="142" font-size="18" fill="#b0604a" font-weight="bold">Ghost</text>
+<text x="120" y="142" font-size="16" fill="#2f2a26">Card on the front panel before any joining stitches.</text>
+<text x="120" y="164" font-size="16" fill="#6d635a">Inside plan about 3.9 by 2.7 in.</text>
+<rect x="16" y="184" width="608" height="58" rx="6" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="208" font-size="18" fill="#b0604a" font-weight="bold">Pumpkin</text>
+<text x="140" y="208" font-size="16" fill="#2f2a26">Card on the flat ribs before the fold and the seams.</text>
+<text x="140" y="230" font-size="16" fill="#6d635a">Inside plan about 3.9 by 2.4 in.</text>
+<rect x="16" y="250" width="608" height="58" rx="6" fill="#fdfaf6" stroke="#e6ddd1"/>
+<text x="28" y="274" font-size="18" fill="#b0604a" font-weight="bold">Witch</text>
+<text x="120" y="274" font-size="16" fill="#2f2a26">One card in each pocket before the button is sewn.</text>
+<text x="120" y="296" font-size="16" fill="#6d635a">Each pocket about 3.9 by 2.3 in on the plan.</text>
+<rect x="16" y="316" width="608" height="58" rx="6" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="340" font-size="18" fill="#b0604a" font-weight="bold">Web</text>
+<text x="120" y="340" font-size="16" fill="#2f2a26">Card in before the side seams. Mark the loop with cards in.</text>
+<text x="120" y="362" font-size="16" fill="#6d635a">Inside plan about 3.9 by 2.5 in.</text>
+<text x="20" y="402" font-size="16" fill="#6d635a">ID-1 card is 3.370 by 2.125 in. These insides are paper plans, not measured samples.</text>
+</g>
+</svg>

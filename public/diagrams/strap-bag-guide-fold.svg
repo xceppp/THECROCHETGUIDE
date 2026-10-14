@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>A fold that meets and two that do not</title>
+<desc>Three folds of the bag body. Equal faces meet at the top and the side seams run on matching row ends. A short face leaves the contents above the opening. A wedge from a drifting stitch count makes one side longer, so the fold will not lie square. Correct the rectangle before you seam.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">Check the fold before you seam</text>
+<rect x="16" y="60" width="196" height="280" rx="8" fill="#f6efe6"/>
+<text x="28" y="88" font-size="18" fill="#2f2a26" font-weight="bold">Equal faces</text>
+<rect x="58" y="108" width="110" height="150" fill="#fdfaf6" stroke="#7d8b72" stroke-width="3"/>
+<line x1="58" y1="183" x2="168" y2="183" stroke="#b0604a" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="28" y="286" font-size="16" fill="#6d635a">Row 1 meets the</text>
+<text x="28" y="308" font-size="16" fill="#6d635a">last row. Seam.</text>
+<rect x="220" y="60" width="196" height="280" rx="8" fill="#f6efe6"/>
+<text x="232" y="88" font-size="18" fill="#2f2a26" font-weight="bold">Short face</text>
+<rect x="262" y="140" width="110" height="110" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<rect x="278" y="112" width="78" height="36" fill="#e6ddd1" stroke="#2f2a26" stroke-width="2"/>
+<text x="232" y="286" font-size="16" fill="#6d635a">Contents sit above</text>
+<text x="232" y="308" font-size="16" fill="#6d635a">the opening. Add rows.</text>
+<rect x="424" y="60" width="200" height="280" rx="8" fill="#f6efe6"/>
+<text x="436" y="88" font-size="18" fill="#2f2a26" font-weight="bold">Wedge</text>
+<path d="M466 120 L586 150 L560 270 L446 250 Z" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<text x="436" y="286" font-size="16" fill="#6d635a">One side gained or</text>
+<text x="436" y="308" font-size="16" fill="#6d635a">lost stitches. Rip back.</text>
+<text x="24" y="370" font-size="16" fill="#2f2a26">Phone example: 70 rows, two faces of 35. Shoulder example: 66 rows, two faces of 33.</text>
+<text x="24" y="396" font-size="16" fill="#6d635a">If the faces differ, fix the rectangle. A tight seam will not add the missing rows.</text>
+</svg>

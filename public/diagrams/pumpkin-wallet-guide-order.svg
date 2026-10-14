@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Pumpkin wallet finishing order</title>
+<desc>Embroider the face on the front half, fold right side out between stitches 10 and 11, seam both short edges, sew the leaf tab inside the back rim, mark the snap with a card inside, then stand the rolled stem on the tab base.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52" font-size="22">Order that keeps the stem on the back rim</text>
+<text class="label" x="32" y="100">1. Face on stitches 1 to 10 only</text>
+<text class="soft" x="56" y="128">Leave rows 10 to 13, stitches 1 to 5 empty</text>
+<text class="label" x="32" y="168">2. Fold between stitch 10 and stitch 11</text>
+<text class="soft" x="56" y="196">Right side out. Pair 10 with 11 through 1 with 20</text>
+<text class="label" x="32" y="236">3. Whipstitch both short edges, then test a card</text>
+<text class="label" x="32" y="276">4. Tab inside the back rim, snap marked with a card</text>
+<text class="soft" x="56" y="304">Ball on tab row 6. Socket through the front layer</text>
+<text class="label" x="32" y="344">5. Roll the 6-stitch width, not the short end</text>
+<text class="soft" x="56" y="372">Stand that short cylinder on the tab base</text>
+</svg>

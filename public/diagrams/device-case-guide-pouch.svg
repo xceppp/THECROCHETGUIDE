@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Size a round pouch from the perimeter and the footprint</title>
+<desc>The tube follows the distance around the item, not the width alone. Earbud example: 2 times 1.9 plus 0.9 is 5.6 inches, plus about an inch of ease, 27 stitches. Set the item on the flat base. If rectangular corners hang off the circle, the round pouch is the wrong construction. Use the folded sleeve, or add stitches before the wall.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">Around the item, then under the corners</text>
+<rect x="16" y="60" width="300" height="230" rx="8" fill="#f6efe6"/>
+<text x="28" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Perimeter</text>
+<rect x="70" y="120" width="120" height="70" fill="#fdfaf6" stroke="#2f2a26" stroke-width="3"/>
+<text x="78" y="160" font-size="16" fill="#6d635a">1.9 by 0.9</text>
+<text x="28" y="220" font-size="16" fill="#2f2a26">2 x (1.9 + 0.9) = 5.6 in</text>
+<text x="28" y="248" font-size="16" fill="#6d635a">Plus about 1 in ease</text>
+<text x="28" y="272" font-size="16" fill="#2f2a26">27 sc at 4 per inch</text>
+<rect x="328" y="60" width="296" height="230" rx="8" fill="#f6efe6"/>
+<text x="340" y="90" font-size="18" fill="#2f2a26" font-weight="bold">Footprint</text>
+<circle cx="476" cy="170" r="62" fill="#fdfaf6" stroke="#7d8b72" stroke-width="3"/>
+<rect x="440" y="140" width="90" height="60" fill="none" stroke="#b0604a" stroke-width="3"/>
+<text x="340" y="250" font-size="16" fill="#6d635a">Corners outside the circle:</text>
+<text x="340" y="274" font-size="16" fill="#6d635a">do not start the tube yet.</text>
+<text x="24" y="324" font-size="16" fill="#2f2a26">Lip balm example stays 9 stitches: 0.65 times 3.14 is 2.04 inches around.</text>
+<text x="24" y="352" font-size="16" fill="#2f2a26">A 27-stitch tube needs 30 before an even eyelet round: three increases.</text>
+<text x="24" y="380" font-size="16" fill="#6d635a">Wall height for the earbud example is about 13 even rounds. Stand the item in</text>
+<text x="24" y="404" font-size="16" fill="#6d635a">and stop when it sits just below the rim.</text>
+</svg>

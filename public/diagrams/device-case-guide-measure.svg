@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Add thickness to the width of a flat device</title>
+<desc>Measure width, height, and thickness with the device closed. Sleeve width is width plus thickness plus 0.25 inch seams plus 0.25 inch ease. The laptop example is 12 plus 0.6 plus 0.25 plus 0.25, which is 13.1 inches and 53 single crochet. The paperback example is 5 plus 0.5 plus 0.25 plus 0.25, which is 6.0 inches and 24 single crochet. Do not use the screen diagonal.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">Three numbers, then the chain</text>
+<rect x="16" y="60" width="300" height="200" rx="8" fill="#f6efe6"/>
+<rect x="48" y="96" width="140" height="90" fill="#fdfaf6" stroke="#2f2a26" stroke-width="3"/>
+<path d="M48 200 H188" stroke="#b0604a" stroke-width="3"/>
+<text x="200" y="130" font-size="16" fill="#2f2a26">Width</text>
+<path d="M48 96 V186" stroke="#7d8b72" stroke-width="3"/>
+<text x="200" y="164" font-size="16" fill="#2f2a26">Height</text>
+<text x="200" y="198" font-size="16" fill="#2f2a26">Thickness at</text>
+<text x="200" y="220" font-size="16" fill="#2f2a26">the thickest point</text>
+<text x="32" y="248" font-size="16" fill="#6d635a">Not the diagonal on the box.</text>
+<rect x="328" y="60" width="296" height="200" rx="8" fill="#f6efe6"/>
+<text x="344" y="92" font-size="18" fill="#2f2a26" font-weight="bold">Laptop example</text>
+<text x="344" y="120" font-size="16" fill="#6d635a">12 + 0.6 + 0.25 + 0.25</text>
+<text x="344" y="144" font-size="16" fill="#2f2a26">= 13.1 in, 53 sc, ch 54</text>
+<text x="344" y="180" font-size="18" fill="#2f2a26" font-weight="bold">Paperback example</text>
+<text x="344" y="208" font-size="16" fill="#6d635a">5 + 0.5 + 0.25 + 0.25</text>
+<text x="344" y="232" font-size="16" fill="#2f2a26">= 6.0 in, 24 sc, ch 25</text>
+<rect x="16" y="276" width="608" height="124" rx="8" fill="#e6ddd1"/>
+<text x="32" y="308" font-size="16" fill="#2f2a26">Depth uses height, plus a little at the fold and a little ease, then doubled</text>
+<text x="32" y="332" font-size="16" fill="#2f2a26">because the rectangle is two faces. Laptop example: 90 rows. Paperback: 60.</text>
+<text x="32" y="364" font-size="16" fill="#2f2a26">If your gauge is not 4 stitches to the inch, multiply the inches by your</text>
+<text x="32" y="388" font-size="16" fill="#2f2a26">own stitch gauge. Do not keep 53 or 24 just because the example uses them.</text>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Five Halloween wallet constructions</title>
+<desc>Cat is a tube from both sides of a chain. Ghost is two panels joined by one edging round. Pumpkin is sideways ribbing folded once. Witch hat is one rectangle with a divider. Spiderweb is one rectangle with a pointed flap. Counts do not move from one pattern to another.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="20" y="32" font-size="20" fill="#2f2a26" font-weight="bold">Five builds. Counts stay on their own page.</text>
+<rect x="16" y="48" width="118" height="300" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="75" y="74" font-size="16" fill="#2f2a26" text-anchor="middle" font-weight="bold">Cat</text>
+<rect x="40" y="96" width="70" height="110" fill="none" stroke="#2f2a26" stroke-width="3"/>
+<text x="75" y="230" font-size="16" fill="#6d635a" text-anchor="middle">Tube.</text>
+<text x="75" y="254" font-size="16" fill="#6d635a" text-anchor="middle">No side</text>
+<text x="75" y="278" font-size="16" fill="#6d635a" text-anchor="middle">seams.</text>
+<text x="75" y="310" font-size="16" fill="#b0604a" text-anchor="middle">Rounds.</text>
+<rect x="144" y="48" width="118" height="300" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="203" y="74" font-size="16" fill="#2f2a26" text-anchor="middle" font-weight="bold">Ghost</text>
+<rect x="168" y="110" width="70" height="130" fill="#fdfaf6" stroke="#2f2a26" stroke-width="2"/>
+<rect x="180" y="150" width="58" height="70" fill="#7d8b72" stroke="#2f2a26"/>
+<text x="203" y="270" font-size="16" fill="#6d635a" text-anchor="middle">Two panels.</text>
+<text x="203" y="294" font-size="16" fill="#6d635a" text-anchor="middle">One edging.</text>
+<text x="203" y="322" font-size="16" fill="#b0604a" text-anchor="middle">Join.</text>
+<rect x="272" y="48" width="118" height="300" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="331" y="74" font-size="16" fill="#2f2a26" text-anchor="middle" font-weight="bold">Pumpkin</text>
+<path d="M296 100 H366 M296 118 H366 M296 136 H366 M296 154 H366 M296 172 H366" stroke="#b0604a" stroke-width="3"/>
+<line x1="331" y1="96" x2="331" y2="190" stroke="#2f2a26" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="331" y="230" font-size="16" fill="#6d635a" text-anchor="middle">Sideways</text>
+<text x="331" y="254" font-size="16" fill="#6d635a" text-anchor="middle">ribs. One</text>
+<text x="331" y="278" font-size="16" fill="#6d635a" text-anchor="middle">fold.</text>
+<text x="331" y="310" font-size="16" fill="#b0604a" text-anchor="middle">BLO rows.</text>
+<rect x="400" y="48" width="108" height="300" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="454" y="74" font-size="16" fill="#2f2a26" text-anchor="middle" font-weight="bold">Witch</text>
+<rect x="418" y="96" width="72" height="40" fill="#fdfaf6" stroke="#2f2a26"/>
+<rect x="418" y="136" width="72" height="40" fill="#7d8b72" stroke="#2f2a26"/>
+<rect x="418" y="176" width="72" height="28" fill="#b0604a" stroke="#2f2a26"/>
+<text x="454" y="250" font-size="16" fill="#6d635a" text-anchor="middle">3 zones</text>
+<text x="454" y="274" font-size="16" fill="#6d635a" text-anchor="middle">plus a</text>
+<text x="454" y="298" font-size="16" fill="#6d635a" text-anchor="middle">divider.</text>
+<rect x="518" y="48" width="106" height="300" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="571" y="74" font-size="16" fill="#2f2a26" text-anchor="middle" font-weight="bold">Web</text>
+<polygon points="540,100 602,100 586,160 556,160" fill="#2f2a26"/>
+<rect x="536" y="168" width="70" height="50" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<text x="571" y="250" font-size="16" fill="#6d635a" text-anchor="middle">Pointed</text>
+<text x="571" y="274" font-size="16" fill="#6d635a" text-anchor="middle">flap and</text>
+<text x="571" y="298" font-size="16" fill="#6d635a" text-anchor="middle">a web.</text>
+<text x="20" y="380" font-size="16" fill="#6d635a">Same yarn weight. Different fabric path. Do not copy a count across wallets.</text>
+</g>
+</svg>

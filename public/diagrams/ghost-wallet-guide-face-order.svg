@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Ghost wallet: face and snap placed before the panels are joined</title>
+<desc>On the back panel, eyes sit on rows 17 and 18 at stitches 6 and 12. The mouth is on row 16 at stitch 9. Cheeks are on row 16 at stitches 5 and 13. The snap halves meet at row 13, stitch 9, while both panels are still flat. Row 14 is the opening and stays above the snap.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="24" y="36" font-size="22" fill="#2f2a26">Decorate while the panels are flat</text>
+<rect x="36" y="64" width="270" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="52" y="96" font-size="18" fill="#b0604a">1. Choose the right side</text>
+<text x="52" y="128" font-size="16" fill="#2f2a26">Hem at the bottom. Row 22 at the top.</text>
+<text x="52" y="156" font-size="16" fill="#2f2a26">Mark stitch 9, the center of 17.</text>
+<text x="52" y="184" font-size="16" fill="#6d635a">Count from the same edge always.</text>
+<rect x="330" y="64" width="286" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="346" y="96" font-size="18" fill="#b0604a">2. Face, above row 14</text>
+<text x="346" y="128" font-size="16" fill="#2f2a26">Eyes: rows 17-18, stitches 6 and 12.</text>
+<text x="346" y="156" font-size="16" fill="#2f2a26">Mouth: row 16, stitch 9.</text>
+<text x="346" y="184" font-size="16" fill="#2f2a26">Cheeks: row 16, stitches 5 and 13.</text>
+<rect x="36" y="230" width="270" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="52" y="262" font-size="18" fill="#b0604a">3. Snap, still apart</text>
+<text x="52" y="294" font-size="16" fill="#2f2a26">Socket: back, row 13, stitch 9.</text>
+<text x="52" y="322" font-size="16" fill="#2f2a26">Ball: front wrong side, same spot.</text>
+<text x="52" y="350" font-size="16" fill="#6d635a">Catch the back bar of the stitch only.</text>
+<rect x="330" y="230" width="286" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="346" y="262" font-size="18" fill="#b0604a">4. Then join</text>
+<text x="346" y="294" font-size="16" fill="#2f2a26">Press the snap shut before the round.</text>
+<text x="346" y="322" font-size="16" fill="#2f2a26">If the halves miss, move one now.</text>
+<text x="346" y="350" font-size="16" fill="#6d635a">The opening is the front's top edge.</text>
+</g>
+</svg>

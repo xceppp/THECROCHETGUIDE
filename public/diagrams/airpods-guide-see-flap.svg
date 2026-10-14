@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>How to see the AirPods flap and buttonhole</title>
+<desc>A plain flap row is seven single crochet. The buttonhole row is two single crochet, chain 2, skip 2, then three single crochet. The button is sewn through the front wall only.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="20" y="36" font-size="22" fill="#2f2a26" font-weight="bold">See the 7-stitch flap</text>
+<text x="20" y="78" font-size="18" fill="#2f2a26" font-weight="bold">Plain row: 7 single crochet</text>
+<rect x="20" y="96" width="70" height="48" fill="#f6efe6" stroke="#2f2a26"/>
+<rect x="90" y="96" width="70" height="48" fill="#f6efe6" stroke="#2f2a26"/>
+<rect x="160" y="96" width="70" height="48" fill="#f6efe6" stroke="#2f2a26"/>
+<rect x="230" y="96" width="70" height="48" fill="#f6efe6" stroke="#2f2a26"/>
+<rect x="300" y="96" width="70" height="48" fill="#f6efe6" stroke="#2f2a26"/>
+<rect x="370" y="96" width="70" height="48" fill="#f6efe6" stroke="#2f2a26"/>
+<rect x="440" y="96" width="70" height="48" fill="#f6efe6" stroke="#2f2a26"/>
+<text x="55" y="126" font-size="18" fill="#2f2a26" text-anchor="middle">1</text>
+<text x="125" y="126" font-size="18" fill="#2f2a26" text-anchor="middle">2</text>
+<text x="195" y="126" font-size="18" fill="#2f2a26" text-anchor="middle">3</text>
+<text x="265" y="126" font-size="18" fill="#2f2a26" text-anchor="middle">4</text>
+<text x="335" y="126" font-size="18" fill="#2f2a26" text-anchor="middle">5</text>
+<text x="405" y="126" font-size="18" fill="#2f2a26" text-anchor="middle">6</text>
+<text x="475" y="126" font-size="18" fill="#2f2a26" text-anchor="middle">7</text>
+<text x="20" y="190" font-size="18" fill="#2f2a26" font-weight="bold">Buttonhole row: sc 2, ch 2, skip 2, sc 3</text>
+<rect x="20" y="208" width="70" height="48" fill="#7d8b72" stroke="#2f2a26"/>
+<rect x="90" y="208" width="70" height="48" fill="#7d8b72" stroke="#2f2a26"/>
+<rect x="160" y="208" width="140" height="48" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<rect x="300" y="208" width="70" height="48" fill="#7d8b72" stroke="#2f2a26"/>
+<rect x="370" y="208" width="70" height="48" fill="#7d8b72" stroke="#2f2a26"/>
+<rect x="440" y="208" width="70" height="48" fill="#7d8b72" stroke="#2f2a26"/>
+<text x="55" y="238" font-size="16" fill="#fdfaf6" text-anchor="middle">sc</text>
+<text x="125" y="238" font-size="16" fill="#fdfaf6" text-anchor="middle">sc</text>
+<text x="230" y="238" font-size="16" fill="#b0604a" text-anchor="middle">ch 2, skip 2</text>
+<text x="335" y="238" font-size="16" fill="#fdfaf6" text-anchor="middle">sc</text>
+<text x="405" y="238" font-size="16" fill="#fdfaf6" text-anchor="middle">sc</text>
+<text x="475" y="238" font-size="16" fill="#fdfaf6" text-anchor="middle">sc</text>
+<text x="20" y="300" font-size="16" fill="#2f2a26">Work this row only after plain rows of 7 reach the front.</text>
+<text x="20" y="328" font-size="16" fill="#2f2a26">The hole sits over the two skipped stitches, not at the edge.</text>
+<text x="20" y="368" font-size="16" fill="#6d635a">Sew the button through the front wall. Do not catch the back.</text>
+<text x="20" y="396" font-size="16" fill="#6d635a">Button about 3/8 inch. The written hole stays chain 2, skip 2.</text>
+</g>
+</svg>

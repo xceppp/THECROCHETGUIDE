@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Black cat wallet: flap rows counted with the flap closed</title>
+<desc>Nine flap rows. Rows 1 to 7 are 16 single crochet. Row 8 is 14, with a decrease at each end. Row 9 is 12, with a decrease at each end. Row 1 sits at the top fold when the flap is closed.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="24" y="36" font-size="22" fill="#2f2a26">Closed flap. Row 1 is the top fold.</text>
+<rect x="150" y="52" width="320" height="28" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="24" y="72" font-size="18" fill="#2f2a26">Rows 1-7</text>
+<text x="310" y="72" text-anchor="middle" font-size="18" fill="#2f2a26">16 sc each row</text>
+<rect x="170" y="92" width="280" height="28" fill="#b0604a"/>
+<text x="24" y="112" font-size="18" fill="#2f2a26">Row 8</text>
+<text x="310" y="112" text-anchor="middle" font-size="18" fill="#fdfaf6">14 sc</text>
+<rect x="190" y="132" width="240" height="28" fill="#b0604a"/>
+<text x="24" y="152" font-size="18" fill="#2f2a26">Row 9</text>
+<text x="310" y="152" text-anchor="middle" font-size="18" fill="#fdfaf6">12 sc</text>
+<text x="480" y="112" font-size="16" fill="#6d635a">2 + 12 + 2</text>
+<text x="480" y="152" font-size="16" fill="#6d635a">2 + 10 + 2</text>
+<text x="24" y="204" font-size="18" fill="#2f2a26">Row 8 uses every stitch of a 16-stitch row:</text>
+<text x="24" y="232" font-size="18" fill="#6d635a">decrease, 12 single crochet, decrease. Count 14.</text>
+<text x="24" y="268" font-size="18" fill="#2f2a26">Row 9 uses every stitch of that 14-stitch row:</text>
+<text x="24" y="296" font-size="18" fill="#6d635a">decrease, 10 single crochet, decrease. Count 12.</text>
+<text x="24" y="340" font-size="18" fill="#2f2a26">The middle of row 8 is local stitches 7 and 8.</text>
+<text x="24" y="368" font-size="18" fill="#6d635a">That is not stitches 8 and 9 of the 16-stitch rows.</text>
+<text x="24" y="400" font-size="18" fill="#b0604a">Sew the snap ball there, on the underside.</text>
+</g>
+</svg>

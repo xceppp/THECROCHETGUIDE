@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Count every ten rows and measure the piece flat</title>
+<desc>A long cotton rectangle reads long while it hangs and shortens when it lies flat. Measure on a table. Count stitches every ten rows. The turning chain-1 is not a stitch. A gained stitch at the turning chain flares the edge. A missed end stitch narrows it. Rip to the last correct ten-row mark.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">Measure flat. Count on a schedule.</text>
+<rect x="16" y="60" width="296" height="220" rx="8" fill="#f6efe6"/>
+<text x="32" y="92" font-size="18" fill="#2f2a26" font-weight="bold">Hanging</text>
+<rect x="70" y="110" width="70" height="140" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<path d="M105 250 V280" stroke="#b0604a" stroke-width="3"/>
+<text x="160" y="160" font-size="16" fill="#6d635a">Reads long.</text>
+<text x="160" y="184" font-size="16" fill="#6d635a">Cotton stretches</text>
+<text x="160" y="208" font-size="16" fill="#6d635a">under its weight.</text>
+<rect x="328" y="60" width="296" height="220" rx="8" fill="#f6efe6"/>
+<text x="344" y="92" font-size="18" fill="#2f2a26" font-weight="bold">Flat on the table</text>
+<rect x="360" y="140" width="180" height="70" fill="#fdfaf6" stroke="#7d8b72" stroke-width="3"/>
+<text x="360" y="240" font-size="16" fill="#6d635a">This length is the one</text>
+<text x="360" y="264" font-size="16" fill="#6d635a">you compare with the plan.</text>
+<rect x="16" y="296" width="608" height="108" rx="8" fill="#e6ddd1"/>
+<text x="32" y="328" font-size="16" fill="#2f2a26">Every 10 rows: count across, and check the first and last stitch are real sc.</text>
+<text x="32" y="356" font-size="16" fill="#2f2a26">Chain-1 does not count. Into the chain-1, the piece flares. Skip the end, it narrows.</text>
+<text x="32" y="384" font-size="16" fill="#2f2a26">Mark the last good ten. Rip only back to that mark, then recount once.</text>
+</svg>

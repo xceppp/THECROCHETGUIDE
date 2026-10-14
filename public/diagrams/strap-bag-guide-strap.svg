@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>A strap that holds and three that fail</title>
+<desc>A strap of 4 or 5 single crochet, sewn with a box and an X through about an inch of overlap, both ends at the same height and without a twist. A bare chain stretches. One corner stitch tears out. A twisted or uneven strap makes the bag tilt. Correct the strip and the sewing before the second end is finished.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="36" font-size="22" fill="#2f2a26" font-weight="bold">Read the strap before you finish it</text>
+<rect x="16" y="52" width="300" height="250" rx="8" fill="#f6efe6"/>
+<text x="28" y="80" font-size="18" fill="#2f2a26" font-weight="bold">Holds</text>
+<rect x="48" y="100" width="150" height="28" fill="#7d8b72"/>
+<rect x="78" y="128" width="90" height="110" fill="none" stroke="#2f2a26" stroke-width="3"/>
+<rect x="92" y="128" width="62" height="36" fill="none" stroke="#b0604a" stroke-width="3"/>
+<path d="M92 128 L154 164 M154 128 L92 164" stroke="#b0604a" stroke-width="3"/>
+<text x="28" y="268" font-size="16" fill="#6d635a">4 or 5 sc. Box and X.</text>
+<text x="28" y="288" font-size="16" fill="#6d635a">About 1 inch overlap.</text>
+<rect x="328" y="52" width="296" height="78" rx="8" fill="#f6efe6"/>
+<text x="340" y="78" font-size="16" fill="#2f2a26" font-weight="bold">Bare chain</text>
+<path d="M460 70 Q500 96 540 70" fill="none" stroke="#b0604a" stroke-width="3"/>
+<text x="340" y="108" font-size="16" fill="#6d635a">Stretches. Replace it.</text>
+<rect x="328" y="140" width="296" height="78" rx="8" fill="#f6efe6"/>
+<text x="340" y="166" font-size="16" fill="#2f2a26" font-weight="bold">One stitch</text>
+<circle cx="520" cy="178" r="8" fill="#b0604a"/>
+<text x="340" y="196" font-size="16" fill="#6d635a">Tears out. Resew the box.</text>
+<rect x="328" y="228" width="296" height="74" rx="8" fill="#f6efe6"/>
+<text x="340" y="254" font-size="16" fill="#2f2a26" font-weight="bold">Twist or uneven ends</text>
+<text x="340" y="282" font-size="16" fill="#6d635a">Bag tilts. Unpick one end.</text>
+<text x="24" y="360" font-size="16" fill="#2f2a26">Pin and baste the second end. Support the base while you check length.</text>
+<text x="24" y="386" font-size="16" fill="#2f2a26">Take out rows if it hangs low, then sew the second box-and-X.</text>
+</svg>

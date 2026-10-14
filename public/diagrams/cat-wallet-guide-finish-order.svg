@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Black cat wallet: order of finishing so the face and snap land</title>
+<desc>Six stages in order. Count the tube, work the flap from the back half, close the flap before embroidery, sew the ears on the fold, mark the snap with a card inside, then weave the tails inside the tube.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="24" y="36" font-size="22" fill="#2f2a26">Finish in this order</text>
+<rect x="24" y="56" width="290" height="100" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="40" y="84" font-size="18" fill="#b0604a">1. Tube</text>
+<text x="40" y="112" font-size="16" fill="#2f2a26">Rounds 2 to 12: count 32.</text>
+<text x="40" y="136" font-size="16" fill="#2f2a26">Test a card at round 10.</text>
+<rect x="330" y="56" width="286" height="100" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="346" y="84" font-size="18" fill="#b0604a">2. Flap</text>
+<text x="346" y="112" font-size="16" fill="#2f2a26">Rows 1 to 7: 16 sc.</text>
+<text x="346" y="136" font-size="16" fill="#2f2a26">Row 8 is 14. Row 9 is 12.</text>
+<rect x="24" y="168" width="290" height="100" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="40" y="196" font-size="18" fill="#b0604a">3. Face, flap closed</text>
+<text x="40" y="224" font-size="16" fill="#2f2a26">Eyes on rows 3 and 4.</text>
+<text x="40" y="248" font-size="16" fill="#2f2a26">Nose and whiskers on rows 5 to 7.</text>
+<rect x="330" y="168" width="286" height="100" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="346" y="196" font-size="18" fill="#b0604a">4. Ears on the fold</text>
+<text x="346" y="224" font-size="16" fill="#2f2a26">Skip 1, ear 5, gap 4, ear 5, skip 1.</text>
+<text x="346" y="248" font-size="16" fill="#2f2a26">Bases stay on the fold only.</text>
+<rect x="24" y="280" width="290" height="100" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="40" y="308" font-size="18" fill="#b0604a">5. Snap, card inside</text>
+<text x="40" y="336" font-size="16" fill="#2f2a26">Ball under row 8, stitches 7 and 8.</text>
+<text x="40" y="360" font-size="16" fill="#2f2a26">Socket on the front wall only.</text>
+<rect x="330" y="280" width="286" height="100" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="346" y="308" font-size="18" fill="#b0604a">6. Tails</text>
+<text x="346" y="336" font-size="16" fill="#2f2a26">Weave inside the tube along a fold.</text>
+<text x="346" y="360" font-size="16" fill="#2f2a26">Change direction once, then cut.</text>
+</g>
+</svg>

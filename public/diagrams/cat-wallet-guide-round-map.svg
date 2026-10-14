@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Black cat wallet: where the 32 stitches of one round sit</title>
+<desc>Flat tube seen from the side. Sixteen single crochet on the back, sixteen on the front, a side fold at each end, and the foundation chain as the bottom fold. The joining slip stitch and the chain 1 are not part of the 32.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="24" y="40" font-size="22" fill="#2f2a26">One round is 16 back and 16 front</text>
+<rect x="150" y="68" width="360" height="96" rx="14" fill="#f6efe6" stroke="#2f2a26" stroke-width="2"/>
+<text x="330" y="110" text-anchor="middle" font-size="20" fill="#2f2a26">Back: 16 single crochet</text>
+<text x="330" y="140" text-anchor="middle" font-size="18" fill="#6d635a">The flap grows from this half</text>
+<rect x="150" y="180" width="360" height="96" rx="14" fill="#fdfaf6" stroke="#2f2a26" stroke-width="2"/>
+<text x="330" y="222" text-anchor="middle" font-size="20" fill="#2f2a26">Front: 16 single crochet</text>
+<text x="330" y="252" text-anchor="middle" font-size="18" fill="#6d635a">This rim stays unworked</text>
+<rect x="108" y="68" width="42" height="208" rx="12" fill="#7d8b72"/>
+<rect x="510" y="68" width="42" height="208" rx="12" fill="#7d8b72"/>
+<text x="129" y="178" text-anchor="middle" font-size="18" fill="#fdfaf6" transform="rotate(-90 129 178)">Fold</text>
+<text x="531" y="178" text-anchor="middle" font-size="18" fill="#fdfaf6" transform="rotate(90 531 178)">Fold</text>
+<line x1="150" y1="292" x2="510" y2="292" stroke="#b0604a" stroke-width="4"/>
+<text x="320" y="332" text-anchor="middle" font-size="18" fill="#b0604a">Chain of 17 is the bottom fold</text>
+<text x="320" y="368" text-anchor="middle" font-size="18" fill="#2f2a26">16 + 16 = 32. Do not turn between rounds.</text>
+<text x="320" y="398" text-anchor="middle" font-size="18" fill="#6d635a">The slip stitch join and the chain 1 are not stitches.</text>
+</g>
+</svg>

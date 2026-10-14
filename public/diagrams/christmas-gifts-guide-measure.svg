@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Measure a Christmas gift from something they own</title>
+<desc>A hat laid flat is measured across the brim and doubled. A phone is measured in the case they use, including thickness. A glove is measured across the palm and doubled. A shoe is measured inside from heel to toe. Slippers also need a measure over the top of the foot.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="20" y="34" font-size="22" fill="#2f2a26" font-weight="bold">Measure an object, not a guess</text>
+<rect x="16" y="52" width="296" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="80" font-size="18" fill="#b0604a" font-weight="bold">Hat they wear</text>
+<text x="28" y="110" font-size="16" fill="#2f2a26">Lay it flat. Measure across</text>
+<text x="28" y="134" font-size="16" fill="#2f2a26">the brim. Double that number.</text>
+<text x="28" y="170" font-size="16" fill="#6d635a">Use it for the chunky beanie.</text>
+<rect x="328" y="52" width="296" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="340" y="80" font-size="18" fill="#b0604a" font-weight="bold">Phone or reader</text>
+<text x="340" y="110" font-size="16" fill="#2f2a26">Measure the device in the</text>
+<text x="340" y="134" font-size="16" fill="#2f2a26">case they already use.</text>
+<text x="340" y="170" font-size="16" fill="#6d635a">Write width and thickness.</text>
+<rect x="16" y="214" width="296" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="28" y="242" font-size="18" fill="#b0604a" font-weight="bold">A glove that fits</text>
+<text x="28" y="272" font-size="16" fill="#2f2a26">Lay it flat. Measure across</text>
+<text x="28" y="296" font-size="16" fill="#2f2a26">the palm. Double it.</text>
+<text x="28" y="332" font-size="16" fill="#6d635a">Thumb gap sits off the join.</text>
+<rect x="328" y="214" width="296" height="150" rx="8" fill="#f6efe6" stroke="#e6ddd1"/>
+<text x="340" y="242" font-size="18" fill="#b0604a" font-weight="bold">A shoe they wear</text>
+<text x="340" y="272" font-size="16" fill="#2f2a26">Inside length, heel to toe.</text>
+<text x="340" y="296" font-size="16" fill="#2f2a26">Slippers also need the instep.</text>
+<text x="340" y="332" font-size="16" fill="#6d635a">Hard to keep as a surprise.</text>
+<text x="20" y="396" font-size="16" fill="#6d635a">No object to measure: scrunchie, ornament, gift card holder, or ear warmer.</text>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Thread the cord so both ends come out in front</title>
+<desc>The cord goes in and out of the eyelets and both tails finish at the front. A cord thicker than the hole stalls. A bare chain stretches and the top reopens; slip stitch back along it, or use a twisted cord. Leave about 4 inches of tail at each end. A 7.5 inch opening is about 15.5 inches of cord.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">The cord closes only if the holes can take it</text>
+<rect x="40" y="70" width="250" height="150" rx="8" fill="none" stroke="#2f2a26" stroke-width="3"/>
+<circle cx="70" cy="150" r="10" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="120" cy="150" r="10" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="170" cy="150" r="10" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="220" cy="150" r="10" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<circle cx="260" cy="150" r="10" fill="none" stroke="#7d8b72" stroke-width="3"/>
+<path d="M40 170 C70 190, 90 130, 120 150 S170 190, 200 150 S250 120, 300 168" fill="none" stroke="#b0604a" stroke-width="3"/>
+<text x="40" y="250" font-size="16" fill="#2f2a26">Both tails at the front.</text>
+<text x="40" y="274" font-size="16" fill="#6d635a">Knot each end.</text>
+<rect x="340" y="64" width="280" height="100" rx="8" fill="#f6efe6"/>
+<text x="356" y="94" font-size="18" fill="#2f2a26" font-weight="bold">Cord too thick</text>
+<text x="356" y="122" font-size="16" fill="#6d635a">It stalls in the hole.</text>
+<text x="356" y="146" font-size="16" fill="#6d635a">Larger eyelets, or thinner cord.</text>
+<rect x="340" y="176" width="280" height="100" rx="8" fill="#f6efe6"/>
+<text x="356" y="206" font-size="18" fill="#2f2a26" font-weight="bold">Bare chain reopens</text>
+<text x="356" y="234" font-size="16" fill="#6d635a">Slip stitch back along it,</text>
+<text x="356" y="258" font-size="16" fill="#6d635a">or twist a cord instead.</text>
+<text x="24" y="340" font-size="16" fill="#2f2a26">Opening plus about 4 inches per tail. A 7.5 inch opening wants about 15.5 inches.</text>
+<text x="24" y="368" font-size="16" fill="#6d635a">Gather once with the contents in before you knot the tails short.</text>
+<text x="24" y="396" font-size="16" fill="#6d635a">Fabric must remain above the load, or the top cannot close over it.</text>
+</svg>

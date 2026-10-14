@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Ghost wallet: one joining round and where it changes layers</title>
+<desc>The round starts with four scallops through both layers on the hem. Each side then has 14 single crochet through both layers, 4 through the back only, and 5 along the slope. Nine single crochet cross the top of row 22. The front panel top edge stays unworked.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<g font-family="Georgia, Times New Roman, serif">
+<text x="24" y="36" font-size="22" fill="#2f2a26">One round. The opening stays bare.</text>
+<!-- ghost outline -->
+<path d="M170 300 L170 150 L210 90 L320 60 L430 90 L470 150 L470 300" fill="#f6efe6" stroke="#2f2a26" stroke-width="2"/>
+<!-- front panel region -->
+<rect x="190" y="210" width="260" height="90" fill="#fdfaf6" stroke="#7d8b72" stroke-width="2"/>
+<text x="320" y="252" text-anchor="middle" font-size="18" fill="#2f2a26">Front, rows 1 to 14</text>
+<text x="320" y="278" text-anchor="middle" font-size="16" fill="#b0604a">Do not stitch this top edge</text>
+<!-- hem -->
+<line x1="170" y1="300" x2="470" y2="300" stroke="#b0604a" stroke-width="4"/>
+<text x="320" y="332" text-anchor="middle" font-size="18" fill="#b0604a">Hem: 4 scallops, both layers</text>
+<!-- side labels -->
+<text x="24" y="120" font-size="16" fill="#2f2a26">Up first side</text>
+<text x="24" y="148" font-size="16" fill="#6d635a">14 sc, both layers</text>
+<text x="24" y="176" font-size="16" fill="#6d635a">4 sc, back only</text>
+<text x="24" y="204" font-size="16" fill="#6d635a">5 sc on the slope</text>
+<text x="24" y="232" font-size="16" fill="#2f2a26">Side count: 23</text>
+<text x="500" y="120" font-size="16" fill="#2f2a26">Down the return</text>
+<text x="500" y="148" font-size="16" fill="#6d635a">5 sc on the slope</text>
+<text x="500" y="176" font-size="16" fill="#6d635a">4 sc, back only</text>
+<text x="500" y="204" font-size="16" fill="#6d635a">14 sc, both layers</text>
+<text x="500" y="232" font-size="16" fill="#2f2a26">Side count: 23</text>
+<text x="250" y="88" font-size="18" fill="#2f2a26">Top: 9 sc</text>
+<text x="24" y="370" font-size="18" fill="#2f2a26">Switch to the back alone at the row-14 marker.</text>
+<text x="24" y="398" font-size="18" fill="#6d635a">On the way down, switch back to both layers at the other marker.</text>
+</g>
+</svg>

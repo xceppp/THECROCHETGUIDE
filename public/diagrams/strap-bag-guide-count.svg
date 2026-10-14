@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Keep the same stitch count every row</title>
+<desc>Three rectangle edges. A straight edge keeps the same stitch count. A flare means a stitch was added, often by working into the turning chain. A narrowing means a stitch was missed at the end. Count both edges every ten rows and rip back to the last row that matched.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>text{font-family:Georgia,"Times New Roman",serif}</style>
+<text x="24" y="40" font-size="22" fill="#2f2a26" font-weight="bold">What the edge is telling you</text>
+<rect x="16" y="64" width="196" height="250" rx="8" fill="#f6efe6"/>
+<text x="28" y="92" font-size="18" fill="#2f2a26" font-weight="bold">Count holds</text>
+<rect x="58" y="112" width="110" height="160" fill="#fdfaf6" stroke="#7d8b72" stroke-width="3"/>
+<text x="28" y="296" font-size="16" fill="#6d635a">Same number at</text>
+<rect x="220" y="64" width="196" height="250" rx="8" fill="#f6efe6"/>
+<text x="232" y="92" font-size="18" fill="#2f2a26" font-weight="bold">Stitch gained</text>
+<path d="M268 272 L318 112 L368 272 Z" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<text x="232" y="296" font-size="16" fill="#6d635a">Worked into the</text>
+<rect x="424" y="64" width="200" height="250" rx="8" fill="#f6efe6"/>
+<text x="436" y="92" font-size="18" fill="#2f2a26" font-weight="bold">Stitch missed</text>
+<path d="M474 112 L524 272 L574 112 Z" fill="#fdfaf6" stroke="#b0604a" stroke-width="3"/>
+<text x="436" y="296" font-size="16" fill="#6d635a">Skipped the last</text>
+<text x="28" y="316" font-size="16" fill="#6d635a">the start and the end.</text>
+<text x="232" y="316" font-size="16" fill="#6d635a">turning chain.</text>
+<text x="436" y="316" font-size="16" fill="#6d635a">stitch of the row.</text>
+<rect x="16" y="340" width="608" height="64" rx="8" fill="#e6ddd1"/>
+<text x="32" y="368" font-size="16" fill="#2f2a26">Mark rows 10, 20, 30, and so on. If the count changes, rip to the last marked row that still matched.</text>
+<text x="32" y="390" font-size="16" fill="#2f2a26">The chain-1 at the turn is height only. It is not one of the stitches.</text>
+</svg>

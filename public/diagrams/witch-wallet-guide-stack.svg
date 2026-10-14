@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img">
+<title>Witch hat wallet layer order</title>
+<desc>Sew the hat through the flap only, with the brim on row 30 and the tip at row 25, leaving row 31 clear. Then anchor all 17 divider chains inside the bottom fold. Side positions 1 to 11 pass through three layers. Position 12 passes through front and back only.</desc>
+<rect width="640" height="420" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 20px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+</style>
+<rect x="16" y="16" width="608" height="388" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="48" font-size="22">Hat first, divider next, sides last</text>
+<text class="label" x="32" y="96">1. Hat on the open flap</text>
+<text class="soft" x="56" y="126">Brim on row 30, centered on stitch 9</text>
+<text class="soft" x="56" y="154">Tip reaches row 25. Row 31 stays open.</text>
+<text class="label" x="32" y="198">2. All 17 divider chains in the fold</text>
+<text class="soft" x="56" y="228">A gap here lets a card change pockets.</text>
+<text class="label" x="32" y="272">3. Side positions 1 to 11, three layers</text>
+<text class="soft" x="56" y="302">Position 12 is front and back only.</text>
+<text class="label" x="32" y="346">4. One card in each pocket, then the button</text>
+<text class="soft" x="56" y="376">Button through the front layer only.</text>
+</svg>
