@@ -130,7 +130,7 @@ const tools = [
             Approachable projects with step-by-step diagrams for the parts
             beginners get stuck on.
           </p>
-          <div class="mt-8 grid grid-cols-2 gap-x-4 gap-y-7 sm:grid-cols-3 sm:gap-x-6 sm:gap-y-9">
+          <div class="mt-8 grid grid-cols-1 gap-y-7 sm:grid-cols-2 sm:gap-x-6 sm:gap-y-9">
             {featured.map((post, index) => (
               <PostCard post={post} compact eager={index < 3} />
             ))}
@@ -260,7 +260,7 @@ const tools = [
               Browse all articles
             </a>
           </div>
-          <div class="mt-8 grid grid-cols-2 gap-x-4 gap-y-7 sm:grid-cols-3 sm:gap-x-6 sm:gap-y-9">
+          <div class="mt-8 grid grid-cols-1 gap-y-7 sm:grid-cols-2 sm:gap-x-6 sm:gap-y-9">
             {latest.map((post) => (
               <PostCard post={post} compact />
             ))}
