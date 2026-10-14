@@ -105,6 +105,9 @@ function rehypeArticleRhythm() {
     props.className = list;
   };
 
+  const materialsHeading =
+    /material|supplies|supply list|what you need|yarn|notions|\btools\b|abbreviation/i;
+
   const walk = (node) => {
     if (!node?.children) return;
     for (const child of node.children) {
@@ -117,12 +120,44 @@ function rehypeArticleRhythm() {
           /^(?:Step|Stage)\s+\d/i.test(label) ? "step-head" : "subhead",
         );
       }
-      if (child.tagName === "ol") addClass(child, "instructions");
       walk(child);
+    }
+
+    for (let i = 0; i < node.children.length; i++) {
+      const child = node.children[i];
+      if (child.type !== "element" || child.tagName !== "h2") continue;
+      if (!materialsHeading.test(textOf(child))) continue;
+      for (let j = i + 1; j < node.children.length; j++) {
+        const next = node.children[j];
+        if (next.type === "text" && next.value.trim() === "") continue;
+        if (
+          next.type === "element" &&
+          (next.tagName === "ul" || next.tagName === "ol")
+        ) {
+          addClass(next, "materials");
+        }
+        break;
+      }
     }
   };
 
-  return walk;
+  const markInstructions = (node) => {
+    if (!node?.children) return;
+    for (const child of node.children) {
+      if (child.type !== "element") continue;
+      if (child.tagName === "ol") {
+        const current = child.properties?.className;
+        const list = Array.isArray(current) ? current : current ? [current] : [];
+        if (!list.includes("materials")) addClass(child, "instructions");
+      }
+      markInstructions(child);
+    }
+  };
+
+  return (tree) => {
+    walk(tree);
+    markInstructions(tree);
+  };
 }
 
 function rehypeFigures() {

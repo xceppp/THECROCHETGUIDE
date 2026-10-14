@@ -117,9 +117,9 @@ const thumb = getPostThumbnail(post.id);
 
   {/* Only course steps carry the slug, so opening a standalone article never
       counts toward progress. */}
-  <div class="mx-auto flex max-w-5xl items-start gap-10 px-6 py-10 sm:px-8 sm:py-14">
+  <div class="mx-auto flex max-w-6xl items-start gap-10 px-5 py-10 sm:px-8 sm:py-14">
   <article
-    class="min-w-0 max-w-[720px] flex-1"
+    class="min-w-0 max-w-[740px] flex-1"
     data-article-slug={post.id}
     data-course-slug={step ? post.id : undefined}
   >
@@ -160,17 +160,17 @@ const thumb = getPostThumbnail(post.id);
     }
 
     <header class="mt-4">
-      <h1 class="font-serif text-3xl leading-tight tracking-tight sm:text-4xl">
+      <h1 class="article-title">
         {post.data.title}
       </h1>
       {
         post.data.quickAnswer && (
-          <p class="quick-answer mt-4 text-lg leading-relaxed text-ink">
+          <p class="article-dek quick-answer text-ink">
             {post.data.quickAnswer}
           </p>
         )
       }
-      <p class="mt-4 text-lg leading-relaxed text-ink-soft">
+      <p class="article-dek text-ink-soft">
         {post.data.description}
       </p>
 
@@ -338,7 +338,7 @@ const thumb = getPostThumbnail(post.id);
       )
     }
 
-    <div class="prose mt-10 max-w-[720px]">
+    <div class="prose mt-10 max-w-[740px]">
       <Content />
     </div>
 

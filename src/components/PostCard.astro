@@ -115,8 +115,10 @@ const searchText = [
 
       <h2
         class:list={[
-          "font-serif leading-snug tracking-tight text-ink group-hover:text-terracotta-deep",
-          compact ? "mt-1 line-clamp-3 text-sm break-words" : "mt-2",
+          "leading-snug tracking-tight text-ink group-hover:text-terracotta-deep",
+          compact
+            ? "mt-1 line-clamp-3 font-sans text-sm font-semibold break-words"
+            : "mt-2 font-serif",
           !compact && lead && "text-2xl sm:text-3xl",
           !compact && !lead && "text-xl",
         ]}
