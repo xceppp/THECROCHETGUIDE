@@ -35,8 +35,10 @@ export function extractHowToSteps(body: string | undefined): HowToStep[] {
   if (!body) return [];
 
   const steps: HowToStep[] = [];
+  // `$` must mean end of string. With the multiline flag it matches the
+  // blank line under the heading and the step text comes out empty.
   const stepRe =
-    /^#{2,3}\s+((?:Step|Stage)\s+\d+[^\n]*)\n([\s\S]*?)(?=\n#{2,3}\s+|$)/gim;
+    /(?:^|\n)#{2,3}[ \t]+((?:Step|Stage)\s+\d+[^\n]*)\n([\s\S]*?)(?=\n#{2,3}[ \t]|$)/gi;
   let match: RegExpExecArray | null;
 
   while ((match = stepRe.exec(body)) !== null) {

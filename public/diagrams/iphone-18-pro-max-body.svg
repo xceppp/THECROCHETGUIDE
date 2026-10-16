@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img">
+<title>iPhone 18 Pro Max body size</title>
+<desc>A phone outline with three measurements from Apple's iPhone 18 Pro Max tech specs: width 3.07 inches (78.0 mm), height 6.43 inches (163.4 mm), and depth 0.34 inch (8.75 mm). These are the bare phone, before a case.</desc>
+<rect width="640" height="480" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+  .phone { fill: #ffffff; stroke: #2f2a26; stroke-width: 3; }
+  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="448" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="48">iPhone 18 Pro Max, bare body</text>
+<text class="soft" x="32" y="76">Apple tech specs. Not including a case.</text>
+<rect class="phone" x="210" y="110" width="150" height="314" rx="22"/>
+<rect x="248" y="124" width="74" height="28" rx="8" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<circle cx="266" cy="138" r="6" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<circle cx="286" cy="138" r="6" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<circle cx="306" cy="138" r="6" fill="none" stroke="#2f2a26" stroke-width="2"/>
+<path class="arrow" d="M210 96 H360"/>
+<path class="arrow" d="M210 90 V102 M360 90 V102"/>
+<text class="label" x="285" y="84" text-anchor="middle">3.07 in</text>
+<path class="arrow" d="M186 110 V424"/>
+<path class="arrow" d="M180 110 H192 M180 424 H192"/>
+<text class="label" x="170" y="270" text-anchor="end">6.43 in</text>
+<rect class="phone" x="430" y="200" width="28" height="150" rx="8"/>
+<path class="arrow" d="M430 184 H458"/>
+<path class="arrow" d="M430 178 V190 M458 178 V190"/>
+<text class="label" x="444" y="170" text-anchor="middle">0.34 in</text>
+<text class="soft" x="400" y="380">depth</text>
+<text class="soft" x="32" y="452">78.0 mm wide, 163.4 mm tall, 8.75 mm deep.</text>
+</svg>
