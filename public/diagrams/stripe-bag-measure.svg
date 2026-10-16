@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img">
+<title>Sample phone envelope used only for the arithmetic</title>
+<desc>A phone outline labeled as a sample, not a named device: 8.2 cm wide, 16.5 cm tall, 1.2 cm thick. The panel target is about 10.6 cm wide and 18.9 cm tall at the example gauge.</desc>
+<rect width="640" height="460" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+  .phone { fill: #ffffff; stroke: #2f2a26; stroke-width: 3; }
+  .arrow { fill: none; stroke: #b0604a; stroke-width: 3; }
+</style>
+<rect x="16" y="16" width="608" height="428" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="50">Sample envelope, not a named phone</text>
+<text class="soft" x="32" y="78">Replace these three numbers with your own tape.</text>
+<rect class="phone" x="250" y="110" width="120" height="250" rx="16"/>
+<path class="arrow" d="M250 96 H370"/>
+<path class="arrow" d="M250 90 V102 M370 90 V102"/>
+<text class="label" x="310" y="84" text-anchor="middle">8.2 cm wide</text>
+<path class="arrow" d="M228 110 V360"/>
+<path class="arrow" d="M222 110 H234 M222 360 H234"/>
+<text class="label" x="214" y="240" text-anchor="end">16.5 cm</text>
+<text class="soft" x="400" y="230">1.2 cm thick</text>
+<text class="soft" x="32" y="400">Inside width starts near 9.6 cm. Panel target: about 10.6 by 18.9 cm.</text>
+<text class="soft" x="32" y="426">Those panel sizes are the example, before your swatch.</text>
+</svg>

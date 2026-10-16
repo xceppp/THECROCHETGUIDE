@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img">
+<title>Buttonhole row on 17 stitches</title>
+<desc>Row 38: 7 single crochet, chain 3, skip 3 stitches, 7 single crochet. Row 39: 7 single crochet, 3 single crochet into the chain space, 7 single crochet, back to 17.</desc>
+<rect width="640" height="360" fill="#fdfaf6"/>
+<style>
+  text { font-family: Georgia, "Times New Roman", serif; }
+  .label { font-size: 22px; fill: #2f2a26; }
+  .soft { font-size: 18px; fill: #6d635a; }
+</style>
+<rect x="16" y="16" width="608" height="328" rx="10" fill="#f6efe6" stroke="#e6ddd1"/>
+<text class="label" x="32" y="52">Row 38, still 17 positions wide</text>
+<g fill="#c46a4a">
+  <circle cx="70" cy="120" r="10"/><circle cx="98" cy="120" r="10"/><circle cx="126" cy="120" r="10"/><circle cx="154" cy="120" r="10"/><circle cx="182" cy="120" r="10"/><circle cx="210" cy="120" r="10"/><circle cx="238" cy="120" r="10"/>
+  <circle cx="400" cy="120" r="10"/><circle cx="428" cy="120" r="10"/><circle cx="456" cy="120" r="10"/><circle cx="484" cy="120" r="10"/><circle cx="512" cy="120" r="10"/><circle cx="540" cy="120" r="10"/><circle cx="568" cy="120" r="10"/>
+</g>
+<path d="M250 120 H388" fill="none" stroke="#2f2a26" stroke-width="4"/>
+<text class="soft" x="319" y="108" text-anchor="middle">ch 3, skip 3</text>
+<text class="soft" x="150" y="160" text-anchor="middle">7 sc</text>
+<text class="soft" x="484" y="160" text-anchor="middle">7 sc</text>
+<text class="label" x="32" y="220">Row 39</text>
+<text class="soft" x="32" y="252">7 sc, then 3 sc into the chain-3 space, then 7 sc. Count 17.</text>
+<text class="soft" x="32" y="292">A smaller button: 7 sc, ch 2, skip 2, 8 sc.</text>
+<text class="soft" x="32" y="320">Next row: 7 sc, 2 sc in the gap, 8 sc. Still 17.</text>
+</svg>
